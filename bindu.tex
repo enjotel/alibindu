@@ -1,0 +1,909 @@
+%Ultimatives Tool zur Datierung:
+%https://www.cc.kyoto-su.ac.jp/~yanom/pancanga/
+%skp = ignored in edition
+%skm = ignored in xml
+%%%---2-DO---%%%:
+% - add xml ids for cladistics
+% - produce diplomatic transcripts for saktumiva
+% - make extra layer in Apparatus for parallels in SVARODAYA, Siddhasiddhantapaddhati and Amanaska
+% - check all daṇḍas!!! now I think that it's more likely that many of them were lost in copies. Lectio difficilior! Very unconventional style of the autor! 
+% - read Sarvangayogapradipika, Maya Burger! 
+% - maybe add second ciritical edition of yogasvarodaya?!
+% - Korrekturlesen von \E!! 
+% - Verspattern einbauen!
+% - add all Testtimonia of SSP & Ysv
+% - Sigla alphabetisch ordnen und! daṇḍas mit einkollationieren
+% - präambel auslagern wie Jürgen
+% - grep-search alle Verse!!!!
+% - Mss spreadsheet
+% - sort N1,D1,B2 zu N1,N2,D1
+% - sort all sigla alphabetically 
+% - additions to U2: make footnotes for the bahir mātrā-s: explaining the inventions of female deities and tell that this is "schwer interpretierbar"
+% - Belege für source und testimonia einfügen!!!
+% - GIVE UNIQUE LABELS for TESTIMONIO AND SOurces
+% - Edition mit Sätzen übereinander nennt sich: Synoptische Edition
+% - Consider changing Lakṣya to Lakṣa
+% - vEREINHEITLICHUNG von source und testium! 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Don't forget
+% Siddhasiddhantapaddhati Yogic Body descriptions are followed by Rāmacandra
+% Quotes of the Yogasvarodaya in the Yoga Karṇikā
+% Rāmacandra more a compiler than an author!!!
+% Identify quotes of YTB in Haṭhasanketacandrikā 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%MSS notes
+%
+%--B: i and ī are not differenciated
+%--P: no punctuation no daṇdas nothing
+%--U1: dot . serves as daṇḍa 
+%--\L and \U2 very similar
+%--figure out for U2: // ajapājapaḥ sahasra // 6000 //gha 0 16 pa 0 40// \U2?!?!?!?!?!?
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Einleitung Ideen 
+% - sprachliche Simplizität
+% - Potenzial als Anfängertext
+% - Großartige Einführung in die Textkritik -> Synoptische Edition 
+% - Gelegenheit Yogasvarodaya und Yogatattvabindu zu edieren 
+% - Historische Evidenz entweder für das königliche Leben in einer Maṭha in der Nähe von Benares während der Muslimischen Herrschaft, oder sogar Lehrtext für die Bildung junger Prinzen  
+% - eines der raren Beispiele der engen Verknüfung mehrerer Texte 
+% - eines der raren Beispiele der Prosaisierung eines metrischen Textes 
+% - Anwendung rezenter Technologie! 
+% - How the text was construed -> intermingling of Ysv and SSP
+% - Martin Straube: "jeder kleine Dorfhäuptling kann Rāja genannt werden". 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{preamble.tex}
+\author{Nils Jacob Liersch}
+\title{Yogatattvabindu of Rāmacandra\\ A Critical and Synoptic Edition and Annotated Translation}
+\date{\today}
+
+\parindent=15pt
+\begin{document}
+
+% Zitiermöglichkeiten:
+%\footcite[See][p.\,1]{goldstein01:_tibet_englis_diction_moder_tibet}
+%\footnote{\cite{goldstein01:_tibet_englis_diction_moder_tibet}.}
+
+\frontmatter
+\thispagestyle{empty}
+\begin{center}
+  {\Large \emph{The Yogatattvabindu}}\\[3mm]
+\end{center}
+
+
+
+\newpage
+
+\
+
+\thispagestyle{empty}
+
+
+
+\normalsize
+
+
+\newpage
+
+
+\begin{center}
+\thispagestyle{empty}
+
+\
+
+\vskip 2mm
+
+\begin{otherlanguage}{iast}
+\LARGE \sanskritfont{Yogatattvabindu}
+\end{otherlanguage}
+
+\vskip .4cm
+
+\Huge Yogatattvabindu \\[7mm]
+\Large Critical and Synoptic \\
+Edition with annotated Translation
+
+
+\large
+
+\vspace{3cm}
+
+Von
+
+Nils Jacob Liersch
+\small
+\vfill
+
+\vfill
+
+Indica et Tibetica Verlag \\ % $\cdot$ 
+Marburg 2024
+
+\vskip 6mm
+
+\end{center}
+
+\newpage
+\newpage \ \thispagestyle{empty}
+\small  \
+
+\noindent
+
+\
+\vfill
+
+
+\small
+\noindent \textbf{Bibliographische Information Der Deutschen Bibliothek}
+
+\noindent
+Die Deutsche Bibliothek verzeichnet diese Publikation in der Deutschen Nationalbibliographie;
+detaillierte bibliographische Informationen sind im Internet über http://dnb.ddb.de abrufbar.
+
+\noindent
+\textbf{Bibliographic information published by Die Deutschen Bibliothek}
+
+\noindent
+Die Deutsche Bibliothek lists this publication in the Deutsche Nationalbibliographie; detailed
+bibliographic data is available in the Internet at http://dnb.ddb.de.  
+
+
+\vskip 1cm
+
+\noindent
+\copyright\ Indica et Tibetica Verlag, Marburg 2024
+
+\medskip
+
+\noindent
+Alle Rechte vorbehalten / All rights reserved
+
+\medskip
+
+\noindent
+Ohne ausdrückliche Genehmigung des Verlages ist es nicht gestattet, das Werk oder einzelne Teile
+daraus nachzudrucken, zu vervielfältigen oder auf Datenträger zu speichern.
+
+\smallskip
+
+\noindent
+Apart from any fair dealing for the purpose of private study, research, criticism or review, no
+part of this book may be reproduced or translated in any form, by print, photo form, microfilm, or
+any other means without written permission. Enquiries should be made to the publishers.
+
+\bigskip
+
+\noindent
+Satz: \ \ Nils Jacob Liersch \\
+Herstellung: \ \ BoD – Books on Demand GmbH, Norderstedt  \\
+
+\bigskip
+
+\noindent
+%\ISBN     
+
+\normalsize
+
+\newpage
+
+%\maketitle
+\clearpage
+\tableofcontents
+\addtocounter{page}{-1}
+\thispagestyle{empty}
+\clearpage
+
+\chapter{Introduction}
+\mainmatter
+
+\chapter{The List of the 15 Yogas}
+\label{15yogas}
+The authenticity of the list specifying the fifteen Yogas at the beginning of the text is ambiguous. This is due to the discrepancy between the structure of the Yogas presented in the text and the order presented in the list. For example, the text commences with a description of \textit{kriyāyoga} and goes on to describe \textit{siddhakuṇḍaliniyoga} and then mentions \textit{mantrayoga} without adhering to the order presented in the list. This incongruity raises questions as to why the text structure deviates from the list. However, the reference to \textit{jñānotpattav upāyaḥ} may provide some insight into why \textit{jñānayoga} is included as the second \textit{yoga} in the list. To reconcile these apparent inconsistencies, there are several possible explanations: 1) The text is severely corrupted. 2) The list was added by a different hand at a later time. 3) The term \textit{jñānayoga} is included as a result of the practice of \textit{siddhakuṇḍalinīyoga}, which is said to generate knowledge through the central channel, as stated in the text. These explanations may be combined to provide a comprehensive understanding of the situation.
+
+\chapter{Conventions in the Critical Apparatus}
+\section{Sigla in the Critical Apparatus}
+
+\begin{itemize}
+\item E : Printed Edition
+\item P : Pune BORI 664
+\item L : Lalchand Research Library LRL5876
+\item B : Bodleian Oxford D 4587
+\item \None : NGMPP B 38-31
+\item \Ntwo : NGMPP B 38-35 / A 1327-14
+\item \Done : IGNCA 30019
+\item \Uone : SORI 1574
+\item \Utwo: SORI 6082
+\end{itemize}
+
+The order of the readings in the critical apparatus is arranged according to the quality of readings in decending order. The critical apparatus is positive. Gemitation is not recorded. 
+
+\section{Marking the Reliability of Sources and Testimonia in the Critical Apparatus}
+\label{kennz}
+
+To accurately depict information about the textual relationship and estimated degree of relatedness of a passage from the \textit{Yogatattvabindu} in the layers for sources and testimonia of the critical apparatus, a system of sigla was introduced.\footnote{This type of identification system is based on the use of the critical apparatus in \parencite[lii-liii]{steinkellner2005}. It was modified for the text-critical work on the \textit{Yogatattvabindu}.} The sigla are meaningful when a passage is corrupted in all witnesses and can only be reconstructed by means of other texts. The layers of the critical apparatus for sources and testimonia use the following sigla:
+
+\begin{enumerate}
+\item[\textbf{Ce}] \textit{citatum ex alio} / quotation from another (text).\footnote{The sigla \textbf{Ce} indicates an identical or largely identical content in the lesser witness and only allows for minor deviations in the wording of the passage.}
+\item[\textbf{Cee}] \textit{citatum ex alio modo edendi} / quotation from another (text) with editorial changes.\footnote{The sigla \textbf{Cee} identifies passages with noticeable deviations in the lesser witness.}
+\item[\textbf{Ci}] \textit{citatum in alio} / quotation in another (text).\footnote{The sigla \textbf{Ci} indicates an identical or largely identical content in the lesser witness and only allows for minor deviations in the wording of the passage.}
+\item[\textbf{Cie}] \textit{citatum in alio modo edendi} / quotation in another (text) with editorial changes.\footnote{The sigla \textbf{Cie} identifies passages in the lesser witness with noticeable deviations that have the intended character of the composer.}
+\item[\textbf{Re}] \textit{relatum ex alio} / (content), attested from another text.\footnote{The sigla \textbf{Re} identifies content parallels in the lesser witness that are relevant to the constitution of the critical text. It further indicates in certain cases that the composer might have used this source when composing his text.}
+\item[\textbf{Ri}] \textit{relatum in alio} / (content), attested in another text.\footnote{The sigla \textbf{Ri} identifies content parallels in the lesser witness that are relevant to the constitution of the critical text.}
+\end{enumerate}
+
+The following acronyms refer to passages that originated from texts that the author of the \textit{Yogatattvabindu} utilized in compiling his work: \textbf{Ce}, \textbf{Cee}, \textbf{Re}. These texts must predate the \textit{Yogatattvabindu}. The other acronyms, such as \textbf{Ci}, \textbf{Cie}, and \textbf{Ri}, are texts that have adopted passages from the \textit{Yogatattvabindu}, or verses or passages that share similar content with the \textit{Yogatattvabindu}, but their relation is given literally, making it impossible to determine who adopted from whom. \textbf{Re} and \textbf{Ri} each refer to passages that are so closely related in content to those of the \textit{Yogatattvabindu} that they are significant in reconstructing a passage.\footnote{\textbf{Ce} and \textbf{Cee} have the highest degree of reliability, \textbf{Ci} and \textbf{Cie} have a moderate degree, and \textbf{Re} and \textbf{Ri} have the lowest.}
+
+\section{Punctuation}
+
+The inconsistent use of punctuation marks in the available witnesses necessitates standardization. Upon close examination, it appears that punctuation has frequently been dropped or added during the transmission of the texts. The neglect or improper handling of punctuation by the copists has resulted in different versions of lists with and without punctuation. In many instances, missing punctuation has led to the addition of case endings, alteration of the text, and the combination of list items into compound formations that were not present in the original text. Although punctuation plays an important role, deviations in punctuation at the end of sentences, lists, and verse-numbering will only be extensively documented in the critical apparatus of the printed edition. This means that emendations of obvious punctuation mistakes will not be recorded in the critical apparatus. However, the digital edition of this work provides a more detailed documentation of deviations in punctuation through diplomatic transcripts of each witness, and even has a function to display sentences cumulatively.
+
+In the printed edition of the \textit{Yogatattvabindu}, standard conventions of punctuation are followed. In verse poetry, a \textit{daṇḍa} (|) marks the end of a half-verse or half of the \textit{śloka}, and a double \textit{daṇḍa} (||) marks the end of a verse. In prose, a single \textit{daṇḍa} indicates the end of a sentence, and a double \textit{daṇḍa} marks the end of a paragraph. Variations in the use of \textit{avagraha} will be recorded, and items in lists will be separated by a double-\textit{daṇḍa}.
+
+\section{Sandhi}
+
+Among the witnesses we see deviating and inconsistent application of \textit{sandhi}. There is no clear evidence that originally \textit{sandhi} was intentionally not applied. This edition will therefore apply \textit{sandhi} consistently throughout the constituted text to provide a readable text sticking to contemporary conventions in Sanskrit. The variant readings concerning \textit{sandhi} are recorded consistently in the apparatus criticus. This is due to various textcritical problems arising from the inconsistent usage of punctuation which results in application or non-application of \textit{sandhi} wheter the respective witness applied a \textit{daṇḍa} or not. This is particularly the case within lists, which frequently occur in our compilation. Items were most likely originally separated by \textit{daṇḍa}. 
+
+
+\section{Class Nasals}
+
+Due to inconsistent use of class nasals among the witnesses \textit{anusvāra}s have been substituted with the respective class nasals throughout the edition.
+
+\section{Lists}
+
+Lists are a frequent feature in the \textit{Yogatattvabindu}. The text opens with a list of 15 Yogas and there are many more lists utilized throughout its content. To produce a consistent and easily readable edition, all lists have been identified, normalized to the Nominative Singular or Nominative Plural form of the respective item, or in the case of explanatory lists, to the Ablative Singular or Plural. The items are separated by a double \textit{daṇḍa}. Differences in punctuation and simple punctuation emendations, unless they are text-critically or systematically significant, will not be recorded in the apparatus criticus.
+\clearpage
+
+\chapter{Critical Edition \& Annotated Translation}
+\clearpage
+ \begin{alignment}[
+    texts=edition[class="edition"];
+    translation[class="translation"],
+  ]
+\begin{edition}
+ \ekddiv{type=ed}
+    \centerline{\textrm{\small{[First Cakra]}}}
+    \bigskip
+    \begin{prose}
+%-----------------------
+%\om                                                    \B
+%idānīṃ suṣumṇāyāṃ jñānotpattāv---upāyāḥ  kathyante      \E
+%idānīṃ suṣumṇāyā  jñānotpattau   upāyāḥ  kathyaṃte      \P
+%idānīṃ suṣumnā    jñānotpattau   upāyaḥ  kathyate //    \L
+%idānīṃ suṣumnāyāḥ jñanotpanno    'pāyāḥ  kathyaṃte //   \N1
+%idānīṃ suṣumnāyāḥ jñanotpanno    upāyāḥ  kathyaṃte //   \N2
+%idānīṃ suṣumnāyāḥ jñanotpattau   upāyāḥ  kathyaṃte //   \D
+%idānīṃ suṣumnāya--jñanotpattau    upāyāḥ kathyaṃte //   \U1
+%idānīṃ suṣumṇāyā  jñānotpattau   upāyā   kathyaṃte //   \U2
+%-----------------------
+\noindent 
+      \note[type=testium, labelb=28, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 6: atas taj jñānotpattāv upāyā ucyaṃte |}
+      \note[type=source, labelb=29, lem={\textbf{Re}}]{PT\textsuperscript{ccn \cdot YSV} (Ed. p. 832): suṣumnāntaḥ samāśritya navacakraṃ yathā śṛṇu | mūlādhāraṃ catuṣpatraṃ gudorddhe (\textit{gudordhve} YK\textsuperscript{ccn \cdot YSV} 1.250 Ed. p. 20) varttate mahat | tanmadhye svarṇapīṭhe tu trikoṇaṃ maṇḍalaṃ (\textit{trikoṇamaṇḍalaṃ} YK\textsuperscript{ccn \cdot YSV} 1.251 Ed. p. 20) param | tatra vahniśikhākārā mūrttiḥ sarvatra siddhidā | asyā dhyānaṃ manomadhye vinā pīṭhena (\textit{pāṭhena} YK\textsuperscript{ccn \cdot YSV} 1.252 Ed. p. 20) vāṅmayam | sarvaśāstrāṇi saṅkarṣaṃ (\textit{saṃkarṣa} YK\textsuperscript{ccn \cdot YSV} 1.252 Ed. p. 20) sadā sphurati yogavit |}
+idānīṃ  
+    \app{\lem[wit={E}]{suṣumṇāyāṃ}
+      \rdg[wit={P,U2}]{suṣumṇāyā}
+      \rdg[wit={U1}]{suṣumnāya°}
+      \rdg[wit={N1,N2,D}]{suṣumṇāyāḥ}
+      \rdg[wit={L}]{suṣumnā°}}
+    \app{\lem[wit={E}, alt={jñānotpattāv upāyāḥ}]{jñānotpattāv\skp{-}upāyāḥ}
+      \rdg[wit={P,L,D,U1}]{jñānotpattau upāyāḥ}
+      \rdg[wit={U2}]{jñānotpattau upāyā}
+      \rdg[wit={N1}]{jñānotpanno 'pāyāḥ}
+      \rdg[wit={N2}]{jñanotpanno upāyāḥ}}
+    \app{\lem[wit={ceteri}]{kathyante}
+      \rdg[wit={L}]{kathyate}}/
+%-----------------------
+%\om                                            \B
+%ādau caturdalaṃ mūlaṃ cakraṃ varttate /        \E
+%ādau caturddalaṃ mūlaṃ cakraṃ varttate /       \P
+%ādau caturdalamūlacakraṃ varttate //           \L
+%ādau caturdalaṃ mūlacakraṃ varttate            \N1
+%ādau prathamacaturdalamūlacakraṃ pravarttate// \N2      
+%ādau caturdalaṃ mūlacakraṃ varttate            \D
+%ādau caturdalaṃ mūlaṃ cakraṃ vartate           \U1
+%ādau caturdalaṃ mūlacakraṃ pravarttate //      \U2
+%-----------------------
+%At the beginning\footnote{Supposedly at the beginning of the central channel.} exists the root-cakra having four petals.     
+%-----------------------      
+\note[type=testium, labelb=30, lem=\textbf{Ci}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 7: gudamūlacakraṃ caturdalaṃ |}
+ādau
+   \app{\lem[wit={N1,D,U2}]{caturdalaṃ mūlacakraṃ}
+        \rdg[wit={E,P,U1}]{caturdalaṃ mūlaṃ cakraṃ}
+        \rdg[wit={L}]{caturdalamūlacakraṃ}
+        \rdg[wit={N2}]{prathamacaturdalamūlacakraṃ}}
+      \app{\lem[wit={ceteri}]{vartate}
+        \rdg[wit={U2}]{pravartate}}/
+%-----------------------
+%
+%\om                                       \B
+%prathamādhāracakraṃ varttate / gudāsthānaṃ    raktavarṇaṃ    gaṇeśadaivataṃ    siddhibuddhiśaktimuṣakavāhanam       kurmaṛṣiḥ /  ākuṃcamudrā /    apānavāyuḥ                                   caturdaleṣu     rajaḥsattvatamomanāṃsi /  vaṃ śaṃ ṣaṃ saṃ    madhyatrikoṇe triśikhāt    tanmadhye trikoṇākāraṃ kāmapīthaṃ varttate//    \E
+%prathamaṃ ādhāracakraṃ         gudāsthānaṃ    raktavarṇaṃ    gaṇeśāṃ daivataṃ  siddhibuddhiśaktir mukhako vāhanam   kurmaṛṣiḥ    ākuṃcanamudrā    apānavāyuś-----------------------------------caturddaleṣu    rajaḥsattvatamomanāṃsi    vaṃ śaṃ ṣaṃ saṃ    madhyatrikoṇe triśikhā     tanmadhye trikoṇākāraṃ kāmapīthaṃ varttate //   \P
+%prathamaṃ ādhāracakraṃ         gudāsthānaṃ    raktavarṇaṃ    gaṇeśadaivataṃ    siddhibuddhiśaktimuṣako vāhanaṃ //   kurmaṛṣiḥ    ākuṃcanamudrā    apānavāyuḥ                                   caturddaleṣu    rajaḥsattvatamomanāṃsi // vaṃ śaṃ ṣaṃ saṃ    madhyatrikoṇe triśikhā     tanmadhyatrikoṇākāraṃ kāmapīthaṃ vartate        \L
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tanmadhyatrikoṇākāraṃ kāmapiṭhaṃ varttate /     \N1
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tanmadhye trikoṇākāraṃ kāmapiṭhaṃ varttate /    \N2
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tanmadhye trikoṇākāraṃ kāmapiṭhaṃ varttate /    \D
+%---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tanmadhye trikoṇākāraṃ kāmapiṭhaṃ varttate /    \U1
+%prathamaṃ ādhāracakraṃ         gudāsthānaṃ // raktavarṇaṃ // gaṇeśadaivataṃ // siddhibuddhiśaktiḥ muṣako vāhanaṃ // kurmaṛṣiḥ // ākuṃcanamudrā // apānavāyu // urmīkalā // ojasvinīdhāraṇā // caturddaleṣu // rajaḥsattvatamomanāṃsi //  vaṃ śaṃ ṣaṃ saṃ // madhyatrikoṇe trirekhā //  tanmadhye trikoṇākāraṃ kāmapīthaṃ varttate //   \U2
+%-----------------------
+%The first cakra of support (\textit{ādhāra}) is at the anus [and] is red-colored. Gaṇeśa is the deity. He is success, intelligence and power. A rat is the mount. The Ṛṣi is Kūrma. The seal is contraction. The vitalwind is \textit{apāna}. The \textit{kalā} is the wave of consciousness (\textit{urmī}). The concentration is ``she who is powerful'' (\textit{ojasvinī})}. In the four petals [of it resides] \textit{rajas}, \textit{sattva}, \textit{tamas} and the mind-faculties (\textit{manāṃsi}), [symbolized by the syllables or \textit{bīja}s] vaṃ śaṃ ṣaṃ and saṃ. A trident is situated in the middle of the triangle\footnote{This passage is odd since a triagle wasn't mentioned before.}
+%-----------------------
+\note[type=testium, labelb=31, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 7: tanmadhye trikoṇākāraṃ kāmapiṭhaṃ |}
+      \extra{
+          \app{\lem[wit={P,L,U2}]{prathamaṃ ādhāracakraṃ}
+            \rdg[wit={E}]{prathamādhāracakraṃ vartate |}}/
+                 gudā sthānaṃ\dd{}
+                 \app{\lem[type=emendation, resp=egoscr]{raktaṃ}
+                   \rdg[wit={E,P,L,U2}]{rakta°}}varṇaṃ\dd{}
+            \app{\lem[type=emendation, resp=egoscr]{gaṇeśaṃ daivataṃ}
+                 \rdg[wit={E,L,U2}]{gaṇeśadaivataṃ}
+                 \rdg[wit={P}]{gaṇeśāṃ daivataṃ}}\dd{}
+            siddhibuddhi\app{\lem[type=emendation, resp=egoscr, alt={°śaktiṃ muṣako vāhanaṃ}]{śaktiṃ muṣako vāhanaṃ} %Emendation!!!
+                 \rdg[wit={E}]{°śaktimuṣakavāhanam}
+                 \rdg[wit={P}]{°śaktir mukhako vāhanam}
+                 \rdg[wit={L}]{°śaktimuṣako vāhanaṃ}
+                 \rdg[wit={U2}]{°śaktiḥ muṣako vāhanaṃ}}\dd{}
+            \app{\lem[type=emendation, resp=egoscr]{kūrma} %%sandhi aḥ vor ṛ wird zu a + ṛ 
+                 \rdg[wit={U2}]{kurma}}ṛṣiḥ\dd{}
+            \app{\lem[type=emendation, resp=egoscr]{ākuñcanaṃ}
+                 \rdg[wit={P,L,U2}]{ākuñcana°}
+                 \rdg[wit={E}]{ākuṃca°}}mudrā\dd{}
+            apāna\app{\lem[wit={E,L},alt={°vāyuḥ}]{vāyuḥ}
+                 \rdg[wit={P}]{°vāyuś}
+                 \rdg[wit={U2}]{°vāyu}}\dd{}
+               \extra{
+                 \app{\lem[type=emendation, resp=egoscr]{ūrmī}
+                   \rdg[wit={U2}]{urmī}} kalā\dd{}
+                 ojasvinī dhāraṇā\dd{}}
+                 caturdaleṣu rajaḥsattvatamomanāṃsi\dd{}
+                 vaṃ śaṃ ṣaṃ saṃ\dd{} madhyatrikoṇe
+            \app{\lem[wit={P,L}]{triśikhā}
+                 \rdg[wit={E}]{triśikhāt}
+                 \rdg[wit={U2}]{trirekhā}}\dd{}}
+        %%%%%%%%%%%%%%%%%
+        %%%%%%%%%%%%%%%%%
+        %%%%%%%%%%%%%%%%%
+        %%%%%%%%%%%%%%%%%
+        %%%%%%%%%%%%%%%%%          
+            \app{\lem[wit={ceteri}]{tanmadhye}
+                 \rdg[wit={L,N1}]{tanmadhya}}
+               trikoṇākāraṃ kāmapiṭhaṃ vartate/
+\note[type=philcomm, labelb=32, lem={prathamaṃ \ldots triśikhā}]{The whole section is missing in D, N\textsubscript{1}, N\textsubscript{2} and U\textsubscript{1}. Equally detailled passages for the other \textit{cakra}s which include assigments to various categories like \textit{daivata}, \textit{bīja}s etc. occur in U\textsubscript{2} only. Subsequently these passages were either lost in transmission in all other witnesses and were preserved in U\textsubscript{2} only or the extensive description of the first \textit{cakra} occurred randomly and the additions of U\textsubscript{2} are not authorial. As these passages are of interest for the history and usage of the text, they have been added to the edition and are presented in another colour to indicate their supplementary status.}
+%-----------------------
+%\om                                                      \B
+%tatpīṭhamadhye 'gniśikhākāraikā    mūrtir varttate /        \E
+%tatpīṭhamadhye magniśikhākārā ekā  mūrtir varttate /      \P
+%tatpīṭhamadhye   jniśikhāka!rāṇakā mūrti varttate //     \L
+%tatpīṭhamadhye  agniśikhākārā ekā  mūrttir varttate //    \N1
+%tatpīṭhamadhye  agniśikhākārā ekā  mūrttir varttate /     \N2
+%tatpīṭhamadhye  agniśikhākārā ekā  mūrttir varttate //    \D
+%tatpīṭhamadhye  agniśikhākārā ekā  mūrttir varttate //    \U1
+%tatpīṭhamadhye  agniśikhākārā ekā  mūrttir asmi      //    \U2
+%-----------------------
+%In the middle of this seat (\textit{pīṭha}) exists a single form having the shape of a flame.             
+%-----------------------
+\note[type=testium, labelb=33, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 7: tatpīṭhamadhye agniśikhākārā gaṇeśamūrttir varttate |}
+tatpīṭhamadhye
+\app{\lem[wit={E}]{'gniśikhākāraikā}
+  \rdg[wit={ceteri}]{agniśikhākārā ekā}
+  \rdg[wit={P}]{magniśikhākārā ekā}
+  \rdg[wit={L}]{jñiśikhākarāṇakā}}
+murti\skp{r-va}\app{\lem[wit={E,P,L,N1,N2,D,U1}, alt={vartate}]{\skm{r-va}rtate}
+  \rdg[wit={U2}]{asmi}}/
+%-----------------------%
+%\om                                       \B
+%tasyāḥ mūrtir  dhyānakāraṇāt sakalaśāstrakāvya-nāṭakādi-sakalavāṅmayaṃ vinābhyāsena puruṣasya manomadhye sphurati,     \E
+%tasyā  mūrter  dhyānakaraṇāt sakalaśāstrakāvya-nāṭakādi-sakalavāṅmayaṃ vinābhyāsena puruṣasya manomadhye sphurati      \P
+%tasyā  mūrtir  dhyānakāraṇāt sakalaśāstrakāvya-nāṭakādi //----vāṅmayaṃ vinābhyāsena puruṣasya manomadhye sphuraṃti!    \L
+%tasyāḥ mūrter  dhyānakaraṇāt sakalaśāstrakāvya-nāṭakādi-sakalavāgmayaṃ vinābhyāsena puruṣasya manomadhye sphurati      \N1
+%tasyā  mūrtter dhyānakaraṇāt sakalaśāstrakāvya-nāṭakādi-sakavāgmayaṃ   vinābhyāsena puruṣasya manomadhye sphurati//    \N2
+%tasyāḥ mūrter  dhyānakaraṇāt sakalaśāstrakāvya-nāṭakādi-sakalavāgmayaṃ vinābhyāsena puruṣasya manomadhye sphurati      \D
+%tasyā  mūrtair dhyānakaraṇāt sakalaśāstrakāvya-nāṭakādi-sakalavāgmayaṃ vinābhyāsena puruṣasya manomadhye sphurati      \U1
+%tasyā          dhyānakaraṇāt sakalaśāstrakāvya-nāṭakādi-sakalavāṅmayaṃ vinābhyāsena puruṣasya manomadhye sphurati // asya bahir mānaṃdā // yogānaṃdā virānaṃdā // uparamānaṃdā // ajapājapa śat // 600 // ghaṭi 9 palāni 40 // \U2 %
+%-----------------------
+%Trough the practice of meditation on this form the whole literature, all \textit{śāstra}s, all poems, dramas etc., everything [related to] elocution, appears in the mind of the person without [prior] learning. \extra{[Assigned to it] is external bliss, yogic bliss, heroic bliss [and] the bliss of coming to rest.}
+%-----------------------
+\note[type=testium, labelb=34, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 8-9: tasyā mūrter dhyānakaraṇāt sakalakāvyanāṭakādisakalavāṅmayaṃ vinābhyāsena puruṣasya manomadhye sphurati |}
+\app{\lem[wit={ceteri}]{tasyā}
+    \rdg[wit={E,N1,D}]{tasyāḥ}}
+\app{\lem[wit={ceteri}, alt={mūrter}]{mūrte\skp{r-dhyā}}
+    \rdg[wit={E,L}]{mūrtir}
+    \rdg[wit={U1}]{mūrtair}
+    \rdg[wit={U2}]{\om}
+}\skm{r-dhyā}nakaraṇāt-śāstrakāvya\app{\lem[wit={ceteri}, alt={°nāṭakādi°}]{nāṭakādi}
+    \rdg[wit={L}]{°nāṭakādi ||}}\app{\lem[wit={ceteri}, alt={°sakala°}]{sakala}
+    \rdg[wit={L}]{\om}
+    \rdg[wit={N2}]{°saka°}}\app{\lem[wit={E,P,L,U2},alt={°vāṅmayaṃ}]{vāṅmayaṃ}
+    \rdg[wit={N1,N2,D,U1}]{°vāgmayaṃ}} vinābhyāsena puruṣasya manomadhye
+\app{\lem[wit={ceteri}]{sphurati}
+  \rdg[wit={L}]{sphuraṃti}}/
+      \extra{asya
+        \app{\lem[type=emendation, resp=egoscr, alt={bahir ānandā}]{bahir\skp{-}ānandā}
+          \rdg[wit={U2}]{bahir mānandā}}\dd{}
+        yogānandā\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{vīrānandā}
+          \rdg[wit={U2}]{virānandā}}\dd{}
+        uparamānandā\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{ajapājapaḥ śataḥ}
+          \rdg[wit={U2}]{ajapājapaśat}} \dd{} 600 \dd{} ghaṭi 9 palāni 40\dd{}} 
+     \end{prose}
+\end{edition}
+\begin{translation}
+  \ekddiv{type=trans}
+    \centerline{\textrm{\small{[First Cakra]}}}
+    \smallskip
+    \begin{tlate}
+      The means for the genesis of knowledge in the central channel will now be described. At the beginning [of the central channel] exists the root \textit{cakra} having four petals. \extra{The first \textit{cakra} of support (\textit{ādhāra}) is at the anus [and] is red-colored. Gaṇeśa is the deity. He is success, intelligence and power. A rat is the mount. The Ṛṣi is Kūrma. The seal is contraction. The vitalwind is \textit{apāna}. The \textit{kalā} is the ``wave of consciousness'' (\textit{urmī}). The concentration is ``she who is powerful'' (\textit{ojasvinī}). In the four petals [of it resides] \textit{rajas}, \textit{sattva}, \textit{tamas} and the mind-faculties (\textit{manāṃsi}), [symbolized by the syllables or \textit{bīja}s] vaṃ śaṃ ṣaṃ and saṃ. A trident is situated in the middle of the triangle.} In the middle is a trident, and \textit{kāmapīṭha}\footnote{This refers to one of the four \textit{pīṭha}s of tantric Buddhism and the Kaula Yoginī-Tantra named Kāmarūpa, specifically the present-day Kāmākhyā Temple in Assam, which is located in different parts of the yogic body in various yoga traditions. For an in-depth discussion of the term, see \citeauthor[2023: 48-58,129]{liersch2023}, \citeauthor[2020: \textit{et passim}]{rosati2020} and \citeauthor[2021: 119, footnote 144]{asiddhi}.} in the shape of a triangle. In the middle of this seat (\textit{pīṭha}) exists a single form in the shape of a flame. By meditating on this form the whole literature, all \textit{śāstra}s, all poems, dramas etc., everything [related to] elocution, appears in the mind of the person without learning. \extra{[Assigned to it] is external bliss\footnote{Early accounts of "four blisses" can be found in descriptions of sexual yoga in some Vajrayāna works (cf. \citeauthor[2014: 99]{isaac2014} and \citeauthor[2000: 31-33]{sferra2000}). The earliest mention of these blisses is in the \citetitle{hevajra} (1.1.28 \textit{et passim}), which identifies them as \textit{ānanda}, \textit{paramānanda}, \textit{sahajānanda}, and \textit{viramānanda}. The final bliss, \textit{viramānanda}, is known as the "Bliss of Cessation" and refers to the feeling of pleasure experienced by the male partner during sexual ritual at the moment of ejaculation. The concept of the four blisses was later incorporated into the \textit{Amṛtasiddhi}, the earliest text to outline many of the fundamental principles and practices of \textit{haṭhayoga}. However, the \textit{Amṛtasiddhi} contrasts the principles of sexual ritual with the celibate yoga method of male ascetics, which rejected sexual intercourse altogether. The text states that semen (\textit{bindu}) is the source of "the Blisses whose last is Virama" (referring to the four blisses in Vajrayāna) in 7.4, and in 34.3, it asserts that the accomplished yogin delights in the three \textit{ānanda}s (likely \textit{ānanda}, \textit{paramānanda}, and \textit{sahajānanda} without the bliss of ejaculation, reflecting the celibate yoga taught (\citeauthor[2021: 17]{asiddhi}). In a complex process of adaptation, reconfiguration, and innovation, systems of four blisses were incorporated into texts of the late medieval period, such as the \textit{Yogatattvabindu}. The \textit{Amaraughaprabodha}, one of the earliest texts in the \textit{haṭhayoga} corpus, and other later texts that quote the \textit{Amṛtasiddhi}, modified or removed concepts unique to Buddhism, including technical terms from Vajrayāna sexual yoga (\citeauthor[2019: 21]{birch2019}). The \textit{Amanaska}, the earliest text on Rājayoga, also mentions various blisses such as \textit{ānanda}, \textit{paramānanda}, \textit{sahajānanda}, and \textit{cinmātrānanda} throughout the text (\citeauthor[2013: \textit{et passim}]{birch2013}).}, yogic bliss, heroic bliss [and] the bliss of coming to rest. A hundredfold recitation of the non-recited 600; 9 \textit{ghaṭi}s [and] 40 \textit{palā}s.}\footnote{Instructions for the duration \ldots}     
+%     Amanaska 266: 46 {birch2013} 
+%The sequence of time in the Amanaska is consistent with a sequence in Bhāskara's Siddāntaśiromaṇi (17c-d
+%− 18a-b of the Kālamānādhyāya in the Madhyamādhikāra): 'A breath is ten long syllables, a Pala is six breaths,
+%sixty Palas is one Ghaṭikā, sixty Ghaṭikās is a day, thirty days is a month and twelve months is a year' (gur-
+%vakṣaraiḥ khendumitair asus taiḥ | ṣaḍbhiḥ palaṃ tair ghaṭikā khaṣaḍbhiḥ || syād vā ghaṭīṣaṣṭir ahaḥ kharāmair māso dinais
+%tair dvikubhiś ca varṣam). According to this, a ghaṭikā is twenty-four minutes (1440 ÷ 60). This corresponds to
+%de nitions of a ghaṭikā in Tantras such as Niśvāsakārikā 17.95c-d (ghaṭikās tu tathā ṣaṣṭi ahorātraṃ pracakṣate) and
+%Svacchandatantra 7.53a-b (ghaṭikāḥ ṣaṣṭis tv ahorātre bāhye tu pravahanti vai). Since a ghaṭikā is twenty-four minutes,
+%then a pala is twenty-four seconds and a prāṇa (i.e., an inhalation and exhalation) is four seconds according
+%to the above sequence. The four-second natural breath is standard in medieval yoga texts. For example, the
+%often quoted statement that there are 21,600 breaths in a day is based on a four second breath (see Hemacan-
+%dra's Yogaśāstra 5.232; Amaraughaprabodha 58; Vivekamārtaṇḍa 46; Śivayogadīpikā 2.30a-b; Dhyānabindūpaniṣat 62a-
+%b − 63ab; Gheraṇḍasaṃhitā 5.87; Yugaladāsa's Yogamārgaprakāśikā 1.36, etc.). This is derived from earlier tantric
+%traditions; e.g., Svacchandatantra 7.54-55 (prāṇasaṅkhyā punas teṣu kathayāmy adhunā tava | ṣaṭ śatāni varārohe sahas-
+%rāṇyekaviṃśatiḥ || ahorātreṇa bāhyena adhyātmaṃ tu surādhipe | prāṇasaṅkhyā samākhyātā jñātavyā sādhakena tu), etc. I
+%wish to thank Alexis Sanderson for the last reference to the Svacchandatantra
+          \end{tlate}
+          \ekdpb*{}
+   \end{translation}
+ \end{alignment}
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%PAGEBREAK%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%PAGEBREAK%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%PAGEBREAK%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ \begin{alignment}[
+    texts=edition[class="edition"];
+    translation[class="translation"],
+  ]
+\begin{edition}
+ \ekddiv{type=ed}
+    \centerline{\textrm{\small{[Second Cakra]}}}
+    \bigskip
+    \begin{prose}
+%-----------------------
+% \om                                       \oxford
+%idānīṃ dvitīyaṃ svādhiṣṭānacakraṃ   ṣaḍdalaṃ upāyanapīṭhasaṃjñakaṃ bhavati //  \E
+%idānīṃ dvitīyaṃ svādhiṣṭānacakraṃ   ṣaṭdalaṃ uḍḍīyānapīṭhaṃ saṃjñakaṃ bhavati  \P
+%idānīṃ dvitīyaṃ svādhiṣṭānacakraṃ   ṣaṭdalaṃ uḍḍīyān pīṭhaṃ saṃjñakaṃ bhavati  \L
+%idānīṃ dvitīyaṃ svādhiṣṭānacakraṃ   ṣaṭdalaṃ uḍyānapīṭhasaṃjñakaṃ bhavati /    \N1
+%idānī  dvitīyaṃ svādhinacakraṃ      ṣaḍḍalaṃ uḍyānapīṭhasaṃjñakaṃ bhavati      \N2
+%idānīṃ dvitīyaṃ svādhiṣṭānacakraṃ   ṣaṭdalaṃ uḍyāṇāpīṭhasaṃjñikaṃ bhavati //   \D
+%idānīṃ dvitīyaṃ svādhiṣṭhānacakraṃ  ṣaṭdalaṃ uḍāganapīṭasaṃjñakaṃ bhavati      \U1
+%idānīṃ dvitīye svādhiṣṭānacakraṃ // ṣaṭdalaṃ // uḍḍīyāṇapīṭhasaṃjñakaṃ bhavati // liṃgasthānaṃ // pītavarṇaṃ // pītaprabhā // rajoguṇa // brahmādevatā // vaikharīvāca // sāvitrīśaktiḥ // haṃsavāhanaṃ // vahaṇaṛṣiḥ // kāmāgniprabhā //sthūladehā // jāgradavasthā // ṛgveda // ācāryaliṃgaṃ // braṃhmasalokatāmokṣaḥ // śuddhabhumikātatvaṃ // gaṃdho viṣayaḥ // apānavāyuḥ // aṃtarmātṛkā // vaṃ bhaṃ maṃ yaṃ raṃ laṃ // bahir mātrā // kāmā // kāmākhyā // tejasī // ceṣṭṛikā // alasā // mithunā // ajapājapaḥ sahasra // 6000 //gha 0 96 pa 0 40// \U2
+%-----------------------
+%Now the second, the six-petalled \textit{Svādhiṣṭānacakra} known as the seat of \textit{uḍḍīyāṇa}\footnote{Discuss the term \textit{uḍḍīyāna}.}. \extra{The gender is the location. The color is yellow. The shine is yellow. \textit{Rajas} is the quality. The deity is Brahmā. The speech is \textit{vaikharī}\footnote{vaikharī f. in Kaśm. Śiv. °the 4. form of appearacne of \textit{parā}, the empirical speech sound, Utpala's Ṭīkā to Śivadṛṣṭi 2, 7. [B.]― Schmidt p. 337. Welches Buch???} (\textit{vaikharīvāca}). The power is Sāvitrī. The mount is the goose. The \textit{Rṣi} is Vahaṇa. The appearance (\textit{prabhā} is the fire of love (\textit{kāmāgni}). The body is gross, The state is that of being awake. [The Veda associated with it is] the Ṛgveda. The spiritual guide is the \textit{liṅga}. The liberation is residing in the world of Brahma. The level is the pure earth (\textit{śuddhabhumikā}). The sphere is smell. The vitalwind is \textit{apāna}. The internal alphabet [is]: vaṃ bhaṃ maṃ yaṃ raṃ laṃ. The outer alphabet?: desire, the Tīrtha of \textit{Kāmākhyā}\footnote{The Kāmākhyā is situated in Kāmarūpa on the Nīlakūṭa mountain in present day Assam. It's strange that it appears here, since Kāmarūpa appears already as the Tīrtha associated with the first \textit{cakra}.}, beauty of both\footnote{Why dual here?}, \textit{ceṣṭṛikā} (what is that?), lazy [and] copulation.}
+%-----------------------      
+\noindent
+\note[type=testium, labelb=35, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 9: liṃgo dvitīyaṃ ṣaṭdalaṃ svādhiṣṭānasaṃjñakaṃ kamalaṃ udyānapīṭhasaṃjñakaṃ vartate ||}
+\note[type=source, labelb=36, lem={\textbf{Re}}]{PT\textsuperscript{ccn \cdot YSV} (Ed. p. 832): liṅgamūle tu pīṭhābhaṃ (\textit{raktābhaṃ} YK\textsuperscript{ccn \cdot YSV} 1.253 Ed. p. 20) svādhiṣṭhānan tu ṣaḍdalam | tanmadhye bālasūryābhaṃ mahajjyotiḥ susiddhidam | dhyānāc ca varddhate āyuḥ kandarpasamatāṃ vrajet |}
+\app{\lem[wit={ceteri}]{idānīṃ}
+          \rdg[wit={N2}]{idānī}}
+        \app{\lem[wit={ceteri}]{dvitīyaṃ}
+            \rdg[wit={U2}]{dvitīye}}
+        \app{\lem[wit={U1}]{svādhiṣṭhānacakraṃ}
+            \rdg[wit={E,P,L,N1,D,U2}]{svādhiṣṭānacakraṃ}
+            \rdg[wit={N2}]{svādhinacakraṃ}}
+        \app{\lem[wit={ceteri}]{ṣaṭdalaṃ}
+            \rdg[wit={E}]{ṣaḍdalaṃ}
+            \rdg[wit={N2}]{ṣaḍḍalaṃ}}
+        \app{\lem[wit={U2},alt={uḍḍīyāṇapīṭha°}]{uḍḍīyāṇapīṭha}
+            \rdg[wit={E}]{upāyanapīṭha°}
+            \rdg[wit={L}]{uḍḍīyān pīṭhaṃ}
+            \rdg[wit={N1,N2}]{uḍyānapīṭha°}
+            \rdg[wit={D}]{uḍyāṇāpīṭha°}
+            \rdg[wit={U1}]{uḍāganapīṭa°}}saṃjñakaṃ
+bhavati/         
+      %%%%%%%%%%%%%%%%
+      %%%%%%%%%%%%%%%
+      %%%%%%%%%%%%%%%%
+      %%%%%%%%%%%%%%%
+      %%%%%%%%%%%%%%%    
+      \extra{\app{\lem[type=emendation, resp=egoscr]{liṅgaṃ}
+          \rdg[wit={U2}]{liṅga°}} sthānaṃ\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{pītaṃ}
+          \rdg[wit={U2}]{pīta°}} varṇaṃ\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{pītā}
+          \rdg[wit={U2}]{pīta°}} prabhā\dd{}
+        rajo \app{\lem[type=emendation, resp=egoscr]{guṇaḥ}
+          \rdg[wit={U2}]{guṇa}}\dd{}
+        brahmā devatā\dd{}
+        vaikharī \app{\lem[type=emendation, resp=egoscr]{vāk}
+          \rdg[wit={U2}]{vāca}}\dd{}
+        sāvitrī śaktiḥ\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{haṃso}
+          \rdg[wit={U2}]{haṃsa°}} vāhanaṃ\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{vahaṇo}
+          \rdg[wit={U2}]{vahaṇa}} ṛṣiḥ\dd{}
+        \app{\lem[type=emendation, resp=egoscr, alt={kāmāgnir}]{kāmāgni\skp{r-pra}}
+          \rdg[wit={U2}]{kāmāgni°}}\skm{r-pra}bhā\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{sthūlo dehaḥ}
+          \rdg[wit={U2}]{sthūladehā}}\dd{}
+        jāgrad-avasthā\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{ṛg vedaḥ}
+          \rdg[wit={U2}]{ṛg veda}}\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{ācāryaḥ}
+          \rdg[wit={U2}]{ācārya°}} liṅgaṃ\dd{}
+        brahmasalokatā mokṣaḥ\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{śuddhabhumikā}
+          \rdg[wit={U2}]{śuddhabhumikā}} tattvaṃ\dd{}
+        gaṃdho viṣayaḥ\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{apānaḥ}
+          \rdg[wit={U2}]{apāna°}} vāyuḥ\dd{}
+        aṃtar\skp{-}mātṛkā\dd{}
+        vaṃ bhaṃ maṃ yaṃ raṃ laṃ\dd{}
+        bahir-mātrā\dd{}
+        kāmā\dd{}
+        kāmākhyā\dd{}
+        \app{\lem[type=emendation, resp=egoscr]{tejasvinī}
+          \rdg[wit={U2}]{tejasī}}\dd{}
+        ceṣṭikā\dd{}
+        alasā\dd{}
+        mithunā\dd{}
+        ajapājapaḥ \app{\lem[type=emendation, resp=egoscr]{sahasraḥ}
+          \rdg[wit={U2}]{sahasra}}\dd{} 6000 \dd{} gha. 16 pa. 40\dd{}}
+%-----------------------
+%
+% \om                                        \B
+%tanmadhye atiraktavarṇaṃ tejo varttate /    \E
+%tanmadhye 'tiraktavarṇaṃ tejo varttate      \P
+%tanmadhye  tiraktavarṇaṃ tejo varttate //   \L
+%tanmadhye  atiraktavarṇaṃ tejo varttate     \N1
+%tanmadhye  atiraktavarṇatejo varttate      \N2
+%tanmadhye  atiraktavarṇaṃ tejo varttate     \D
+%tanmadhye  atiraktavarṇatejo varttate       \U1
+%tanmadhye 'tiraktavarṇaṃ tejo vartate //    \U2
+%-----------------------
+%In its middle exists extremely red glow. The adept becomes very handsome by meditation on it.       
+%-----------------------          
+\note[type=testium, labelb=37, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 9-10: tatra atiraktaṃ \sic{yahbhā} saṃjñakaṃ tejaḥ |}
+tanmadhye         
+        \app{\lem[wit={P,U2}]{'tiraktavarṇaṃ}
+            \rdg[wit={ceteri}]{atiraktavarṇaṃ}
+            \rdg[wit={U1,N2}]{atiraktavarṇa°}}
+tejo vartate/
+%-----------------------
+% \om                                          \B
+%tasya dhyānāt sādhako 'tisundaro bhavati /    \E
+%tasya dhyānāt sādhako   tisuṃdaro bhavati      \P
+%tasya dhyānāt sādhako   tisuṃdaro bhavati //   \L
+%tasya dhyānāt sādhakaḥ  atisuṃdaro bhavati // \N1
+%tasya dhyānāt sādhakaḥ  atisuṃdaro bhavati/   \N2
+%tasya dhyānāt sādhakaḥ  atisuṃdaro bhavati // \D
+%tasyā     nāt sādhakaḥ  atisuṃdarāṃgasan  // \D2
+%tasya dhyānāt sādhakaḥ  atisuṃdaro bhavati    \U1
+%tasya dhyānāt sādhako  'tisundaro bhavati //   \U2
+%-----------------------
+%The adept becomes very handsome through meditation on it.
+%-----------------------       
+\note[type=testium, labelb=38, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 10: tasyā nāt sādhakaḥ atisuṃdarāṃgasan}
+tasya dhyānā\skp{t-sā}
+\app{\lem[wit={E,P,L,U2},alt={sādhako}]{\skm{t-sā}dhako}
+  \rdg[wit={ceteri}]{sādhakaḥ}}
+\app{\lem[wit={E,P,L,U2}]{'tisundaro}
+  \rdg[wit={D,N1,N2,U1}]{atisuṃdaro}}
+bhavati/ 
+%-----------------------
+% \om                                  \B
+%                                pratidinam-āyur vardhate /             \E
+%                                pratidinam-āyur vardhate               \P
+%                                pratidinam-āyur vardhate //2//         \L
+%                                dinaṃ dinaṃ prati āyurvarddhate // //  \N1
+%yuvatīnāṃ ativallabho? bhavati dinadinaṃ prati āyur varddhate//        \N2  %%%3verso
+%                                dinaṃ prati āyurvarddhate //2//        \D
+%                                dinaṃ dinaṃ prati āyurvarddhate        \U1
+%                                pratidinaṃ āyur varddhate //          \U2
+%-----------------------
+%\extra{He becomes one who is very desired by virgins.} The vital force increases from day to day. \end{tlate}
+%-----------------------
+\note[type=testium, labelb=39, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 10-11: yuvatīnām ativallabhaḥ san pratidinam āyuṣyābhivṛddhimān bhavati | cha |} % \D2 %%%S.2 Z. 11}
+\extra{\app{\lem[wit={N2}]{yuvatīnāṃ ativallabho bhavati}
+  \rdg[wit={ceteri}]{\om}}/ }\note[type=philcomm, labelb=40, lem={yuvatīnāṃ}]{This additional sentence occurs in N\textsubscript{2} and the \textit{Yogasaṃgraha} only.}
+\app{\lem[wit={ceteri}, alt={pratidinam}]{pratidina\skp{m-ā}}
+  \rdg[wit={N1,U1}]{dinaṃ dinaṃ prati}
+  \rdg[wit={N2}]{dinadinaṃ prati}
+  \rdg[wit={D}]{dinaṃ prati}
+}\skm{m-ā}yur-vardhate\dd{}\\
+\end{prose}
+ \ekddiv{type=ed}
+  \bigskip
+    \centerline{\textrm{\small{[Third Cakra]}}}
+    \bigskip
+    \begin{prose}
+      \note[type=source, labelb=40, lem={tṛtīyaṃ}]{PT\textsuperscript{ccn \cdot YSV} (Ed. p. 832): tṛtīyaṃ nābhideśe tu digdalaṃ paramādbhutam | mahāmeghaprabhaṃ tattu koṭividyutsamanvitam | kalpāntāgnisamaṃ (\textit{kalpānto 'gni°} YK\textsuperscript{ccn \cdot YSV} 1.255 Ed. p. 20) jyotis tanmadhye saṃsthitaṃ svayam | tasya (\textit{asya} YK\textsuperscript{ccn \cdot YSV} 1.256 Ed. p. 21) dhyānāc cirāyuḥ syād arogo (\textit{arogī} YK\textsuperscript{ccn \cdot YSV} 1.256 Ed. p. 21) jagatāṃ varaḥ (\textit{jagatāmvaraḥ} YK\textsuperscript{ccn \cdot YSV} 1.256 Ed. p. 21) | sarvapāpavinirmukto jagatkṣobhakaro (\textit{jaganmokṣakaro} YK\textsuperscript{ccn \cdot YSV} 1.256 Ed. p. 21) mahān |}
+%-----------------------
+% \om                                                 \B
+%tṛtīye                      nābhisthāne    daśadalaṃ padmaṃ vartate      \E
+%tṛtīyaṃ                     nābhisthāne    daśadalaṃ padmaṃ vartate      \P
+%tṛtīyaṃ                     nābhisthāne // daśadalapadme vartate         \L
+%tṛtīyaṃ                     nābhisthāne    daśadalaṃ padma varttate //   \N1
+%tṛtīyacakraṃ                nābhisthāne    daśadalaṃ padma varttate /    \N2
+%tṛtīyaṃ                     nābhisthāne    daśadalaṃ padma varttate //   \D
+%tṛtīyaṃ                     nābhisthāne    daśadalakaṃ padmaṃ varttate   \U1
+%atha tṛtīyaṃ maṇipūracakraṃ nābhisthāne // kapilavarṇaṃ // viṣṇudevatā // lakṣmīśaktiḥ // vāyuṛṣiḥ // samānavāyuḥ // garuḍavāhanaṃ // sūkṣmaliṃgadevatāha // svapnāvasthā // madhyamāvāk // yajurvedaḥ // dakṣināgniḥ // samipatāmokṣaḥ // guruliṃgaviṣṇuḥ // āpastatvaṃ // rajoviṣayaḥ daśadalāni // daśamātrāḥ // aṃtarmātrā // ḍaṃ ṭaṃ ṇaṃ taṃ thaṃ daṃ dhaṃ naṃ paṃ phaṃ // bahirmātrāḥ // śāṃtiḥ // kṣamā // medhā // tanyā // medhāvinī // puṣkarā // ahaṃsagamanā // lakṣyā //tanmayā // amṛtā // ajapājapa // 6000 gha 016 pa 040 //    \U2
+%-----------------------
+%\extra{The colour is red (\textit{kapila}). Viṣṇu is the deity. Lakṣmī is the power. Vāyu is the Rṣi. Samāna is the vitalwind. The mount is Garuḍa. The deity is the suble body\footnote{Why another deity is given here?}. The state is sleep. The speech is the inaudible speech (\textit{madhyamāvāg})\footnote{<Śā, Ling>name of the speech which is inaudible and which is of the type of a thought without any definite presence of words making up the expression. Vkp I.143.<Abhyankar 1986: 300>}. The Veda is the Yajurveda. The [fire is the] southern fire. The liberation is ``proximity'' (\textit{samīpatā}).\footnote{What is this exactly?}. Viṣṇu is the characteristic of the teacher (\textit{guruliṅga}). The principle is water. The sphere is athmosphere (\textit{rajo viṣaya}). There are ten petals [and] ten matrices. [The] inner matrix: \textit{ḍaṃ ṭaṃ ṇaṃ taṃ thaṃ daṃ dhaṃ naṃ paṃ phaṃ}. The external matrix : peace, patience, insight, the ``daughter''\textit{tanayā}, the ``learned teacher'', the ``lotus'', \textit{haṃsagamanā}, the ``fixation object'', absorption and immortality.} 
+%-----------------------
+\note[type=testium, labelb=41, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 11: nābhistnāne daśadalaṃ cakraṃ |}
+      \app{\lem[wit={ceteri}]{tṛtīyaṃ}
+      \rdg[wit={E}]{tṛtīye}
+      \rdg[wit={U2}]{atha tṛtīyaṃ maṇipūracakraṃ}
+      \rdg[wit={N2}]{tṛtīyacakraṃ}}
+    nābhisthāne
+    \app{\lem[wit={ceteri}]{daśadalaṃ}
+      \rdg[wit={L}]{daśadala°}
+      \rdg[wit={U1}]{daśadalakaṃ}
+      \rdg[wit={U2}]{\om}}
+    \app{\lem[wit={E,P,U1}]{padmaṃ}
+      \rdg[wit={L}]{°padme}
+      \rdg[wit={N1,N2,D}]{padma}
+      \rdg[wit={U2}]{\om}}
+    \app{\lem[wit={ceteri}]{vartate}
+      \rdg[wit={U2}]{\om}}/
+    \extra{\app{\lem[type=emendation, resp=egoscr]{kapilaṃ}
+        \rdg[wit={U2}]{kapila°}} varṇaṃ\dd{}
+      \app{\lem[type=emendation, resp=egoscr,alt={viṣṇur}]{viṣṇu\skp{r-de}}
+        \rdg[wit={U2}]{viṣṇu}}\skm{r-de}vatā\dd{}
+      lakṣmī śaktiḥ\dd{}
+      \app{\lem[type=emendation, resp=egoscr, alt={vāyur}]{vāyu\skp{r-ṛ}}
+        \rdg[wit={U2}]{vayu°}}\skm{r-ṛ}ṣiḥ\dd{}}
+ \end{prose}
+\end{edition}
+\begin{translation}
+  \ekddiv{type=trans}
+    \centerline{\textrm{\small{[Second Cakra]}}}
+    \bigskip
+    \begin{tlate}
+\blfootnote{of the practice of meditation are found in most of the additions of U\textsubscript{2} for each \textit{cakra}, except the seventh \textit{cakra} at the palate and the ninth \textit{cakra} named \textit{mahāśūnyacakra}. The practice shall be done for the duration of 600 \textit{ajapājapa}, which is the voiceless uttering of the ``natural'' \textit{mantra} of the breath: \textit{so 'haṃ} (``he is I'') - \textit{haṃ sa} (``I am him''). The following instruction of ``\textit{ghaṭi} 9 \textit{palāni} 40'' is not clear. One \textit{ghaṭi} equals 1/60 of a day, which is 24 minutes. One \textit{pala} equals 1/60 of a \textit{ghaṭi} which is 24 seconds. This would equal 232 minutes or 3 hours and 52 minutes. However, in the \textit{Amanaska}  The duration for the respective \textit{ajapājapa}s for meditation on \textit{cakra}s is also found in the \textit{Jogpradīpyakā} of Jayatarāma in verses 889-912. Here the total amount of \textit{ajapājapa} per day is declared to be 21600. Since one finds the same numbers for the seven \textit{cakra}-system of Jayatarāma (cf. \citeauthor[2006: 163]{jogpradipyaka}) in the additions of U\textsubscript{2} for the nine \textit{cakra}s of Rāmacandra, refraining from assigning \textit{ajapājapa} to the seventh and ninth\textit{cakra}, both being absent in Jayatarāma's system, one is tempted to assume the \textit{Jogpradīpyakā} for th eadditions of the scribe of U\textsubscript{2}.}Now the second, the six-petalled \textit{Svādhiṣṭānacakra} known as the seat of \textit{Uḍḍīyāṇa}\footnote{Discuss the term \textit{uḍḍīyāna}.}. \extra{The \textit{liṅga} is the location. The color is yellow. The shine is yellow. \textit{Rajas} is the quality. The deity is Brahmā. The speech is \textit{vaikharī}\footnote{vaikharī f. in Kaśm. Śiv. °the 4. form of appearance of \textit{parā}, the empirical speech sound, Utpala's Ṭīkā to Śivadṛṣṭi 2, 7. [B.]― Schmidt p. 337. Welches Buch???}(\textit{vaikharī vāca}). The power is Sāvitrī. The mount is the goose. The \textit{Rṣi} is Vahaṇa. The appearance (\textit{prabhā}) is the fire of love (\textit{kāmāgni}). The body is gross, The state is that of being awake. The Veda is Ṛg. The spiritual guide is the characteristic (\textit{liṅga}). The liberation is residing in the world of Brahma. The principle is pure level (\textit{śuddhabhūmikā}). The sphere is smell. The vitalwind is \textit{apāna}. The internal matrix [is]: vaṃ bhaṃ maṃ yaṃ raṃ laṃ. The external matrix: Kāmā ``she who is desire'', Kāmākhyā ``she who is the \textit{tīrtha} of \textit{Kāmākhyā}'' \footnote{The Kāmākhyā is situated in Kāmarūpa on the Nīlakūṭa mountain in present day Assam. It's strange that it appears here, since Kāmarūpa appears already as the \textit{tīrtha} associated with the first \textit{cakra}.}, Tejasvinī ``she who is shining'', Ceṣṭikā ``she who is active'', Alasā ``she who is lazy'' [and] Mithunā ``she who is \textit{mithunā}''. A [more than] thousandfold recitation of the non-recited; 6000 [repetitions for]; 16 \textit{ghaṭi}s [and] 40 \textit{palā}s.\footnote{The practice is supposed to be done for the duration of 6000 \textit{ajapājapa}s divided into \textit{ghaṭi}s and 40 \textit{pala}s, resulting in 2320 minutes or 38,67 hours. Again this would result in a frequence of breath of 2,586206897 in- and exhalations per minute.}} In its middle exists extremely red glow. The adept becomes very handsome through meditation on it. \extra{He becomes one who is desired by young women.} The vital force increases from day to day.
+\end{tlate}
+\ekddiv{type=trans}
+\bigskip
+    \centerline{\textrm{\small{[Third Cakra]}}}
+    \bigskip
+    \begin{tlate}
+      \indent The third, a lotus with ten petals exists at the location of the navel. \extra{The colour is red (\textit{kapila}). Viṣṇu is the deity. Lakṣmī is the power. Vāyu is the Rṣi.} \vspace*{\fill}
+  \end{tlate}
+  \ekdpb*{}
+\end{translation}
+\end{alignment}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%PAGEBREAK%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%PAGEBREAK%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%PAGEBREAK%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{alignment}[
+    texts=edition[class="edition"];
+    translation[class="translation"],
+  ]
+\begin{edition}
+ \ekddiv{type=ed}
+ \begin{prose}
+   \noindent
+      \extra{\app{\lem[type=emendation, resp=egoscr]{samāno}
+        \rdg[wit={U2}]{samāna°}} vāyuḥ\dd{}
+      \app{\lem[type=emendation, resp=egoscr]{garuḍo}
+        \rdg[wit={U2}]{garuḍa°}} vāhanaṃ\dd{}
+      \app{\lem[type=emendation, resp=egoscr]{sūkṣmaliṅgaṃ devatā}
+        \rdg[wit={U2}]{sūkṣmaliṅgadevatāha}}\dd{}
+      svapnāvasthā\dd{}
+      madhyamā vāk\dd{}
+      yajur-vedaḥ\dd{}
+      \app{\lem[type=emendation, resp=egoscr]{dakṣiṇo 'gniḥ}
+        \rdg[wit={U2}]{\korr dakṣināgniḥ}}\dd{}
+      \app{\lem[type=emendation, resp=egoscr]{samīpatā}
+        \rdg[wit={U2}]{samipatā}} mokṣaḥ\dd{}
+      \app{\lem[type=emendation, resp=egoscr]{guruliṅgo}
+        \rdg[wit={U2}]{\korr guruliṅga°}} viṣṇuḥ\dd{}
+      āpas-tattvaṃ\dd{}
+      rajo viṣayaḥ\dd{}
+      daśadalāni\dd{}
+      daśamātrāḥ\dd{}
+      antar-mātrā\dd{}
+      ḍaṃ ṭaṃ ṇaṃ taṃ thaṃ daṃ dhaṃ naṃ paṃ phaṃ\dd{}
+      bahir-mātrāḥ\dd{}
+      śāṃtiḥ\dd{}
+      kṣamā\dd{}
+      medhā\dd{}
+      tanayā\dd{}
+      medhāvinī\dd{}
+      puṣkarā\dd{}
+      \app{\lem[type=emendation, resp=egoscr]{haṃsagamanā}
+        \rdg[wit={U2}]{\korr ahaṃsagamanā}}\dd{}
+      lakṣyā\dd{}
+      tanmayā\dd{}
+      amṛtā\dd{}
+      ajapājapaḥ \app{\lem[type=emendation, resp=egoscr]{sahasraḥ}
+        \rdg[wit={U2}]{\korr sahasra}}\dd{} 6000\dd{} gha. 16 pa. 40\dd{}}   
+%-----------------------
+% \om                                       \B
+%tanmadhye paṃcakoṇaṃ cakraṃ varttate//    \E
+%tanmadhye paṃcakoṇaṃ cakraṃ varttate       \P
+% \om  \L
+%tanmadhye paṃcakoṇaṃ cakraṃ varttate//    \N1
+%tanmadhye paṃcakoṇaṃ cakraṃ varttate/    \N2
+%tanmadhye paṃcakoṇaṃ cakraṃ varttate//    \D
+%tanmadhye paṃcakoṇaṃ cakraṃ varttate       \U1
+%tanmadhye paṃcakoṇaṃ cakraṃ vartate//     \U2
+%-----------------------
+% In its middle exists a \textit{cakra} with five angles.
+%-----------------------
+\note[type=testium, labelb=61, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 1r. ll. 11 - 2v. ll. 1: tanmadhye paṃcakoṇaṃ pīṭhe lakṣmīnāparvatī saṃjñakaṃ \sic{guṇā} sahitā śiva saṃjñakā rāmaṇaṃ rūpā}
+tanmadhye pancakoṇaṃ cakraṃ vartate/ \note[type=philcomm, labelb=62, lem={tanmadhye \ldots cakraṃ vartate}]{This sentence is \om in L.}
+%-----------------------
+% \om                                  \B
+%tanmadhye ekā mūrtir vartate/         \E
+%tanmadhye ekā mūrtir vartate          \P
+%\om                                   \L
+%tanmadhye ekā mūrttir varttate //     \N1
+%tanmadhye ekā mūrttir varttate/       \N2
+%tanmadhye ekā mūrttir varttate//      \D
+%tanmadhye ekā mūrtir vartate          \U1
+%tanmadhye ekā mūrtir asmi//           \U2
+%-----------------------
+%In its middle is a single (divine) form. 
+%-----------------------
+\app{\lem[wit={ceteri}]{tanmadhye}
+  \rdg[wit={L}]{\om}}
+\app{\lem[wit={ceteri}]{ekā}
+  \rdg[wit={L}]{\om}}
+\app{\lem[wit={ceteri}]{mūrti\skp{r-va}}
+  \rdg[wit={L}]{\om}}\app{\lem[wit={ceteri}, alt={vartate}]{\skm{r-va}rtate}
+  \rdg[wit={U2}]{asmi}}/
+%-----------------------
+% \om                                           \B
+%tasyās tejo jihvayā kathayituṃ na śakyate /    \E
+%tasyās tejo jihvayā kathayituṃ na śakyate      \P
+%tasyās tejo jihvayā kathyituṃ  na śakyate       \L
+%tasyā  tejo jihvayā kathayituṃ  na śakyate //    \N1
+%tasyā  tejo jihvayā kathayituṃ  na śakyate/      \N2
+%tasyā  tejo jihvayā kathayituṃ  na śakyate //    \D
+%tasyās tejo jihvayā kathatuṃ   na śakyate        \U1
+%tasyās tejo jihvayā vaktuṃ     na śakyate //       \U2
+%-----------------------
+%It's not possible to describe her shine with speech (lit. with the tongue).
+%-----------------------
+\note[type=testium, labelb=63, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 2v. ll.1: yasyās tejo jihvayā kathituṃ na śakyate}
+\app{\lem[wit={ceteri}, alt={tasyās}]{tasyā\skp{s-te}}
+   \rdg[wit={N1,N2,D}]{tasyā}}\skm{s-te}jo jihvayā
+ \app{\lem[wit={ceteri}]{kathayituṃ}
+    \rdg[wit={L}]{kathyituṃ}
+    \rdg[wit={U1}]{kathatuṃ}
+    \rdg[wit={U2}]{vaktuṃ}}
+  na śakyate/
+%-----------------------
+% \om                                                                    \B
+%tasyāḥ mūrter dhyānakāraṇāt    puruṣasya śarīraṃ sthiraṃ bhavati //     \E
+%tasyā  mūrter dhyānakaraṇāt    -------------------------------------    \P
+%tasyā  mūrtir dhyānakaraṇāt // puruṣasya śarīraṃ sthiram bhavati //     \L
+%tasyāḥ mūrter dhyānakaraṇāt    puruṣasya śarīraṃ sthiraṃ bhavati /      \N1
+%tasyāḥ mūrter dhyānakaraṇāt    puruṣasya śarīraṃ sthiraṃ bhavati//      \N2
+%tasyāḥ mūrter dhyānakaraṇāt    puruṣasya śarīraṃ sthiraṃ bhavati /      \D
+%tasā          dhyānakaraṇāt    sādhakasya śarīraṃ sthiraṃ bhavati /cha/ \D2
+%tasyāḥ mūrter dhyānakaraṇāt    puruṣasya śarīraṃ sthiraṃ bhavati vā     \U1
+%tasyāḥ        dhyānakaraṇāt    puruṣasya śarīraṃ sthiraṃ bhavati //     \U2
+%-----------------------
+%Through the execution of meditation on this (divine) form the body of the person is going to be strong.   
+%-----------------------
+\note[type=testium, labelb=64, lem={\textbf{Ci}}]{\textit{Yogasaṃgraha} IGNCA 30020 folio 2v. ll. 1-2: tasā dhyānakaraṇāt sādhakasya śarīraṃ sthiraṃ bhavati |cha|}
+  \app{\lem[wit={ceteri}]{tasyāḥ}
+  \rdg[wit={P,L}]{tasyā}}
+  \app{\lem[wit={ceteri}, alt={mūrter}]{mūrte\skp{r-dhyā}}
+      \rdg[wit={L}]{mūrtir}
+      \rdg[wit={U2}]{\om}}\skm{r-dhyā}na\app{\lem[wit={ceteri}, alt={°karaṇāt}]{karaṇāt}
+      \rdg[wit={L}]{karaṇāt ||}
+      \rdg[wit={E}]{°kāraṇāt}}
+\app{\lem[wit={ceteri}]{puruṣasya}
+  \rdg[wit={P}]{\om}}
+\app{\lem[wit={ceteri}]{śarīraṃ}
+  \rdg[wit={P}]{\om}}
+\app{\lem[wit={ceteri}]{sthiraṃ}
+  \rdg[wit={P}]{\om}}    
+  \app{\lem[wit={ceteri}]{bhavati}
+    \rdg[wit={U1}]{bhavati vā}
+    \rdg[wit={P}]{\om}}\dd{}
+ \end{prose}
+\end{edition}
+\begin{translation}
+  \ekddiv{type=trans}
+  \begin{tlate}
+    \extra{Samāna is the vitalwind. The mount is Garuḍa. The deity is the suble body\footnote{Why another deity is given here?}. The state is sleep. The speech is the inaudible speech (\textit{madhyamāvāg})\footnote{<Śā, Ling>name of the speech which is inaudible and which is of the type of a thought without any definite presence of words making up the expression. Vkp I.143.<Abhyankar 1986: 300>}. The Veda is the Yajurveda. The [fire is the] southern fire. The liberation is ``proximity'' (\textit{samīpatā}).\footnote{What is this exactly?}. Viṣṇu is the characteristic of the teacher (\textit{guruliṅga}). The principle is water. The sphere is athmosphere (\textit{rajo viṣaya}). There are ten petals [and] ten matrices. [The] inner matrix: \textit{ḍaṃ ṭaṃ ṇaṃ taṃ thaṃ daṃ dhaṃ naṃ paṃ phaṃ}. The external matrix: Śānti ``she who peaceful'', Kṣamā ``she who is patient'', Medhā ``she who is insightful'', Tanayā ``the daughter'', Medhavinī ``she who is a learned teacher'', Puṣkarā ``she who is a lotus'', Haṃsagamanā ``she who moves like a swan'', Lakṣyā ``she who is the object aimed at'', Tanmayā ``she who is absorption'' and Amṛtā ``she who is immortality''. A [more than] thousandfold recitation of the non-recited; 6000 [repetitions for]; 16 \textit{ghaṭi}s [and] 40 \textit{palā}s.\footnote{Here we find the same instruction as in the previous description of the second \textit{cakra}. The practice is supposed to be done for the duration of 6000 \textit{ajapājapa}s divided into \textit{ghaṭi}s and 40 \textit{pala}s, resulting in 2320 minutes or 38,67 hours. Again this would result in a frequence of breath of 2,586206897 in- and exhalations per minute.}} In its middle exists a \textit{cakra} with five angles. In its middle is a single [divine] form. It's not possible to describe her shine with speech. Through the execution of meditation on this [divine] form the body of the person is going to be strong. \vspace*{\fill}
+  \end{tlate}
+   \end{translation}
+ \end{alignment}
+
+\chapter{Bibliography}
+ \label{sec:bibli}
+   \clearpage
+\newpage 
+\thispagestyle{empty}
+\quad  \addtocounter{page}{-1}
+
+\printbibliography[heading=subbibintoc, title=Consulted Manuskcipts, keyword=codex]
+
+\printbibliography[heading=subbibintoc, title=Printed Editions, keyword=printsource]
+
+\printbibliography[heading=subbibintoc, title=Secondary Literature, keyword=seclit]
+
+\printbibliography[heading=subbibintoc, title=Online Sources, keyword=onlinesource]
+
+
+\end{document}
+%-----------------------------  
+%\begin{alignment}[
+%    texts=edition[class="edition"];
+%    translation[class="translation"],
+%  ]
+%\begin{edition}
+% \ekddiv{type=ed}
+%\begin{prose}homa\end{prose}
+%\end{edition}
+%\begin{translation}
+%  \ekddiv{type=trans}
+%  \begin{tlate}\end{tlate}
+%   \end{translation}
+% \end{alignment}
+%
+% 
+%
+%
+%
+%
+%%%%deciphering last folio margin note of %N1!!!  
+%\input{translation.tex} 
+%\section{Bibliography}
+% \label{sec:bibli}
+%\printshorthands[keyword=critEd]
+%\printbibliography[title=Consulted Manuskcipts, keyword=codex]
+%\printbibliography[title=Printed Editions, keyword=printsource]
+%\printbibliography[title=Secondary Literature, keyword=seclit]
+%\end{document}
+

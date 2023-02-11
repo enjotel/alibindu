@@ -1,0 +1,362 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{birch2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {University of Oxford Library}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction: Ph.D. Dissertation}
+      \field{year}{2013}
+      \keyw{printsource}
+    \endentry
+    \entry{birch2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Amaraughaprabodha: New Evidence on the Manuscript Transmission of an Early Work on Haṭha- and Rājayoga}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s10781-019-09401-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s10781-019-09401-5
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{isaac2014}{book}{}
+      \name{author}{2}{}{%
+        {{hash=10f0c0b6cd0cabd435041298b61d53c0}{%
+           family={Isaacson},
+           familyi={I\bibinitperiod},
+           given={Harunaga},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7719400226d3b1f4726c772356c2e738}{%
+           family={Sferra},
+           familyi={S\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Napoli}%
+      }
+      \list{publisher}{1}{%
+        {Istituto italiano per l’Africa e l’Oriente}%
+      }
+      \strng{namehash}{8da3f99e39f870cfbf0755f7fcd31fa2}
+      \strng{fullhash}{8da3f99e39f870cfbf0755f7fcd31fa2}
+      \strng{bibnamehash}{8da3f99e39f870cfbf0755f7fcd31fa2}
+      \strng{authorbibnamehash}{8da3f99e39f870cfbf0755f7fcd31fa2}
+      \strng{authornamehash}{8da3f99e39f870cfbf0755f7fcd31fa2}
+      \strng{authorfullhash}{8da3f99e39f870cfbf0755f7fcd31fa2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Serie Orientale Roma fondata da Giuseppe Tucci Vol. CVII}
+      \field{title}{The Sekanirdeśa of Maitreyanātha (Advayavajra) with the Sekanirdeśapañjikā of Rāmapāla: Critical Edition of the Sanskrit and Tibetan Texts with English Translation and Reproduction of the MSS}
+      \field{year}{2014}
+      \keyw{printsource}
+    \endentry
+    \entry{liersch2023}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=649c0a76b0cc3812ff47f8b47865e7ce}{%
+           family={Liersch},
+           familyi={L\bibinitperiod},
+           given={Nils\bibnamedelima Jacob},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Marburg}%
+      }
+      \list{publisher}{1}{%
+        {Indica et Tibetica Verlang}%
+      }
+      \strng{namehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{fullhash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{bibnamehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{editorbibnamehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{editornamehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{editorfullhash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Das Gorakṣayogaśāstra: Diplomatische und kritische Edition mit annotierter Übersetzung (Forthcoming)}
+      \verb{urlraw}
+      \verb https://www.academia.edu/78397774/Das_Gorak%E1%B9%A3ayoga%C5%9B%C4%81stra_Diplomatische_und_kritische_Edition_mit_annotierter_%C3%9Cbersetzung
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/78397774/Das_Gorak%E1%B9%A3ayoga%C5%9B%C4%81stra_Diplomatische_und_kritische_Edition_mit_annotierter_%C3%9Cbersetzung
+      \endverb
+      \keyw{printsource}
+    \endentry
+    \entry{jogpradipyaka}{book}{}
+      \name{author}{4}{}{%
+        {{hash=ab5d00689341debfc1e15ca416f34de1}{%
+           family={Maheśānanda},
+           familyi={M\bibinitperiod},
+           given={Swāmi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=36dc2396181b6c3284472a4b2ad6f28e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Dr.\bibnamedelimi B.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=91c19f133e35a6a2867fbf4cd34a620b}{%
+           family={Sahay},
+           familyi={S\bibinitperiod},
+           given={Shri\bibnamedelimb G.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5bc7d627d18c74f05a27f804ebd8bcb1}{%
+           family={Bodhe},
+           familyi={B\bibinitperiod},
+           given={Shri\bibnamedelimb R.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lonavla}%
+      }
+      \list{publisher}{1}{%
+        {Kaivalyadhāma S. M. Y. M. Samiti}%
+      }
+      \strng{namehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{fullhash}{57cc117bd634e684cefeb750be062db0}
+      \strng{bibnamehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{authorbibnamehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{authornamehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{authorfullhash}{57cc117bd634e684cefeb750be062db0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Jogpradīpyakā of Jayatarāma}
+      \field{year}{2006}
+      \keyw{printsource}
+    \endentry
+    \entry{asiddhi}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a8be579146b7837a2ea65351707d0691}{%
+           family={Szántó},
+           familyi={S\bibinitperiod},
+           given={Péter-Dániel},
+           giveni={P\bibinithyphendelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {École française d’Extrême-Orient}%
+      }
+      \strng{namehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{fullhash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{bibnamehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{editorbibnamehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{editornamehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{editorfullhash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Indologie 150, Haṭha Yoga Series 2}
+      \field{title}{The Amṛtasiddhi and Amṛtasiddhimūla - The Earliest Texts of the Haṭhayoga Tradition}
+      \field{year}{2021}
+      \keyw{printsource}
+    \endentry
+    \entry{rosati2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a2961a9a278f4d8ba2f62792cd3429a}{%
+           family={Rosati},
+           familyi={R\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Equinox Publications}%
+      }
+      \strng{namehash}{7a2961a9a278f4d8ba2f62792cd3429a}
+      \strng{fullhash}{7a2961a9a278f4d8ba2f62792cd3429a}
+      \strng{bibnamehash}{7a2961a9a278f4d8ba2f62792cd3429a}
+      \strng{authorbibnamehash}{7a2961a9a278f4d8ba2f62792cd3429a}
+      \strng{authornamehash}{7a2961a9a278f4d8ba2f62792cd3429a}
+      \strng{authorfullhash}{7a2961a9a278f4d8ba2f62792cd3429a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Religions of South Asia 13:3}
+      \field{title}{The Yoni of Kamakhya: The Intersection of Power and Gender in its Mythology}
+      \field{volume}{13:3}
+      \field{year}{2020}
+      \field{pages}{55\bibrangedash 85}
+      \range{pages}{31}
+      \verb{urlraw}
+      \verb https://doi.org/10.1558/rosa.19013
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1558/rosa.19013
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{sferra2000}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7719400226d3b1f4726c772356c2e738}{%
+           family={Sferra},
+           familyi={S\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Istituto italiano per l’Africa e l’Oriente}%
+      }
+      \strng{namehash}{7719400226d3b1f4726c772356c2e738}
+      \strng{fullhash}{7719400226d3b1f4726c772356c2e738}
+      \strng{bibnamehash}{7719400226d3b1f4726c772356c2e738}
+      \strng{authorbibnamehash}{7719400226d3b1f4726c772356c2e738}
+      \strng{authornamehash}{7719400226d3b1f4726c772356c2e738}
+      \strng{authorfullhash}{7719400226d3b1f4726c772356c2e738}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Ṣaḍaṅgayoga by Anupamarakṣita: With Raviśrījñana's Guṇabharaṇīnāmaṣaḍangayogaṭippaṇī: Text and annotated translation}
+      \field{year}{2000}
+      \keyw{printsource}
+    \endentry
+    \entry{hevajra}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=60ac2b4004acb70db179505cf1c8b388}{%
+           family={Snellgroove},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Universiy Press}%
+      }
+      \strng{namehash}{60ac2b4004acb70db179505cf1c8b388}
+      \strng{fullhash}{60ac2b4004acb70db179505cf1c8b388}
+      \strng{bibnamehash}{60ac2b4004acb70db179505cf1c8b388}
+      \strng{editorbibnamehash}{60ac2b4004acb70db179505cf1c8b388}
+      \strng{editornamehash}{60ac2b4004acb70db179505cf1c8b388}
+      \strng{editorfullhash}{60ac2b4004acb70db179505cf1c8b388}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Hevajratantra}
+      \field{year}{1959}
+      \keyw{printsource}
+    \endentry
+    \entry{steinkellner2005}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=c8a156ccb89bbee737f556803e3eb222}{%
+           family={Steinkellner},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d4cbe674dd94ef58589179f29f515fb5}{%
+           family={Krasser},
+           familyi={K\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d46814c34afc78423f5c760dc47ed16c}{%
+           family={Lasic},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beijing - Vienna}%
+      }
+      \list{publisher}{1}{%
+        {China Tibetology Publishing House, Austrian Academy of Sciences Press}%
+      }
+      \strng{namehash}{bd51717ae4cd4e8f96919684a3941793}
+      \strng{fullhash}{bd51717ae4cd4e8f96919684a3941793}
+      \strng{bibnamehash}{bd51717ae4cd4e8f96919684a3941793}
+      \strng{editorbibnamehash}{bd51717ae4cd4e8f96919684a3941793}
+      \strng{editornamehash}{bd51717ae4cd4e8f96919684a3941793}
+      \strng{editorfullhash}{bd51717ae4cd4e8f96919684a3941793}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Sanskrit Texts from the Tibetan Autonomous Region}
+      \field{title}{Jinendrabuddhi's Viśālāmalavatī Pramāṇasamuccayaṭīkā Chapter 1 - Part I: Critical Edition}
+      \field{year}{2005}
+      \keyw{printsource}
+    \endentry
+  \enddatalist
+  \missing{footnote 144}
+  \missing{mallinson2021: 119}
+\endrefsection
+\endinput
+

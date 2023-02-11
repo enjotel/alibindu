@@ -1,0 +1,19 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'bindu.blg'
+[107] biber:340> INFO - === Fr Feb 10, 2023, 13:35:59
+[126] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[239] Biber.pm:978> INFO - Found 12 citekeys in bib section 0
+[262] Biber.pm:4401> INFO - Processing section 0
+[277] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[283] bibtex.pm:1713> INFO - LaTeX decoding ...
+[449] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[586] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[586] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[587] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[587] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[610] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[615] bbl.pm:757> INFO - Output to bindu.bbl
+[616] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_xlj2/a411a05437c082f0cf4f7e71b7c360c2_15230.utf8, line 712, warning: 240 characters of junk seen at toplevel
+[616] Biber.pm:130> WARN - I didn't find a database entry for 'mallinson2021: 119' (section 0)
+[616] Biber.pm:130> WARN - I didn't find a database entry for 'footnote 144' (section 0)
+[616] Biber.pm:132> INFO - WARNINGS: 3
