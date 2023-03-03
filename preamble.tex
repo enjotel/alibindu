@@ -28,9 +28,9 @@
 %\endgroup
 %}
 
-%\makeatletter
-%\def\blfootnote{\gdef@thefnmark{}@footnotetext}
-%\makeatother
+\makeatletter
+\def\blfootnote{\gdef@thefnmark{}@footnotetext}
+\makeatother
 
 %\renewcommand{\blfootnote}{\arabic{footnote})}
 
@@ -41,14 +41,14 @@
 %\hspace{0.25em}#1}
 %\makeatother
 
-\usepackage{etoolbox}
-\newcounter{blfootnote}
-\newenvironment{blfootnote}[1][]
-{\refstepcounter{blfootnote}%
-\begingroup%
-\def\thefootnote{\arabic{blfootnote}}%
-\ifstrempty{#1}{}{\noindent\hangindent=0.75em\hangafter=1 #1}\footnotetext}
-{\endgroup}
+%\usepackage{etoolbox}
+%\newcounter{blfootnote}
+%\newenvironment{blfootnote}[1][]
+%{\refstepcounter{blfootnote}%
+%\begingroup%
+%\def\thefootnote{\arabic{blfootnote}}%
+%\ifstrempty{#1}{}{\noindent\hangindent=0.75em\hangafter=1 #1}\footnotetext}
+%{\endgroup}
   
 %%% more functionality
 \PassOptionsToPackage{hyphens}{url}
@@ -58,7 +58,7 @@
 \usepackage{cleveref}
 \usepackage{microtype}
 \usepackage{lineno}
-\usepackage{bigfoot}
+%\usepackage{bigfoot}
 %%% more functions
 \usepackage[dvipsnames]{xcolor}
 %\usepackage[flushmargin]{footmisc}
@@ -70,7 +70,7 @@
 \setlist[enumerate]{itemsep=0mm}
 \usepackage[autostyle]{csquotes}
 \usepackage[defaultlines=2,all]{nowidow}
-\usepackage{microtype,ellipsis,adforn,booktabs,longtable,url,tikz}
+\usepackage{ellipsis,adforn,booktabs,longtable,url,tikz}
 \lineskiplimit=-3pt          
 
 \makechapterstyle{IeT}{%
@@ -229,6 +229,9 @@ hpbmk = \textcolor{red}{hpb}
 %\DeclareWitness{D2}{\selectlanguage{english}D\textsubscript{2}}{IGNCA 30020}[]  
 \DeclareWitness{U1}{\selectlanguage{english}U\textsubscript{1}}{SORI 1574}[] 
 \DeclareWitness{U2}{\selectlanguage{english}U\textsubscript{2}}{SORI 6082}[]
+%%%%%%%%%%%%%% Tattvabinduyoga - Groups of Witnesses   %%%%%%%%%%%%%%%%%%%
+\DeclareWitness{X}{\selectlanguage{english}\alpha}{Alpha Group: D,N1,N2,U1}[]
+\DeclareWitness{Y}{\selectlanguage{english}\beta}{Beta Group: B,E,L,P,U2}[]
 %%%%%%%%%%%%% Testimonia
 \DeclareWitness{Ysv}{\selectlanguage{english}Ysv}{Yogasvarodaya}[] %%%add infos!  
 
@@ -311,6 +314,7 @@ surname=Liersch]
 %\DeclareShorthand{codd}{codd.}{V,I,R,H}
 %\DeclareShorthand{edd}{edd.}{Lit,Erm,Sm}
 \DeclareShorthand{egoscr}{em.}{ego}
+\DeclareShorthand{egoscrconj}{conj.}{ego}
 \DeclareShorthand{egomute}{\unskip}{ego}
 
 \usepackage{xparse}

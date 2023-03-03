@@ -20,13 +20,11 @@
     "hyphenat"
     "babel"
     "babel-iast/babel-iast"
-    "etoolbox"
     "hyperref"
     "cleveref"
     "url"
     "microtype"
     "lineno"
-    "bigfoot"
     "xcolor"
     "pifont"
     "fourier-orns"
@@ -51,7 +49,7 @@
    (TeX-add-symbols
     '("mkbibnamefamily" 1)
     '("noun" 1)
-    "thefootnote"
+    "blfootnote"
     "fussy"
     "acpc"
     "sigl"
@@ -125,12 +123,8 @@
     "crux"
     "cruxx"
     "unm")
-   (LaTeX-add-environments
-    '("blfootnote" LaTeX-env-args ["argument"] 0))
    (LaTeX-add-bibliographies
     "bindu")
-   (LaTeX-add-counters
-    "blfootnote")
    (LaTeX-add-babel-babelfonts
     "rm")
    (LaTeX-add-xparse-macros
