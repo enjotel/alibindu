@@ -1,17 +1,17 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
-[1] Config.pm:309> INFO - Logfile is 'bindu.blg'
-[113] biber:340> INFO - === Fr Mär 10, 2023, 10:17:46
-[131] Biber.pm:418> INFO - Reading 'bindu.bcf'
-[244] Biber.pm:978> INFO - Found 8 citekeys in bib section 0
-[267] Biber.pm:4401> INFO - Processing section 0
-[282] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[287] bibtex.pm:1713> INFO - LaTeX decoding ...
-[477] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
-[593] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[593] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[593] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[593] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[611] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[616] bbl.pm:757> INFO - Output to bindu.bbl
-[616] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_yRTk/a411a05437c082f0cf4f7e71b7c360c2_7575.utf8, line 1362, warning: 58 characters of junk seen at toplevel
-[617] Biber.pm:132> INFO - WARNINGS: 1
+[0] Config.pm:309> INFO - Logfile is 'bindu.blg'
+[110] biber:340> INFO - === Mo Mär 13, 2023, 15:11:14
+[134] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[264] Biber.pm:978> INFO - Found 35 citekeys in bib section 0
+[287] Biber.pm:4401> INFO - Processing section 0
+[303] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[312] bibtex.pm:1713> INFO - LaTeX decoding ...
+[516] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[840] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[840] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[840] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[840] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[897] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[917] bbl.pm:757> INFO - Output to bindu.bbl
+[918] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_hvIJ/a411a05437c082f0cf4f7e71b7c360c2_28706.utf8, line 1362, warning: 58 characters of junk seen at toplevel
+[918] Biber.pm:132> INFO - WARNINGS: 1

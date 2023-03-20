@@ -63,6 +63,9 @@
 \usepackage[dvipsnames]{xcolor}
 %\usepackage[flushmargin]{footmisc}
 
+%%%für den Counter von Kapiteln und Sätzen! 
+\newcommand{\uproman}[1]{\uppercase\expandafter{\romannumeral#1}}
+\newcommand{\lowroman}[1]{\romannumeral#1\relax}
 
 \makeindex
 \newfontfamily\sanskritfont[Script=Devanagari,Mapping=RomDev,Scale=1.1]{Sanskrit2003}
@@ -324,7 +327,8 @@ surname=Liersch]
 \NewDocumentCommand{\tl}{m}{{\selectlanguage{iast} #1}}
 
 \NewDocumentCommand{\extra}{m}{{\textcolor{MidnightBlue}{#1}}} %command for additions to U2
-\NewDocumentCommand{\crazy}{m}{{\textcolor{red}{#1}}} %totally corrupted passage 
+\NewDocumentCommand{\crazy}{m}{{\textcolor{red}{#1}}} %totally corrupted passage
+\NewDocumentCommand{\coro}{m}{{\textcolor{violet}{#1}}} %colour for sentence counter! 
 
 \NewDocumentEnvironment{prose}{O{}}{\begin{otherlanguage}{iast}}{\end{otherlanguage}}
 % \NewDocumentEnvironment{padd}{O{}}{\begin{otherlanguage}{iast}}{\end{otherlanguage}}
