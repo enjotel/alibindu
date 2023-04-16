@@ -29,6 +29,21 @@
     "laksyayoga"
     "urdhvalaksya"
     "laksyayogatrans"
-    "urdhvalaksyatrans"))
+    "urdhvalaksyatrans"
+    "adholaksya"
+    "laksyastatements"
+    "adholaksyatrans"
+    "laksyastatementstrans"
+    "rajabody"
+    "rajabodytrans"
+    "anjacihna"
+    "anjacihnatrans"
+    "caryayoga"
+    "caryayogatrans"
+    "hathayoga"
+    "hathayogatrans"
+    "jnanayoga"
+    "jnanayogatrans"
+    "sec:bibli"))
  :latex)
 
