@@ -43,7 +43,6 @@
     "hathayoga"
     "hathayogatrans"
     "jnanayoga"
-    "jnanayogatrans"
-    "sec:bibli"))
+    "jnanayogatrans"))
  :latex)
 
