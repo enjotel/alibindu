@@ -1,20 +1,23 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'bindu.blg'
-[128] biber:340> INFO - === Mo Apr 24, 2023, 15:37:20
-[161] Biber.pm:418> INFO - Reading 'bindu.bcf'
-[278] Biber.pm:978> INFO - Found 23 citekeys in bib section 0
-[303] Biber.pm:4401> INFO - Processing section 0
-[322] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[329] bibtex.pm:1713> INFO - LaTeX decoding ...
-[557] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
-[837] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[837] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[837] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[837] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[878] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[890] bbl.pm:757> INFO - Output to bindu.bbl
-[890] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[890] Biber.pm:130> WARN - legacy year field 'no date of publication' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
-[890] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_c7_v/a411a05437c082f0cf4f7e71b7c360c2_36729.utf8, line 1396, warning: 121 characters of junk seen at toplevel
-[890] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_c7_v/a411a05437c082f0cf4f7e71b7c360c2_36729.utf8, line 1603, warning: 58 characters of junk seen at toplevel
-[890] Biber.pm:132> INFO - WARNINGS: 4
+[137] biber:340> INFO - === Do Mai  4, 2023, 13:39:48
+[169] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[323] Biber.pm:978> INFO - Found 68 citekeys in bib section 0
+[349] Biber.pm:4401> INFO - Processing section 0
+[369] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[380] bibtex.pm:1713> INFO - LaTeX decoding ...
+[659] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[1255] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1255] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1255] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1255] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1353] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[1384] bbl.pm:757> INFO - Output to bindu.bbl
+[1385] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
+[1385] Biber.pm:130> WARN - legacy year field 'no date of publication' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
+[1385] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_x0Xa/a411a05437c082f0cf4f7e71b7c360c2_31854.utf8, line 1417, warning: 121 characters of junk seen at toplevel
+[1385] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_x0Xa/a411a05437c082f0cf4f7e71b7c360c2_31854.utf8, line 1624, warning: 58 characters of junk seen at toplevel
+[1385] Biber.pm:130> WARN - I didn't find a database entry for 'bhagavadgita' (section 0)
+[1385] Biber.pm:130> WARN - I didn't find a database entry for 'nihsvasa2015' (section 0)
+[1385] Biber.pm:130> WARN - I didn't find a database entry for 'vivekamartandaold' (section 0)
+[1385] Biber.pm:132> INFO - WARNINGS: 7
