@@ -15,8 +15,7 @@
     "yogas_list"
     "discussionu2"
     "kennz"
-    "madhyalaksya"
-    "madhyalakṣya"
+    "structure"
     "sec:bibli"))
  :latex)
 

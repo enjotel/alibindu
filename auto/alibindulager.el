@@ -44,6 +44,8 @@
     "hathayogatrans"
     "jnanayoga"
     "jnanayogatrans"
-    "antaralaksya"))
+    "antaralaksya"
+    "madhyalaksya"
+    "madhyalakṣya"))
  :latex)
 
