@@ -27,6 +27,64 @@
       \field{title}{Advayatārakopaniṣat}
       \keyw{printsource}
     \endentry
+    \entry{jyotsna}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=31760bf15052d563a6df1e505fe68e3e}{%
+           family={Ayangar},
+           familyi={A\bibinitperiod},
+           given={Srinivasa},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madras}%
+      }
+      \list{publisher}{2}{%
+        {Adyar Library}%
+        {Research Centre}%
+      }
+      \strng{namehash}{31760bf15052d563a6df1e505fe68e3e}
+      \strng{fullhash}{31760bf15052d563a6df1e505fe68e3e}
+      \strng{bibnamehash}{31760bf15052d563a6df1e505fe68e3e}
+      \strng{editorbibnamehash}{31760bf15052d563a6df1e505fe68e3e}
+      \strng{editornamehash}{31760bf15052d563a6df1e505fe68e3e}
+      \strng{editorfullhash}{31760bf15052d563a6df1e505fe68e3e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Haṭhayogapradīpikā of Svātmārāma with the Commentary Jyotsnā of Brahmānanda}
+      \field{title}{Haṭhapradīpikājyotsnā}
+      \field{year}{1972}
+      \keyw{printsource}
+    \endentry
+    \entry{gorakbhani}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=9cc9897180664493db466c36d7d7aba5}{%
+           family={Baḍathvāl},
+           familyi={B\bibinitperiod},
+           given={P.D.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Prayāg}%
+      }
+      \list{publisher}{1}{%
+        {Hindī Sāhity Sammelan}%
+      }
+      \strng{namehash}{9cc9897180664493db466c36d7d7aba5}
+      \strng{fullhash}{9cc9897180664493db466c36d7d7aba5}
+      \strng{bibnamehash}{9cc9897180664493db466c36d7d7aba5}
+      \strng{editorbibnamehash}{9cc9897180664493db466c36d7d7aba5}
+      \strng{editornamehash}{9cc9897180664493db466c36d7d7aba5}
+      \strng{editorfullhash}{9cc9897180664493db466c36d7d7aba5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Gorakhbhāṇī}
+      \field{year}{1960}
+      \keyw{printsource}
+    \endentry
     \entry{birch2013}{book}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -55,6 +113,34 @@
       \field{title}{Amanaska}
       \field{year}{2013}
       \keyw{printsource}
+    \endentry
+    \entry{petersburger}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c61c98dfa82ec1564a1f70f1f5fb200e}{%
+           family={Boethling},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           suffix={O.\bibnamedelimi und\bibnamedelima Roth},
+           suffixi={O\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Petersburg}%
+      }
+      \strng{namehash}{c61c98dfa82ec1564a1f70f1f5fb200e}
+      \strng{fullhash}{c61c98dfa82ec1564a1f70f1f5fb200e}
+      \strng{bibnamehash}{c61c98dfa82ec1564a1f70f1f5fb200e}
+      \strng{authorbibnamehash}{c61c98dfa82ec1564a1f70f1f5fb200e}
+      \strng{authornamehash}{c61c98dfa82ec1564a1f70f1f5fb200e}
+      \strng{authorfullhash}{c61c98dfa82ec1564a1f70f1f5fb200e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sanskrit Wörterbuch}
+      \field{volume}{2}
+      \field{year}{1858}
+      \keyw{seclit}
     \endentry
     \entry{yogatarangini}{book}{}
       \name{editor}{1}{}{%
@@ -184,41 +270,67 @@
       \field{year}{2016}
       \keyw{printsource}
     \endentry
-    \entry{fausta1976}{book}{}
-      \name{author}{1}{}{%
-        {{hash=ae9bb342f998c8e6f7442b69aaf89be6}{%
-           family={Gorakṣanātha},
-           familyi={G\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=4e34ac7f18fe879784dc3b470f2deb31}{%
-           family={Nowotny},
-           familyi={N\bibinitperiod},
-           given={Fausta},
-           giveni={F\bibinitperiod}}}%
+    \entry{hathatattvakaumudi}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
+           family={Gharote},
+           familyi={G\bibinitperiod},
+           given={M.L.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2de7f483252a6b2fd7733bffba220660}{%
+           family={Devnath},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2470c6764a0aa5ed532ac1b534164cb2}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={V.J.},
+           giveni={V\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Köln}%
+        {Lonavla}%
       }
       \list{publisher}{1}{%
-        {K.A. Nowotny}%
+        {The Lonavla Yoga Institute}%
       }
-      \strng{namehash}{ae9bb342f998c8e6f7442b69aaf89be6}
-      \strng{fullhash}{ae9bb342f998c8e6f7442b69aaf89be6}
-      \strng{bibnamehash}{ae9bb342f998c8e6f7442b69aaf89be6}
-      \strng{authorbibnamehash}{ae9bb342f998c8e6f7442b69aaf89be6}
-      \strng{authornamehash}{ae9bb342f998c8e6f7442b69aaf89be6}
-      \strng{authorfullhash}{ae9bb342f998c8e6f7442b69aaf89be6}
-      \strng{editorbibnamehash}{4e34ac7f18fe879784dc3b470f2deb31}
-      \strng{editornamehash}{4e34ac7f18fe879784dc3b470f2deb31}
-      \strng{editorfullhash}{4e34ac7f18fe879784dc3b470f2deb31}
+      \strng{namehash}{9d526c2e4f52b064977dab41ee9e3d57}
+      \strng{fullhash}{9d526c2e4f52b064977dab41ee9e3d57}
+      \strng{bibnamehash}{9d526c2e4f52b064977dab41ee9e3d57}
+      \strng{editorbibnamehash}{9d526c2e4f52b064977dab41ee9e3d57}
+      \strng{editornamehash}{9d526c2e4f52b064977dab41ee9e3d57}
+      \strng{editorfullhash}{9d526c2e4f52b064977dab41ee9e3d57}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Haṭhatattvakaumudī: A Treatise on Haṭhayoga by Sundaradeva}
+      \field{title}{Haṭhatattvakaumudī}
+      \field{year}{2007}
+      \keyw{printsource}
+    \endentry
+    \entry{gsatacod}{codex}{}
+      \name{author}{1}{}{%
+        {{hash=2459ea6538ccd8aea05ee20aec02e548}{%
+           family={Gorakṣa},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Government Oriental Manuscripts Library, Madras}%
+      }
+      \strng{namehash}{2459ea6538ccd8aea05ee20aec02e548}
+      \strng{fullhash}{2459ea6538ccd8aea05ee20aec02e548}
+      \strng{bibnamehash}{2459ea6538ccd8aea05ee20aec02e548}
+      \strng{authorbibnamehash}{2459ea6538ccd8aea05ee20aec02e548}
+      \strng{authornamehash}{2459ea6538ccd8aea05ee20aec02e548}
+      \strng{authorfullhash}{2459ea6538ccd8aea05ee20aec02e548}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{Band 3 von Dokumente der Geistesgeschichte}
-      \field{title}{Gorakṣaśataka (Nowotny)}
-      \field{year}{1976}
+      \field{note}{manuscript no. R 7874}
+      \field{title}{Gorakṣaśataka}
+      \keyw{codex}
     \endentry
     \entry{saubhagya}{online}{}
       \name{editor}{1}{}{%
@@ -247,38 +359,149 @@
       \field{year}{2016}
       \keyw{onlinesource}
     \endentry
-    \entry{netratantra}{book}{}
-      \name{author}{1}{}{%
-        {{hash=546f1b04bda416da0bb5bcb47ac12657}{%
-           family={Kṣemarāja},
-           familyi={K\bibinitperiod}}}%
-      }
+    \entry{liersch2023}{book}{}
       \name{editor}{1}{}{%
-        {{hash=2f7837e26f3fb372f52b550727a552b0}{%
-           family={Śāstri},
-           familyi={Ś\bibinitperiod},
-           given={Madhusūdan\bibnamedelima Kaul},
-           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=649c0a76b0cc3812ff47f8b47865e7ce}{%
+           family={Liersch},
+           familyi={L\bibinitperiod},
+           given={Nils\bibnamedelima Jacob},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Srinagar}%
+        {Marburg}%
       }
-      \strng{namehash}{546f1b04bda416da0bb5bcb47ac12657}
-      \strng{fullhash}{546f1b04bda416da0bb5bcb47ac12657}
-      \strng{bibnamehash}{546f1b04bda416da0bb5bcb47ac12657}
-      \strng{authorbibnamehash}{546f1b04bda416da0bb5bcb47ac12657}
-      \strng{authornamehash}{546f1b04bda416da0bb5bcb47ac12657}
-      \strng{authorfullhash}{546f1b04bda416da0bb5bcb47ac12657}
-      \strng{editorbibnamehash}{2f7837e26f3fb372f52b550727a552b0}
-      \strng{editornamehash}{2f7837e26f3fb372f52b550727a552b0}
-      \strng{editorfullhash}{2f7837e26f3fb372f52b550727a552b0}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \list{publisher}{1}{%
+        {Indica et Tibetica Verlang}%
+      }
+      \strng{namehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{fullhash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{bibnamehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{editorbibnamehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{editornamehash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \strng{editorfullhash}{649c0a76b0cc3812ff47f8b47865e7ce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Das Gorakṣayogaśāstra: Diplomatische und kritische Edition mit annotierter Übersetzung (Forthcoming)}
+      \field{title}{Gorakṣayogaśāstra}
+      \verb{urlraw}
+      \verb https://www.academia.edu/78397774/Das_Gorak%E1%B9%A3ayoga%C5%9B%C4%81stra_Diplomatische_und_kritische_Edition_mit_annotierter_%C3%9Cbersetzung
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/78397774/Das_Gorak%E1%B9%A3ayoga%C5%9B%C4%81stra_Diplomatische_und_kritische_Edition_mit_annotierter_%C3%9Cbersetzung
+      \endverb
+      \keyw{printsource}
+    \endentry
+    \entry{jogpradipyaka}{book}{}
+      \name{author}{4}{}{%
+        {{hash=ab5d00689341debfc1e15ca416f34de1}{%
+           family={Maheśānanda},
+           familyi={M\bibinitperiod},
+           given={Swāmi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=36dc2396181b6c3284472a4b2ad6f28e}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Dr.\bibnamedelimi B.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=91c19f133e35a6a2867fbf4cd34a620b}{%
+           family={Sahay},
+           familyi={S\bibinitperiod},
+           given={Shri\bibnamedelimb G.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5bc7d627d18c74f05a27f804ebd8bcb1}{%
+           family={Bodhe},
+           familyi={B\bibinitperiod},
+           given={Shri\bibnamedelimb R.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lonavla}%
+      }
+      \list{publisher}{1}{%
+        {Kaivalyadhāma S. M. Y. M. Samiti}%
+      }
+      \strng{namehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{fullhash}{57cc117bd634e684cefeb750be062db0}
+      \strng{bibnamehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{authorbibnamehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{authornamehash}{461ba4642b1c159c5ad1c30306c8b4a0}
+      \strng{authorfullhash}{57cc117bd634e684cefeb750be062db0}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{Kashmir Series of Texts and Studies 46}
-      \field{title}{Netratantra}
-      \field{year}{1926}
+      \field{subtitle}{Jogpradīpyakā of Jayatarāma}
+      \field{title}{Jogpradīpyakā}
+      \field{year}{2006}
+      \keyw{printsource}
+    \endentry
+    \entry{rootsofyoga2017}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e150e80fdf08adb6d475a14bddc14262}{%
+           family={Singleton},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {UK}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{69a9abbaf85dcd68b4c4f4ba990258ad}
+      \strng{fullhash}{69a9abbaf85dcd68b4c4f4ba990258ad}
+      \strng{bibnamehash}{69a9abbaf85dcd68b4c4f4ba990258ad}
+      \strng{authorbibnamehash}{69a9abbaf85dcd68b4c4f4ba990258ad}
+      \strng{authornamehash}{69a9abbaf85dcd68b4c4f4ba990258ad}
+      \strng{authorfullhash}{69a9abbaf85dcd68b4c4f4ba990258ad}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Roots of Yoga}
+      \field{year}{2017}
+    \endentry
+    \entry{asiddhi}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a8be579146b7837a2ea65351707d0691}{%
+           family={Szántó},
+           familyi={S\bibinitperiod},
+           given={Péter-Dániel},
+           giveni={P\bibinithyphendelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {École française d’Extrême-Orient}%
+      }
+      \strng{namehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{fullhash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{bibnamehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{editorbibnamehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{editornamehash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \strng{editorfullhash}{ddb2bd10c12b0c0b0fc07b9c5ab20ad8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Indologie 150, Haṭha Yoga Series 2}
+      \field{subtitle}{The Amṛtasiddhi and Amṛtasiddhimūla - The Earliest Texts of the Haṭhayoga Tradition}
+      \field{title}{Amṛtasiddhi}
+      \field{year}{2021}
       \keyw{printsource}
     \endentry
     \entry{hathapradipika2024}{book}{}
@@ -330,35 +553,6 @@
       \field{subtitle}{Light on Haṭha: Haṭhapradīpikā - Critical Edition and annotated Translation (Forthcoming)}
       \field{title}{Haṭhapradīpikā}
       \field{year}{2024}
-      \keyw{printsource}
-    \endentry
-    \entry{sarvangayoga}{book}{}
-      \name{editor}{1}{}{%
-        {{hash=bad728c888298d636658fff59c460a8a}{%
-           family={Misra},
-           familyi={M\bibinitperiod},
-           given={R.C.},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Delhi}%
-      }
-      \list{publisher}{1}{%
-        {Kitabghar}%
-      }
-      \strng{namehash}{bad728c888298d636658fff59c460a8a}
-      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
-      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
-      \field{title}{Sarvāṅgayogapradīpikā}
-      \field{year}{1992}
       \keyw{printsource}
     \endentry
     \entry{yogakarnika}{book}{}
@@ -456,6 +650,13 @@
       \endverb
       \keyw{printsource}
     \endentry
+    \entry{sarada}{book}{}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{note}{see \citeauthor{saradatilakafull} 2011}
+      \field{title}{Śāradātilakatantra}
+    \endentry
     \entry{peterson1888}{book}{}
       \name{author}{1}{}{%
         {{hash=3ff775657ebb992941b0d4a710e43aa8}{%
@@ -501,61 +702,60 @@
       \endverb
       \keyw{printsource}
     \endentry
-    \entry{yogaupaniṣaded}{book}{}
+    \entry{netratantra}{book}{}
       \name{editor}{1}{}{%
-        {{hash=0cb6672c06776b8443c01ae2b2da6df2}{%
-           family={Sastri},
-           familyi={S\bibinitperiod},
-           given={Pandit\bibnamedelimb A.\bibnamedelimi Mahadeva},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Adyar}%
-      }
-      \list{publisher}{2}{%
-        {The Adyar Library}%
-        {Research Centre}%
-      }
-      \strng{namehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{fullhash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{bibnamehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editorbibnamehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editornamehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editorfullhash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{subtitle}{Yoga Upaniṣads with the Commentary of Śrī Upaniṣadbrahmayogin}
-      \field{title}{Yoga Upaniṣads}
-      \field{year}{1968}
-      \keyw{printsource}
-    \endentry
-    \entry{mandalabrah}{online}{}
-      \name{editor}{1}{}{%
-        {{hash=11380dcba1d54f05ad82afe9814b841d}{%
+        {{hash=2f7837e26f3fb372f52b550727a552b0}{%
            family={Śāstri},
            familyi={Ś\bibinitperiod},
-           given={Mahādeva},
-           giveni={M\bibinitperiod}}}%
+           given={Madhusūdan\bibnamedelima Kaul},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \list{organization}{1}{%
-        {Muktabodha Indological Research Institute (MIRI)}%
+      \list{location}{1}{%
+        {Srinagar, Bombay}%
       }
-      \strng{namehash}{11380dcba1d54f05ad82afe9814b841d}
-      \strng{fullhash}{11380dcba1d54f05ad82afe9814b841d}
-      \strng{bibnamehash}{11380dcba1d54f05ad82afe9814b841d}
-      \strng{editorbibnamehash}{11380dcba1d54f05ad82afe9814b841d}
-      \strng{editornamehash}{11380dcba1d54f05ad82afe9814b841d}
-      \strng{editorfullhash}{11380dcba1d54f05ad82afe9814b841d}
+      \strng{namehash}{2f7837e26f3fb372f52b550727a552b0}
+      \strng{fullhash}{2f7837e26f3fb372f52b550727a552b0}
+      \strng{bibnamehash}{2f7837e26f3fb372f52b550727a552b0}
+      \strng{editorbibnamehash}{2f7837e26f3fb372f52b550727a552b0}
+      \strng{editornamehash}{2f7837e26f3fb372f52b550727a552b0}
+      \strng{editorfullhash}{2f7837e26f3fb372f52b550727a552b0}
       \field{sortinit}{Ś}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.muktabodha.org/}}
-      \field{note}{\url{https://muktalib7.com/DL_CATALOG_ROOT/DL_CATALOG/TEXTS/ETEXTS/mandalabraahmanopanisaDEV.pdf}; Zugriff: 10.03.2022}
-      \field{title}{Maṇḍalabrāhmaṇopaniṣat}
-      \keyw{onlinesource}
+      \field{series}{Kashmir Series of Texts and Studies 46, 59}
+      \field{subtitle}{Netratantra with the commentary (Netroddyota) of Rājānaka Kṣemarāja}
+      \field{title}{Netratantra with Netroddyota}
+      \field{year}{1926 and 1939}
+      \keyw{printsource}
+    \endentry
+    \entry{yogabija}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=1deff5d35326857bb63879340c1be74f}{%
+           family={Śrīvāstav},
+           familyi={Ś\bibinitperiod},
+           given={Rām\bibnamedelima Lāl},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Gorakhpur}%
+      }
+      \list{publisher}{1}{%
+        {Śrī Gorakhnāth Mandir}%
+      }
+      \strng{namehash}{1deff5d35326857bb63879340c1be74f}
+      \strng{fullhash}{1deff5d35326857bb63879340c1be74f}
+      \strng{bibnamehash}{1deff5d35326857bb63879340c1be74f}
+      \strng{editorbibnamehash}{1deff5d35326857bb63879340c1be74f}
+      \strng{editornamehash}{1deff5d35326857bb63879340c1be74f}
+      \strng{editorfullhash}{1deff5d35326857bb63879340c1be74f}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Yogabīja}
+      \field{year}{1982}
+      \keyw{printsource}
     \endentry
     \entry{steinkellner2005}{book}{}
       \name{editor}{3}{}{%
@@ -594,42 +794,6 @@
       \field{series}{Sanskrit Texts from the Tibetan Autonomous Region}
       \field{title}{Jinendrabuddhi's Viśālāmalavatī Pramāṇasamuccayaṭīkā Chapter 1 - Part I: Critical Edition}
       \field{year}{2005}
-      \keyw{printsource}
-    \endentry
-    \entry{vasudeva2004}{book}{}
-      \name{editor}{1}{}{%
-        {{hash=09cd2bd788d48ae9337acf04a2b4a3f3}{%
-           family={Vasudeva},
-           familyi={V\bibinitperiod},
-           given={Somadeva},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Pondicherry}%
-      }
-      \list{publisher}{1}{%
-        {Institut Française d'Extrême-Orient}%
-      }
-      \strng{namehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
-      \strng{fullhash}{09cd2bd788d48ae9337acf04a2b4a3f3}
-      \strng{bibnamehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
-      \strng{editorbibnamehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
-      \strng{editornamehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
-      \strng{editorfullhash}{09cd2bd788d48ae9337acf04a2b4a3f3}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{The Yoga of the Mālinīvijayottaratantra, Chapters 1-4, 7, 11-17: Critical Edition, Translation and Notes}
-      \field{year}{2004}
-      \keyw{printsource}
-    \endentry
-    \entry{yogacudamani}{book}{}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{labeltitlesource}{title}
-      \field{note}{see Yoga Upaniṣads}
-      \field{title}{Yogacūḍāmaṇyupaniṣad}
       \keyw{printsource}
     \endentry
   \enddatalist
