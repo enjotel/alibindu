@@ -2404,12 +2404,22 @@
     <bcf:citekey order="54" intorder="1">jogpradipyaka</bcf:citekey>
     <bcf:citekey order="55" intorder="1">peterson1888</bcf:citekey>
     <bcf:citekey order="56" intorder="1">gorakbhani</bcf:citekey>
-    <bcf:citekey order="57" intorder="1">asiddhi</bcf:citekey>
-    <bcf:citekey order="58" intorder="1">sarada</bcf:citekey>
-    <bcf:citekey order="59" intorder="1">jyotsna</bcf:citekey>
-    <bcf:citekey order="60" intorder="1">shivayogapradipika</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">sarada</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">jyotsna</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">shivayogapradipika</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">ssplonavla</bcf:citekey>
     <bcf:citekey order="61" intorder="1">ssplonavla</bcf:citekey>
-    <bcf:citekey order="62" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">shivayogapradipika</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">yogatarangini</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">hathatattvakaumudi</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">sarada</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">jyotsna</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">yogatarangini</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">hathatattvakaumudi</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">shivayogapradipika</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
@@ -2441,13 +2451,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
-                name="nyt/global//global/global"
-                type="entry"
-                sortingtemplatename="nyt"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>
