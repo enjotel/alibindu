@@ -12,10 +12,10 @@
    (TeX-run-style-hooks
     "preamble")
    (LaTeX-add-labels
-    "yogas_list"
-    "discussionu2"
-    "kennz"
-    "structure"
+    "attributesrajabody"
+    "avadhuta"
+    "fig1"
+    "fig2"
     "sec:bibli"))
  :latex)
 

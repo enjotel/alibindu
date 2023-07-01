@@ -46,6 +46,11 @@
     "jnanayogatrans"
     "antaralaksya"
     "madhyalaksya"
-    "madhyalakṣya"))
+    "madhyalakṣya"
+    "internalexternal"
+    "quadrupletofworlds"
+    "sevenislands"
+    "ninerivers"
+    "attributesrajabody"))
  :latex)
 
