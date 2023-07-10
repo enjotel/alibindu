@@ -1,0 +1,5 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[1] Config.pm:309> INFO - Logfile is 'bindu%%compbindu4.blg'
+[105] biber:340> INFO - === Di Jul  4, 2023, 03:09:10
+[264] Utils.pm:410> ERROR - Cannot find 'bindu%%compbindu4.bcf'!
+[264] Biber.pm:135> INFO - ERRORS: 1

@@ -1,7 +1,10 @@
 (TeX-add-style-hook
  "alibindulager"
  (lambda ()
+   (TeX-run-style-hooks
+    "preamble")
    (LaTeX-add-labels
+    "kennz"
     "intro"
     "kriyayoga"
     "introtrans"
@@ -51,6 +54,10 @@
     "quadrupletofworlds"
     "sevenislands"
     "ninerivers"
-    "attributesrajabody"))
+    "attributesrajabody"
+    "avadhuta"
+    "heartlotus"
+    "heartlotustrans"
+    "knowledge"))
  :latex)
 
