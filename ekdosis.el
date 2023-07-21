@@ -2,7 +2,7 @@
 ;; This file is part of the `ekdosis' package
 
 ;; ekdosis -- TEI xml compliant critical editions
-;; Copyright (C) 2020--2022  Robert Alessi
+;; Copyright (C) 2020--2021  Robert Alessi
 
 ;; Please send error reports and suggestions for improvements to Robert
 ;; Alessi <alessi@robertalessi.net>
@@ -90,13 +90,9 @@
     ("postwit")
     ("sep")
     ("type")
-    ("ilabel")
-    ("delim")
-    ("nodelim")
     ("num")
     ("nonum")
     ("nolem" ("true" "false"))
-    ("Nolem")
     ("nosep" ("true" "false")))
   "Local options for lem macro")
 
@@ -158,8 +154,6 @@
     ("familysep")
     ("initialrule")
     ("noinitialrule")
-    ("maxentries")
-    ("nomaxentries")
     ("keyparopts")
     ("appheight")
     ("fitalgorithm" ("fontsize" "hybrid" "areasize" "squeeze")))
@@ -206,8 +200,6 @@
     ("modulonum")
     ("margin" ("right" "left" "inner" "outer"))
     ("numbers" ("elided" "full"))
-    ("maxlines")
-    ("nomaxlines")
     ("vlineation" ("page" "document"))
     ("vmodulo")
     ("vnumbrokenlines" ("true" "false"))
@@ -252,16 +244,7 @@
 (TeX-add-style-hook
  "ekdosis"
  (lambda ()
-   ;; Do not append an empty group to the following macros:
-   (setq TeX-insert-braces-alist (append TeX-insert-braces-alist
-                                         '(("modulolinenumbers" . nil)
-                                           ("vmodulolinenumbers" . nil)
-                                           ("resetlinenumber" . nil)
-                                           ("resetvlinenumber" . nil))))
    ;; Folding features:
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("{1}" ("App"))
-   		t)
    (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
    		'("{1}" ("app"))
    		t)
@@ -275,13 +258,7 @@
    		'("[n]" ("note"))
    		t)
    (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[n]" ("note*"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
    		'("[l]" ("linelabel"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[l]" ("ilabel"))
    		t)
    (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
    		'("{{1}}" ("surplus"))
@@ -290,10 +267,7 @@
    		'("<{1}>" ("supplied"))
    		t)
    (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("†{1}†" ("sic"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("†{1}" ("sic*"))
+   		'("{1}" ("sic"))
    		t)
    (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
    		'("[g]" ("gap"))
@@ -310,25 +284,9 @@
    (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
    		'("[t]" ("teidirect"))
    		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[t]" ("teidirectE"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[ml]" ("localmaxlines"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[ml]" ("addtomaxlines"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[h]" ("localappheight"))
-   		t)
-   (add-to-list (make-local-variable 'LaTeX-fold-macro-spec-list)
-   		'("[h]" ("addtoappheight"))
-   		t)
    ;; This package relies on lualatex, so check for it:
    (TeX-check-engine-add-engines 'luatex)
    (TeX-add-symbols
-    '("eKd" 0)
     '("ekdsetup" (TeX-arg-key-val LaTeX-ekdosis-ekdsetup-options))
     '("DeclareWitness" "xml:id" "rendition" "description"
       [ LaTeX-ekdosis-long-key-val LaTeX-ekdosis-declarewitness-options ]
@@ -349,10 +307,6 @@
       0)
     '("linelabel" "label"
       0)
-    '("ilabel" "indexed label"
-      0)
-    '("App" [ TeX-arg-key-val LaTeX-ekdosis-app-options ]
-      2)
     '("app" [ TeX-arg-key-val LaTeX-ekdosis-app-options ]
       t)
     '("lem" [ LaTeX-ekdosis-long-key-val LaTeX-ekdosis-lem-options ]
@@ -403,10 +357,6 @@
     '("SetLineation" (TeX-arg-key-val LaTeX-ekdosis-setlineation-options))
     '("innerlinenumbers" 0)
     '("outerlinenumbers" 0)
-    '("setmaxlines" "number" 0)
-    '("localmaxlines" "number" 0)
-    '("addtomaxlines" "number" 0)
-    '("nomaxlines" 0)
     '("modulolinenumbers" [ "number" ] )
     '("vmodulolinenumbers" [ "number" ] )
     '("resetlinenumber" [ "number" ] )
@@ -424,20 +374,13 @@
       (TeX-arg-eval completing-read
                     (TeX-argument-prompt nil nil "selector")
                     '("HEL" "HEC" "HER" "HOL" "HOC" "HOR"
-		      "FEL" "FEC" "FER" "FOL" "FOC" "FOR"
-		      "HL" "HC" "HR" "FL" "FC" "FR"))
+		      "FEL" "FEC" "FER" "FOL" "FOC" "FOR"))
       "signpost" 0 )
-    '("ekdEOprint" "even page" "odd page" 0)
-    '("setpairedpagenum" "page number" 0)
-    '("setpairedpage" 0)
-    '("resetpagenumber" 0)
-    '("ekdnohfmarks" 0)
+    '("ekdnohfmark" 0)
     '("ekdresethfmarks" 0)
     '("ekdpb" [ "page number" ] "line number" 0)
     '("ekdpb*")
     '("addentries" [ "layer" ] "number" 0)
-    '("localappheight" "dimension" 0)
-    '("addtoappheight" "dimension" 0)
     '("SetTEIFilename" "base name" 0)
     '("SetTEIxmlExport" (TeX-arg-key-val
 			 LaTeX-ekdosis-setteixmlexport-options))
@@ -446,7 +389,6 @@
     '("EnvtoTEI*" "env name" "TEI element" [ "TEI attributes" ] 0)
     '("TeXtoTEIPat" "TeX pattern" "TEI pattern" 0)
     '("teidirect" [ "xml attributes" ] "xml element" "code" 0)
-    '("teidirectE" [ "xml attributes" ] "xml element" 0)
     '("AddxmlBibResource" "basename or name.xml" 0)
     )
  (LaTeX-add-environments

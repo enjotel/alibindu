@@ -9,7 +9,7 @@
 \linespread{1.16}
 
 %%% Hyphenation settings
-\usepackage{hyphenat}
+\usepackage[htt]{hyphenat}
 \hyphenation{he-lio-trope opos-sum}
 \tracingparagraphs=1
 %Hyphenation in Devanāgarī of the edition still missing? Probably this needs to be modified in babel-iast package? 
@@ -17,8 +17,19 @@
 %%% babel
 \usepackage[english]{babel}
 \usepackage{babel-iast/babel-iast}
+
+%%maxens extrabefehle 
+%\usepackage[sanskrit]{babel}
+%\babelprovide[transforms = transliteration.iast]{sanskrit}
+
 \babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.3]{AdishilaSan}%AdishilaSan}
 \babelfont[english]{rm}{Adobe Text Pro}
+
+%\tolerance=9999
+%\emergencystretch=10pt
+%\hyphenpenalty=10000
+%\exhyphenpenalty=100
+
 
 %%% footnote without a marker
 %\newcommand\blfootnote[1]{%
@@ -29,9 +40,12 @@
 %}
 
 \makeatletter
-\def\blfootnote{\gdef@thefnmark{}@footnotetext}
-\makeatother
+\def\blfootnote{\gdef\@thefnmark{}\@footnotetext}
 
+\renewcommand*{\@makefntext}[1]{%
+  \noindent\makebox[0pt][r]{\@makefnmark}#1%
+}
+\makeatother
 %\renewcommand{\blfootnote}{\arabic{footnote})}
 
 %\makeatletter
@@ -59,6 +73,9 @@
 \usepackage{cleveref}
 \usepackage{microtype}
 \usepackage{lineno}
+%\usepackage[none]{hyphenat}
+%\newcommand{\dd}[1]{#1\nobreak\hspace{0pt plus 1pt}\nobreak\ignorespaces}
+
 %\usepackage{bigfoot}
 %%% more functions
 \usepackage[dvipsnames]{xcolor}
@@ -146,7 +163,7 @@
 %%% ekdosis
 \usepackage[teiexport=tidy,parnotes=true]{ekdosis}% =tidy cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards. parnotes=footnotes below or above critical apparatus
 
-\SetLineation{lineation=page} %lineation=pagesets thenumbering to start afresh at the top of each page. modulo makes every fifth line numbered. 
+\SetLineation{lineation=page} %lineation=page sets thenumbering to start afresh at the top of each page. =modulo makes every fifth line numbered. 
 
 \renewcommand{\linenumberfont}{\selectlanguage{english}\footnotesize} %sets language of lines to English
 
@@ -181,7 +198,8 @@ notelang=english,
 bhook=\selectlanguage{english}\textbf{Sources:},%
 %maxentries=4, 
 %ehook=.]
-%sep={: },
+%sep={] },
+%nosep,
 ]
 
 \newif\ifinapparatus
@@ -193,7 +211,7 @@ notelang=english,
 bhook=\selectlanguage{english}\textbf{Testimonia:},
 %maxentries=4, 
 %ehook=.]
-%sep={: },
+%nosep, 
 ]
 
 \newif\ifinapparatus
@@ -328,7 +346,7 @@ surname=Liersch]
 %\NewDocumentEnvironment{tlg}{O{}O{}}{\begin{verse}}{॥#1\hskip-4pt ॥\\ \end{verse}}
 \NewDocumentCommand{\tl}{m}{{\selectlanguage{iast} #1}}
 
-\NewDocumentCommand{\extra}{m}{{\textcolor{MidnightBlue}{#1}}} %command for additions to U2
+\NewDocumentCommand{\extra}{m}{{\textcolor{gray}{#1}}} %command for additions to U2
 \NewDocumentCommand{\crazy}{m}{{\textcolor{red}{#1}}} %totally corrupted passage
 \NewDocumentCommand{\coro}{m}{{\textcolor{violet}{#1}}} %colour for sentence counter! 
 
@@ -351,7 +369,8 @@ surname=Liersch]
 \NewDocumentCommand{\skm}{m}{\unless\ifinapparatus#1-\fi}
 \TeXtoTEIPat{\skm {#1}}{}
 
-\NewDocumentCommand{\dd}{}{/\hskip-4pt/}
+% \NewDocumentCommand{\dd}{}{/\hskip-4pt/}
+\NewDocumentCommand{\dd}{}{\mbox{/\hskip-4pt/}}
 \TeXtoTEIPat{\dd {}}{//}
 
 
@@ -395,3 +414,5 @@ surname=Liersch]
 % Nullify \selectlanguage in TEI as it has been used in
 % \DeclareWitness but should be ignored in TEI.
 \TeXtoTEI{selectlanguage}{}
+
+
