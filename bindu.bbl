@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{bryant2009}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=1cd018f5cc228a6cc998d4ccc4795d29}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={Edwin\bibnamedelima F.},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {North Point Press}%
+      }
+      \strng{namehash}{1cd018f5cc228a6cc998d4ccc4795d29}
+      \strng{fullhash}{1cd018f5cc228a6cc998d4ccc4795d29}
+      \strng{bibnamehash}{1cd018f5cc228a6cc998d4ccc4795d29}
+      \strng{editorbibnamehash}{1cd018f5cc228a6cc998d4ccc4795d29}
+      \strng{editornamehash}{1cd018f5cc228a6cc998d4ccc4795d29}
+      \strng{editorfullhash}{1cd018f5cc228a6cc998d4ccc4795d29}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The Yoga Sūtras of Patañjali: A New Edition, Translation and Commentary}
+      \field{year}{2009}
+      \keyw{printsource}
+    \endentry
     \entry{ssplonavla}{book}{}
       \name{editor}{2}{}{%
         {{hash=2bf1d8fce0d4d02ab24b3676f7033e1c}{%
@@ -53,63 +81,134 @@
       \field{year}{2016}
       \keyw{printsource}
     \endentry
-    \entry{sarvangayoga}{book}{}
-      \name{editor}{1}{}{%
-        {{hash=bad728c888298d636658fff59c460a8a}{%
-           family={Misra},
-           familyi={M\bibinitperiod},
-           given={R.C.},
-           giveni={R\bibinitperiod}}}%
+    \entry{parakhya}{book}{}
+      \name{author}{1}{}{%
+        {{hash=10f29d8b6d6fc551f7bbe6f907ce168b}{%
+           family={Goodall},
+           familyi={G\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Delhi}%
+        {Pondicherry}%
       }
       \list{publisher}{1}{%
-        {Kitabghar}%
+        {École française d’Extrême-Orient, Institut Français de Pondichéry}%
       }
-      \strng{namehash}{bad728c888298d636658fff59c460a8a}
-      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
-      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{editor}
+      \strng{namehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{fullhash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{bibnamehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{authorbibnamehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{authornamehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{authorfullhash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
-      \field{title}{Sarvāṅgayogapradīpikā}
-      \field{year}{1992}
+      \field{series}{Collection Indologie}
+      \field{subtitle}{The Parādhyatantra: A Scripture of the Śaiva Siddhānta. A Critical Edition and Annotated Translation}
+      \field{title}{Parākhyatantra}
+      \field{volume}{98}
+      \field{year}{2004}
       \keyw{printsource}
     \endentry
-    \entry{shivayogapradipika}{book}{}
+    \entry{markandeya}{book}{}
       \name{editor}{1}{}{%
-        {{hash=54457c057fdd3ef422843b280970fe27}{%
-           family={Powell},
+        {{hash=0a6ed0c9b53a4c53f2cd31d26ce9e5a0}{%
+           family={Pargiter},
            familyi={P\bibinitperiod},
-           given={Seth\bibnamedelima David},
-           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+           given={Frederik\bibnamedelima Eden},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Cambridge, Massachusetts}%
+        {Calcutta}%
       }
       \list{publisher}{1}{%
-        {Harvard University}%
+        {Asiatic Society of Bengal}%
       }
-      \strng{namehash}{54457c057fdd3ef422843b280970fe27}
-      \strng{fullhash}{54457c057fdd3ef422843b280970fe27}
-      \strng{bibnamehash}{54457c057fdd3ef422843b280970fe27}
-      \strng{editorbibnamehash}{54457c057fdd3ef422843b280970fe27}
-      \strng{editornamehash}{54457c057fdd3ef422843b280970fe27}
-      \strng{editorfullhash}{54457c057fdd3ef422843b280970fe27}
+      \strng{namehash}{0a6ed0c9b53a4c53f2cd31d26ce9e5a0}
+      \strng{fullhash}{0a6ed0c9b53a4c53f2cd31d26ce9e5a0}
+      \strng{bibnamehash}{0a6ed0c9b53a4c53f2cd31d26ce9e5a0}
+      \strng{editorbibnamehash}{0a6ed0c9b53a4c53f2cd31d26ce9e5a0}
+      \strng{editornamehash}{0a6ed0c9b53a4c53f2cd31d26ce9e5a0}
+      \strng{editorfullhash}{0a6ed0c9b53a4c53f2cd31d26ce9e5a0}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Dissertation as submitted on April 2023}
-      \field{subtitle}{A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā}
-      \field{title}{Śivayogapradīpikā}
-      \field{year}{2023}
+      \field{subtitle}{The Mārkaṇḍeya Purāṇa}
+      \field{title}{Mārkaṇḍeya Purāṇa}
+      \field{year}{1904}
+      \keyw{printsource}
+    \endentry
+    \entry{ramatosana}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dc716fc745d9c8460fad8d270823fd11}{%
+           family={Rāmatoṣaṇa},
+           familyi={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1bffbea7d86a57af82498f8e0ba5a636}{%
+           family={Vidyāsāgara},
+           familyi={V\bibinitperiod},
+           given={Jīvānanda},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{fullhash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{bibnamehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authorbibnamehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authornamehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authorfullhash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{editorbibnamehash}{1bffbea7d86a57af82498f8e0ba5a636}
+      \strng{editornamehash}{1bffbea7d86a57af82498f8e0ba5a636}
+      \strng{editorfullhash}{1bffbea7d86a57af82498f8e0ba5a636}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prāṇatoṣinī}
+      \field{year}{1898}
+      \verb{urlraw}
+      \verb https://archive.org/details/PranatoshiniTantraJibanandaVidyasagara1898LR
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/PranatoshiniTantraJibanandaVidyasagara1898LR
+      \endverb
+      \keyw{printsource}
+    \endentry
+    \entry{bhagavata}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=dd365210efe04ee00bf0c07b91056de2}{%
+           family={Shastri},
+           familyi={S\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=309310b8c28757f05b4772d49ec022ce}{%
+           family={Tagara},
+           familyi={T\bibinitperiod},
+           given={G.V.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Motilal Banarsidass}%
+      }
+      \strng{namehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{fullhash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{bibnamehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{editorbibnamehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{editornamehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{editorfullhash}{d2a909a85f7ea139173ccfff486cde9e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Bhāgavata Purāṇa}
+      \field{volume}{1-5}
+      \field{year}{1950}
       \keyw{printsource}
     \endentry
   \enddatalist

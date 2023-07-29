@@ -67,6 +67,7 @@
     "avadhuta"
     "heartlotus"
     "heartlotustrans"
-    "knowledge"))
+    "knowledge"
+    "generationofbody"))
  :latex)
 

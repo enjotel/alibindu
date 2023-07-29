@@ -12,6 +12,7 @@
    (TeX-run-style-hooks
     "preamble")
    (LaTeX-add-labels
+    "avadhuta"
     "sec:bibli"))
  :latex)
 

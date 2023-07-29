@@ -13344,7 +13344,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
 %-----------------------------
 %Perfection of speech arises. Within the moment of a thunderstroke any kind of fatigue does not arise in the body.  
 %-----------------------------
-\note[type=source, labelb=308, lem={\textbf{Re}}]{PT\textsuperscript{qcr \cdot YSV} (Ed. p. 844): uṣṇatā śītatā ceti vāksiddhiḥ syān na saṃśayaḥ | vidyutpāte 'pi dehasya kvacid dhānir na jāyate |}
+\note[type=source, labelb=308, labele=_308e, nosep]{cf. YSv (PT p. 844): uṣṇatā śītatā ceti vāksiddhiḥ syān na saṃśayaḥ | vidyutpāte 'pi dehasya kvacid dhānir na jāyate |}
       vāksiddhir-bhavati/ vidyutpāte
     \app{\lem[wit={D,U1}]{śarīre}
       \rdg[wit={ceteri}]{\om}}
@@ -13353,7 +13353,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
       \rdg[wit={D}]{na kiṃcid glānir}
       \rdg[wit={E}]{kācidbādhāpi}
       \rdg[wit={U2}]{kācid dhānir na}}
-    bhavati/\textsuperscript{\begin{otherlanguage}{english}\coro{[\lowroman{10}]}\end{otherlanguage}}
+    bhavati/\linelabel{_308e}
 %-----------------------------
 %tadanaṃtaraṃ  pavanarūṣī puruṣī bhavati/  samagrāṃ pṛthvīṃ dṛṣṭyā paśyati/   aṇimādyaṣṭasiddhir bhavati/ \E
 %tadanaṃtaraṃ  pavanarūpī puruṣo bhavati   samagrāṃ pṛthvīṃ dṛṣṭyā paśyati    aṇimādyaṣṭasiddhir bhavati  \P
@@ -13367,7 +13367,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
 %-----------------------------
 %Subsequently, the person becomes like the wind. He sees the entire earth with a glance. The eight supernatural powers arise.  
 %-----------------------------
-\note[type=source, labelb=309, lem={\textbf{Re}}]{PT\textsuperscript{qcr \cdot YSV} (Ed. p. 844): tato 'sau vāyuyogī syād dṛṣṭvā pṛthvīkulānvitaḥ | aṇimādy aṣṭasiddhiḥ syān mahāpadmodayas tathā | āgacchanti samīpe ca nidhayo nātra saṃśayaḥ |}
+\note[type=source, labelb=309, labele=_309e, nosep]{cf. YSv (PT p. 844): tato 'sau vāyuyogī syād dṛṣṭvā pṛthvīkulānvitaḥ | aṇimādy aṣṭasiddhiḥ syān mahāpadmodayas tathā | āgacchanti samīpe ca nidhayo nātra saṃśayaḥ |}
     tadanantaraṃ
     \app{\lem[wit={P,U2}]{pavanarūpī}
       \rdg[wit={U1}]{pavanayogī}
@@ -13385,7 +13385,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
     \app{\lem[wit={ceteri},alt={aṇimādyaṣṭasiddhir}]{aṇimādyaṣṭasiddhi\skp{r-bha}}
       \rdg[wit={U2}]{aṇimāmahimāgarimāladhimā tathā}}
     \app{\lem[wit={ceteri},alt={bhavati}]{\skm{r-bha}vati}
-      \rdg[wit={U2}]{ prātikāmyamīśatvaṃ || viśītvaṃ || ity āṣṭasiddhayaḥ ||}}/  
+      \rdg[wit={U2}]{ prātikāmyamīśatvaṃ || viśītvaṃ || ity āṣṭasiddhayaḥ ||}}/
   \end{prose}
   \bigskip
 %-----------------------------
@@ -13404,7 +13404,8 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
 %
 %The nine treasures beginning with the mahāpadma etc. approach nearby.  
 %-----------------------------
-\begin{tlg}
+  \begin{tlg}
+    \noindent
   \tl{\app{\lem[type=emendation, resp=egoscr]{mahāpadmaś-ca padmaś-ca}
     \rdg[wit={U2}]{padmaś ca mahāpadmaś ca}
     \rdg[wit={P,B}]{śrīpadmaś ca mahāpadmaṃ}
@@ -13422,7 +13423,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
 \app{\lem[type=emendation, resp=egoscr,alt={kharvaś ca nidhayo nava}]{kharvaś-ca nidhayo nava}
   \rdg[wit={P}]{vijñeyāni dhayonava}
   \rdg[wit={B,L}]{vajrayonī cīdātmakā}
-  \rdg[wit={U2}]{vajrayo navanidhi}}\dd{}\begin{otherlanguage}{english}\coro{\uproman{42}.\textsuperscript{\lowroman{14}}}\end{otherlanguage}\hskip-2pt\dd{}}
+  \rdg[wit={U2}]{vajrayo navanidhi}}\dd{} \begin{otherlanguage}{english}\coro{\uproman{43}}.1\end{otherlanguage}\hskip-2pt\dd{}}
 \end{tlg}
 \bigskip
 \begin{prose}
@@ -13440,7 +13441,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
   \rdg[wit={ceteri}]{samīpe}}
 \app{\lem[wit={ceteri}]{āgacchanti}
   \rdg[wit={U2}]{āgacchati}
-  \rdg[wit={B}]{āgacchatī ||  nava nidhayaḥ samīpa āgacchanti |}}/\textsuperscript{\begin{otherlanguage}{english}\coro{[\lowroman{15}]}\end{otherlanguage}}
+  \rdg[wit={B}]{āgacchatī ||  nava nidhayaḥ samīpa āgacchanti |}}/\linelabel{_309e}
 %-----------------------------
 %ākāśamadhye daśasu dikṣu        gamanāgamane bhavataḥ balaṃ bhavati/                                                                                     parameśvaraṃ samīpe paśyati/   karaṇe  haraṇe sāmarthyaṃ    bhavati// \E [P.56]
 %ākāśamadhye daśasu dikṣu        gamanāgamanabalaṃ           bhavati       yatra loke gamanechā bhavati     tatra loke gacchati  ajñā sarvatra sphurati   parameśvaraṃ samīpe paśyati    karaṇe  haraṇe sāmarthyaṃ    bhavati \P
@@ -13454,7 +13455,7 @@ He understands all languages. Then, a person's body becomes as strong as a diamo
 %-----------------------------
 %Within the ten cardinal points in space the power over death and rebirth arises. Wherever there is a desires to go in the world, one goes there. Ignorance disappears everywhere. One sees the Supreme Lord nearby. There is the capability of accomplishing tasks and removing obstacles.
 %-----------------------------
-\note[type=source, labelb=311, lem={\textbf{Re}}]{PT\textsuperscript{qcr \cdot YSV} (Ed. p. 844): yatrecchā gamanaṃ tatra svarge marttyerasātale | sphuraty ājñākhyaḥ sarvatra samīpe parameśvaraḥ | kāraṇe hāraṇe śakto rakṣaṇe'pi ca pārvati | ātmamadhye mano nityaṃ nirjane nivaset sudhīḥ | kṛtvātmamanasor aikyaṃ prāpnoti paramaṃ padam |}
+\note[type=source, labelb=311, labele=_311e, nosep]{cf. YSv (PT p. 844): yatrecchā gamanaṃ tatra svarge marttyerasātale | sphuraty ājñākhyaḥ sarvatra samīpe parameśvaraḥ | kāraṇe hāraṇe śakto rakṣaṇe'pi ca pārvati | ātmamadhye mano nityaṃ nirjane nivaset sudhīḥ | kṛtvātmamanasor aikyaṃ prāpnoti paramaṃ padam |}
 \app{\lem[wit={ceteri}]{ākāśamadhye}
   \rdg[wit={U1}]{ākāśa°}}
 \app{\lem[wit={ceteri}]{daśasu}
@@ -13474,7 +13475,7 @@ yatra loke gamanechā
 loke gacchati/
 ajñā sarvatra sphurati/ parameśvaraṃ samīpe
 \app{\lem[wit={ceteri}]{paśyati}
-  \rdg[wit={B,U2}]{paśyaṃti}}/\textsuperscript{\begin{otherlanguage}{english}\coro{[\lowroman{20}]}\end{otherlanguage}}
+  \rdg[wit={B,U2}]{paśyaṃti}}/
 \app{\lem[wit={ceteri}]{karaṇe}
   \rdg[wit={D}]{karaṇaṃ}}
 \app{\lem[wit={ceteri}]{haraṇe}
@@ -13482,25 +13483,25 @@ ajñā sarvatra sphurati/ parameśvaraṃ samīpe
 \app{\lem[wit={ceteri}]{sāmarthyaṃ}
   \rdg[wit={U1}]{ca sāmarthyaṃ}
   \rdg[wit={D}]{....marthyaṃ}}
-bhavati/
+bhavati/\linelabel{_311e}
 \end{prose}
   \end{edition}
   \begin{translation}
     \ekddiv{type=trans}
     \begin{tlate}
       \noindent
-      Perfection of speech arises. Within the moment of a thunderstroke any kind of fatigue does not arise in the body.\textsuperscript{\coro{[\lowroman{10}]}} Subsequently, the person becomes a yogi of the wind. He sees the entire earth with a glance. The eight supernatural powers arise.
+      Perfection of speech arises. Within the moment of a thunderstroke any kind of fatigue does not arise in the body. Subsequently, the person becomes a yogi of the wind. He sees the entire earth with a glance. The eight supernatural powers arise.
 
-      \paragraph{\uproman{42}\textsuperscript{\lowroman{14}}.}  1. Padma (lotus) and 2. Mahāpadma (great lotus), 3. Śaṃkha (conch), 4. Makara (crocodile), 5. Kacchapa (turtle), 6. Mukunda (gem), 7. Kunda (jasmine), 8. Nīla (saphire) und 9. Kharva (another gem) are the nine treasures.\footnote{Source?}
+      \paragraph{\uproman{43}. 1} 1. Padma (lotus) and 2. Mahāpadma (great lotus), 3. Śaṃkha (conch), 4. Makara (crocodile), 5. Kacchapa (turtle), 6. Mukunda (gem), 7. Kunda (jasmine), 8. Nīla (saphire) und 9. Kharva (another gem) are the nine treasures.\footnote{Source?}
       
       \bigskip
-      The nine treasures beginning with the Mahāpadma etc. approach nearby.\textsuperscript{\coro{[\lowroman{15}]}}
+      The nine treasures beginning with the Mahāpadma etc. approach nearby.
 \bigskip
-Within the ten cardinal points in space the power over death and rebirth arises. Wherever there is a desires to go in the world, one goes there.\textsuperscript{\coro{[\lowroman{17}-\lowroman{18}]}} Ignorance disappears everywhere. One sees the Supreme Lord nearby.\textsuperscript{\coro{[\lowroman{20}]}} There is the capability of accomplishing tasks and removing obstacles.   
+Within the ten cardinal points in space the power over death and rebirth arises. Wherever there is a desires to go in the world, one goes there. Ignorance disappears everywhere. One sees the Supreme Lord nearby. There is the capability of accomplishing tasks and removing obstacles.   
     \end{tlate}
   \end{translation}
-\end{alignment}
-\pagebreak
+\end{alignment} 
+\pagebreak %after pp.101-102
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
@@ -13528,258 +13529,7 @@ Within the ten cardinal points in space the power over death and rebirth arises.
 %%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
-\begin{alignment}[
-  texts=edition[class="edition"];
-  translation[class="translation"],
-  ]
-  \begin{edition}
-    \ekddiv{type=ed}
-    \centerline{\textrm{\small{[\uproman{43}.\textsuperscript{\coro{\lowroman{1}-\lowroman{10}}}Gurubhakti]}}}
-          \bigskip
-    \begin{prose}
-\noindent      
-%-----------------------------
-%idaṃ gurubhakteḥ phalaṃ            ātmamadhye manaso viśrāma--karaṇamicchatā      puruṣeṇa sadguroḥ sevāṃ kṛtvā   sāvadhānaṃ manaḥ karaṇīyam/        abhyāsabalāt paramaprāptiḥ/  \E
-%idaṃ gurubhaktaiḥ phalaṃ           ātmamadhye manaso viśrāma--karaṇamichatā       puruṣeṇa sadguroḥ sevāṃ kṛtvā   sāvadhānaṃ manaḥ karaṇīyaṃ         abhyāsabalāt paramaprāptiḥ \P
-%idaṃ gurubhakteḥ  phalaṃ//         ātmamadhye manaso viśrāmaṃ karaṃṇaṃmicchatāṃ// puruṣeṇa sadguroḥ sevāṃ kṛtvā   sāvadhānaṃ manaḥ kṛtvā karaṇīyam// abhyāsabalāt paramaprāptiḥ//\B
-%idaṃ gurubhakteḥ  phalaṃ//         ātmamadhye manaso viśrāmaṃ karaṇam icchatāṃ//  puruṣeṇa sadguroḥ sevāṃ kṛtvā   sāvadhānaṃ manaḥ kṛtvā karaṇīyaṃ...abhyāsabalāt// paramaprāptiḥ// \L
-%idaṃ gurubhakteḥ  phalaṃ           ātmamadhye manaso viśrāma--karaṇam icchatā     puruṣeṇa sadguruḥ sevāṃ kṛ..    sāvadhānaṃ manaḥ karaṇīyaṃ/        abhyāsabalāt paramaprāptiḥ/\D
-%idaṃ gurubhakteḥ  phalaṃ           ātmamadhye manaso viśrāma--karaṇam icchatā     puruṣeṇa sadguruḥ sevāṃ kṛtvā   sāvadhānaṃ manaḥ karaṇīyaṃ         abhyāsabalāt paramaprāptiḥ\U1
-%idaṃ gurubhakteḥ  phalaṃ bhavati// ātmamadhye manaso viśrāme  karaṇam ichatā      puruṣeṇa sadguroḥ sevāṃ kṛtvā// māvadhānaṃ manaḥ karaṇīyaṃ//       abhyāsabalāt paramapadaprāptiḥ\U2
-%\om                                                                 \N1
-%\om                                                                 \N2
-%-----------------------------
-%This is the result of devotion to the teacher. Within the self there exists the desire of the mind to find tranquility. By the person that has served the teacher, the mind should be made attentive. Through the power of practice the highest place is reached.
-%-----------------------------
-idaṃ
-\app{\lem[wit={ceteri}]{gurubhakteḥ}
-  \rdg[wit={P}]{gurubhaktaiḥ}}
-\app{\lem[wit={ceteri}]{phalaṃ}
-  \rdg[wit={U2}]{phalaṃ bhavati}}/
-ātmamadhye manaso
-\app{\lem[wit={ceteri},alt={viśrāmakaraṇam}]{viśrāmakaraṇa\skp{m-i}}
-  \rdg[wit={B}]{viśrāmaṃ karaṃṇaṃm}
-  \rdg[wit={L}]{viśrāmaṃ karaṇam}
-}\app{\lem[wit={ceteri},alt={icchatā}]{\skm{m-i}cchatā}
-  \rdg[wit={B,L}]{icchatāṃ}}
-puruṣeṇa
-\app{\lem[wit={ceteri}]{sadguroḥ}
-  \rdg[wit={D,U1}]{sadguruḥ}} 
-sevāṃ
-\app{\lem[wit={ceteri}]{kṛtvā}
-  \rdg[wit={D}]{kṛ..}
-  \rdg[wit={U2}]{kṛtvā ||}}
-\app{\lem[wit={ceteri}]{sāvadhānaṃ}
-  \rdg[wit={U2}]{māvadhānaṃ}}
-manaḥ
-\app{\lem[wit={ceteri}]{karaṇīyaṃ}
-  \rdg[wit={L}]{kṛtvā karaṇīyaṃ}
-  \rdg[wit={B}]{kṛtvā karaṇīyam ||}}
-\app{\lem[wit={ceteri}]{abhyāsabalāt}
-  \rdg[wit={L}]{abhyāsabalāt ||}}
-\app{\lem[wit={ceteri}]{paramaprāptiḥ}
-  \rdg[wit={U2}]{paramapadaprāptiḥ}}/
-%-----------------------------
-% tena      svaśiṣyamanasaḥ  svāsthyaṃ   karttavyam/  candrasūryyau yāvat piṃḍe  niścalau bhavataḥ//  \E %[p.57]
-% tena      svasya manasaḥ   samarasyaṃ  karttavyam   caṃdrasūryau  yāvat piṃḍo  niścalo  bhavati     \P
-% tena      svasya manasaḥ                                                                            \B %stemma point?! omission?!
-% tena      svasya manasaḥ   samarasaṃ   karttavyaṃ   caṃdrasūrya---yāt   piṃḍo  niścalo  bhavati//   \L
-% tena saha svasya manaḥ     samarasyaṃ  karttavyaṃ/  caṃdrasūryau  yāvit piṃde  niścalau bhavatiḥ//  \D
-% tena saha svascha manaḥ                karttavyaṃ   caṃdrasūryau  yāvat piṃdau niścalo  bhavati     \U1
-% tena      svasya manasaḥ   samarasyaṃ  karttavyaṃ// caṃdrasūrya---vat   piṃḍo  niścalo  bhavati//   \U2  %%%421verso.jpg
-% \om                                                                \N1
-%\om                                                                 \N2
-%-----------------------------
-%He shall create equanimity in his own mind. Just as the sun and moon [are unchangeable] in the same way and unchangeable body arises.
-%----------------------------
-\note[type=source, labelb=312, lem={\textbf{Re}}]{PT\textsuperscript{qcr \cdot YSV} (Ed. p. 844): candraḥ sūryaḥ sthiro yāvat tāvad dehasthitis tathā | tāvad ekaṃ samābhāṣya prāpnoti ca sadāgatiḥ | sa bhavet kavitā dhīrā niścalā śāntir eva ca | gurupādaprasādena tad aikyaṃ yāti siddhibhāk |}
-\app{\lem[wit={ceteri}]{tena}
-  \rdg[wit={D,U1}]{tena saha}}
-\app{\lem[wit={B,L,P,U2}]{svasya manasaḥ}
-  \rdg[wit={D}]{svasya manaḥ}
-  \rdg[wit={U1}]{svascha manaḥ}
-  \rdg[wit={E}]{svaśiṣyamanasaḥ}}
-\app{\lem[wit={L}]{samarasaṃ}
-  \rdg[wit={D,P,U2}]{samarasyaṃ}
-  \rdg[wit={E}]{svāsthyaṃ}
-  \rdg[wit={B,U1}]{\om}}
-\app{\lem[wit={ceteri}]{karttavyaṃ}
-  \rdg[wit={B}]{\om}}
-\app{\lem[wit={E,P,U1}]{candrasūryau yāvat}
-  \rdg[wit={D}]{caṃdrasūryau yāvit}
-  \rdg[wit={L}]{caṃdrasūryayāt}
-  \rdg[wit={U2}]{caṃdrasūryavat}
-  \rdg[wit={B}]{\om}}
-\app{\lem[wit={P,L,U2}]{piṃḍo}
-  \rdg[wit={D,E}]{piṃḍe}
-  \rdg[wit={U1}]{piṃḍau}
-  \rdg[wit={B}]{\om}}
-\app{\lem[wit={P,L,U1,U2}]{niścalo}
-  \rdg[wit={D,E}]{niścalau}
-  \rdg[wit={B}]{\om}}
-\app{\lem[wit={ceteri}]{bhavati}
-  \rdg[wit={D}]{bhavatiḥ}
-  \rdg[wit={E}]{bhavataḥ}}/
-\note[type=source, labelb=313, lem={\textbf{Re}}]{SSP 5.79 (Ed. p. 105): saṃvitkriyāvikaraṇodayacidvilāsaviśrāntim eva bhajatāṃ svayam eva bhāti | graste svaveganicaye padapiṇḍam aikyaṃ satyaṃ bhavet samarasaṃ guruvatsalānām |}
-%A disciple enjoying the state of samvitkriyā, vikaraṇodaya, cidvilāsa and vishranti, becomes enlightened on his own. Those who are favourite to guru indeed enjoy merger with the Absolute, when pada and piṇḍa are identified on dissolution of one's mental activities. 
-%----------------------------
-%          samyak---svabhāva-kiraṇodaya---cidvilāsa--grastaṃ        svaśāṃti samatāṃ  svayam eva yāti/ \E %[p.57]
-%          samyak---svabhāva-kiraṇodaya---cidvilāsa--grastaṃ        svaśāṃti manasā   svayam eva yāmi \P
-%                                     samaradvilāsa//grastaṃ        svaśāṃti manasā   svam   eva śāṃti// \B %stemma point?! omission?!
-% śloka    samyak---svabhāva-kiraṇodaya---cidvilāsa  grastaṃ        svaśāṃti manasā   svayam eva śāṃti... \L
-% ślokaḥ// samyak---svabhāva-kiraṇodaya---cidvilāsaṃ/grastaṃ        svaśāṃti mavatāṃ  svayam eva yāti/ \D
-% śloka    samyagaḥ svabhāva-kiraṇodaya---cidvilāsaṃ grastasamagraṃ saśāṃti  mahatāṃ  svayam eva yāti \U1
-% ślokaḥ// samyak---svabhāva-karaṇotdṛdi--cidvilāsa--grastaṃ        svaśāṃti bhavatāṃ svayam eva yāti// \U2 %%%421verso.jpg
-% \om                                                                \N1
-%\om                                                                 \N2
-%-----------------------------
-%The complete inherent nature, the appearance of beams of light and play of the divine, completely posessed, inner peace in oneself, mightyness he reaches of his own accord. 
-%-----------------------------
-\app{\lem[wit={D,U2}]{ślokaḥ}
-  \rdg[wit={L,U1}]{śloka}}\dd{}
-\end{prose}
-\begin{tlg}
-\tl{\app{\lem[wit={ceteri},alt={samyak°}]{samya\skp{k-sva}}
-        \rdg[wit={U1}]{samyagaḥ}
-}\skm{k-sva}bhāva\app{\lem[wit={ceteri},alt={°kiraṇodaya°}]{kiraṇodaya}
-  \rdg[wit={U2}]{karaṇotdṛdi}
-}\app{\lem[wit={ceteri},alt={°cidvilāsa°}]{cidvilāsa}
-  \rdg[wit={B}]{samarad vilāsa ||}
-  \rdg[wit={D}]{cidvilāsaṃ |}
-  \rdg[wit={U1}]{cidvilāsaṃ}
-}\app{\lem[type=emendation, resp=egoscr,alt={°grastasamagra°}]{grastasamagra}
-  \rdg[wit={U1}]{grastasamagraṃ}
-  \rdg[wit={ceteri}]{grastaṃ}
-}\app{\lem[wit={ceteri},alt={°svaśānti°}]{svaśānti}
-  \rdg[wit={U1}]{saśāṃti}
-}\app{\lem[wit={U1}]{mahatāṃ}
-  \rdg[wit={U2}]{bhavatāṃ}
-  \rdg[wit={D}]{mavatāṃ}
-  \rdg[wit={E}]{samatāṃ}
-  \rdg[wit={B,L,P}]{manasā}}
-\app{\lem[wit={ceteri},alt={svayam}]{svaya\skp{m-e}}
-  \rdg[wit={B}]{svam}}\skm{m-e}va
-\app{\lem[wit={ceteri}]{yāti}
-  \rdg[wit={P}]{yāmi}
-  \rdg[wit={B,L}]{śāṃti}}}\\
-\tl{
-%-----------------------------
-%graste svaveganicaye   padapiṃḍamaikyaṃ   satyaṃ bhavet samarasaṃ guruvatsalāṃ ca//1// \E
-%graste svaveganicaye   padapiṃḍamaikyaṃ   satyaṃ bhavet samarasaṃ guruvatsalānāṃ 1  \P %%%7664.jpg
-%graste svaveganicaye   padapiṃḍamaikyaṃ   sataṃ  bhavet samarasaṃ guruvatsalābhaṃ //1// \B
-%graste svaveganicaye   padapiṃḍamaikyaṃ   satāṃ  bhavet samarasaṃ guruvatsalābhaṃ //1// \L
-%\om                                                                 \N1
-%graste svavegaṃ nicaye padapiḍamaikyaṃ    satyaṃ bhavet samarasaṃ-guruvatsalānāṃ//1//  \D
-%\om                                                                 \N2
-%graste svaveganiścaye  padapiṃḍamaikyaṃ   satyaṃ bhavet samarasaṃ-guruvatchalānāṃ 1  \U1
-%grāme  sveraṃganicaye  yada piṃḍam aikyaṃ satyaṃ bhavet-samarasaṃ guruvatsalānāṃ// \U2
-%-----------------------------
-%Verschlungen eigene-schnellende Bewegung - Ansammlung -> Wenn die eigene Anhäufung [von Gedanken] ruckartig versiegt bei der Einswerdung von internen und externen Universum in Wahrhaftigkeit, welche bei Identifikation eintritt bei denen die von ganzer Seele dem Guru ergeben sind.
-%-----------------------------
-%Bei denen die dem Lehrer von ganzer Seele ergeben sind, wird die kummulative Aktivität des eigenen Geistes ruckartig [vom Guru] genommen und die wahrhaftige Identifikation, die Einswerdung mit dem internen und externen Universum entsteht: die vollständige inhärente Natur, die Erscheinung von Lichtstrahlen, das göttliche Spiel, vollständige Verzückung, innerer Friede und Macht erreicht er wie von selbst.
-%-----------------------------
-\app{\lem[wit={ceteri}]{graste}
-  \rdg[wit={U2}]{grāme}}
-\app{\lem[wit={ceteri}]{svaveganicaye}
-  \rdg[wit={D}]{svavegaṃ nicaye}
-  \rdg[wit={U1}]{svaveganiścaye}
-  \rdg[wit={U2}]{sveraṃganicaye}}
-\app{\lem[wit={ceteri}]{padapiṃḍamaikyaṃ}
-  \rdg[wit={D}]{padapiḍamaikyaṃ}
-  \rdg[wit={U2}]{yada piṃḍam aikyaṃ}}
-\app{\lem[wit={ceteri}]{satyaṃ}
-  \rdg[wit={B}]{sataṃ}
-  \rdg[wit={L}]{satāṃ}}
-bhavet-samarasaṃ
-\app{\lem[wit={D,P,U2}]{guruvatsalānāṃ}
-  \rdg[wit={B,L}]{guruvatsalābhaṃ}
-  \rdg[wit={E}]{guruvatsalāṃ ca}
-  \rdg[wit={U1}]{guruvatchalānāṃ}}\dd{}\begin{otherlanguage}{english}\coro{\uproman{43}.\textsuperscript{\lowroman{9}}}\end{otherlanguage}\hskip-2pt\dd{}}
-\end{tlg}
-\vfill
-\nolinenumbers
-\bigskip
-\centerline{\textrm{\small{[\uproman{44}.\textsuperscript{\coro{\lowroman{1}-\lowroman{20}}}Avadhūta]}}}%killi 
-\label{avadhuta}
-\bigskip
-\linenumbers
-\begin{prose}
-  \noindent
-%---------------------------- 
-%idānīm avadhūtapuruṣasya lakṣaṇaṃ kathyate/ \E
-%idānīm avadhūtapuruṣasya lakṣaṇaṃ kathyate \P
-%idānīm avadhūtapuruṣasya lakṣaṇam āha/ \B DSCN7171.jpg last line
-%idānīm avadhūtapuruṣasya lakṣaṇam āha// \L
-%\om                                                                 \N1
-%idānīm mavadhūtapuruṣasya lakṣaṇam kathyate// \D
-%\om                                                                 \N2
-%idānīm avadhūtapuruṣasya lakṣaṇam kathyate \U1
-%idānīm avadhūtapuruṣasya lakṣaṇaṃ kathyate// \U2
-%-----------------------------
-%Now the characteristic of an Avadhūta-person is taught. 
-%----------------------------
-idānīm-avadhūtapuruṣasya
-\app{\lem[wit={ceteri}]{lakṣaṇaṃ}
-   \rdg[wit={B,L,D,U1}]{lakṣaṇam}}
-\app{\lem[wit={ceteri}]{kathyate}
-  \rdg[wit={B,L}]{āha}}/ 
-       \end{prose}
-       \begin{tlg}
-%----------------------------
-%yasya haste  dhairyadaṇḍaḥ kharparaṃ  śūnyam āsanam/  yogaiśvaryeṇa saṃpannaḥ sovadhūta  udāhṛtaḥ//2// \E %%%SSP 6.10
-%yasya haste  dhairyadaṇḍaḥ kharparaṃ  śūnyam āsanam   yogaiśvaryeṇa saṃpanna  sovadhūta  udāhṛtaḥ 2  \P
-%yasya haste  dhairyadaṇḍaḥ kharparaṃ  śunyabhāsanam// yogaiśvaryai  saṃpannaḥ sovadhūtam udāhṛtaṃ// \B DSCN7172 Z.1
-%yasya haste  dhairyadaṇḍaḥ kharparaṃ  śubhāsanam//    yogaiśvarye   saṃpannaḥ sovadhūtam udāhṛtaṃ// \L
-%yasya haste  dhairyadaṇḍaḥ kharaparaṃ śūnyam ānasaṃ/  yogaiśvaryeṇa saṃpannaḥ sovadhūta  udāhṛtaḥ//2// \D
-%yasya haste  dhairyadaṇḍaḥ kharaparaṃ śūnyanāmakaṃ    yogaiśvaryeṇa saṃpannaḥ sovadhūta  udāhṛtaḥ 2 \U1 %%%292.jpg
-%yasya hastai dhairyadaṇḍaḥ kharparaṃ  śūnyam āsanaṃ// yogaiśvaryeṇa sapannaḥ  sovadhūta  udāhṛtaḥ//  \U2
-%\om                                                                                            \N1
-%\om                                                                                            \N2
-%-----------------------------
-%He, whose staff in the hand is [royal?]courage, whose begging bowl is the shine of emptiness. Furnished with the power of yoga, he is called an accomplished Avadhūta.  
-%----------------------------
-         \note[type=source, labelb=314, lem={\textbf{Cee}}]{SSP 6.10 (Ed. p. 111): yasya dhairyamayo daṇḍaḥ parākāśaṃ ca kharparaṃ | yogapaṭṭaṃ nijāśaktiḥ so 'vadhūto 'bhidhīyate |}
-         \noindent
-\tl{yasya \app{\lem[wit={ceteri}]{haste}
-    \rdg[wit={U2}]{hastai}}
-dhairyadaṇḍaḥ \app{\lem[wit={ceteri}]{kharparaṃ}
-  \rdg[wit={D,U1}]{kharaparaṃ}}
-\app{\lem[wit={ceteri}, alt={śūnyam āsanaṃ}]{śūnyam\skp{-}āsanaṃ}
-  \rdg[wit={B}]{śunyabhāsanam}
-  \rdg[wit={U1}]{śūnyanāmakaṃ}}}\\
-\tl{\app{\lem[wit={ceteri}]{yogaiśvaryeṇa}
-  \rdg[wit={B}]{yogaiśvaryai}
-  \rdg[wit={L}]{yogaiśvarye}}
-\app{\lem[wit={ceteri}]{saṃpannaḥ}
-  \rdg[wit={P}]{saṃpanna}
-  \rdg[wit={U2}]{sapannaḥ}}
-\app{\lem[wit={ceteri}]{sovadhūta}
-  \rdg[wit={B,L}]{sovadhūtam}} 
-\app{\lem[wit={ceteri}]{udāhṛtaḥ}
-  \rdg[wit={B,L}]{udāhṛtaṃ}}\dd{}\begin{otherlanguage}{english}\coro{\uproman{44}.\textsuperscript{\lowroman{2}}}\end{otherlanguage}\hskip-2pt\dd{}}
-\end{tlg}
-  \end{edition}
-  \begin{translation}
-    \ekddiv{type=trans}
-    \begin{tlate}
-\centerline{\textrm{\small{[\uproman{43}.\textsuperscript{\coro{\lowroman{1}-\lowroman{10}}}Gurubhakti]}}}
-\bigskip
-\noindent
-This is the result of devotion to the teacher. Within the self is the mind's desire to find tranquility. By the person that has served the teacher, the mind should be made attentive. Through the power of practice, the highest place is reached. By him, equanimity shall be created in his own mind. Just as the sun and moon [are unchangeable], an unchangeable body arises in the same way.
 
- \paragraph{\uproman{43}\textsuperscript{\lowroman{9}}.} In those who are wholeheartedly devoted to the teacher, the cumulative activity of one's own mind is abruptly taken [by the Guru], and true identification, the union with the internal and external universe, emerges: the complete inherent nature, the manifestation of beams of light, the divine play, complete ecstasy, inner peace, and power are attained effortlessly.\footnote{Source?}
-\end{tlate}
-\begin{tlate}
-  \bigskip
-  \centerline{\textrm{\small{[\uproman{44}.\textsuperscript{\coro{\lowroman{1}-\lowroman{20}}}Avadhūta]}}}
-  \bigskip
-  Now the characteristic of an Avadhūta-person is taught.
-  
-   \paragraph{\uproman{44}\textsuperscript{\lowroman{2}}.} He, whose staff in hand is [royal?]courage, whose begging bowl is the shine of emptiness. Furnished with the power of yoga, he is called an accomplished Avadhūta.  
-    \end{tlate}
-  \end{translation}
-\end{alignment}
-\pagebreak
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 %%%%%%%%PAGEBREAK%%%%%%%PAGEBREAK%%%%%%%%%
