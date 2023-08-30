@@ -1,22 +1,29 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'bindu.blg'
-[120] biber:340> INFO - === Do Jul 27, 2023, 22:21:52
-[146] Biber.pm:418> INFO - Reading 'bindu.bcf'
-[256] Biber.pm:978> INFO - Found 6 citekeys in bib section 0
-[281] Biber.pm:4401> INFO - Processing section 0
-[299] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[308] bibtex.pm:1713> INFO - LaTeX decoding ...
-[564] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
-[683] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[683] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[683] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[683] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[703] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[707] bbl.pm:757> INFO - Output to bindu.bbl
-[707] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
-[707] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[707] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
-[707] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
-[708] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_Oc8w/a411a05437c082f0cf4f7e71b7c360c2_337908.utf8, line 1659, warning: 121 characters of junk seen at toplevel
-[708] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_Oc8w/a411a05437c082f0cf4f7e71b7c360c2_337908.utf8, line 1879, warning: 58 characters of junk seen at toplevel
-[708] Biber.pm:132> INFO - WARNINGS: 6
+[121] biber:340> INFO - === Mi Aug 30, 2023, 09:48:04
+[151] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[340] Biber.pm:978> INFO - Found 98 citekeys in bib section 0
+[365] Biber.pm:4401> INFO - Processing section 0
+[383] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[391] bibtex.pm:1713> INFO - LaTeX decoding ...
+[657] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[1375] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1375] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1376] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1376] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1505] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[1555] bbl.pm:757> INFO - Output to bindu.bbl
+[1556] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
+[1556] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
+[1556] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
+[1556] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
+[1556] Biber.pm:130> WARN - legacy year field '1926 and 1939' in entry 'netratantra' is not an integer - this will probably not sort properly.
+[1556] Biber.pm:130> WARN - legacy year field 'no date of publication' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
+[1556] Biber.pm:130> WARN - legacy year field '1987 (First Edition 1918-1938' in entry 'tantraloka' is not an integer - this will probably not sort properly.
+[1556] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_KkxX/a411a05437c082f0cf4f7e71b7c360c2_137635.utf8, line 1659, warning: 121 characters of junk seen at toplevel
+[1556] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_KkxX/a411a05437c082f0cf4f7e71b7c360c2_137635.utf8, line 1879, warning: 58 characters of junk seen at toplevel
+[1556] Biber.pm:130> WARN - I didn't find a database entry for 'bhagavadgita' (section 0)
+[1556] Biber.pm:130> WARN - I didn't find a database entry for 'sivayoga' (section 0)
+[1556] Biber.pm:130> WARN - I didn't find a database entry for 'shivayogapradipka' (section 0)
+[1557] Biber.pm:130> WARN - I didn't find a database entry for 'Netrodyota' (section 0)
+[1557] Biber.pm:132> INFO - WARNINGS: 13
