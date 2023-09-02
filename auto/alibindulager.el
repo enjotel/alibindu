@@ -12,7 +12,6 @@
    (TeX-run-style-hooks
     "preamble")
    (LaTeX-add-labels
-    "kennz"
     "intro"
     "kriyayoga"
     "introtrans"
