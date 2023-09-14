@@ -38,15 +38,14 @@
 %\addtocounter{footnote}{-1}%
 %\endgroup
 %}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeatletter
 \def\blfootnote{\gdef\@thefnmark{}\@footnotetext}
-
-\renewcommand*{\@makefntext}[1]{%
-  \noindent\makebox[0pt][r]{\@makefnmark}#1%
-}
+%\renewcommand*{\@makefntext}[1]{%
+%  \noindent\makebox[0pt][r]{\@makefnmark}#1%
+%}
 \makeatother
-%\renewcommand{\blfootnote}{\arabic{footnote})}
+%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %\makeatletter
 %5\def@makefntext#1{%
@@ -176,19 +175,6 @@
   appheight=0.8\textheight,
 }
 
-% Declare \ifinapparatus and set \inapparatustrue at the beginning of
-% the apparatus criticus block. Also set the language.  
-\newif\ifinapparatus
-  \DeclareApparatus{default}[
-  %bhook=\inapparatustrue, 
-  lang=english,
-  %maxentries=33,
-  %bhook=\selectlanguage{english},
-  sep = {] },
-  delim=\hskip 0.75em,
-  rule=\rule{0.7in}{0.4pt},
-]
-
 \newif\ifinapparatus
 \DeclareApparatus{source}[
 %bhook=\inapparatustrue,
@@ -212,6 +198,19 @@ bhook=\selectlanguage{english}\textbf{Testimonia:},
 %maxentries=4, 
 %ehook=.]
 %nosep, 
+]
+
+% Declare \ifinapparatus and set \inapparatustrue at the beginning of
+% the apparatus criticus block. Also set the language.  
+\newif\ifinapparatus
+  \DeclareApparatus{default}[
+  %bhook=\inapparatustrue, 
+  lang=english,
+  %maxentries=33,
+  %bhook=\selectlanguage{english},
+  sep = {] },
+  delim=\hskip 0.75em,
+  rule=\rule{0.7in}{0.4pt},
 ]
 
 \newif\ifinapparatus
