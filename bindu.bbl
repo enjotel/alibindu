@@ -19,137 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{bäumer2013}{book}{}
+    \entry{birch2013}{book}{}
       \name{author}{1}{}{%
-        {{hash=5e57b1d6ac5c13d577d04f052bc56fbf}{%
-           family={Bäumer},
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
            familyi={B\bibinitperiod},
-           given={Bettina},
-           giveni={B\bibinitperiod}}}%
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
       }
-      \list{location}{2}{%
-        {Frankfurt am Main}%
-        {Leipzig}%
+      \list{location}{1}{%
+        {Oxford}%
       }
       \list{publisher}{1}{%
-        {Verlag der Weltreligionen im Insel Verlag}%
+        {University of Oxford Library}%
       }
-      \strng{namehash}{5e57b1d6ac5c13d577d04f052bc56fbf}
-      \strng{fullhash}{5e57b1d6ac5c13d577d04f052bc56fbf}
-      \strng{bibnamehash}{5e57b1d6ac5c13d577d04f052bc56fbf}
-      \strng{authorbibnamehash}{5e57b1d6ac5c13d577d04f052bc56fbf}
-      \strng{authornamehash}{5e57b1d6ac5c13d577d04f052bc56fbf}
-      \strng{authorfullhash}{5e57b1d6ac5c13d577d04f052bc56fbf}
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{series}{Taschenbuch 6}
-      \field{subtitle}{Vijñāna Bhairava - Das göttliche Bewußtsein}
-      \field{title}{Vijñānabhairava}
+      \field{subtitle}{The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction: Ph.D. Dissertation}
+      \field{title}{Amanaska}
       \field{year}{2013}
       \keyw{printsource}
-    \endentry
-    \entry{chandogya}{book}{}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{labeltitlesource}{title}
-      \field{note}{see The Early Upanishads}
-      \field{title}{Chāndogya-Upaniṣad}
-      \field{pages}{166\bibrangedash 169}
-      \range{pages}{4}
-      \keyw{printsource}
-    \endentry
-    \entry{triadicheart}{book}{}
-      \name{author}{1}{}{%
-        {{hash=4dd94ddce2939a24066bf8289bf92dd3}{%
-           family={Muller-Ortega},
-           familyi={M\bibinithyphendelim O\bibinitperiod},
-           given={Paul\bibnamedelima Eduardo},
-           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {State University of New York Press}%
-      }
-      \strng{namehash}{4dd94ddce2939a24066bf8289bf92dd3}
-      \strng{fullhash}{4dd94ddce2939a24066bf8289bf92dd3}
-      \strng{bibnamehash}{4dd94ddce2939a24066bf8289bf92dd3}
-      \strng{authorbibnamehash}{4dd94ddce2939a24066bf8289bf92dd3}
-      \strng{authornamehash}{4dd94ddce2939a24066bf8289bf92dd3}
-      \strng{authorfullhash}{4dd94ddce2939a24066bf8289bf92dd3}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Studie zum bei Abhinavagupta zentralen Symbol des "Herzens" v.a. auf Basis von Parātriśikā Laghuvṛtti; der Anhang enthält die erste englische Übersetzung des kurzen Textes.}
-      \field{title}{The Triadic Heart of Śiva, Kaula Tantrism of Abhinavagupta in the non-dual Shaivism of Kashmir}
-      \field{year}{1989}
-      \keyw{printsource}
-    \endentry
-    \entry{upanishads}{book}{}
-      \name{author}{1}{}{%
-        {{hash=81ca6ac8d1a43cc72afe41459848a943}{%
-           family={Olivelle},
-           familyi={O\bibinitperiod},
-           given={Patrick},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{81ca6ac8d1a43cc72afe41459848a943}
-      \strng{fullhash}{81ca6ac8d1a43cc72afe41459848a943}
-      \strng{bibnamehash}{81ca6ac8d1a43cc72afe41459848a943}
-      \strng{authorbibnamehash}{81ca6ac8d1a43cc72afe41459848a943}
-      \strng{authornamehash}{81ca6ac8d1a43cc72afe41459848a943}
-      \strng{authorfullhash}{81ca6ac8d1a43cc72afe41459848a943}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Early Upanishads}
-      \field{year}{2014}
-      \keyw{printsource}
-    \endentry
-    \entry{törzsök2022}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b066c96e07856ac586d1906cd30f5436}{%
-           family={Törzsök},
-           familyi={T\bibinitperiod},
-           given={Judith},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {openedition.org}%
-      }
-      \strng{namehash}{b066c96e07856ac586d1906cd30f5436}
-      \strng{fullhash}{b066c96e07856ac586d1906cd30f5436}
-      \strng{bibnamehash}{b066c96e07856ac586d1906cd30f5436}
-      \strng{authorbibnamehash}{b066c96e07856ac586d1906cd30f5436}
-      \strng{authornamehash}{b066c96e07856ac586d1906cd30f5436}
-      \strng{authorfullhash}{b066c96e07856ac586d1906cd30f5436}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Section des sciences religieuses [En ligne]}
-      \field{note}{mis en ligne le 03 juin 2022, consulté le 07 juillet 2022.}
-      \field{subtitle}{Annuaire de l'École pratique des hautes études (EPHE), Résumé des conférences et travaux}
-      \field{title}{Religions de l’Inde : études shivaïtes}
-      \field{volume}{129}
-      \field{year}{2022}
-      \field{pages}{117\bibrangedash 124}
-      \range{pages}{8}
-      \verb{urlraw}
-      \verb https://link.springer.com/article/10.1007/s10781-019-09401-5
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/article/10.1007/s10781-019-09401-5
-      \endverb
-      \keyw{seclit}
     \endentry
   \enddatalist
 \endrefsection

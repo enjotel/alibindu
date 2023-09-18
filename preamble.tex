@@ -7,6 +7,7 @@
 %\setlength{\headheight}{5pt}
 \checkandfixthelayout[lines]
 \linespread{1.16}
+% \flushbottom
 
 %%% Hyphenation settings
 \usepackage[htt]{hyphenat}
@@ -18,51 +19,9 @@
 \usepackage[english]{babel}
 \usepackage{babel-iast/babel-iast}
 
-%%maxens extrabefehle 
-%\usepackage[sanskrit]{babel}
-%\babelprovide[transforms = transliteration.iast]{sanskrit}
-
 \babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.3]{AdishilaSan}%AdishilaSan}
 \babelfont[english]{rm}{Adobe Text Pro}
 
-%\tolerance=9999
-%\emergencystretch=10pt
-%\hyphenpenalty=10000
-%\exhyphenpenalty=100
-
-
-%%% footnote without a marker
-%\newcommand\blfootnote[1]{%
-%\begingroup
-%\renewcommand\thefootnote{}\footnote{\noindent #1}%
-%\addtocounter{footnote}{-1}%
-%\endgroup
-%}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\makeatletter
-\def\blfootnote{\gdef\@thefnmark{}\@footnotetext}
-%\renewcommand*{\@makefntext}[1]{%
-%  \noindent\makebox[0pt][r]{\@makefnmark}#1%
-%}
-\makeatother
-%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%\makeatletter
-%5\def@makefntext#1{%
-%\noindent
-%\makebox[0.75em][l]{@thefnmark.}%
-%\hspace{0.25em}#1}
-%\makeatother
-
-%\usepackage{etoolbox}
-%\newcounter{blfootnote}
-%\newenvironment{blfootnote}[1][]
-%{\refstepcounter{blfootnote}%
-%\begingroup%
-%\def\thefootnote{\arabic{blfootnote}}%
-%\ifstrempty{#1}{}{\noindent\hangindent=0.75em\hangafter=1 #1}\footnotetext}
-%{\endgroup}
-  
 %%% more functionality
 \PassOptionsToPackage{hyphens}{url}
 \usepackage{hyperref}
@@ -72,13 +31,10 @@
 \usepackage{cleveref}
 \usepackage{microtype}
 \usepackage{lineno}
-%\usepackage[none]{hyphenat}
-%\newcommand{\dd}[1]{#1\nobreak\hspace{0pt plus 1pt}\nobreak\ignorespaces}
 
 %\usepackage{bigfoot}
 %%% more functions
 \usepackage[dvipsnames]{xcolor}
-% \usepackage[flushmargin]{footmisc}
 %\usepackage[para,perpage]{footmisc}
 
 %%%für den Counter von Kapiteln und Sätzen! 
@@ -104,32 +60,27 @@
 \settocdepth{subsubsection}
 
 %%%% test better pagebreaks
-\def\fussy{%
-  \emergencystretch\z@
-  \tolerance 200%
-  \hfuzz .1\p@
-  \vfuzz\hfuzz}
+%\def\fussy{%
+%  \emergencystretch\z@
+%  \tolerance 200%
+%  \hfuzz .1\p@
+%  \vfuzz\hfuzz}
 
-\interfootnotelinepenalty=10000\relax
+%\interfootnotelinepenalty=10000\relax
 
-\usepackage[maxfloats=256]{morefloats}
+%\usepackage[maxfloats=256]{morefloats}
 
-\maxdeadcycles=500
+%\maxdeadcycles=500
 
-\raggedbottomsectiontrue
-\checkandfixthelayout
+%raggedbottomsectiontrue
+%%\checkandfixthelayout
 
-%%%
-%\setlength{\parskip}{2cm plus0.5cm minus0.5cm}
 
 %%%%%%%  biblatex
-\newcommand{\noun}[1]{\textsc{#1}}    %  philosophy-verbose
+%\newcommand{\noun}[1]{\textsc{#1}}    %  philosophy-verbose
 \usepackage[backend=biber, sorting=nyt, style=verbose]{biblatex} %%%%ORIGINAL TiE
 \renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
-% scauthors=all, publocformat=locpubyear,
-% inbeforejournal=true, volnumformat=plain,relatedformat=parens
-%\renewcommand*{\volnumpunct}{.}
-%\addbibresource{GYS-Iet.bib}
+
 
 \DeclareFieldFormat{url}{%
   \mkbibacro{URL}\addcolon\space
@@ -138,22 +89,6 @@
 \DeclareFieldFormat{citeurl}{%
   \href{#1}{\nolinkurl{\thefield{urlraw}}}} 
 
-
-%Index
-%\usepackage[backend=biber, bibstyle=verbose, citestyle=authoryear]{biblatex}
-%
-%\DefineBibliographyStrings{german}{
-%  references = {Literaturverzeichnis},
-%  bibliography = {Bibliographie},
-%  shorthands = {Abkürzungen der Zeugen des kritischen Apparatus},
-%}
-
-%\makeatletter
-%\renewcommand*{\mkbibnamefamily}[1]{%
-%  \ifdefstring{\blx@delimcontext}{parencite}
-%    {\textsc{#1}}
-%    {#1}}
-%\makeatother
 
 \DeclareFieldFormat{postnote}{#1}
 \renewcommand{\postnotedelim}{, }
@@ -228,6 +163,16 @@ showpagebreaks,
 spbmk = \textcolor{blue}{spb},
 hpbmk = \textcolor{red}{hpb}
 }
+
+%\usepackage{fnpos}
+%\makeFNmid
+%\makeFNbottom
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+\def\blfootnote{\gdef\@thefnmark{}\@footnotetext}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Macros and Definitions for the Print of Sigla
 \def\acpc#1#2#3{{#1}\rlap{\textrm{\textsuperscript{#3}}}\textsubscript{\textrm{#2}}\space}

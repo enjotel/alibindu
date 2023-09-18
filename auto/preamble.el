@@ -4,14 +4,14 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("memoir" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("hyphenat" "htt") ("babel" "english") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("morefloats" "maxfloats=256") ("biblatex" "backend=biber" "sorting=nyt" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+                     '(("hyphenat" "htt") ("babel" "english") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -43,17 +43,14 @@
     "adforn"
     "booktabs"
     "tikz"
-    "morefloats"
     "biblatex"
     "ekdosis"
     "xparse")
    (TeX-add-symbols
     '("mkbibnamefamily" 1)
-    '("noun" 1)
     '("lowroman" 1)
     '("uproman" 1)
     "blfootnote"
-    "fussy"
     "acpc"
     "sigl"
     "None"
