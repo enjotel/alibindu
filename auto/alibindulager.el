@@ -1,23 +1,22 @@
 (TeX-add-style-hook
  "alibindulager"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
-    "preamble")
+    "preamble"
+    "titles")
    (LaTeX-add-labels
     "intro"
     "kriyayoga"
     "introtrans"
-    "kriyayogatrans"
     "siddhayoga"
-    "siddhayogatrans"
     "cakra1"
     "cakra1trans"
     "cakra2"
@@ -41,9 +40,7 @@
     "laksyayogatrans"
     "urdhvalaksyatrans"
     "adholaksya"
-    "laksyastatements"
     "adholaksyatrans"
-    "laksyastatementstrans"
     "rajabody"
     "rajabodytrans"
     "anjacihna"
@@ -53,15 +50,26 @@
     "hathayoga"
     "secondtypehatha"
     "hathayogatrans"
+    "secondhathatrans"
     "jnanayoga"
     "jnanayogatrans"
+    "bahya"
+    "bahyatrans"
+    "continuebahya"
     "antaralaksya"
+    "divisionofchannels"
+    "vitalwinds"
     "madhyalaksya"
-    "madhyalakṣya"
+    "cakranukrama"
+    "ashtanga"
+    "ashtangatrans"
     "internalexternal"
+    "lokatraya"
     "quadrupletofworlds"
     "gapn1n2start"
     "sevenislands"
+    "saptasamudra"
+    "ninecontinents"
     "ninerivers"
     "attributesrajabody"
     "avadhuta"
@@ -69,6 +77,6 @@
     "heartlotus"
     "heartlotustrans"
     "knowledge"
-    "generationofbody"))
+    "knowledgetrans"))
  :latex)
 

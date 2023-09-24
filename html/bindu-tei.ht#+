@@ -1,0 +1,119 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title></title>
+      <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+   </head>
+   <body>
+      <h1></h1>
+      
+      <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="div-edition_1" class="edition">
+         <div type="ed">
+            <h3 xmlns="http://www.w3.org/1999/xhtml"></h3>
+            <div type="section" n="XXV">
+               <h3 xmlns="http://www.w3.org/1999/xhtml">[
+                  <uproman xmlns="http://www.tei-c.org/ns/1.0">25</uproman>. <span class="bold"></span>]</h3> 
+               <div xmlns="http://www.w3.org/1999/xhtml" class="row">
+                  <div class="column">
+                     <div class="wapp">
+                        <p> <span class="note">cf. SSP 1.66 (Ed. p. 29): atha nāḍīnāṃ daśadvārāṇi | iḍā piṅgalā ca nāsādvārayor vahataḥ
+                              | gāndhārī hastijihvikā ca cakṣurdvārayor vahataḥ | pūṣā yaśasvinī ca karṇadvārayor
+                              vahataḥ | alambuṣā ānane vahati | kuhūr gudadvāre vahati | śaṅkhinī liṅgadvāre vahati
+                              | suṣumṇā madhyadeśe vahati | sā daṇḍamārgeṇa brahmarandhraparyantaṃ vahati | evaṃ
+                              daśanāḍyo daśadvāreṣu vahanti | anyāḥ sarvanāḍyo romakūpeṣu vahanti |</span><span class="note">cf. YSv (PT p. 838): idānīṃ śṛṇu nāḍīnāṃ bhedaṃ vakṣyāmi siddhidam | meruvāhye iḍānāmnī
+                              piṅgalayā samanvitā | suṣumnā bhānumārgeṇa brahmadvārāvadhi sthitā | sarasvatī sugandhā
+                              tu gāndhārī hastijihvakā | jñātavyā karṇayormadhye netrayoś ca tathāntimā | pūṣā cālambuṣā
+                              ceti mūlasthā kutracit tathā | liṅgadvārādiḍāmārge brahmasthānāvadhi priye | nāḍyantaṃ
+                              pratilomeṣu sahasrāṇāṃ dvisaptatiḥ |</span><mark>idānīṃ</mark> śarīramadhye <mark>nāḍīnāṃ</mark> <mark>bhedāḥ</mark> <mark>kathyante</mark>/ <mark>daśamukhyanāḍyaḥ</mark>/ tanmadhye <mark>nāḍīdvayam</mark>/ <mark>iḍāpiṃgalā</mark><mark>saṃjñakaṃ</mark> <mark>nāsādvāre</mark> tiṣṭhati/ <mark>suṣumṇā</mark> <mark>bhānumārgena</mark> brahma<mark>dvāra</mark>paryantaṃ <mark>vahati</mark>/ <mark>sarasvatī</mark> mukhamadhye <mark>vartate</mark>/ gāṃdhārī<mark>hastiji:hvākarṇayor ma</mark> <mark>dhye</mark> <mark>vahatyau</mark> <mark>tiṣṭhataḥ</mark>/ <mark>pūṣālaṃbuṣānetrayor ma</mark>dhye <mark>vahatyau</mark> <mark>tiṣṭhataḥ</mark>/ <mark>śaṃkhinī</mark> <mark>liṅgadvārād ā</mark><mark>rabhye</mark><mark>ḍāmā:rgeṇa</mark> brahmasthānaparyaṃtaṃ <mark>tiṣṭhati</mark>/ 
+                           <extra xmlns="http://www.tei-c.org/ns/1.0"><mark xmlns="http://www.w3.org/1999/xhtml">kuhū</mark> mūladvārād arabhya <mark xmlns="http://www.w3.org/1999/xhtml">piṅgalā</mark>margeṇa brahmasthānaparyaṃtaṃ tiṣṭhati/</extra> <mark>etādṛṣā</mark> <mark>nāḍyo</mark> <mark>daśasu dvāreṣu</mark> <mark>tiṣṭhanti</mark>/ anyā <mark>dvisaptatisahasraparimitā</mark> <mark>nāḍyo</mark> <mark>lomnāṃ mūleṣu</mark> sūkṣmarūpeṇa tiṣṭaṃti// </p>
+                        <div class="app"><span class="lem">idānīṃ (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> idānī (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a>)</div>
+                        <div class="app"><span class="lem">nāḍīnāṃ (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> nāḍī° (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a>), nāḍīnām aparo (<a href="#X" title="\alpha Alpha Group: D,N1,N2,U1">X</a>)</div>
+                        <div class="app"><span class="lem">bhedāḥ (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> bhedaḥ (<a href="#B" title="B Bodleian 485">B</a> <a href="#D" title="D IGNCA 30019">D</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a>)</div>
+                        <div class="app"><span class="lem">kathyante (<a href="#E" title="E Printed Edition">E</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a> <a href="#U1" title="U1 SORI 1574">U1</a>) ]</span> kathyate (<a href="#ceteri" title="cett. ceteri">ceteri</a>)</div>
+                        <div class="app"><span class="lem">daśamukhyanāḍyaḥ (<a href="#E" title="E Printed Edition">E</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a> <a href="#U1" title="U1 SORI 1574">U1</a> <a href="#U2" title="U2 SORI 6082">U2</a>) ]</span> daśamukhyānāḍyaḥ (<a href="#P" title="P Pune BORI 664">P</a>), daśamukhyenāḍyā (<a href="#B" title="B Bodleian 485">B</a>), daśamukhyānāḍayas (<a href="#L" title="L LALCHAND 5876">L</a>), daśamukhyanādhyaḥ (<a href="#D" title="D IGNCA 30019">D</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a>)</div>
+                        <div class="app"><span class="lem">nāḍīdvayam (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> dvayam (<a href="#E" title="E Printed Edition">E</a>)</div>
+                        <div class="app"><span class="lem">iḍāpiṃgalā (<a href="#E" title="E Printed Edition">E</a>) ]</span> idā piṃgalā (<a href="#ceteri" title="cett. ceteri">ceteri</a>), idānīṃ piṃgalā (<a href="#N2" title="N2 NGMPP B 38/35">N2</a>), idāṃ piṃgalā (<a href="#P" title="P Pune BORI 664">P</a>)</div>
+                        <div class="app"><span class="lem">saṃjñakaṃ (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> saṃjñākaṃ (<a href="#U1" title="U1 SORI 1574">U1</a> <a href="#U2" title="U2 SORI 6082">U2</a>), saṃjñīkāḥ (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a>)</div>
+                        <div class="app"><span class="lem">nāsādvāre (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> nāsānāsādvāre (<a href="#D" title="D IGNCA 30019">D</a>)</div>
+                        <div class="app"><span class="lem">suṣumṇā (<a href="#Y" title="\beta Beta Group: B,E,L,P,U2">Y</a>) ]</span> suṣumṇā tu (<a href="#X" title="\alpha Alpha Group: D,N1,N2,U1">X</a>)</div>
+                        <div class="app"><span class="lem">bhānumārgena ]</span> tālumārgeṇa (<a href="#D" title="D IGNCA 30019">D</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#U1" title="U1 SORI 1574">U1</a> <a href="#U2" title="U2 SORI 6082">U2</a>), tālumārge (<a href="#B" title="B Bodleian 485">B</a> <a href="#E" title="E Printed Edition">E</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a>)</div>
+                        <div class="app"><span class="lem">dvāra (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> °raṃdhra° (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#P" title="P Pune BORI 664">P</a>)</div>
+                        <div class="app"><span class="lem">vahati (<a href="#U2" title="U2 SORI 6082">U2</a>) ]</span> vahati tiṣṭhati (<a href="#E" title="E Printed Edition">E</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#U1" title="U1 SORI 1574">U1</a>), vahatī tiṣṭhati (<a href="#ceteri" title="cett. ceteri">ceteri</a>)</div>
+                        <div class="app"><span class="lem">sarasvatī (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> ti sraḥ sarasvati (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">vartate (<a href="#X" title="\alpha Alpha Group: D,N1,N2,U1">X</a>) ]</span> tiṣṭhati (<a href="#E" title="E Printed Edition">E</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#U2" title="U2 SORI 6082">U2</a>), tiṣṭhatī (<a href="#B" title="B Bodleian 485">B</a>)</div>
+                        <div class="app"><span class="lem">hastiji:hvākarṇayor ma (<a href="#E" title="E Printed Edition">E</a>) ]</span> hastinījihve karṇayor (<a href="#D" title="D IGNCA 30019">D</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a>), hastījihve karṇa° (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a>), harratījihvakarṇayor (<a href="#U1" title="U1 SORI 1574">U1</a>), hastinī || jihve || netrayor (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">dhye (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> om. (<a href="#L" title="L LALCHAND 5876">L</a> <a href="#B" title="B Bodleian 485">B</a>)</div>
+                        <div class="app"><span class="lem">vahatyau (<a href="#D" title="D IGNCA 30019">D</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a>) ]</span> vahalyau (<a href="#E" title="E Printed Edition">E</a>), vahatyo (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a>), vahaṃtyaḥ (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">tiṣṭhataḥ (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> tiṣṭhati (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a>), om. (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">pūṣālaṃbuṣānetrayor ma ]</span> pūṣālambusemā netrayor (<a href="#E" title="E Printed Edition">E</a>), pūṣālaṃbuse netrayor (<a href="#P" title="P Pune BORI 664">P</a>), pūṣoḍalabuṣe netra° (<a href="#B" title="B Bodleian 485">B</a>), pūṣo ulabuso netra° (<a href="#L" title="L LALCHAND 5876">L</a>), pūṣāṃalaṃbuṣe netrayor (<a href="#D" title="D IGNCA 30019">D</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a>), pūṣāṃalaṃbuṣe netayor (<a href="#N2" title="N2 NGMPP B 38/35">N2</a>), pūṣālaṃbuṣe netayor (<a href="#U1" title="U1 SORI 1574">U1</a>), pūṣāya śakhinī || karṇayor (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">vahatyau (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> rvahalyā (<a href="#E" title="E Printed Edition">E</a>), vahatyo (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a> <a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">tiṣṭhataḥ (<a href="#D" title="D IGNCA 30019">D</a> <a href="#E" title="E Printed Edition">E</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a> <a href="#U1" title="U1 SORI 1574">U1</a>) ]</span> tiṣṭhati (<a href="#B" title="B Bodleian 485">B</a>), tiṣṭhaṃti (<a href="#L" title="L LALCHAND 5876">L</a>), tiṣṭataḥ (<a href="#P" title="P Pune BORI 664">P</a>), tiṣṭhata || alaṃbuṣā || bhrumadhye vaṃhatyo tiṣṭhati || (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">śaṃkhinī (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> śaṃkhanī (<a href="#N1" title="N1 NGMPP 38/31">N1</a>), kuhū (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">liṅgadvārād ā (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> liṃgadvārā° (<a href="#U1" title="U1 SORI 1574">U1</a>)</div>
+                        <div class="app"><span class="lem">rabhye (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> ārabhya (<a href="#ceteri" title="cett. ceteri">ceteri</a>)</div>
+                        <div class="app"><span class="lem">ḍāmā:rgeṇa (<a href="#E" title="E Printed Edition">E</a>) ]</span> iḍāmārgeṇa (<a href="#ceteri" title="cett. ceteri">ceteri</a>), iḍānīṃ mārgeṇa (<a href="#N2" title="N2 NGMPP B 38/35">N2</a>)</div>
+                        <div class="app"><span class="lem">tiṣṭhati (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> tiṣṭhatīti (<a href="#E" title="E Printed Edition">E</a>)</div>
+                        <div class="app"><span class="lem">kuhū ]</span> śāṃkhinī (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">piṅgalā ]</span> piṃgala° (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">etādṛṣā (<a href="#P" title="P Pune BORI 664">P</a>) ]</span> etādṛśa (<a href="#D" title="D IGNCA 30019">D</a> <a href="#E" title="E Printed Edition">E</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#U1" title="U1 SORI 1574">U1</a> <a href="#U2" title="U2 SORI 6082">U2</a>), etādṛṣyā (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a>), etā (<a href="#N2" title="N2 NGMPP B 38/35">N2</a>)</div>
+                        <div class="app"><span class="lem">nāḍyo (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> om. (<a href="#N2" title="N2 NGMPP B 38/35">N2</a>)</div>
+                        <div class="app"><span class="lem">daśasu dvāreṣu (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> daśa dvāreṣu (<a href="#L" title="L LALCHAND 5876">L</a>), daśasv adhāreṣu (<a href="#U1" title="U1 SORI 1574">U1</a>)</div>
+                        <div class="app"><span class="lem">tiṣṭhanti (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> tiṣṭhati (<a href="#U1" title="U1 SORI 1574">U1</a>)</div>
+                        <div class="app"><span class="lem">dvisaptatisahasraparimitā (<a href="#ceteri" title="cett. ceteri">ceteri</a>) ]</span> dvisaptatisahasraparimitāgryo (<a href="#U1" title="U1 SORI 1574">U1</a>), hidaśonā dvisatyati sahasraḥ || 71110 || parimitā (<a href="#U2" title="U2 SORI 6082">U2</a>)</div>
+                        <div class="app"><span class="lem">nāḍyo (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#P" title="P Pune BORI 664">P</a>) ]</span> nāḍayo (<a href="#E" title="E Printed Edition">E</a>), nādhyo (<a href="#U2" title="U2 SORI 6082">U2</a>), om. (<a href="#U1" title="U1 SORI 1574">U1</a>)</div>
+                        <div class="app"><span class="lem">lomnāṃ mūleṣu (<a href="#D" title="D IGNCA 30019">D</a> <a href="#E" title="E Printed Edition">E</a> <a href="#N1" title="N1 NGMPP 38/31">N1</a> <a href="#N2" title="N2 NGMPP B 38/35">N2</a> <a href="#U2" title="U2 SORI 6082">U2</a>) ]</span> lomnā (<a href="#B" title="B Bodleian 485">B</a> <a href="#L" title="L LALCHAND 5876">L</a> <a href="#P" title="P Pune BORI 664">P</a> <a href="#U1" title="U1 SORI 1574">U1</a>)</div>
+                     </div>
+                  </div>
+                  <div class="column">
+                     <p class="analysis">Given the incongruity of tālu in this context and the availability of a phonetically
+                        analogous and semantically superior alternative in the form of the term bhānu as proposed
+                        by YSv (PT), I have conjectured the latter as the more plausible option.</p>
+                     <p class="analysis">The list would be incomplete without kuhū as found in englishU2 only. In englishU2,
+                        śaṃkhinī and kuhū are swapped, neither of them is found in YSv (PT), but both channels
+                        and their generally accepted location are in SSP 1.66. Because of that, I conjectured
+                        accordingly.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div xmlns="http://www.tei-c.org/ns/1.0" xml:id="div-translation_1" class="translation">
+         <div type="trans">
+            <h3 xmlns="http://www.w3.org/1999/xhtml"></h3>
+            <div type="section" n="XXV">
+               <h3 xmlns="http://www.w3.org/1999/xhtml">[
+                  <uproman xmlns="http://www.tei-c.org/ns/1.0">25</uproman>. <span class="bold">Division of the Channels</span>]</h3>
+               <p xmlns="http://www.w3.org/1999/xhtml"> Now, the divisions of channels within the body are explained.<span class="note">Networks of channels are standard in many systems of yoga. The earliest known mention
+                     refers to Upaniṣadic literature, such as the 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">brhadaranyaka</citetitle> 2.1.19. For a detailed depiction of systems of channels in yogic literature, see
+                     
+                     <citeauthor xmlns="http://www.tei-c.org/ns/1.0">rootsofyoga2017</citeauthor>.</span> There are ten primary channels.<span class="note">The notion of ten primary channels can already be found in early texts of Haṭhayoga,
+                     e.g., the 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">vivekamartandaolda</citetitle> 17 (Central Library, Baroda Acc. No. 4110, 1534 Saṃvat): (<span class="italic">teṣu nāḍisahasreṣu dvisaptatir udāhṛtāḥ </span>| <span class="italic">pradhānāḥ prāṇavāhinyo bhūyas tatra daśa smṛtāḥ</span> ||) ``Of those thousand channels, seventy two have been spoken of, and among them,
+                     ten are considered most important. They are the main pathways of the vital breaths.''
+                     Also cf. 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">fausta1976</citetitle> 34. However, the enumeration of ten main channels in yogic literature also has predecessors,
+                     e.g., in Śaivasiddhānta, cf. 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">sardha</citetitle> 10.4 5. Other systems, e.g., 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">yajnavalkya</citetitle> 
+                     <uproman xmlns="http://www.tei-c.org/ns/1.0">4</uproman>.26 or 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">vasisthasamhita</citetitle> 2.21, enumerate fourteen primary channels.</span> Among them is a pair of channels. [Their] designation is Idā and Piṅgalā [and they]
+                  exist at the entrance of the nose. The Suṣumṇā flows by the path of the sun<span class="note">In several yogic traditions the microcosmic sun of yogic bodies is situated at the
+                     base of the central channel (cf. 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">asiddhi</citetitle> 4.1) and travels upwards (cf. 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">asiddhi</citetitle> 4.11).</span> to the door of Brahma.<span class="note">The <span class="italic">brahmadvāra</span> is a synonym for the <span class="italic">brahmarandhra</span>, ``The aperture of Brahmā/Brahman''; the fontanelle, through which the vital principle
+                     of the yogi exists at death, cf. 
+                     <citeauthor xmlns="http://www.tei-c.org/ns/1.0">rootsofyoga2017</citeauthor></span> The Sarasvatī[ channel] exists at the center of the face. The two rivers, Gāndhārī
+                  and Hastjihvā, exist within the two ears. The two rivers, Pūṣā and Ālaṃbuṣā, are situated
+                  at the center of the two eyes. Śaṃkhinī stretches from the beginning of the opening
+                  of the gender through the Iḍā channel up to the place of Brahmā/Brahman<span class="note">The <span class="italic">brahmasthāna</span> is a synonym for <span class="italic">brahmarandhra</span>. Cf. 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">dhyanabind</citetitle> 65. Here the <span class="italic">brahmasthāna</span> is equated with the <span class="italic">sahasrāracakra</span>.</span>. Kuhū stretches from the entrance of the root<span class="note">The entrance of the root (<span class="italic">mūladvāra</span>) in this passage refers to the anus, cf. 
+                     <citetitle xmlns="http://www.tei-c.org/ns/1.0">ssplonavla</citetitle> 1.66 (<span class="italic">kuhūr gudadvāre vahati</span>) ``Kuhū conducts through the anus''.</span> through the Piṅgalā channel up to the place of Brahmā/Brahman. In such a way, the
+                  channels are situated at the ten openings. The other channels, measured as 72000,
+                  are situated with a subtle form at the roots of the hairs. </p>
+            </div>
+         </div>
+      </div>
+      </body>
+</html>
