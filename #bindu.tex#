@@ -1,0 +1,446 @@
+\input{preamble.tex}
+\input{titles.tex}
+\title{Yogatattvabindu of Rāmacandra\\ A Critical Edition and Annotated Translation}
+\date{\today}
+
+\parindent=15pt
+\begin{document}
+
+% Zitiermöglichkeiten:
+%\footcite[See][p.\,1]{goldstein01:_tibet_englis_diction_moder_tibet}
+%\footnote{\cite{goldstein01:_tibet_englis_diction_moder_tibet}.}
+
+\frontmatter
+\thispagestyle{empty}
+\begin{center}
+  {\Large \emph{The Yogatattvabindu}}\\[3mm]
+\end{center}
+
+
+
+\newpage
+
+\
+
+\thispagestyle{empty}
+
+
+
+\normalsize
+
+
+\newpage
+
+
+\begin{center}
+\thispagestyle{empty}
+
+\
+
+\vskip 2mm
+
+\begin{otherlanguage}{iast}
+\LARGE \sanskritfont{Yogatattvabindu}
+\end{otherlanguage}
+
+\vskip .4cm
+
+\Huge Yogatattvabindu \\[7mm]
+\Large Critical Edition\\
+with annotated Translation
+
+
+\large
+
+\vspace{3cm}
+
+Von
+
+Nils Jacob Liersch
+\small
+\vfill
+
+\vfill
+
+Indica et Tibetica Verlag \\ % $\cdot$ 
+Marburg 2024
+
+\vskip 6mm
+
+\end{center}
+
+\newpage
+\newpage \ \thispagestyle{empty}
+\small  \
+
+\noindent
+
+\
+\vfill
+
+
+\small
+\noindent \textbf{Bibliographische Information Der Deutschen Bibliothek}
+
+\noindent
+Die Deutsche Bibliothek verzeichnet diese Publikation in der Deutschen Nationalbibliographie;
+detaillierte bibliographische Informationen sind im Internet über http://dnb.ddb.de abrufbar.
+
+\noindent
+\textbf{Bibliographic information published by Die Deutschen Bibliothek}
+
+\noindent
+Die Deutsche Bibliothek lists this publication in the Deutsche Nationalbibliographie; detailed
+bibliographic data is available in the Internet at http://dnb.ddb.de.  
+
+
+\vskip 1cm
+
+\noindent
+\copyright\ Indica et Tibetica Verlag, Marburg 2024
+
+\medskip
+
+\noindent
+Alle Rechte vorbehalten / All rights reserved
+
+\medskip
+
+\noindent
+Ohne ausdrückliche Genehmigung des Verlages ist es nicht gestattet, das Werk oder einzelne Teile
+daraus nachzudrucken, zu vervielfältigen oder auf Datenträger zu speichern.
+
+\smallskip
+
+\noindent
+Apart from any fair dealing for the purpose of private study, research, criticism or review, no
+part of this book may be reproduced or translated in any form, by print, photo form, microfilm, or
+any other means without written permission. Enquiries should be made to the publishers.
+
+\bigskip
+
+\noindent
+Satz: \ \ Nils Jacob Liersch \\
+Herstellung: \ \ BoD – Books on Demand GmbH, Norderstedt  \\
+
+\bigskip
+
+\noindent
+%\ISBN     
+
+\normalsize
+
+\newpage
+
+%\maketitle
+\clearpage
+\tableofcontents
+\addtocounter{page}{-1}
+\thispagestyle{empty}
+\clearpage
+
+
+\mainmatter
+
+\chapter{Conventions in the Critical Apparatus}
+\section{Sigla in the Critical Apparatus}
+
+\begin{itemize}
+\item E : Printed Edition
+\item P : Pune BORI 664
+\item L : Lalchand Research Library LRL5876
+\item B : Bodleian Oxford D 4587
+\item \None : NGMPP B 38-31
+\item \Ntwo : NGMPP B 38-35 / A 1327-14
+\item \Done : IGNCA 30019
+\item \Uone : SORI 1574
+\item \Utwo: SORI 6082
+\end{itemize}
+
+\chapter{Critical Edition \& Annotated Translation}
+\cleardoublepage
+\begin{alignment}[
+  texts=edition[class="edition"];
+  translation[class="translation"],
+  ]
+  \begin{edition}
+    \ekddiv{type=ed}
+    \ekddiv{
+      head={[\uproman{39}. \textbf{piṇḍamadhye 'ṣṭakulaparvatāḥ}]},
+      type=section,
+      depth=2, 
+      n=XXXIX
+    }
+    \begin{prose}
+      \noindent
+%----------------------------
+%idānīm             aṣṭamakulaparvatāḥ kathyante/  \E
+%idānīm             aṣṭakulaparvatāḥ   kathyaṃte   \P
+%idānīm             aṣṭamakulaparvatāḥ kathyaṃte// \B
+%idānīm             aṣṭamakulaparvatāḥ kathyaṃte// \L
+%\om                                               \N1
+%idānīṃ piṃḍamadhye aṣṭakulaparvatāḥ   kathyaṃte// \D
+%\om                                               \N2
+%idānīṃ piṃḍamadhye aṣṭakulaparvatāḥ   kathyaṃte   \U1
+%idānīm             aṣṭakulaparvatā    kathyaṃte// \U2
+%-----------------------------
+%Now, the eight mountains within the body are taught. 
+%----------------------------
+\note[type=source, labelb=281, labele=_281e, nosep]{cf. YSv (PT p. 843): idānīṃ parvatāś cāṣṭau kathyante śṛṇu yatnataḥ | merudaṇḍe sumerus tu pīṭhamadhye himālayaḥ | vāmaskandhe tathā dakṣe malayo mandarācalaḥ | vindhyas tu dakṣiṇe karṇe vāme maināka īśvari | lalāṭe madhyadeśe tu śrīśailaḥ parameśvari | tathā brahmakapāṭasthaḥ kailāsaḥ parvato mahān | sumerur himavān vindhyo malayo mandaras tathā | śrīśailo mainākaś ceti kailāso 'ṣṭau ca parvatāḥ | apare parvatāḥ sarveaṅgulīmadhyavāsinaḥ |}
+\note[type=source, labelb=282, labele=_281e, nosep]{cf. SSP 3.10 (Ed. p. 56): meruparvato merudaṇḍe vasati | kailāso brahmakapāṭe vasati | himālayaḥ pṛṣṭhe | malayo vāmakandhare | mandaro dakṣiṇakandhare | vindhyo dakṣiṇakarṇe | maināko vāmakarṇe | śrīparvato lalāṭe | evam aṣṭa kulaparvatāḥ | anye upaparvatāḥ sarvāṅguliṣu vasanti |}
+  \app{\lem[wit={D,U1}]{idānīṃ}
+  \rdg[wit={ceteri}]{idānīm}}
+\app{\lem[wit={D,U1}]{piṇḍamadhye}
+  \rdg[wit={ceteri}]{\om}}
+\app{\lem[type=emendation, resp=egoscr]{'ṣṭakulaparvatāḥ}
+  \rdg[wit={P,D,U1}]{aṣṭakulaparvatāḥ}
+  \rdg[wit={U2}]{aṣṭakulaparvatā}
+  \rdg[wit={B,E,L}]{aṣṭamakulaparvatāḥ}}
+kathyante/
+%----------------------------  
+%merudaṇḍamadhye merumaṃdaraḥ/   brahmakapāṭamadhye  kailāsaḥ/ \E
+%merudaṇḍamadhye merumaṃdaraḥ    brahmakapāṭamadhye  kailāsaḥ  \P
+%merudaṇḍamadhye merumaṃdaraḥ/   brahmakapāṭamadhye  kailāsaḥ/ \B
+%merudaṇḍamadhye merumaṃdaraḥ/   brahmakapāṭamadhye  kailāsaḥ/ \L
+%\om                                                                  \N1
+%merudaṃḍamadhye merumparvataḥ// brahmakapāṭamadhye  kailāsaparvataḥ \D
+%\om                                                                 \N2
+%merudaṇḍamadhye merumparvattaḥ  brahmakapāṭamadhye  kailāsaparvataḥ \U1
+%merudaṇḍamadhye merumaṃdaraḥ//  brahmakapāṭamadhye  kailāsaḥ// \U2 %%%419.jpg 
+%-----------------------------
+%(1) Within the spine is mount Meru. (2) Within the door of Bahman is mount Kailasa. 
+%----------------------------
+merudaṃḍamadhye
+\app{\lem[type=emendation, resp=egoscr]{meruparvataḥ}
+  \rdg[wit={D,U1}]{merumparvataḥ}
+  \rdg[wit={ceteri}]{merumaṃdaraḥ}}\dd{}
+brahmakapāṭamadhye
+\app{\lem[wit={D,U1}]{kailāsaparvataḥ}
+  \rdg[wit={ceteri}]{kailāsaḥ}}\dd{}
+%----------------------------
+%pṛṣṭhamadhye   himācalaḥ/           vāmaskandhe malayācalaḥ/  dakṣiṇaskandhe mandarācalaḥ/  dakṣiṇakarṇe vindhyācalaḥ/  \E
+%pṛṣṭhaṃ madhye himācalaḥ            vāmaskaṃdhe malayācalaḥ   dakṣiṇaskaṃdhe maṃdarācalaḥ   dakṣiṇakarṇe vindhyācalaḥ    \P
+%pṛthvīmadhye  himācalaḥ/            vāmaskaṃdhe malayācalaḥ/  dakṣiṇaskaṃdhe maṃdarācalaḥ/  dakṣiṇakarṇe vindhyācalaḥ/ \B
+%pṛthvīmadhye   himācalaḥ/           vāmaskaṃdhe malayācalaḥ/  dakṣiṇaskaṃdhe maṃdarācalaḥ/  dakṣiṇakarṇe viṃdhyācalaḥ/  \L
+%\om                                                                 \N1
+%paiṭimadhye    himācalaḥ// parvataḥ vāmaskaṃdhe malayācalaḥ   dakṣaṇaskaṃdhe maṃdarācalaḥ   dakṣaṇakarṇe viṃdhyācalaḥ  \D
+%\om                                                                 \N2
+%paiṭhamadhye   himācala----parvataḥ vāmaskaṃdhe malayācalaḥ   dakṣaṇaskaṃdhe maṃdarācalaḥ   dakṣaṇakarṇe viṃdhyācalaḥ  \U1
+%pṛṣṭhamadhye   himācalaḥ//          vāmaskandhe malayācalaḥ// dakṣiṇaskandhe mandarācalaḥ// dakṣiṇakarṇe vindhyācalaḥ//  \U2
+%-----------------------------
+% (3) Within the back is the Himālaya. (4) Within the left shoulder mount Malabar. (5) Within the right shoulder the mountain of Mandara. (6) In the right ear the Vindhya mountain. 
+%----------------------------
+\app{\lem[wit={E,U2}, alt={pṛṣṭhamadhye}]{pṛṣṭha:\\madhye}
+  \rdg[wit={P}]{pṛṣṭhaṃ madhye}
+  \rdg[wit={B,L}]{pṛthvīamadhye}
+  \rdg[wit={D}]{paiṭimadhye}
+  \rdg[wit={U1}]{paiṭhamadhye}}
+\app{\lem[wit={ceteri}]{himācalaḥ}
+  \rdg[wit={D}]{himācalaḥ || parvataḥ}
+  \rdg[wit={U1}]{himācalaparvataḥ}}\dd{}
+vāmaskaṃdhe malayācalaḥ\dd{}
+dakṣiṇaskaṃdhe maṃdarācalaḥ\dd{}
+dakṣaṇakarṇe viṃdhyācalaḥ\dd{}
+%----------------------------
+%vāmakarṇe mainākaḥ/  lalāṭamadhye śrīśailaḥ/   apare śailāḥ   hastayoḥ  pādayor aṃgulīnāṃ   mūleṣu varttaṃte// \E
+%vāmakarṇe mainākaḥ   lalāṭamadhye śrīśailaḥ    apare śailā    hastayoḥ  pādayor aṃgulīnāṃ   mūleṣu varttaṃte   \P
+%vāmakarṇe mainākaḥ/  lalāṭamadhye śrīśailāsaḥ/ apare śailā    hastayoḥ/ pādayor aṃguli------mūleṣu vartate//   \B
+%vāmakarṇe mainākaḥ/  lalāṭamadhye śrīśailaḥ/   apare śailā    hastayoḥ/ pādayor aṃgulī------mūleṣu vartate/    \L
+%\om                                                                 \N1
+%vāmakarṇe mainākaḥ// lalāṭamadhye śrīśailaḥ//  apare parvatāḥ hastayoḥ  pādayor aṃgulīnāṃ   madhye vartatte//  \D
+%\om                                                                 \N2 
+%vāmakarṇe mainākaḥ   lalāṭamadhye śrīśailaḥ    apare parvatāḥ hastayoḥ  pādayor aṃgulībhyāṃ madhye parvate     \U1
+%vāmakarṇe mainākaḥ   lalāṭamadhye śrīśailaḥ//  apare śailāḥ// hastayoḥ  pādayor aṃgulīnāṃ   mūleṣu vartaṃte//  \U2
+%-----------------------------
+% (7) In the left ear the Maināka[-mountain]. (8) Within the forehead Śrīśaila. Other mountains exist in the hands, feet, and toes. 
+%----------------------------
+vāmakarṇe mainākaḥ\dd{}
+lalāṭamadhye
+\app{\lem[wit={ceteri}]{śrīśailaḥ}
+  \rdg[wit={B}]{śrīśailāsaḥ}}/ 
+apare \app{\lem[wit={D,U1}]{parvatāḥ}
+  \rdg[wit={E,U2}]{śailāḥ}
+  \rdg[wit={B,P,L}]{śailā}}
+pādayo\skp{r-aṃ}\app{\lem[wit={E,P,D},alt={aṃgulīnāṃ}]{\skp{r-aṃ}gulīnāṃ}
+  \rdg[wit={U1}]{aṃgulībhyāṃ}
+  \rdg[wit={B,L}]{aṃguli°}}
+\app{\lem[wit={ceteri}]{mūleṣu}
+  \rdg[wit={D,U1}]{madhye}}
+\app{\lem[wit={ceteri}]{vartante}
+  \rdg[wit={B,L}]{vartate}
+  \rdg[wit={U1}]{parvate}}/\linelabel{_281e}
+\end{prose}
+\ekddiv{
+  head={[\uproman{40}. \textbf{śarīre navanāḍyaḥ}]},
+  type=section,
+  depth=2, 
+  n=XL
+}
+\label{ninerivers}
+    \begin{prose}
+      \noindent
+%----------------------------
+%idānīṃ śarīramadhye navanāḍyas tiṣṭhanti   tanmadhye navanadīnāṃ     sthānāni   varttante/   \E
+%idānīṃ śarīre       navanaḍyas tiṣṭhaṃti   tanmadhye navāṃnā nadīnāṃ sthānāni   vartaṃte     \P
+%idānīṃ śarīre       navanaḍyas tiṣṭhanti// tanmadhye navānāṃ nadīnāṃ sthānāni   vartate/     \B
+%idānīṃ śarīre       navanaḍyaḥ tiṣṭhaṃti/  tanmadhye navānāṃ nadīnāṃ sthānāni   vartaṃte/    \L
+%\om                                                                 \N1
+%idānīṃ śarīre       ṇavānāḍyas tiṣṭhati//  tanmadhye navānāṃ nadīnāṃ sthānāni   vartraṃte//  \D
+%\om                                                                 \N2
+%idānīṃ śarīre       ṇavānaḍyaḥ stiṣṭhaṃti  tanmadhye navānāṃ nadīnāṃ sthānāni   vartaṃte    \U1
+%idānīṃ śarīramadhye navanāḍyas tiṣṭhati//  tanmadhye navānāṃ nadīnāṃ          nivarttaṃte// \U2
+%-----------------------------
+%Now, within the body there are nine rivers. Within it the courses of the nine rivers exist. 
+%----------------------------
+      \note[type=source, labelb=284, labele=_284e, nosep]{cf. YSv (PT p. 843): śarīre navanāḍīsthā narmadā ca maheśvari | iḍāyāṃ yamunā devi piṅgalāyāṃ sarasvatī | suṣumnāyāṃ vahed gaṅgā cānyonyāsu ca nāḍiṣu | gaṅgā sarasvatī godā narmadā yamunā tathā | kāverī candrabhāgā ca vitastā ca iḍāvatī | dvisaptatisahasreṣu nadīnadaparisravaḥ |}
+      \note[type=source, labelb=283, labele=_284e, nosep]{cf. SSP 3.11-12 (Ed. p. 57): pīnasā yamunā gaṅgā candrabhāgā sarasvatī | vipāsā śatarudrā ca śrīrātriś caiva narmadā | evaṃ navanadyo navanāḍīṣu vasanti | anyā upanadyaḥ kulyopakulyā dvisaptatisahasranāḍīsu vasanti |}
+idānīṃ
+\app{\lem[wit={ceteri}]{śarīre}
+  \rdg[wit={E,U2}]{śarīramadhye}}
+\app{\lem[wit={E,U2},alt={navanāḍyas}]{navanāḍya\skp{s-ti}}
+  \rdg[wit={B,L,P}]{navanaḍyas}
+  \rdg[wit={D}]{ṇavānāḍyas}
+  \rdg[wit={U1}]{ṇavānaḍyaḥs}}
+\app{\lem[wit={ceteri}]{tiṣṭhanti}
+  \rdg[wit={D,U2}]{tiṣṭhati}}/
+tanmadhye
+\app{\lem[wit={ceteri}]{navānāṃ nadīnāṃ}
+  \rdg[wit={E}]{navanadīnāṃ}}
+sthānāni
+\app{\lem[wit={ceteri}]{vartante}
+  \rdg[wit={U2}]{nivartaṃte}
+  \rdg[wit={B}]{vartate}}/
+%----------------------------     
+%gaṃgāyamune vitastā candrabhāgā sarasvatī vipāśā   śatahradā   irāvatī narmadā/   \E [p.52]
+%gaṃgāyamunā vitastā caṃdrabhāgā sarasvatī vipāśā   śātahṛdā    irāvati narmmadā    \P
+%gaṃgāyamunā vitastā caṃdrabhāgā sarasvatī vipāśā   śāśatahṛdā  irāvati narmadā/  \B
+%gaṃgāyamunā vitastā caṃdrabhāgā sarasvati vipāśā   śatat hṛda  irāvati narmadā// \L
+%\om                                                                 \N1
+%gaṃgāyamunā vitastā caṃdrabhāgā sarasvatī/ vaipaśā śata hṛdā// irāvatī/ narmadā/ \D
+%\om                                                                 \N2
+%gaṃgāyamunā vitastā caṃdrabhāgā sarasvatī vaipaśā  śata hṛdā   airāvati narmadā \U1
+%gaṃgāyamunā vitastā candrabhāgā sarasvatī vipāśā   śātadrumā//          narmadā   \U2
+%-----------------------------
+%Gaṅga, Yamuna, Vitastā, Candrabhāga, Sarasvatī, Vipāśā, Śatarudrā, Irāvati und Narmadā.  
+%-----------------------------
+gaṃgāyamunā vitastā caṃdrabhāgā
+\app{\lem[wit={ceteri}]{sarasvatī}
+  \rdg[wit={L}]{sarasvati}}
+\app{\lem[wit={ceteri}]{vipāśā}
+  \rdg[wit={D,U1}]{vaipaśā}}
+\app{\lem[type=emendation, resp=egoscr]{śatarudrā}
+  \rdg[wit={D,P,U1}]{śātahṛdā}
+  \rdg[wit={E}]{śatahradā}
+  \rdg[wit={B}]{śāśatahṛdā}
+  \rdg[wit={U2}]{śātadrumā}}
+\note[type=philcomm, labelb=285, lem={śatarudrā}]{I emended according to YSv (PT).}
+\app{\lem[wit={D,E}]{irāvatī}
+  \rdg[wit={B,L,P,U1}]{irāvati}
+  \rdg[wit={U2}]{\om}}
+narmadā/ 
+%-----------------------------
+%aparā    nadyo    nadāni       srotāṃsi   taṭākāni  vāpīkūpā---disaptati----sahasranāḍī----madhye tiṣṭhanti/  \E
+%aparā    nadyo    nadānir jārā srotāṃsī   taṭānī    vāpīkūpā---dvisaptatī---sahasranāḍīnāṃ madhye tiṣṭaṃti    \P %7660.jpg
+%aparā    nadyo    nadānir jñārāsty etāṃsī taṭānī    vāpīkūpā---dvisaptatī---sahasranāḍīnā--madhye tiṣṭaṃti/   \B
+%aparā    nadyo    nadānir jñārāsty etāṃsi taṭāni    vāpīkūpā---dvisaptati---sahasranāḍīnāṃ madhye tiṣṭaṃti/   \L
+%\om                                                                                                   \N1
+%aparā    nadyopanadīnair   bhurasrota-----taṭāka----vāpikupāḥ  dvisaptati---sahasranāḍīnāṃ madhye tiṣṭaṃti/  \D
+%\om                                                                                                   \N2
+%gaṃḍakī  nadyūpanadīnair  bhurasrota------taḍaga    vāpīkūpa---dvisaptati---sahastranāḍī   madhye  tiṣṭhaṃṭī  \U1  %em zu upanadinirjhara!!! Wasserfälle! 
+%aparā    nadyo   nadānir  jñārāsrotāsī    taṭhānī   vāpīkūpā---dvisaptati---sahasranāḍīnāṃ madhye tiṣṭaṃti//  \U2
+%-----------------------------
+%Other rivers, and waterfalls near the rivers, currents, lakes, ponds and wells are situated within the 72000 channels.
+%-----------------------------
+\app{\lem[wit={ceteri}]{aparā}
+  \rdg[wit={U1}]{gaṃḍakī}}
+\app{\lem[type=emendation, resp=egoscr]{nadyopanadinirjharāḥ srotāṃsi}
+    \rdg[wit={D}]{nadyopanadīnairbhurasrota°}
+    \rdg[wit={U1}]{nadyūpanadīnairbhurasrota°}
+    \rdg[wit={P}]{nadyo nadānirjārā srotāṃsī}
+    \rdg[wit={B,L}]{nadyo nadānirjñārāsty etāṃsī}
+    \rdg[wit={U2}]{nadyo nadānirjñārāsrotāsī}
+    \rdg[wit={E}]{nadyo nadāni srotāṃsi}}
+\app{\lem[wit={E}]{taṭākāni}
+    \rdg[wit={D}]{taṭāka}
+    \rdg[wit={B,L,P}]{taṭānī}
+    \rdg[wit={U1}]{taḍaga}
+    \rdg[wit={U2}]{taṭhānī}}
+\app{\lem[wit={ceteri}]{vāpīkūpā}
+  \rdg[wit={D}]{vāpikupāḥ}}
+\app{\lem[wit={ceteri},alt={dvisaptati°}]{dvisaptati}
+  \rdg[wit={B,P}]{dvisaptatī°}
+  \rdg[wit={E}]{disaptati}
+}\app{\lem[wit={ceteri}]{sahasranāḍīnāṃ}
+  \rdg[wit={B}]{sahasranāḍīnā}
+  \rdg[wit={E,U1}]{sahastranāḍī}}
+madhye \app{\lem[wit={ceteri}]{tiṣṭhanti}
+  \rdg[wit={U1}]{tiṣṭhaṃṭī}}/\linelabel{_284e}
+    \end{prose}
+  \end{edition}
+  \begin{translation}
+    \ekddiv{type=trans}
+    \ekddiv{
+      head={[\uproman{39}. \textbf{Eight Major Mountains within the Body}]},
+      type=section,
+      depth=2, 
+      n=XXXIX.1
+    }
+\begin{tlate}
+      \noindent
+Now, the eight major mountains within the body are taught.\footnote{\citetitle{hatharatnavali} 4.38ab situates all major mountains within the bones of the spine: (\textit{vīṇādaṇḍamayo merur asthīni kulaparvatāḥ}). ``The bones of Mount Meru resembling a \textit{vīṇā} are the major mountains.''; A related idea is expressed within \citetitle{yogavasishta} 73.59cd (\textit{jambūdvīpe mahāmeruṃ kulaparvatasaṃkulam || 59 ||}). ``In the continent of Jambudvīpa, there is the great Mount Meru, filled with noble peaks.''}
+
+(1) Within the spine is Mount Meru. (2) Within the door of Bahman is Mount Kailasa. (3) Within the back is the Himālaya. (4) Within the left shoulder mount Malabar. (5) Within the right shoulder of the mountain of Mandara. (6) In the right ear, the Vindhya mountain. (7) the Maināka[-mountain] is in the left ear. (8) Within the forehead Śrīśaila. Other mountains exist in the hands, feet, and toes.
+\end{tlate}
+\ekddiv{
+  head={[\uproman{40}. \textbf{Nine Rivers within the Body}]},
+  type=section,
+  depth=2, 
+  n=XL.1
+}
+\begin{tlate}
+  Now, within the body, nine rivers are situated. Within it, the courses of the nine rivers exist. Gaṅga, Yamuna, Vitastā, Candrabhāga, Sarasvatī, Vipāśā, Śatarudrā, Irāvati und Narmadā. Other rivers and waterfalls near the rivers, currents, lakes, ponds and wells are within the 72000 channels.
+  \flushpage
+\end{tlate}
+  \end{translation}
+\end{alignment}
+\pagebreak % after pp. 93-94
+
+\chapter{Appendix}
+\section{Figures}
+
+% \begin{landscape}
+\clearpage
+  \begin{figure}[ht]
+	\centering
+  \includegraphics[width=1\textwidth]{pics/Vishnu_Vishvarupa_cropped.jpg}
+	\caption{Viṣṇu Viśvarūpa, India, Rajasthan, Jaipur, ca. 1800–1820, Opaque watercolor and gold on paper, 38.5 × 28 cm, Victoria and Albert Museum, London, Given by Mrs. Gerald Clark.}
+	\label{fig1}
+      \end{figure}
+\clearpage
+  \begin{figure}[ht]
+	\centering
+  \includegraphics[width=0.5\textwidth]{pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_Trust..jpg}
+	\caption{The Equivalence of Self and Universe (detail), folio 6 from the \textit{Siddhasiddhāntapaddhati} (Bulaki), India, Rajasthan, Jodhpur, 1824 (Samvat 1881), 122 x 46 cm, RJS 2378, Mehragarh Museum Trust.}
+	\label{fig2}
+      \end{figure}
+      % \end{landscape}
+
+
+\chapter{Bibliography}
+ \label{sec:bibli}
+   \clearpage
+\newpage 
+\thispagestyle{empty}
+\quad  \addtocounter{page}{-1}
+
+\printbibliography[heading=subbibintoc, title=Consulted Manuscripts, keyword=codex]
+
+\printbibliography[heading=subbibintoc, title=Printed Editions, keyword=printsource]
+
+\printbibliography[heading=subbibintoc, title=Secondary Literature, keyword=seclit]
+
+\printbibliography[heading=subbibintoc, title=Online Sources, keyword=onlinesource]
+
+\end{document}
+
+

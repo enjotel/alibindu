@@ -70,13 +70,14 @@
     "sevenislands"
     "saptasamudra"
     "ninecontinents"
-    "ninerivers"
     "attributesrajabody"
     "avadhuta"
     "lotusofsupport"
     "heartlotus"
     "heartlotustrans"
     "knowledge"
-    "knowledgetrans"))
+    "knowledgetrans"
+    "gapn1n2end"
+    "generationofbody"))
  :latex)
 
