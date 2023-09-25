@@ -1,27 +1,22 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
-[0] Config.pm:309> INFO - Logfile is 'bindu.blg'
-[131] biber:340> INFO - === So Sep 24, 2023, 11:05:54
-[226] Biber.pm:418> INFO - Reading 'bindu.bcf'
-[453] Biber.pm:978> INFO - Found 104 citekeys in bib section 0
-[477] Biber.pm:4401> INFO - Processing section 0
-[502] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[513] bibtex.pm:1713> INFO - LaTeX decoding ...
-[816] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
-[1785] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1785] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1785] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[1785] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[1933] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[1982] bbl.pm:757> INFO - Output to bindu.bbl
-[1983] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
-[1983] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[1983] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
-[1983] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
-[1983] Biber.pm:130> WARN - legacy year field '1926 and 1939' in entry 'netratantra' is not an integer - this will probably not sort properly.
-[1983] Biber.pm:130> WARN - legacy year field 'no date of publication' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
-[1983] Biber.pm:130> WARN - legacy year field '1987 (First Edition 1918-1938' in entry 'tantraloka' is not an integer - this will probably not sort properly.
-[1983] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_Omyp/a411a05437c082f0cf4f7e71b7c360c2_86372.utf8, line 1722, warning: 121 characters of junk seen at toplevel
-[1983] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_Omyp/a411a05437c082f0cf4f7e71b7c360c2_86372.utf8, line 1966, warning: 58 characters of junk seen at toplevel
-[1983] Biber.pm:130> WARN - I didn't find a database entry for 'bhagavadgita' (section 0)
-[1983] Biber.pm:130> WARN - I didn't find a database entry for 'Netrodyota' (section 0)
-[1983] Biber.pm:132> INFO - WARNINGS: 11
+[1] Config.pm:309> INFO - Logfile is 'bindu.blg'
+[105] biber:340> INFO - === Mo Sep 25, 2023, 10:41:33
+[127] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[245] Biber.pm:978> INFO - Found 25 citekeys in bib section 0
+[267] Biber.pm:4401> INFO - Processing section 0
+[281] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[291] bibtex.pm:1713> INFO - LaTeX decoding ...
+[561] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[809] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[809] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[809] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[809] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[845] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[857] bbl.pm:757> INFO - Output to bindu.bbl
+[857] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
+[857] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
+[858] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
+[858] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
+[858] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_X3TE/a411a05437c082f0cf4f7e71b7c360c2_8781.utf8, line 1722, warning: 121 characters of junk seen at toplevel
+[858] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_X3TE/a411a05437c082f0cf4f7e71b7c360c2_8781.utf8, line 1966, warning: 58 characters of junk seen at toplevel
+[858] Biber.pm:132> INFO - WARNINGS: 6
