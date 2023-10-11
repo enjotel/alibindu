@@ -5,6 +5,7 @@
     "yogas_list"
     "discussionu2"
     "kennz"
-    "structure"))
+    "structure"
+    "avadhutapurusa"))
  :latex)
 

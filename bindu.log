@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.27)  25 SEP 2023 18:58
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.27)  11 OCT 2023 09:14
  restricted system commands enabled.
 **bindu.tex
 (./bindu.tex
@@ -1910,7 +1910,11 @@ LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
 (/usr/local/texlive/2022/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.
 tex UTF-8 Sanskrit hyphenation patterns
 (/usr/local/texlive/2022/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-sa.
-tex)))
+tex))
+
+LaTeX Warning: Label `_4e' multiply defined.
+
+)
 \openout1 = bindu.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -2586,52 +2590,18 @@ n[] []
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
-LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/bx/n' in size <10> not availa
-ble
-(Font)              Font shape `TU/AdishilaSan(0)/b/n' tried instead on input l
-ine 515.
-LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/b/n' will be
-(Font)              scaled to size 13.00003pt on input line 515.
-Package microtype Info: Character `AE ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotesinglbase ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `quotedblbase ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglleft ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guilsinglright ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotleft ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `guillemotright ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textexclamdown ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquestiondown ' is missing
-(microtype)             in font `TU/AdishilaSan(0)/b/n/10'.
-(microtype)             Ignoring protrusion settings for this character.
 @firstpass
-[][] []\TU/AdishilaSan(0)/b/n/10 अप्पेन्दिx[] [] 
+[][] []\TU/AdobeTextPro(0)/b/n/10 Ap-pendix[] [] 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-[][] []\TU/AdishilaSan(0)/m/n/10 Fइगुरेस्[] [] 
+[][] []\TU/AdobeTextPro(0)/m/n/10 Fig-ures[] [] 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-[][] []\TU/AdishilaSan(0)/b/n/10 बिब्लिओग्रफ्य्[] [
-] 
+[][] []\TU/AdobeTextPro(0)/b/n/10 Bib-li-og-ra-phy[] [] 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
@@ -2807,24 +2777,18 @@ Trans-la-tion
 []
 @\penalty via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-\TU/AdobeTextPro(0)/m/n/9 [XXXIX.
+\TU/AdobeTextPro(0)/m/n/9 [I.
 @\kern via @0 b=0 p=0 d=100
 @\kern via @1 b=0 p=0 d=100
 @@2: line 1.2 t=100 -> @0
- \TU/AdobeTextPro(0)/b/n/9 piṇḍa-mad-hye 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@@3: line 1.2 t=100 -> @0
-’ṣṭaku-la-parvatāḥ\TU/AdobeTextPro(0)/m/n/9 ]
+ \TU/AdobeTextPro(0)/b/n/9 rā-jayo-gaprakāra\TU/AdobeTextPro(0)/m/n/9 ]
 @\par via @0 b=0 p=-10000 d=100
 @\par via @1 b=0 p=-10000 d=100
 @\par via @2 b=0 p=-10000 d=100
-@\par via @3 b=0 p=-10000 d=100
-@@4: line 1.2- t=100 -> @0
+@@3: line 1.2- t=100 -> @0
 
 LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
-(Font)              scaled to size 10.40002pt on input line 379.
+(Font)              scaled to size 10.40002pt on input line 382.
 Package microtype Info: Character `AE ' is missing
 (microtype)             in font `TU/AdishilaSan(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -2897,2805 +2861,2077 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [][] 
 @\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
-[]\TU/AdobeTextPro(0)/b/n/8 Sources: [][]2--4 [][][][][]\TU/AdobeTextPro(0)/m/n
-/8 cf. YSv (PT p. 843): idānīṃ par-vatāś cāṣṭau kathyante śṛṇu 
-yat-nataḥ | meru-daṇḍe 
-@ via @1 b=43 p=0 d=2809
-@@2: line 2.1 t=2909 -> @1
-sumerus 
-@ via @1 b=29 p=0 d=1521
-@@3: line 2.3 t=1621 -> @1
-tu pīṭhamad-hye himālayaḥ | vā-maskandhe tathā dakṣe malayo man-dar
-ā-calaḥ | vin-d-hyas tu 
-@ via @2 b=4 p=0 d=196
-@@4: line 3.2 t=3105 -> @2
-dakṣiṇe 
-@ via @3 b=23 p=0 d=11089
-@@5: line 3.1 t=12710 -> @3
-karṇe 
-@ via @3 b=2 p=0 d=144
-@@6: line 3.2 t=1765 -> @3
-vāme maināka īś-vari | lalāṭe mad-hyadeśe tu śrīśailaḥ parameś-var
-i | tathā brah-makapāṭasthaḥ 
-@ via @5 b=13 p=0 d=529
-@@7: line 4.1 t=13239 -> @5
-kailāsaḥ 
-@ via @6 b=0 p=0 d=100
-@@8: line 4.2 t=1865 -> @6
-par-vato mahān | sumerur hi-mavān vin-d-hyo malayo man-daras tathā | śrī
-śailo mainākaś ceti 
-@ via @7 b=5 p=0 d=225
-@@9: line 5.2 t=13464 -> @7
-kailāso 
-@ via @8 b=33 p=0 d=1849
-@@10: line 5.1 t=3714 -> @8
-’ṣṭau 
-@ via @8 b=0 p=0 d=100
-@@11: line 5.2 t=1965 -> @8
-ca 
-@ via @8 b=25 p=0 d=1225
-@@12: line 5.3 t=3090 -> @8
-par-vatāḥ | apare par-vatāḥ sarveaṅgulī-mad-hyavāsi-naḥ |[] [][]\TU
-/AdobeTextPro(0)/b/n/8 2--4 [][][][][]\TU/AdobeTextPro(0)/m/n/8 cf. SSP 3.10 (Ed
-. p. 56): 
-@ via @9 b=2 p=0 d=144
-@@13: line 6.2 t=13608 -> @9
-meru-par-vato 
-@ via @10 b=25 p=0 d=11225
-@ via @11 b=0 p=0 d=100
-@ via @12 b=11 p=0 d=441
-@@14: line 6.2 t=2065 -> @11
-meru-daṇḍe vasati | kailāso brah-makapāṭe vasati | himālayaḥ pṛ
-ṣṭhe | malayo vā-makand-hare 
-@ via @13 b=12 p=0 d=484
-@@15: line 7.2 t=14092 -> @13
-| 
-@ via @13 b=90 p=0 d=10000
-@@16: line 7.3 t=23608 -> @13
-man-daro 
-@ via @14 b=0 p=0 d=100
-@@17: line 7.2 t=2165 -> @14
-dakṣiṇakand-hare | vin-d-hyo dakṣiṇakarṇe | maināko vā-makarṇe | 
-śrī-par-vato lalāṭe | evam 
-@ via @15 b=3 p=0 d=169
-@ via @16 b=35 p=0 d=12025
-@@18: line 8.2 t=14261 -> @15
-aṣṭa 
-@ via @15 b=0 p=0 d=100
-@ via @16 b=0 p=0 d=100
-@@19: line 8.2 t=14192 -> @15
-ku-la-parvatāḥ | anye up-a-parvatāḥ sarvāṅguliṣu vas-anti |[] [][]\T
-U/AdobeTextPro(0)/b/n/8 6--8 [][][][][]\TU/AdobeTextPro(0)/m/n/8 cf. YSv (PT p. 843): 
-śarīre na-vanāḍīsthā 
-@ via @18 b=0 p=0 d=100
-@ via @19 b=0 p=0 d=100
-@@20: line 9.2 t=14292 -> @19
+[]\TU/AdobeTextPro(0)/b/n/8 Sources: [][]2--3 [][][][][]\TU/AdobeTextPro(0)/m/n
+/8 cf. YSv (PT p. 831): atha rā-jayo-gaḥ || yo-gas-var-o-daye | īś-vara uv
+āca | rā-jayo-gaṃ pravakṣyāmi 
+@ via @1 b=86 p=0 d=9216
+@@2: line 2.3 t=9316 -> @1
 @secondpass
 [][] 
 @\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
-[]\TU/AdobeTextPro(0)/b/n/8 Sources: [][]2--4 [][][][][]\TU/AdobeTextPro(0)/m/n
-/8 cf. YSv (PT p. 843): idānīṃ par-vatāś cāṣṭau kathyante śṛṇu 
-yat-nataḥ 
-@ via @1 b=5147 p=0 d=26604649
-@@2: line 2.0 t=26604749 -> @1
+[]\TU/AdobeTextPro(0)/b/n/8 Sources: [][]2--3 [][][][][]\TU/AdobeTextPro(0)/m/n
+/8 cf. YSv (PT p. 831): atha rā-jayo-gaḥ || yo-gas-var-o-daye | īś-vara uv
+āca 
+@ via @1 b=6141 p=0 d=37844801
+@@2: line 2.0 t=37844901 -> @1
 | 
-@ via @1 b=3547 p=0 d=12662249
-@@3: line 2.0 t=12662349 -> @1
-meru-
-@\discretionary via @1 b=666 p=50 d=469476
-@@4: line 2.0- t=469576 -> @1
-daṇḍe 
-@ via @1 b=43 p=0 d=2809
-@@5: line 2.1 t=2909 -> @1
-sumerus 
-@ via @1 b=29 p=0 d=1521
-@@6: line 2.3 t=1621 -> @1
-tu pīṭhamad-hye himālayaḥ | vā-maskandhe tathā dakṣe malayo man-
-@\discretionary via @2 b=4686 p=50 d=22054916
-@@7: line 3.0- t=48659665 -> @2
-darā-
-@\discretionary via @2 b=853 p=50 d=747269
-@\discretionary via @3 b=1968 p=50 d=3914984
-@@8: line 3.0- t=16577333 -> @3
-calaḥ 
-@ via @2 b=4 p=0 d=10196
-@ via @3 b=57 p=0 d=4489
-@ via @4 b=2547 p=0 d=6538249
-@@9: line 3.0 t=7007825 -> @4
-| 
+@ via @1 b=4366 p=0 d=19159376
+@@3: line 2.0 t=19159476 -> @1
+rā-
+@\discretionary via @1 b=2213 p=50 d=4954229
+@@4: line 2.0- t=4954329 -> @1
+jayo-
+@\discretionary via @1 b=845 p=50 d=743525
+@@5: line 2.0- t=743625 -> @1
+gaṃ 
+@ via @1 b=232 p=0 d=68564
+@@6: line 2.0 t=68664 -> @1
+pravakṣyāmi 
+@ via @1 b=86 p=0 d=9216
+@@7: line 2.3 t=9316 -> @1
+śṛṇu sar-va-tra sid-dhi-dam | guhyādguhy-ataraṃ devi nānād-har-maṃ 
+@ via @2 b=6316 p=0 d=40018276
+@@8: line 3.0 t=77863177 -> @2
+parāt 
+@ via @2 b=246 p=0 d=65536
+@ via @3 b=804 p=0 d=662596
+@ via @4 b=2359 p=0 d=5612161
+@@9: line 3.0 t=10566490 -> @4
+param 
 @ via @2 b=0 p=0 d=10100
-@ via @3 b=4 p=0 d=10196
-@ via @4 b=1163 p=0 d=1375929
-@@10: line 3.0 t=1845505 -> @4
-vin-
-@\discretionary via @2 b=1 p=50 d=12621
-@\discretionary via @3 b=0 p=50 d=12600
-@\discretionary via @4 b=42 p=50 d=15204
-@\discretionary via @5 b=3260 p=50 d=10695400
-@@11: line 3.1- t=484780 -> @4
-d-
-@\discretionary via @2 b=46 p=50 d=15636
-@\discretionary via @3 b=2 p=50 d=12644
-@\discretionary via @4 b=3 p=50 d=22669
-@\discretionary via @5 b=2020 p=50 d=4123400
-@@12: line 3.2- t=492245 -> @4
-hyas 
+@ via @3 b=0 p=0 d=10100
 @ via @4 b=0 p=0 d=10100
-@ via @5 b=216 p=0 d=51076
-@@13: line 3.0 t=53985 -> @5
-tu 
-@ via @4 b=51 p=0 d=13721
-@ via @5 b=4 p=0 d=196
-@ via @6 b=4621 p=0 d=21456161
-@@14: line 3.2 t=3105 -> @5
-dakṣiṇe 
-@ via @6 b=23 p=0 d=11089
-@@15: line 3.1 t=12710 -> @6
-karṇe 
-@ via @6 b=2 p=0 d=144
-@@16: line 3.2 t=1765 -> @6
-vāme maināka īś-vari | lalāṭe mad-hyadeśe tu śrīśailaḥ 
-@ via @7 b=2617 p=0 d=6901129
-@ via @8 b=7869 p=0 d=62078641
-@@17: line 4.0 t=55560794 -> @7
-parameś-
-@\discretionary via @7 b=0 p=50 d=22600
-@\discretionary via @8 b=248 p=50 d=79064
-@\discretionary via @9 b=3199 p=50 d=10300181
-@\discretionary via @10 b=5622 p=50 d=31721924
-@@18: line 4.0- t=16656397 -> @8
-vari 
-@ via @7 b=0 p=0 d=10100
-@ via @8 b=6 p=0 d=10256
-@ via @9 b=991 p=0 d=1002001
-@ via @10 b=2012 p=0 d=4088484
-@ via @11 b=5189 p=0 d=27029601
-@ via @12 b=7221 p=0 d=52297361
-@@19: line 4.0 t=5933989 -> @10
-| 
-@ via @7 b=0 p=0 d=10100
+@ via @5 b=323 p=0 d=110889
+@ via @6 b=5133 p=0 d=26450449
+@@10: line 3.0 t=854514 -> @5
+rā-
+@\discretionary via @3 b=37 p=50 d=14709
+@\discretionary via @4 b=0 p=50 d=22600
+@\discretionary via @5 b=3 p=50 d=22669
+@\discretionary via @6 b=1072 p=50 d=1173224
+@@11: line 3.2- t=766294 -> @5
+jayo-
+@\discretionary via @5 b=0 p=50 d=22600
+@\discretionary via @6 b=20 p=50 d=3400
+@@12: line 3.1- t=72064 -> @6
+gena 
+@ via @6 b=0 p=0 d=10100
+@@13: line 3.2 t=78764 -> @6
+de-
+@\discretionary via @7 b=1953 p=50 d=3865869
+@@14: line 3.0- t=3875185 -> @7
+veśi 
+@ via @7 b=248 p=0 d=76564
+@@15: line 3.0 t=85880 -> @7
+nṛ-
+@\discretionary via @7 b=0 p=50 d=2600
+@@16: line 3.2- t=11916 -> @7
+pa-
+@\discretionary via @7 b=0 p=50 d=2600
+@@17: line 3.2- t=11916 -> @7
+pūjyo bhaven naraḥ | rā-jayogī cirāyuś ca aṣṭaiś-varya-
+@\discretionary via @8 b=7981 p=50 d=63858581
+@@18: line 4.0- t=141721758 -> @8
+mayo 
+@ via @8 b=1571 p=0 d=2499561
+@@19: line 4.0 t=80362738 -> @8
+bhavet 
 @ via @8 b=0 p=0 d=10100
-@ via @9 b=468 p=0 d=228484
-@ via @10 b=1014 p=0 d=1048576
-@ via @11 b=2970 p=0 d=8880400
-@ via @12 b=4279 p=0 d=18405521
-@@20: line 4.0 t=2894081 -> @10
-tathā 
-@ via @8 b=17 p=0 d=10729
+@ via @9 b=756 p=0 d=586756
+@@20: line 4.0 t=11153246 -> @9
+||[] 
+@ via @8 b=0 p=0 d=10100
+@ via @9 b=179 p=0 d=35721
+@ via @10 b=5431 p=0 d=29604481
+@@21: line 4.0 t=10602211 -> @9
+[][]\TU/AdobeTextPro(0)/b/n/8 4--6 [][][][][]\TU/AdobeTextPro(0)/m/n/8 cf. 
 @ via @9 b=0 p=0 d=10100
-@ via @10 b=10 p=0 d=10400
-@ via @11 b=232 p=0 d=58564
-@ via @12 b=485 p=0 d=255025
-@ via @13 b=3612 p=0 d=13118884
-@@21: line 4.0 t=543344 -> @11
-brah-
-@\discretionary via @9 b=11 p=50 d=12941
-@\discretionary via @10 b=0 p=50 d=12600
-@\discretionary via @11 b=0 p=50 d=12600
-@\discretionary via @12 b=0 p=50 d=12600
-@\discretionary via @13 b=357 p=50 d=137189
-@\discretionary via @14 b=1418 p=50 d=2051684
-@@22: line 4.0- t=191174 -> @13
-makapāṭasthaḥ 
-@ via @15 b=13 p=0 d=529
-@ via @16 b=2197 p=0 d=4880849
-@@23: line 4.1 t=13239 -> @15
-kailāsaḥ 
-@ via @16 b=0 p=0 d=100
-@@24: line 4.2 t=1865 -> @16
-par-
-@\discretionary via @16 b=11 p=50 d=2941
-@@25: line 4.2- t=4706 -> @16
-vato mahān | sumerur hi-mavān vin-d-hyo 
-@ via @17 b=2875 p=0 d=8323225
-@@26: line 5.0 t=63884019 -> @17
-malayo 
-@ via @17 b=0 p=0 d=10100
-@ via @18 b=2903 p=0 d=8485569
-@@27: line 5.0 t=25141966 -> @18
-man-
-@\discretionary via @17 b=27 p=50 d=13869
-@\discretionary via @18 b=126 p=50 d=30996
-@\discretionary via @19 b=2005 p=50 d=4062725
-@\discretionary via @20 b=4060 p=50 d=16567400
-@@28: line 5.0- t=9996714 -> @19
-daras 
-@ via @18 b=0 p=0 d=10100
-@ via @19 b=93 p=0 d=10609
-@ via @20 b=355 p=0 d=133225
-@ via @21 b=6927 p=0 d=48121969
-@@29: line 5.0 t=3027306 -> @20
-tathā 
-@ via @19 b=0 p=0 d=10100
-@ via @20 b=0 p=0 d=10100
-@ via @21 b=355 p=0 d=133225
-@ via @22 b=3668 p=0 d=13527684
-@@30: line 5.0 t=676569 -> @21
-| 
-@ via @19 b=0 p=0 d=10100
-@ via @20 b=0 p=0 d=10100
-@ via @21 b=93 p=0 d=10609
-@ via @22 b=1783 p=0 d=3214849
-@@31: line 5.1 t=553953 -> @21
-śrīśailo 
-@ via @21 b=13 p=0 d=10529
-@ via @22 b=0 p=0 d=10100
-@@32: line 5.2 t=201274 -> @22
-mainākaś 
-@ via @23 b=552 p=0 d=315844
-@@33: line 5.0 t=329083 -> @23
-ceti 
-@ via @23 b=5 p=0 d=225
-@ via @24 b=3219 p=0 d=10436441
-@ via @25 b=7963 p=0 d=63578729
-@@34: line 5.2 t=13464 -> @23
-kailāso 
-@ via @24 b=33 p=0 d=1849
-@ via @25 b=512 p=0 d=282484
-@@35: line 5.1 t=3714 -> @24
-’ṣṭau 
-@ via @24 b=0 p=0 d=100
-@ via @25 b=1 p=0 d=121
-@@36: line 5.2 t=1965 -> @24
-ca 
-@ via @24 b=25 p=0 d=1225
-@ via @25 b=0 p=0 d=100
-@@37: line 5.2 t=4806 -> @25
-@@38: line 5.3 t=3090 -> @24
-par-
-@\discretionary via @25 b=66 p=50 d=18276
-@@39: line 5.3- t=22982 -> @25
-vatāḥ | apare par-vatāḥ 
-@ via @26 b=4927 p=0 d=24373969
-@@40: line 6.0 t=88257988 -> @26
-sarveaṅgulī-
-@\discretionary via @26 b=0 p=50 d=12600
-@\discretionary via @27 b=1137 p=50 d=1318109
-@\discretionary via @28 b=4582 p=50 d=21098964
-@@41: line 6.0- t=26460075 -> @27
-mad-
-@\discretionary via @26 b=4 p=50 d=12696
-@\discretionary via @27 b=80 p=50 d=10600
-@\discretionary via @28 b=1147 p=50 d=1351149
-@\discretionary via @29 b=8151 p=50 d=66604421
-@@42: line 6.0- t=11347863 -> @28
-hyavāsi-
-@\discretionary via @27 b=1 p=50 d=12621
-@\discretionary via @28 b=0 p=50 d=22600
-@\discretionary via @29 b=764 p=50 d=601576
-@\discretionary via @30 b=7012 p=50 d=49310984
-@@43: line 6.0- t=3628882 -> @29
-naḥ 
-@ via @28 b=0 p=0 d=10100
-@ via @29 b=71 p=0 d=6561
-@ via @30 b=2564 p=0 d=6625476
-@ via @31 b=5050 p=0 d=25603600
-@@44: line 6.1 t=3033867 -> @29
-|[] 
-@ via @28 b=1 p=0 d=10121
-@ via @29 b=11 p=0 d=10441
-@ via @30 b=1264 p=0 d=1623076
-@ via @31 b=2564 p=0 d=6625476
-@@45: line 6.0 t=2299645 -> @30
-[][]\TU/AdobeTextPro(0)/b/n/8 2--4 [][][][][]\TU/AdobeTextPro(0)/m/n/8 cf. 
-@ via @29 b=17 p=0 d=10729
-@ via @30 b=0 p=0 d=10100
-@ via @31 b=9 p=0 d=361
-@ via @32 b=2644 p=0 d=7053716
-@@46: line 6.2 t=554314 -> @31
-SSP 
-@ via @30 b=9 p=0 d=10361
-@ via @31 b=0 p=0 d=100
-@ via @32 b=106 p=0 d=23456
-@ via @33 b=5787 p=0 d=33605209
-@@47: line 6.0 t=224730 -> @32
-3.10 
-@ via @32 b=0 p=0 d=100
-@ via @33 b=1371 p=0 d=1907161
-@ via @34 b=5245 p=0 d=27625025
-@@48: line 6.2 t=201374 -> @32
-(Ed. 
-@ via @32 b=25 p=0 d=1225
-@ via @33 b=141 p=0 d=22801
-@ via @34 b=1210 p=0 d=1498400
-@@49: line 6.3 t=202499 -> @32
-p. 
-@ via @33 b=7 p=0 d=10289
-@ via @34 b=248 p=0 d=76564
-@ via @35 b=3260 p=0 d=10692900
-@@50: line 6.0 t=90028 -> @34
-56): 
-@ via @33 b=0 p=0 d=10100
-@ via @34 b=2 p=0 d=144
-@ via @35 b=562 p=0 d=327184
-@ via @36 b=2359 p=0 d=5622161
-@ via @37 b=4726 p=0 d=22439696
-@ via @38 b=4726 p=0 d=22439696
-@@51: line 6.2 t=13608 -> @34
-meru-
-@\discretionary via @34 b=39 p=50 d=4901
-@\discretionary via @35 b=6 p=50 d=2756
-@\discretionary via @36 b=225 p=50 d=67725
-@\discretionary via @37 b=692 p=50 d=505304
-@\discretionary via @38 b=692 p=50 d=505304
-@\discretionary via @39 b=1715 p=50 d=2998125
-@@52: line 6.2- t=6470 -> @35
-par-
-@\discretionary via @35 b=0 p=50 d=2600
-@\discretionary via @36 b=33 p=50 d=4349
-@\discretionary via @37 b=200 p=50 d=56600
-@\discretionary via @38 b=200 p=50 d=56600
-@\discretionary via @39 b=721 p=50 d=556861
-@@53: line 6.1- t=6314 -> @36
-@@54: line 6.2- t=6314 -> @35
-vato 
-@ via @35 b=25 p=0 d=11225
-@ via @36 b=0 p=0 d=100
-@ via @37 b=11 p=0 d=441
-@ via @38 b=11 p=0 d=441
-@ via @39 b=151 p=0 d=35921
-@@55: line 6.2 t=2065 -> @36
-meru-
-@\discretionary via @37 b=0 p=50 d=2600
-@\discretionary via @38 b=0 p=50 d=2600
-@\discretionary via @39 b=0 p=50 d=12600
-@@56: line 6.2- t=5690 -> @38
-daṇḍe 
-@ via @40 b=5189 p=0 d=27029601
-@@57: line 7.0 t=115287589 -> @40
-vasati 
-@ via @40 b=1033 p=0 d=1087849
-@@58: line 7.0 t=89345837 -> @40
-| 
-@ via @40 b=607 p=0 d=380689
-@ via @41 b=7379 p=0 d=54597321
-@@59: line 7.0 t=81057396 -> @41
-kailāso 
-@ via @40 b=2 p=0 d=10144
-@ via @41 b=1603 p=0 d=2601769
-@ via @42 b=3884 p=0 d=15163236
-@@60: line 7.0 t=26511099 -> @42
-brah-
-@\discretionary via @40 b=1 p=50 d=12621
-@\discretionary via @41 b=257 p=50 d=83789
-@\discretionary via @42 b=1057 p=50 d=1150989
-@\discretionary via @43 b=4454 p=50 d=19939796
-@@61: line 7.0- t=12498852 -> @42
-makapāṭe 
-@ via @41 b=0 p=0 d=10100
-@ via @42 b=9 p=0 d=10361
-@ via @43 b=587 p=0 d=356409
-@ via @44 b=2020 p=0 d=4120900
-@ via @45 b=2990 p=0 d=9000000
-@@62: line 7.0 t=3985291 -> @43
-vasati 
-@ via @42 b=0 p=0 d=10100
-@ via @43 b=24 p=0 d=1156
-@ via @44 b=299 p=0 d=95481
-@ via @45 b=527 p=0 d=288369
-@ via @46 b=6300 p=0 d=39826100
-@@63: line 7.0 t=2588014 -> @45
-| 
-@ via @42 b=13 p=0 d=10529
-@ via @43 b=6 p=0 d=10256
-@ via @44 b=161 p=0 d=29241
-@ via @45 b=299 p=0 d=95481
-@ via @46 b=4205 p=0 d=17776225
-@@64: line 7.0 t=2395126 -> @45
-himālayaḥ 
-@ via @44 b=1 p=0 d=121
-@ via @45 b=0 p=0 d=10100
-@ via @46 b=86 p=0 d=9216
-@ via @47 b=887 p=0 d=804609
-@ via @48 b=3792 p=0 d=14465204
-@@65: line 7.1 t=563530 -> @46
-pṛṣṭhe 
-@ via @46 b=0 p=0 d=100
-@ via @47 b=9 p=0 d=10361
-@ via @48 b=389 p=0 d=169201
-@ via @49 b=3679 p=0 d=13618721
-@@66: line 7.2 t=235091 -> @47
-| 
-@ via @46 b=0 p=0 d=100
-@ via @47 b=1 p=0 d=10121
-@ via @48 b=189 p=0 d=49601
-@ via @49 b=2205 p=0 d=4916225
-@ via @50 b=8189 p=0 d=67223601
-@@67: line 7.2 t=234851 -> @47
-malayo 
-@ via @48 b=0 p=0 d=100
-@ via @49 b=42 p=0 d=12704
-@ via @50 b=488 p=0 d=248004
-@ via @51 b=5036 p=0 d=25472116
-@@68: line 7.2 t=201474 -> @48
-vā-
-@\discretionary via @48 b=22 p=50 d=3524
-@\discretionary via @49 b=0 p=50 d=2600
-@\discretionary via @50 b=34 p=50 d=4436
-@\discretionary via @51 b=1320 p=50 d=1781400
-@\discretionary via @52 b=7012 p=50 d=49330984
-@@69: line 7.1- t=94464 -> @50
-makand-
-@\discretionary via @50 b=53 p=50 d=16469
-@\discretionary via @51 b=0 p=50 d=2600
-@\discretionary via @52 b=332 p=50 d=139464
-@\discretionary via @53 b=1783 p=50 d=3227349
-@\discretionary via @54 b=1783 p=50 d=3237349
-@@70: line 7.2- t=16208 -> @51
-hare 
-@ via @51 b=12 p=0 d=484
-@ via @52 b=1 p=0 d=121
-@ via @53 b=219 p=0 d=52441
-@ via @54 b=219 p=0 d=62441
-@ via @55 b=3029 p=0 d=9245521
-@@71: line 7.2 t=6591 -> @52
-| 
-@ via @51 b=90 p=0 d=10000
-@ via @52 b=0 p=0 d=100
-@ via @53 b=62 p=0 d=5184
-@ via @54 b=62 p=0 d=5184
-@ via @55 b=1533 p=0 d=2390849
-@ via @56 b=7631 p=0 d=58394881
-@@72: line 7.1 t=11498 -> @54
-@@73: line 7.2 t=6570 -> @52
-man-
-@\discretionary via @52 b=66 p=50 d=18276
-@\discretionary via @53 b=0 p=50 d=12600
-@\discretionary via @54 b=0 p=50 d=12600
-@\discretionary via @55 b=33 p=50 d=4349
-@\discretionary via @56 b=1237 p=50 d=1577509
-@@74: line 7.1- t=6414 -> @55
-daro 
-@ via @55 b=0 p=0 d=100
-@ via @56 b=119 p=0 d=26641
-@ via @57 b=3735 p=0 d=14025025
-@@75: line 7.2 t=2165 -> @55
-dakṣiṇakand-
-@\discretionary via @57 b=0 p=50 d=12600
-@\discretionary via @58 b=78 p=50 d=10244
-@\discretionary via @59 b=283 p=50 d=88349
-@@76: line 8.0- t=81145745 -> @59
-hare 
-@ via @58 b=0 p=0 d=10100
-@ via @59 b=0 p=0 d=10100
-@ via @60 b=2435 p=0 d=5978025
-@@77: line 8.0 t=32489124 -> @60
-| 
-@ via @58 b=0 p=0 d=10100
-@ via @59 b=0 p=0 d=10100
-@ via @60 b=1102 p=0 d=1236544
-@ via @61 b=5741 p=0 d=33074001
-@@78: line 8.0 t=27747643 -> @60
-vin-
-@\discretionary via @59 b=27 p=50 d=13869
-@\discretionary via @60 b=36 p=50 d=4616
-@\discretionary via @61 b=1082 p=50 d=1204964
-@@79: line 8.0- t=13703816 -> @61
-d-
-@\discretionary via @60 b=2 p=50 d=12644
-@\discretionary via @61 b=565 p=50 d=343125
-@@80: line 8.0- t=12841977 -> @61
-hyo 
-@ via @60 b=0 p=0 d=10100
-@ via @61 b=34 p=0 d=1936
-@@81: line 8.1 t=12500788 -> @61
-dakṣiṇakarṇe 
-@ via @62 b=0 p=0 d=10100
-@ via @63 b=463 p=0 d=223729
-@ via @64 b=1194 p=0 d=1449616
-@@82: line 8.0 t=2811743 -> @63
-| 
-@ via @62 b=0 p=0 d=10100
-@ via @63 b=153 p=0 d=26569
-@ via @64 b=463 p=0 d=223729
-@@83: line 8.0 t=2614583 -> @63
-maināko 
-@ via @63 b=50 p=0 d=13600
-@ via @64 b=3 p=0 d=10169
-@ via @65 b=1112 p=0 d=1258884
-@@84: line 8.0 t=1822414 -> @65
-vā-
-@\discretionary via @65 b=107 p=50 d=16189
-@\discretionary via @66 b=4569 p=50 d=20979741
-@@85: line 8.0- t=579719 -> @65
-makarṇe 
-@ via @65 b=32 p=0 d=11764
-@ via @66 b=20 p=0 d=900
-@ via @67 b=132 p=0 d=30164
-@@86: line 8.1 t=235991 -> @66
-| 
-@ via @66 b=0 p=0 d=100
-@ via @67 b=20 p=0 d=900
-@ via @68 b=4954 p=0 d=24651296
-@@87: line 8.1 t=235751 -> @67
-@@88: line 8.2 t=235191 -> @66
-śrī-
-@\discretionary via @66 b=0 p=50 d=2600
-@\discretionary via @67 b=0 p=50 d=2600
-@\discretionary via @68 b=954 p=50 d=941796
-@\discretionary via @69 b=2409 p=50 d=5864061
-@@89: line 8.2- t=237451 -> @67
-par-
-@\discretionary via @67 b=21 p=50 d=3461
-@\discretionary via @68 b=85 p=50 d=11525
-@\discretionary via @69 b=503 p=50 d=275669
-@@90: line 8.1- t=212999 -> @68
-vato 
-@ via @68 b=0 p=0 d=100
-@ via @69 b=3 p=0 d=169
-@ via @70 b=3189 p=0 d=10243601
-@@91: line 8.2 t=94633 -> @69
-lalāṭe 
-@ via @69 b=17 p=0 d=10729
-@ via @70 b=104 p=0 d=22996
-@ via @71 b=2334 p=0 d=5504336
-@ via @72 b=4647 p=0 d=21687649
-@ via @73 b=4647 p=0 d=21697649
-@@92: line 8.0 t=39204 -> @70
-| 
-@ via @70 b=20 p=0 d=900
-@ via @71 b=1132 p=0 d=1314164
-@ via @72 b=2334 p=0 d=5494336
-@ via @73 b=2334 p=0 d=5504336
-@@93: line 8.1 t=17108 -> @70
-evam 
-@ via @70 b=0 p=0 d=100
-@ via @71 b=3 p=0 d=169
-@ via @72 b=35 p=0 d=2025
-@ via @73 b=35 p=0 d=2025
-@ via @74 b=981 p=0 d=982081
-@ via @75 b=7116 p=0 d=50789876
-@@94: line 8.1 t=8595 -> @73
-@@95: line 8.2 t=6760 -> @71
-aṣṭa 
-@ via @71 b=0 p=0 d=100
-@ via @72 b=0 p=0 d=100
-@ via @73 b=0 p=0 d=100
-@ via @74 b=29 p=0 d=1521
-@ via @75 b=1331 p=0 d=1808281
-@@96: line 8.1 t=7935 -> @74
-@@97: line 8.2 t=6670 -> @73
-ku-
-@\discretionary via @72 b=40 p=50 d=15000
-@\discretionary via @73 b=40 p=50 d=5000
-@\discretionary via @74 b=0 p=50 d=12600
-@\discretionary via @75 b=161 p=50 d=41741
-@@98: line 8.2- t=19014 -> @74
-@@99: line 8.3- t=11570 -> @73
-la-
-@\discretionary via @74 b=0 p=50 d=12600
-@\discretionary via @75 b=28 p=50 d=3944
-@@100: line 8.1- t=6109 -> @75
-parvatāḥ 
-@ via @76 b=729 p=0 d=546121
-@ via @77 b=5091 p=0 d=26020201
-@@101: line 9.0 t=58509325 -> @77
-| 
-@ via @76 b=323 p=0 d=110889
-@ via @77 b=2903 p=0 d=8485569
-@ via @78 b=5161 p=0 d=26739241
-@@102: line 9.0 t=40974693 -> @77
-anye 
-@ via @76 b=0 p=0 d=10100
-@ via @77 b=281 p=0 d=84681
-@ via @78 b=666 p=0 d=456976
-@ via @79 b=2229 p=0 d=5013121
-@ via @80 b=3323 p=0 d=11108889
-@@103: line 9.0 t=18716937 -> @79
-up-
-@\discretionary via @76 b=0 p=50 d=22600
-@\discretionary via @77 b=6 p=50 d=12756
-@\discretionary via @78 b=42 p=50 d=5204
-@\discretionary via @79 b=419 p=50 d=196541
-@\discretionary via @80 b=783 p=50 d=641349
-@\discretionary via @81 b=3954 p=50 d=15715796
-@@104: line 9.0- t=13483326 -> @80
-a-
-@\discretionary via @76 b=2 p=50 d=22644
-@\discretionary via @77 b=0 p=50 d=12600
-@\discretionary via @78 b=9 p=50 d=12861
-@\discretionary via @79 b=230 p=50 d=70100
-@\discretionary via @80 b=483 p=50 d=255549
-@\discretionary via @81 b=2951 p=50 d=8770021
-@@105: line 9.0- t=13097526 -> @80
-parvatāḥ 
-@ via @79 b=0 p=0 d=10100
-@ via @80 b=0 p=0 d=10100
-@ via @81 b=18 p=0 d=784
-@@106: line 9.1 t=12501572 -> @81
-sarvāṅguliṣu 
-@ via @82 b=53 p=0 d=3969
-@ via @83 b=196 p=0 d=42436
-@@107: line 9.0 t=2657019 -> @83
-vas-
-@\discretionary via @82 b=0 p=50 d=12600
-@\discretionary via @83 b=0 p=50 d=12600
-@\discretionary via @84 b=2521 p=50 d=6408461
-@\discretionary via @85 b=4805 p=50 d=23196725
-@@108: line 9.2- t=2627183 -> @83
-anti 
-@ via @82 b=8 p=0 d=10324
-@ via @83 b=0 p=0 d=10100
-@ via @84 b=591 p=0 d=361201
-@ via @85 b=1584 p=0 d=2540836
-@@109: line 9.0 t=2183615 -> @84
-|[] 
-@ via @82 b=59 p=0 d=14761
-@ via @83 b=8 p=0 d=10324
-@ via @84 b=230 p=0 d=57600
-@ via @85 b=764 p=0 d=599076
-@@110: line 9.0 t=1178795 -> @85
-[][]\TU/AdobeTextPro(0)/b/n/8 6--8 [][][][][]\TU/AdobeTextPro(0)/m/n/8 cf. 
-@ via @84 b=0 p=0 d=10100
-@ via @85 b=0 p=0 d=10100
-@ via @86 b=1635 p=0 d=2706025
-@ via @87 b=2932 p=0 d=8655364
-@ via @88 b=2932 p=0 d=8665364
-@ via @89 b=5667 p=0 d=32238329
-@@111: line 9.2 t=589819 -> @85
+@ via @10 b=155 p=0 d=27225
+@ via @11 b=546 p=0 d=319136
+@ via @12 b=2698 p=0 d=7333264
+@@22: line 4.0 t=881739 -> @10
 YSv 
-@ via @85 b=17 p=0 d=10729
-@ via @86 b=86 p=0 d=9216
-@ via @87 b=216 p=0 d=51076
-@ via @88 b=216 p=0 d=61076
-@ via @89 b=695 p=0 d=507025
-@ via @90 b=2080 p=0 d=4368100
-@ via @91 b=7326 p=0 d=53826896
-@@112: line 9.1 t=245207 -> @86
+@ via @10 b=0 p=0 d=10100
+@ via @11 b=1 p=0 d=121
+@ via @12 b=184 p=0 d=37636
+@ via @13 b=1924 p=0 d=3750356
+@ via @14 b=3679 p=0 d=13608721
+@@23: line 4.0 t=109700 -> @12
 (PT 
-@ via @86 b=0 p=0 d=100
-@ via @87 b=0 p=0 d=100
-@ via @88 b=0 p=0 d=100
-@ via @89 b=37 p=0 d=2209
-@ via @90 b=345 p=0 d=126025
-@ via @91 b=2150 p=0 d=4675600
-@@113: line 9.1 t=239660 -> @89
-@@114: line 9.2 t=235291 -> @88
+@ via @10 b=51 p=0 d=13721
+@ via @11 b=0 p=0 d=100
+@ via @12 b=0 p=0 d=100
+@ via @13 b=257 p=0 d=81289
+@ via @14 b=768 p=0 d=605284
+@ via @15 b=3428 p=0 d=11819844
+@ via @16 b=5667 p=0 d=32238329
+@@24: line 4.2 t=72164 -> @12
 p. 
-@ via @86 b=0 p=0 d=100
-@ via @87 b=0 p=0 d=100
-@ via @88 b=0 p=0 d=100
-@ via @89 b=1 p=0 d=121
-@ via @90 b=94 p=0 d=10816
-@ via @91 b=981 p=0 d=992081
-@ via @92 b=5064 p=0 d=25745476
-@ via @93 b=7667 p=0 d=58936329
-@@115: line 9.1 t=223815 -> @90
-843): 
-@ via @89 b=8 p=0 d=324
-@ via @90 b=0 p=0 d=100
-@ via @91 b=27 p=0 d=1369
-@ via @92 b=666 p=0 d=456976
-@ via @93 b=1122 p=0 d=1281424
-@ via @94 b=5175 p=0 d=26884225
-@ via @95 b=5175 p=0 d=26894225
-@@116: line 9.1 t=96002 -> @91
-śarīre 
-@ via @91 b=0 p=0 d=100
-@ via @92 b=10 p=0 d=10400
-@ via @93 b=35 p=0 d=2025
-@ via @94 b=752 p=0 d=580644
-@ via @95 b=752 p=0 d=590644
-@ via @96 b=2762 p=0 d=7683984
-@ via @97 b=2762 p=0 d=7693984
-@ via @98 b=4505 p=0 d=20395225
-@ via @99 b=4505 p=0 d=20395225
-@ via @100 b=6063 p=0 d=36881329
-@@117: line 9.1 t=19133 -> @93
-na-
-@\discretionary via @92 b=0 p=50 d=12600
-@\discretionary via @93 b=0 p=50 d=2600
-@\discretionary via @94 b=176 p=50 d=37096
-@\discretionary via @95 b=176 p=50 d=47096
-@\discretionary via @96 b=1028 p=50 d=1079944
-@\discretionary via @97 b=1028 p=50 d=1089944
-@\discretionary via @98 b=1931 p=50 d=3789981
-@\discretionary via @99 b=1931 p=50 d=3789981
-@\discretionary via @100 b=2790 p=50 d=7852500
-@@118: line 9.2- t=19708 -> @93
-vanāḍīsthā 
-@ via @94 b=0 p=0 d=100
-@ via @95 b=0 p=0 d=100
-@ via @96 b=0 p=0 d=100
-@ via @97 b=0 p=0 d=100
-@ via @98 b=18 p=0 d=784
-@ via @99 b=18 p=0 d=10784
-@ via @100 b=78 p=0 d=7744
-@ via @101 b=2707 p=0 d=7382089
-@ via @102 b=4084 p=0 d=16760836
-@@119: line 9.1 t=13853 -> @100
-@@120: line 9.2 t=6770 -> @97
-nar-
-@\discretionary via @96 b=0 p=50 d=2600
-@\discretionary via @97 b=0 p=50 d=2600
-@\discretionary via @98 b=0 p=50 d=12600
-@\discretionary via @99 b=0 p=50 d=12600
-@\discretionary via @100 b=0 p=50 d=12600
-@\discretionary via @101 b=768 p=50 d=607784
-@\discretionary via @102 b=1270 p=50 d=1640900
-@\discretionary via @103 b=4913 p=50 d=24238429
-@\discretionary via @104 b=7777 p=50 d=60649869
-@@121: line 9.2- t=9270 -> @97
-madā 
-@ via @100 b=11 p=0 d=441
-@ via @101 b=78 p=0 d=7744
-@ via @102 b=184 p=0 d=37636
-@ via @103 b=1546 p=0 d=2421136
-@ via @104 b=2961 p=0 d=8826841
-@ via @105 b=3735 p=0 d=14025025
-@@122: line 9.2 t=6550 -> @100
-ca 
-@ via @101 b=4 p=0 d=10196
-@ via @102 b=22 p=0 d=1024
-@ via @103 b=549 p=0 d=312481
-@ via @104 b=1270 p=0 d=1638400
-@ via @105 b=1694 p=0 d=2903616
-@@123: line 10.0 t=15121726 -> @104
-ma-
-@\discretionary via @101 b=0 p=50 d=12600
-@\discretionary via @102 b=0 p=50 d=12600
-@\discretionary via @103 b=60 p=50 d=7400
-@\discretionary via @104 b=265 p=50 d=88125
-@\discretionary via @105 b=414 p=50 d=192276
-@\discretionary via @106 b=5175 p=50 d=26886725
-@@124: line 10.0- t=13289802 -> @105
-heś-
-@\discretionary via @101 b=43 p=50 d=15309
-@\discretionary via @102 b=3 p=50 d=12669
-@\discretionary via @103 b=0 p=50 d=12600
-@\discretionary via @104 b=32 p=50 d=14264
-@\discretionary via @105 b=76 p=50 d=19896
-@\discretionary via @106 b=2680 p=50 d=7238600
-@@125: line 10.1- t=13117422 -> @105
-vari 
-@ via @103 b=0 p=0 d=10100
-@ via @104 b=0 p=0 d=10100
-@ via @105 b=1 p=0 d=10121
-@ via @106 b=1137 p=0 d=1315609
-@@126: line 10.2 t=13107647 -> @105
-| 
-@ via @103 b=0 p=0 d=10100
-@ via @104 b=0 p=0 d=10100
-@ via @105 b=0 p=0 d=10100
-@ via @106 b=677 p=0 d=471969
-@@127: line 10.0 t=12973541 -> @106
-iḍāyāṃ 
-@ via @106 b=2 p=0 d=144
-@ via @107 b=2717 p=0 d=7436529
-@ via @108 b=4819 p=0 d=23329241
-@@128: line 10.0 t=10093548 -> @107
-ya-
-@\discretionary via @106 b=0 p=50 d=2600
-@\discretionary via @107 b=1122 p=50 d=1283924
-@\discretionary via @108 b=2293 p=50 d=5326309
-@\discretionary via @109 b=5893 p=50 d=34847909
-@@129: line 10.0- t=3940943 -> @107
-munā 
-@ via @107 b=174 p=0 d=33856
-@ via @108 b=584 p=0 d=362836
-@ via @109 b=2197 p=0 d=4870849
-@ via @110 b=3302 p=0 d=10969344
-@@130: line 10.0 t=2690875 -> @107
-devi 
-@ via @107 b=1 p=0 d=10121
-@ via @108 b=55 p=0 d=4225
-@ via @109 b=509 p=0 d=269361
-@ via @110 b=857 p=0 d=751689
-@@131: line 10.0 t=1930484 -> @110
-piṅ-
-@\discretionary via @107 b=0 p=50 d=12600
-@\discretionary via @108 b=0 p=50 d=12600
-@\discretionary via @109 b=60 p=50 d=7400
-@\discretionary via @110 b=138 p=50 d=24404
-@\discretionary via @111 b=3323 p=50 d=11121389
-@@132: line 10.0- t=1203199 -> @110
-galāyāṃ 
-@ via @109 b=0 p=0 d=10100
-@ via @110 b=0 p=0 d=10100
-@ via @111 b=235 p=0 d=70025
-@ via @112 b=1701 p=0 d=2927521
-@ via @113 b=6592 p=0 d=43586404
-@ via @114 b=6592 p=0 d=43596404
-@@133: line 10.0 t=659844 -> @111
-saras-
-@\discretionary via @111 b=0 p=50 d=2600
-@\discretionary via @112 b=96 p=50 d=13736
-@\discretionary via @113 b=1137 p=50 d=1318109
-@\discretionary via @114 b=1137 p=50 d=1328109
-@\discretionary via @115 b=4859 p=50 d=23709661
-@@134: line 10.1- t=258943 -> @112
-vatī 
-@ via @111 b=0 p=0 d=100
-@ via @112 b=1 p=0 d=121
-@ via @113 b=275 p=0 d=81225
-@ via @114 b=275 p=0 d=91225
-@ via @115 b=1728 p=0 d=3020644
-@@135: line 10.2 t=245328 -> @112
-| 
-@ via @111 b=8 p=0 d=324
-@ via @112 b=0 p=0 d=100
-@ via @113 b=109 p=0 d=14161
-@ via @114 b=109 p=0 d=24161
-@ via @115 b=849 p=0 d=737881
-@@136: line 10.0 t=253821 -> @113
-@@137: line 10.2 t=245307 -> @112
-suṣum-
-@\discretionary via @113 b=0 p=50 d=2600
-@\discretionary via @114 b=0 p=50 d=2600
-@\discretionary via @115 b=0 p=50 d=2600
-@\discretionary via @116 b=539 p=50 d=303901
-@\discretionary via @117 b=6825 p=50 d=46719725
-@@138: line 10.2- t=226415 -> @115
-nāyāṃ 
-@ via @116 b=0 p=0 d=100
-@ via @117 b=670 p=0 d=462400
-@ via @118 b=2020 p=0 d=4130900
-@@139: line 10.2 t=96102 -> @116
-va-
-@\discretionary via @116 b=0 p=50 d=2600
-@\discretionary via @117 b=35 p=50 d=4525
-@\discretionary via @118 b=321 p=50 d=132061
-@@140: line 10.1- t=23658 -> @117
-hed 
-@ via @117 b=0 p=0 d=100
-@ via @118 b=6 p=0 d=256
-@@141: line 10.2 t=19233 -> @117
-gaṅgā 
-@ via @118 b=22 p=0 d=1024
-@ via @119 b=768 p=0 d=605284
-@ via @120 b=768 p=0 d=615284
-@ via @121 b=2846 p=0 d=8166736
-@@142: line 10.3 t=20732 -> @118
-cāny-
-@\discretionary via @119 b=0 p=50 d=2600
-@\discretionary via @120 b=0 p=50 d=2600
-@\discretionary via @121 b=150 p=50 d=48100
-@\discretionary via @122 b=3250 p=50 d=10640100
-@@143: line 10.2- t=9370 -> @120
-onyāsu 
-@ via @121 b=0 p=0 d=100
-@ via @122 b=114 p=0 d=25376
-@ via @123 b=922 p=0 d=868624
-@ via @124 b=3250 p=0 d=10627600
-@@144: line 10.2 t=9370 -> @121
-ca 
-@ via @121 b=33 p=0 d=1849
-@ via @122 b=0 p=0 d=100
-@ via @123 b=114 p=0 d=15376
-@ via @124 b=853 p=0 d=744769
-@ via @125 b=3128 p=0 d=9847044
-@@145: line 10.2 t=6650 -> @122
-@@146: line 10.3 t=11119 -> @121
-nāḍiṣu 
-@ via @123 b=0 p=0 d=10100
-@ via @124 b=0 p=0 d=10100
-@ via @125 b=45 p=0 d=3025
-@ via @126 b=1122 p=0 d=1291424
-@ via @127 b=2318 p=0 d=5419584
-@@147: line 11.1 t=13120447 -> @125
-| 
-@ via @123 b=15 p=0 d=10625
-@ via @124 b=0 p=0 d=10100
-@ via @125 b=6 p=0 d=256
-@ via @126 b=509 p=0 d=279361
-@ via @127 b=1122 p=0 d=1281424
-@@148: line 11.2 t=13117678 -> @125
-gaṅgā 
-@ via @125 b=9 p=0 d=361
-@ via @126 b=0 p=0 d=100
-@ via @127 b=0 p=0 d=10100
-@ via @128 b=1953 p=0 d=3853369
-@ via @129 b=4001 p=0 d=16088121
-@@149: line 11.2 t=12983641 -> @127
-saras-
-@\discretionary via @127 b=23 p=50 d=13589
-@\discretionary via @128 b=40 p=50 d=5000
-@\discretionary via @129 b=277 p=50 d=94869
-@\discretionary via @130 b=4454 p=50 d=19929796
-@@150: line 11.0- t=4035812 -> @129
-vatī 
-@ via @128 b=0 p=0 d=10100
-@ via @129 b=8 p=0 d=10324
-@ via @130 b=1533 p=0 d=2380849
-@@151: line 11.2 t=3951267 -> @129
-godā 
-@ via @128 b=96 p=0 d=21236
-@ via @129 b=0 p=0 d=10100
-@ via @130 b=30 p=0 d=1600
-@ via @131 b=1205 p=0 d=1476225
-@ via @132 b=3815 p=0 d=14630625
-@@152: line 11.1 t=2692475 -> @130
-nar-
-@\discretionary via @130 b=0 p=50 d=12600
-@\discretionary via @131 b=61 p=50 d=7541
-@\discretionary via @132 b=621 p=50 d=410661
-@@153: line 11.0- t=1613860 -> @132
-madā 
-@ via @131 b=0 p=0 d=10100
-@ via @132 b=3 p=0 d=10169
-@ via @133 b=3138 p=0 d=9909904
-@@154: line 11.2 t=1213368 -> @132
-ya-
-@\discretionary via @131 b=29 p=50 d=14021
-@\discretionary via @132 b=0 p=50 d=22600
-@\discretionary via @133 b=760 p=50 d=595400
-@\discretionary via @134 b=4084 p=50 d=16773336
-@@155: line 11.2- t=1225799 -> @132
-munā 
-@ via @133 b=5 p=0 d=10225
-@ via @134 b=635 p=0 d=416025
-@ via @135 b=3803 p=0 d=14548969
-@ via @136 b=6792 p=0 d=46267204
-@ via @137 b=6792 p=0 d=46277204
-@@156: line 11.0 t=674968 -> @134
-@@157: line 11.2 t=670069 -> @133
+@ via @11 b=46 p=0 d=3136
+@ via @12 b=0 p=0 d=100
+@ via @13 b=53 p=0 d=3969
+@ via @14 b=263 p=0 d=74529
+@ via @15 b=1635 p=0 d=2706025
+@ via @16 b=2961 p=0 d=8836841
+@ via @17 b=5008 p=0 d=25190324
+@@25: line 4.2 t=72164 -> @12
+831): 
+@ via @13 b=0 p=0 d=100
+@ via @14 b=0 p=0 d=10100
+@ via @15 b=74 p=0 d=7056
+@ via @16 b=259 p=0 d=82361
+@ via @17 b=656 p=0 d=453556
+@@26: line 4.2 t=78864 -> @13
+pañ-
+@\discretionary via @14 b=17 p=50 d=23229
+@\discretionary via @15 b=0 p=50 d=12600
+@\discretionary via @16 b=2 p=50 d=12644
+@\discretionary via @17 b=37 p=50 d=14709
+@@27: line 4.1- t=26625 -> @17
+@@28: line 4.2- t=24560 -> @16
+cadaśaprakāro ’yaṃ rā-jayo-gaḥ || kriyāyogo 
+@ via @18 b=2293 p=0 d=5303809
+@@29: line 5.0 t=147025567 -> @18
+jñā-
+@\discretionary via @18 b=659 p=50 d=460061
+@\discretionary via @19 b=3547 p=50 d=12654749
+@@30: line 5.0- t=93017487 -> @19
+nayo-
+@\discretionary via @18 b=67 p=50 d=18429
+@\discretionary via @19 b=1107 p=50 d=1250189
+@\discretionary via @20 b=6542 p=50 d=42931204
+@@31: line 5.0- t=54084450 -> @20
+gaḥ 
+@ via @18 b=1 p=0 d=10121
+@ via @19 b=371 p=0 d=145161
+@ via @20 b=3623 p=0 d=13198689
+@ via @21 b=6268 p=0 d=39413284
+@@32: line 5.0 t=24351935 -> @20
+kar-
+@\discretionary via @18 b=0 p=50 d=22600
+@\discretionary via @19 b=23 p=50 d=3589
+@\discretionary via @20 b=1092 p=50 d=1216904
+@\discretionary via @21 b=2142 p=50 d=4633604
+@@33: line 5.0- t=12370150 -> @20
+mayogo 
+@ via @19 b=7 p=0 d=10289
+@ via @20 b=18 p=0 d=784
+@ via @21 b=108 p=0 d=13924
+@ via @22 b=4543 p=0 d=20729809
+@@34: line 5.0 t=10616135 -> @21
+haṭhas 
+@ via @20 b=3 p=0 d=10169
+@ via @21 b=0 p=0 d=10100
+@ via @22 b=252 p=0 d=68644
+@ via @23 b=2181 p=0 d=4800481
+@@35: line 5.0 t=950383 -> @22
 tathā 
-@ via @133 b=1 p=0 d=10121
-@ via @134 b=0 p=0 d=100
-@ via @135 b=295 p=0 d=103025
-@ via @136 b=718 p=0 d=529984
-@ via @137 b=718 p=0 d=539984
-@ via @138 b=6510 p=0 d=42520400
-@@158: line 11.2 t=259043 -> @134
+@ via @22 b=0 p=0 d=10100
+@ via @23 b=114 p=0 d=15376
+@ via @24 b=1571 p=0 d=2509561
+@ via @25 b=7722 p=0 d=59793824
+@@36: line 5.0 t=125076 -> @23
 | 
-@ via @133 b=27 p=0 d=11369
-@ via @134 b=0 p=0 d=100
-@ via @135 b=103 p=0 d=22769
-@ via @136 b=295 p=0 d=93025
-@ via @137 b=295 p=0 d=103025
-@ via @138 b=3815 p=0 d=14640625
-@@159: line 11.0 t=268097 -> @135
-@@160: line 11.2 t=259043 -> @134
-kāverī 
-@ via @135 b=0 p=0 d=100
-@ via @136 b=0 p=0 d=10100
-@ via @137 b=0 p=0 d=100
-@ via @138 b=200 p=0 d=54100
-@ via @139 b=4328 p=0 d=18828244
-@ via @140 b=7203 p=0 d=52027369
-@@161: line 11.2 t=245407 -> @137
-can-
-@\discretionary via @136 b=92 p=50 d=22904
-@\discretionary via @137 b=92 p=50 d=12904
+@ via @22 b=0 p=0 d=10100
+@ via @23 b=31 p=0 d=1681
+@ via @24 b=804 p=0 d=672596
+@ via @25 b=4156 p=0 d=17365556
+@@37: line 5.1 t=111381 -> @23
+dhyā-
+@\discretionary via @23 b=0 p=50 d=12600
+@\discretionary via @24 b=5 p=50 d=2725
+@\discretionary via @25 b=218 p=50 d=64484
+@\discretionary via @26 b=5832 p=50 d=34141464
+@@38: line 5.2- t=74889 -> @24
+nayogo 
+@ via @24 b=68 p=0 d=6084
+@ via @25 b=0 p=0 d=100
+@ via @26 b=166 p=0 d=40976
+@ via @27 b=1867 p=0 d=3523129
+@ via @28 b=1867 p=0 d=3533129
+@@39: line 5.2 t=72264 -> @25
+@@40: line 5.3 t=78248 -> @24
+mantrayoga 
+@ via @27 b=75 p=0 d=17225
+@ via @28 b=75 p=0 d=7225
+@@41: line 5.3 t=31785 -> @28
+urayo-gaś ca vāsanā | rā-jaty 
+@ via @29 b=5388 p=0 d=29138404
+@@42: line 6.0 t=176163971 -> @29
+etad 
+@ via @29 b=652 p=0 d=438244
+@ via @30 b=2334 p=0 d=5494336
+@@43: line 6.0 t=98511823 -> @30
+brah-
+@\discretionary via @29 b=0 p=50 d=12600
+@\discretionary via @30 b=93 p=50 d=23109
+@\discretionary via @31 b=1424 p=50 d=2068856
+@\discretionary via @32 b=6188 p=50 d=38417704
+@@44: line 6.0- t=56153306 -> @31
+mavaśīva 
+@ via @30 b=33 p=0 d=11849
+@ via @31 b=0 p=0 d=10100
+@ via @32 b=150 p=0 d=25600
+@ via @33 b=1082 p=0 d=1192464
+@@45: line 6.0 t=13562614 -> @33
+ebhiś 
+@ via @32 b=0 p=0 d=10100
+@ via @33 b=2 p=0 d=10144
+@ via @34 b=2894 p=0 d=8433216
+@@46: line 6.2 t=12380294 -> @33
+ca 
+@ via @32 b=13 p=0 d=10529
+@ via @33 b=0 p=0 d=10100
+@ via @34 b=824 p=0 d=695556
+@@47: line 6.0 t=11311691 -> @34
+pañ-
+@\discretionary via @34 b=19 p=50 d=3341
+@\discretionary via @35 b=2020 p=50 d=4123400
+@@48: line 6.0- t=5073783 -> @35
+cadaśadhā 
+@ via @35 b=0 p=0 d=10100
+@ via @36 b=359 p=0 d=136161
+@ via @37 b=900 p=0 d=828100
+@ via @38 b=5490 p=0 d=30260000
+@@49: line 6.0 t=261237 -> @36
+| 
+@ via @35 b=0 p=0 d=10100
+@ via @36 b=122 p=0 d=17424
+@ via @37 b=359 p=0 d=136161
+@ via @38 b=3000 p=0 d=9070100
+@@50: line 6.0 t=142500 -> @36
+idānīṃ 
+@ via @36 b=0 p=0 d=10100
+@ via @37 b=0 p=0 d=100
+@ via @38 b=23 p=0 d=1089
+@ via @39 b=3291 p=0 d=10906601
+@ via @40 b=3291 p=0 d=10906601
+@@51: line 6.1 t=75978 -> @38
+lakṣaṇañ 
+@ via @39 b=1 p=0 d=121
+@ via @40 b=1 p=0 d=121
+@ via @41 b=7576 p=0 d=57557396
+@@52: line 6.2 t=72385 -> @39
+caiṣāṃ 
+@ via @41 b=483 p=0 d=253049
+@@53: line 6.0 t=284834 -> @41
+kathayāmi 
+@ via @41 b=22 p=0 d=1024
+@@54: line 6.3 t=32809 -> @41
+śṛṇu priye 
+@ via @42 b=5417 p=0 d=29452329
+@@55: line 7.0 t=205616300 -> @42
+|[] 
+@ via @42 b=2961 p=0 d=8826841
+@@56: line 7.0 t=184990812 -> @42
+[][]\TU/AdobeTextPro(0)/b/n/8 9--11 [][][][][] 
+@ via @42 b=88 p=0 d=9604
+@ via @43 b=1546 p=0 d=2421136
+@ via @44 b=5832 p=0 d=34128964
+@@57: line 7.0 t=90282270 -> @44
+\OMS/cmsy/m/n/10 \TU/AdobeTextPro(0)/m/n/8 YSv 
+@ via @42 b=0 p=0 d=10100
+@ via @43 b=9 p=0 d=10361
+@ via @44 b=515 p=0 d=275625
+@@58: line 7.0 t=56428931 -> @44
+(PT 
+@ via @43 b=0 p=0 d=10100
+@ via @44 b=6 p=0 d=10256
+@ via @45 b=2970 p=0 d=8880400
+@@59: line 7.0 t=22443014 -> @45
+p. 
+@ via @43 b=15 p=0 d=10625
+@ via @44 b=0 p=0 d=10100
+@ via @45 b=1297 p=0 d=1708249
+@ via @46 b=7186 p=0 d=51792416
+@@60: line 7.0 t=15270863 -> @45
+831): 
+@ via @45 b=29 p=0 d=1521
+@ via @46 b=853 p=0 d=754769
+@ via @47 b=2277 p=0 d=5230369
+@ via @48 b=5288 p=0 d=28068804
+@@61: line 7.0 t=13135063 -> @46
+kriyā-
+@\discretionary via @45 b=0 p=50 d=12600
+@\discretionary via @46 b=11 p=50 d=2941
+@\discretionary via @47 b=130 p=50 d=22100
+@\discretionary via @48 b=695 p=50 d=509525
+@@62: line 7.0- t=5583308 -> @48
+muk-
+@\discretionary via @46 b=0 p=50 d=2600
+@\discretionary via @47 b=0 p=50 d=12600
+@\discretionary via @48 b=81 p=50 d=20781
+@\discretionary via @49 b=4229 p=50 d=17971621
+@\discretionary via @50 b=6332 p=50 d=40223464
+@@63: line 7.1- t=5094564 -> @48
+ti-
+@\discretionary via @46 b=0 p=50 d=2600
+@\discretionary via @47 b=0 p=50 d=12600
+@\discretionary via @48 b=23 p=50 d=13589
+@\discretionary via @49 b=3098 p=50 d=9662164
+@\discretionary via @50 b=4752 p=50 d=22679144
+@@64: line 7.1- t=5087372 -> @48
+mayo 
+@ via @47 b=94 p=0 d=20816
+@ via @48 b=0 p=0 d=10100
+@ via @49 b=768 p=0 d=605284
+@ via @50 b=1348 p=0 d=1844164
+@@65: line 7.0 t=866521 -> @49
+(\TU/AdobeTextPro(0)/m/it/8 kriyā-
+@\discretionary via @49 b=4 p=50 d=12696
+@\discretionary via @50 b=25 p=50 d=3725
+@\discretionary via @51 b=1577 p=50 d=2521069
+@@66: line 7.1- t=146225 -> @50
+muk-
+@\discretionary via @49 b=0 p=50 d=12600
+@\discretionary via @50 b=0 p=50 d=12600
+@\discretionary via @51 b=305 p=50 d=101725
+@\discretionary via @52 b=6220 p=50 d=38825400
+@@67: line 7.2- t=155100 -> @50
+tir 
+@ via @49 b=6 p=0 d=10256
+@ via @50 b=0 p=0 d=10100
+@ via @51 b=100 p=0 d=12100
+@ via @52 b=4217 p=0 d=17877529
+@@68: line 7.0 t=88078 -> @51
+ayaṃ
+@\kern via @51 b=0 p=0 d=100
+@\kern via @52 b=584 p=0 d=362836
+@\kern via @53 b=5696 p=0 d=32558436
+@@69: line 7.2 t=76078 -> @51
+ \TU/AdobeTextPro(0)/m/n/8 YK 
+@ via @51 b=47 p=0 d=13249
+@ via @52 b=62 p=0 d=5184
+@ via @53 b=1990 p=0 d=4000000
+@@70: line 7.1 t=77569 -> @52
+1.209) 
+@ via @52 b=0 p=0 d=100
+@ via @53 b=103 p=0 d=12769
+@ via @54 b=5245 p=0 d=27625025
+@@71: line 7.2 t=72485 -> @52
+yo-
+@\discretionary via @53 b=1 p=50 d=12621
+@\discretionary via @54 b=1953 p=50 d=3865869
+@@72: line 7.2- t=297455 -> @53
+gaḥ 
+@ via @53 b=0 p=0 d=10100
+@ via @54 b=772 p=0 d=621524
+@@73: line 7.2 t=294934 -> @53
+sapiṇḍisid-
+@\discretionary via @54 b=0 p=50 d=2600
+@\discretionary via @55 b=791 p=50 d=644101
+@\discretionary via @56 b=1430 p=50 d=2076100
+@@74: line 7.2- t=35409 -> @54
+dhidāyakaḥ 
+@ via @55 b=0 p=0 d=10100
+@ via @56 b=0 p=0 d=10100
+@ via @57 b=208 p=0 d=47524
+@ via @58 b=4699 p=0 d=22174681
+@@75: line 8.0 t=78603612 -> @58
+(\TU/AdobeTextPro(0)/m/it/8 sapiṇḍe
+@\kern via @57 b=15 p=0 d=10625
+@\kern via @58 b=29 p=0 d=1521
+@\kern via @59 b=1087 p=0 d=1203409
+@\kern via @60 b=6725 p=0 d=45360225
+@@76: line 8.0 t=23646423 -> @59
+ \TU/AdobeTextPro(0)/m/n/8 YK 
+@ via @58 b=0 p=0 d=10100
+@ via @59 b=81 p=0 d=8281
+@ via @60 b=1092 p=0 d=1214404
+@@77: line 8.0 t=16485267 -> @60
+1.210) 
+@ via @59 b=0 p=0 d=10100
+@ via @60 b=0 p=0 d=10100
+@ via @61 b=986 p=0 d=992016
+@@78: line 8.0 t=14127079 -> @61
+| 
+@ via @59 b=20 p=0 d=10900
+@ via @60 b=0 p=0 d=10100
+@ via @61 b=279 p=0 d=83521
+@ via @62 b=3919 p=0 d=15437041
+@@79: line 8.0 t=13218584 -> @61
+yat 
+@ via @61 b=0 p=0 d=10100
+@ via @62 b=618 p=0 d=394384
+@ via @63 b=4072 p=0 d=16662724
+@ via @64 b=6188 p=0 d=38415204
+@@80: line 8.0 t=5977692 -> @62
+kāromīti 
+@ via @62 b=0 p=0 d=10100
+@ via @63 b=1 p=0 d=121
+@ via @64 b=27 p=0 d=1369
+@ via @65 b=2359 p=0 d=5612161
+@@81: line 8.1 t=5088741 -> @64
+@@82: line 8.2 t=5094685 -> @63
+saṅkalpaṃ 
+@ via @65 b=0 p=0 d=10100
+@ via @66 b=77 p=0 d=7569
+@ via @67 b=1253 p=0 d=1605169
+@ via @68 b=4391 p=0 d=19368801
+@@83: line 8.1 t=153794 -> @66
+kāryārambhe 
+@ via @68 b=0 p=0 d=10100
+@ via @69 b=38 p=0 d=2304
+@ via @70 b=1142 p=0 d=1327104
+@@84: line 8.1 t=78382 -> @69
+manaḥ 
+@ via @69 b=33 p=0 d=1849
+@ via @70 b=0 p=0 d=100
+@ via @71 b=824 p=0 d=705556
+@ via @72 b=2635 p=0 d=7006025
+@@85: line 8.2 t=77669 -> @70
+@@86: line 8.3 t=77927 -> @69
+sadā 
+@ via @71 b=0 p=0 d=100
+@ via @72 b=90 p=0 d=10000
+@ via @73 b=1874 p=0 d=3559456
+@@87: line 8.2 t=72585 -> @71
+||[] 
+@ via @71 b=0 p=0 d=100
+@ via @72 b=3 p=0 d=169
+@ via @73 b=562 p=0 d=337184
+@@88: line 8.2 t=72585 -> @71
+[][]\TU/AdobeTextPro(0)/b/n/8 11 [][][][][] 
+@ via @71 b=13 p=0 d=529
+@ via @72 b=0 p=0 d=100
+@ via @73 b=10 p=0 d=400
+@ via @74 b=4403 p=0 d=19484569
+@@89: line 8.3 t=73014 -> @71
+\OMS/cmsy/m/n/10 \TU/AdobeTextPro(0)/m/n/8 YSv 
+@ via @73 b=22 p=0 d=1024
+@ via @74 b=277 p=0 d=92369
+@@90: line 8.0 t=127778 -> @74
+(PT 
+@ via @74 b=0 p=0 d=100
+@ via @75 b=4266 p=0 d=18284176
+@@91: line 8.2 t=35509 -> @74
+p. 
+@ via @74 b=0 p=0 d=100
+@ via @75 b=2020 p=0 d=4120900
+@@92: line 8.2 t=35509 -> @74
+839): 
+@ via @75 b=90 p=0 d=10000
+@ via @76 b=2903 p=0 d=8485569
+@ via @77 b=7308 p=0 d=53553124
+@@93: line 9.0 t=32131992 -> @76
+tat-
+@\discretionary via @75 b=0 p=50 d=12600
+@\discretionary via @76 b=688 p=50 d=489704
+@\discretionary via @77 b=2237 p=50 d=5051509
+@@94: line 9.0- t=21536776 -> @77
+sāṅgā-
+@\discretionary via @75 b=20 p=50 d=13400
+@\discretionary via @76 b=42 p=50 d=5204
+@\discretionary via @77 b=411 p=50 d=179741
+@\discretionary via @78 b=3417 p=50 d=11746829
+@\discretionary via @79 b=5189 p=50 d=27032101
+@@95: line 9.0- t=16665008 -> @77
+caraṇaṃ 
+@ via @76 b=5 p=0 d=10225
+@ via @77 b=0 p=0 d=10100
+@ via @78 b=250 p=0 d=67600
+@ via @79 b=512 p=0 d=272484
+@ via @80 b=2111 p=0 d=4498641
+@@96: line 9.0 t=10476333 -> @80
+kur-
+@\discretionary via @77 b=18 p=50 d=13284
+@\discretionary via @78 b=4 p=50 d=12696
+@\discretionary via @79 b=26 p=50 d=3796
+@\discretionary via @80 b=366 p=50 d=143876
+@\discretionary via @81 b=6575 p=50 d=43364725
+@\discretionary via @82 b=6575 p=50 d=43374725
+@@97: line 9.0- t=6121568 -> @80
+van 
+@ via @78 b=0 p=0 d=10100
+@ via @79 b=0 p=0 d=10100
+@ via @80 b=41 p=0 d=2601
+@ via @81 b=3219 p=0 d=10426441
+@ via @82 b=3219 p=0 d=10436441
+@@98: line 9.1 t=5980293 -> @80
+kriyāyo-
+@\discretionary via @80 b=47 p=50 d=15749
+@\discretionary via @81 b=75 p=50 d=9725
+@\discretionary via @82 b=75 p=50 d=9725
+@\discretionary via @83 b=5970 p=50 d=35762900
+@@99: line 9.1- t=5098466 -> @81
+g-
+@\discretionary via @81 b=25 p=50 d=3725
+@\discretionary via @82 b=25 p=50 d=3725
+@\discretionary via @83 b=4686 p=50 d=22054916
+@@100: line 9.1- t=5092466 -> @81
+a-
+@\discretionary via @81 b=5 p=50 d=2725
+@\discretionary via @82 b=5 p=50 d=2725
+@\discretionary via @83 b=3679 p=50 d=13611221
+@@101: line 9.2- t=5091466 -> @81
+rato 
+@ via @81 b=0 p=0 d=100
+@ via @82 b=0 p=0 d=100
+@ via @83 b=1337 p=0 d=1814409
+@@102: line 9.0 t=1968203 -> @83
+bhavet 
+@ via @83 b=9 p=0 d=361
+@ via @84 b=6944 p=0 d=48358116
+@@103: line 9.2 t=154155 -> @83
+|[][] 
+@\penalty via @83 b=0 p=-10000 d=100
+@\penalty via @84 b=0 p=-10000 d=100
+@\penalty via @85 b=0 p=-10000 d=100
+@\penalty via @86 b=0 p=-10000 d=100
+@\penalty via @87 b=0 p=-10000 d=100
+@\penalty via @88 b=0 p=-10000 d=100
+@\penalty via @89 b=0 p=-10000 d=100
+@\penalty via @90 b=0 p=-10000 d=10100
+@\penalty via @91 b=0 p=-10000 d=100
+@\penalty via @92 b=0 p=-10000 d=100
+@\penalty via @93 b=0 p=-10000 d=10100
+@\penalty via @94 b=0 p=-10000 d=10100
+@\penalty via @95 b=0 p=-10000 d=10100
+@\penalty via @96 b=0 p=-10000 d=10100
+@\penalty via @97 b=0 p=-10000 d=10100
+@\penalty via @98 b=0 p=-10000 d=100
+@\penalty via @99 b=0 p=-10000 d=100
+@\penalty via @100 b=0 p=-10000 d=100
+@\penalty via @101 b=0 p=-10000 d=100
+@\penalty via @102 b=0 p=-10000 d=10100
+@\penalty via @103 b=0 p=-10000 d=100
+@@104: line 9.2 t=35609 -> @92
+[] 
+@\penalty via @104 b=0 p=-10000 d=100
+@@105: line 10.2 t=35709 -> @104
+[]\TU/AdobeTextPro(0)/b/n/8 Testimonia: [][]4--6 [][][][][] \TU/AdobeTextPro(0)
+/m/n/8 cf. \TU/AdobeTextPro(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā \TU/AdobeTex
+tPro(0)/m/n/8 (Ed. p. 2): ni-did-hyāsanañ caika tā-
+@\discretionary via @105 b=8094 p=50 d=65687316
+@@106: line 11.0- t=65723025 -> @105
+natādirūpo 
+@ via @105 b=791 p=0 d=651601
+@@107: line 11.0 t=687310 -> @105
+rā-
+@\discretionary via @105 b=213 p=50 d=62229
+@@108: line 11.0- t=97938 -> @105
+jayo-
+@\discretionary via @105 b=8 p=50 d=2824
+@@109: line 11.2- t=38533 -> @105
+gā-
+@\discretionary via @105 b=0 p=50 d=2600
+@@110: line 11.2- t=38309 -> @105
+para-
+@\discretionary via @105 b=14 p=50 d=3076
+@@111: line 11.3- t=38785 -> @105
+paryāyaḥ samād-hiḥ | tat-sād-hanaṃ tu kriyāyo-gaḥ, caryāyo-gaḥ, 
+kar-
+@\discretionary via @106 b=7704 p=50 d=59518296
+@@112: line 12.0- t=125241321 -> @106
+mayogo, 
+@ via @106 b=25 p=0 d=1225
+@@113: line 12.1 t=65724250 -> @106
+haṭhayogo, 
+@ via @107 b=24 p=0 d=1156
+@ via @108 b=345 p=0 d=126025
+@ via @109 b=3746 p=0 d=14117536
+@@114: line 12.0 t=223963 -> @108
+mantrayogo, 
+@ via @110 b=0 p=0 d=100
+@ via @111 b=5 p=0 d=225
+@@115: line 12.2 t=38409 -> @110
+jñā-
+@\discretionary via @111 b=0 p=50 d=12600
+@@116: line 12.2- t=51385 -> @111
+nayo-gaḥ, ad-vaitayogo, lakṣyayogo, brah-mayo-gaḥ, śi-vayo-
+@\discretionary via @112 b=1688 p=50 d=2895704
+@@117: line 13.0- t=128137025 -> @112
+gaḥ, 
+@ via @112 b=106 p=0 d=13456
+@@118: line 13.0 t=125254777 -> @112
+sid-
+@\discretionary via @112 b=0 p=50 d=22600
+@\discretionary via @113 b=3428 p=50 d=11822344
+@@119: line 13.0- t=77546594 -> @113
+dhiyogo, 
+@ via @113 b=0 p=0 d=100
+@@120: line 13.2 t=65724350 -> @113
+vāsanāyogo, 
+@ via @114 b=0 p=0 d=10100
+@@121: line 13.2 t=234063 -> @114
+layayogo, 
+@ via @115 b=25 p=0 d=1225
+@ via @116 b=776 p=0 d=627796
+@@122: line 13.1 t=39634 -> @115
+dhyā-
+@\discretionary via @115 b=32 p=50 d=4264
+@\discretionary via @116 b=0 p=50 d=12600
+@@123: line 13.3- t=42673 -> @115
+nayo-gaḥ, pre-mab-hak-tiyo-gaś ca |[][] 
+@\penalty via @117 b=0 p=-10000 d=10100
+@\penalty via @118 b=0 p=-10000 d=10100
+@\penalty via @119 b=0 p=-10000 d=10100
+@\penalty via @120 b=0 p=-10000 d=100
+@\penalty via @121 b=0 p=-10000 d=100
+@\penalty via @122 b=0 p=-10000 d=100
+@\penalty via @123 b=0 p=-10000 d=100
+@@124: line 14.2 t=39734 -> @122
+[] 
+@\penalty via @124 b=0 p=-10000 d=100
+@@125: line 15.2 t=39834 -> @124
+[][]\TU/AdobeTextPro(0)/b/n/8 2 [][][]śrī gaṇeśāya na-maḥ[] []\TU/Adobe
+TextPro(0)/m/n/8 cett.] []śrī ṇe ya maḥ[] []P []śrī gaṇeśāya na-ma
+ḥ || śrī gu-rave na-
+@\discretionary via @125 b=7362 p=50 d=54358884
+@@126: line 16.0- t=54398718 -> @125
+maḥ 
+@ via @125 b=3769 p=0 d=14290841
+@@127: line 16.0 t=14330675 -> @125
+||[] 
+@ via @125 b=2253 p=0 d=5131169
+@@128: line 16.0 t=5171003 -> @125
+[]N$[][]$
+@\math via @125 b=874 p=0 d=791456
+@@129: line 16.0 t=831290 -> @125
+ []śrī 
+@ via @125 b=281 p=0 d=94681
+@@130: line 16.0 t=134515 -> @125
+gaṇeśāya 
+@ via @125 b=0 p=0 d=100
+@@131: line 16.2 t=39934 -> @125
+na-
+@\discretionary via @125 b=5 p=50 d=2725
+@@132: line 16.2- t=42559 -> @125
+maḥ || śrī saras-vatyai na-maḥ || śrī ni-rañ-janāya na-maḥ ||[] []D []
+śrī 
+@ via @126 b=4886 p=0 d=23970816
+@@133: line 17.0 t=78369534 -> @126
+gaṇeśāya 
+@ via @126 b=204 p=0 d=45796
+@ via @127 b=1648 p=0 d=2748964
+@ via @128 b=3219 p=0 d=10426441
+@ via @129 b=8189 p=0 d=67223601
+@@134: line 17.0 t=15597444 -> @128
+na-
+@\discretionary via @126 b=11 p=50 d=22941
+@\discretionary via @127 b=433 p=50 d=198749
+@\discretionary via @128 b=1019 p=50 d=1061341
+@\discretionary via @129 b=3229 p=50 d=10493621
+@\discretionary via @130 b=7704 p=50 d=59508296
+@@135: line 17.0- t=6232344 -> @128
+maḥ 
+@ via @126 b=0 p=0 d=10100
+@ via @127 b=36 p=0 d=2116
+@ via @128 b=172 p=0 d=33124
+@ via @129 b=991 p=0 d=1002001
+@ via @130 b=3108 p=0 d=9721924
+@@136: line 17.0 t=1833291 -> @129
+|| 
+@ via @126 b=0 p=0 d=10100
+@ via @127 b=2 p=0 d=10144
+@ via @128 b=36 p=0 d=2116
+@ via @129 b=391 p=0 d=160801
+@ via @130 b=1502 p=0 d=2286144
+@@137: line 17.0 t=992091 -> @129
+oṃ 
+@ via @127 b=0 p=0 d=10100
+@ via @128 b=0 p=0 d=10100
+@ via @129 b=23 p=0 d=1089
+@ via @130 b=265 p=0 d=75625
+@ via @131 b=6110 p=0 d=37464400
+@@138: line 17.0 t=210140 -> @130
+śrī 
+@ via @127 b=16 p=0 d=10676
+@ via @128 b=0 p=0 d=10100
+@ via @129 b=0 p=0 d=10100
+@ via @130 b=23 p=0 d=1089
+@ via @131 b=2582 p=0 d=6728464
+@ via @132 b=4454 p=0 d=19937296
+@@139: line 17.1 t=135604 -> @130
+ni-
+@\discretionary via @128 b=60 p=50 d=17400
+@\discretionary via @129 b=0 p=50 d=12600
+@\discretionary via @130 b=0 p=50 d=12600
+@\discretionary via @131 b=949 p=50 d=932181
+@\discretionary via @132 b=1910 p=50 d=3708900
+@@140: line 17.2- t=147115 -> @130
+raṃ-
+@\discretionary via @130 b=1 p=50 d=12621
+@\discretionary via @131 b=172 p=50 d=45624
+@\discretionary via @132 b=539 p=50 d=323901
+@@141: line 17.0- t=85558 -> @131
+janāya 
+@ via @131 b=0 p=0 d=100
+@ via @132 b=6 p=0 d=256
+@@142: line 17.2 t=40034 -> @131
+||[] 
+@ via @131 b=0 p=0 d=100
+@ via @132 b=0 p=0 d=100
+@@143: line 17.2 t=40034 -> @131
+[]U$[][]$
+@\math via @131 b=25 p=0 d=1225
+@\math via @132 b=0 p=0 d=100
+@@144: line 17.2 t=42659 -> @132
+@@145: line 17.3 t=41159 -> @131
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 atha rā-jayo-gaprakāro likhy-ate[] []\T
+U/AdobeTextPro(0)/m/n/8 N$[][]$[]N$[][]$[]D] []atha 
+@ via @133 b=2903 p=0 d=8485569
+@@146: line 18.0 t=86855103 -> @133
+rā-
+@\discretionary via @133 b=740 p=50 d=565000
+@@147: line 18.0- t=78934534 -> @133
+jayo-
+@\discretionary via @133 b=34 p=50 d=4436
+@\discretionary via @134 b=5741 p=50 d=33076501
+@@148: line 18.0- t=48673945 -> @134
+gaprakāra 
+@ via @134 b=42 p=0 d=2704
+@ via @135 b=366 p=0 d=141376
+@ via @136 b=4072 p=0 d=16662724
+@@149: line 18.0 t=6373720 -> @135
+likhy-
+@\discretionary via @134 b=0 p=50 d=12600
+@\discretionary via @135 b=0 p=50 d=22600
+@\discretionary via @136 b=181 p=50 d=38981
+@\discretionary via @137 b=768 p=50 d=607784
+@\discretionary via @138 b=4954 p=50 d=24643796
+@@150: line 18.0- t=1599875 -> @137
+ate[] 
+@ via @135 b=0 p=0 d=10100
+@ via @136 b=5 p=0 d=10225
+@ via @137 b=118 p=0 d=16384
+@ via @138 b=1895 p=0 d=3629025
+@ via @139 b=7888 p=0 d=62378404
+@@151: line 18.0 t=1008475 -> @137
+[]U$[][]$
+@\math via @136 b=0 p=0 d=10100
+@\math via @137 b=0 p=0 d=10100
+@\math via @138 b=196 p=0 d=42436
+@\math via @139 b=1694 p=0 d=2903616
+@\math via @140 b=3746 p=0 d=14117536
+@@152: line 18.0 t=252576 -> @138
+ []rā-
+@\discretionary via @136 b=24 p=50 d=13656
+@\discretionary via @137 b=0 p=50 d=12600
+@\discretionary via @138 b=1 p=50 d=12621
+@\discretionary via @139 b=206 p=50 d=49156
+@\discretionary via @140 b=772 p=50 d=634024
+@\discretionary via @141 b=3965 p=50 d=15813125
+@@153: line 18.0- t=184760 -> @139
+jayo-
 @\discretionary via @138 b=0 p=50 d=12600
-@\discretionary via @139 b=828 p=50 d=714744
-@\discretionary via @140 b=1803 p=50 d=3299469
-@\discretionary via @141 b=6944 p=50 d=48370616
-@@162: line 11.2- t=239015 -> @138
-drab-
-@\discretionary via @138 b=3 p=50 d=12669
-@\discretionary via @139 b=38 p=50 d=4804
-@\discretionary via @140 b=232 p=50 d=71064
-@\discretionary via @141 b=1997 p=50 d=4040549
-@@163: line 11.0- t=94722 -> @140
-@@164: line 11.1- t=100906 -> @139
-hāgā 
-@ via @139 b=0 p=0 d=100
-@ via @140 b=0 p=0 d=100
-@ via @141 b=308 p=0 d=111124
-@ via @142 b=4832 p=0 d=23454964
-@@165: line 11.2 t=23758 -> @140
-ca 
-@ via @139 b=1 p=0 d=121
-@ via @140 b=0 p=0 d=100
-@ via @141 b=21 p=0 d=961
-@ via @142 b=1655 p=0 d=2782225
-@ via @143 b=6110 p=0 d=37464400
-@@166: line 11.1 t=20194 -> @141
-@@167: line 11.2 t=23758 -> @140
-vi-
-@\discretionary via @140 b=7 p=50 d=12789
-@\discretionary via @141 b=0 p=50 d=2600
-@\discretionary via @142 b=409 p=50 d=188061
-@\discretionary via @143 b=2418 p=50 d=5917684
-@@168: line 11.2- t=21833 -> @141
-tastā 
-@ via @141 b=7 p=0 d=289
-@ via @142 b=7 p=0 d=289
-@ via @143 b=500 p=0 d=270100
-@ via @144 b=6927 p=0 d=48131969
-@@169: line 11.2 t=19522 -> @141
-ca 
+@\discretionary via @139 b=0 p=50 d=2600
+@\discretionary via @140 b=12 p=50 d=12984
+@\discretionary via @141 b=714 p=50 d=536676
+@@154: line 18.2- t=138204 -> @139
+gān-
+@\discretionary via @139 b=2 p=50 d=2644
+@\discretionary via @140 b=0 p=50 d=12600
+@\discretionary via @141 b=27 p=50 d=13869
+@\discretionary via @142 b=3954 p=50 d=15725796
+@@155: line 18.1- t=99427 -> @141
+tar-
+@\discretionary via @140 b=32 p=50 d=14264
+@\discretionary via @141 b=0 p=50 d=22600
+@\discretionary via @142 b=1248 p=50 d=1595064
+@\discretionary via @143 b=3826 p=50 d=14727396
+@@156: line 18.2- t=108158 -> @141
+gataḥ 
+@ via @142 b=4 p=0 d=196
+@ via @143 b=158 p=0 d=38224
+@ via @144 b=5652 p=0 d=32068244
+@ via @145 b=5652 p=0 d=32068244
+@@157: line 18.2 t=40230 -> @142
+|| 
 @ via @142 b=0 p=0 d=100
-@ via @143 b=71 p=0 d=6561
-@ via @144 b=2865 p=0 d=8275625
-@ via @145 b=6927 p=0 d=48131969
-@ via @146 b=6927 p=0 d=48131969
-@@170: line 11.1 t=15931 -> @143
-@@171: line 11.2 t=20832 -> @142
-iḍā-
-@\discretionary via @142 b=13 p=50 d=3029
-@\discretionary via @143 b=0 p=50 d=12600
-@\discretionary via @144 b=607 p=50 d=393189
-@\discretionary via @145 b=1990 p=50 d=4012500
-@\discretionary via @146 b=1990 p=50 d=4012500
-@@172: line 11.2- t=21970 -> @143
-@@173: line 11.3- t=23761 -> @142
-vatī 
-@ via @143 b=0 p=0 d=100
-@ via @144 b=98 p=0 d=11664
-@ via @145 b=601 p=0 d=383321
-@ via @146 b=601 p=0 d=383321
-@ via @147 b=6893 p=0 d=47651409
-@@174: line 11.2 t=9470 -> @143
-| 
-@ via @143 b=6 p=0 d=256
-@ via @144 b=27 p=0 d=1369
-@ via @145 b=273 p=0 d=90089
-@ via @146 b=273 p=0 d=90089
-@ via @147 b=4229 p=0 d=17969121
-@ via @148 b=6893 p=0 d=47661409
-@@175: line 11.1 t=10739 -> @144
-@@176: line 11.2 t=9626 -> @143
-dvis-
+@ via @143 b=4 p=0 d=196
+@ via @144 b=1789 p=0 d=3246401
+@ via @145 b=1789 p=0 d=3246401
+@@158: line 18.2 t=40134 -> @142
+binduyo-
 @\discretionary via @144 b=0 p=50 d=2600
 @\discretionary via @145 b=0 p=50 d=2600
-@\discretionary via @146 b=0 p=50 d=2600
-@\discretionary via @147 b=740 p=50 d=565000
-@\discretionary via @148 b=1400 p=50 d=2000600
-@@177: line 11.2- t=9250 -> @145
-ap-
-@\discretionary via @144 b=4 p=50 d=2696
-@\discretionary via @145 b=0 p=50 d=2600
-@\discretionary via @146 b=0 p=50 d=2600
-@\discretionary via @147 b=226 p=50 d=58196
-@\discretionary via @148 b=518 p=50 d=291284
-@\discretionary via @149 b=5359 p=50 d=28838661
-@@178: line 11.2- t=9250 -> @145
-tati-
-@\discretionary via @145 b=19 p=50 d=3341
-@\discretionary via @146 b=19 p=50 d=3341
-@\discretionary via @147 b=10 p=50 d=2900
-@\discretionary via @148 b=54 p=50 d=6596
-@\discretionary via @149 b=2158 p=50 d=4712724
-@\discretionary via @150 b=7759 p=50 d=60369861
-@@179: line 11.3- t=9991 -> @145
-sa-
-@\discretionary via @147 b=0 p=50 d=2600
-@\discretionary via @148 b=2 p=50 d=2644
-@\discretionary via @149 b=1028 p=50 d=1089944
-@\discretionary via @150 b=4886 p=50 d=23983316
-@@180: line 12.2- t=13120322 -> @148
-has-
-@\discretionary via @147 b=0 p=50 d=2600
-@\discretionary via @148 b=0 p=50 d=2600
-@\discretionary via @149 b=165 p=50 d=43125
-@\discretionary via @150 b=1888 p=50 d=3614904
-@\discretionary via @151 b=7631 p=50 d=58397381
-@@181: line 12.0- t=7650716 -> @150
-reṣu 
-@ via @149 b=0 p=0 d=100
-@ via @150 b=341 p=0 d=123201
-@ via @151 b=2671 p=0 d=7197761
-@@182: line 12.0 t=4159013 -> @150
-nadī-
-@\discretionary via @149 b=19 p=50 d=3341
-@\discretionary via @150 b=0 p=50 d=22600
-@\discretionary via @151 b=158 p=50 d=40724
-@\discretionary via @152 b=2753 p=50 d=7636669
-@\discretionary via @153 b=6910 p=50 d=47898900
-@@183: line 12.0- t=3991991 -> @151
-nada-
-@\discretionary via @150 b=15 p=50 d=23125
-@\discretionary via @151 b=0 p=50 d=2600
-@\discretionary via @152 b=308 p=50 d=103624
-@\discretionary via @153 b=1635 p=50 d=2718525
-@@184: line 12.0- t=2796099 -> @152
-paris-
-@\discretionary via @151 b=72 p=50 d=9224
-@\discretionary via @152 b=0 p=50 d=2600
-@\discretionary via @153 b=80 p=50 d=20600
-@\discretionary via @154 b=3108 p=50 d=9734424
-@\discretionary via @155 b=6094 p=50 d=37281316
-@@185: line 12.1- t=1634460 -> @153
-ravaḥ 
-@ via @152 b=54 p=0 d=14096
-@ via @153 b=0 p=0 d=10100
-@ via @154 b=242 p=0 d=73504
-@ via @155 b=972 p=0 d=974324
-@@186: line 12.0 t=1286872 -> @154
-|[] 
-@ via @153 b=0 p=0 d=10100
-@ via @154 b=63 p=0 d=5329
-@ via @155 b=396 p=0 d=174836
-@ via @156 b=6094 p=0 d=37258816
-@ via @157 b=6094 p=0 d=37268816
-@@187: line 12.1 t=1218697 -> @154
-[][]\TU/AdobeTextPro(0)/b/n/8 6--8 [][][][][]\TU/AdobeTextPro(0)/m/n/8 cf. 
-@ via @154 b=0 p=0 d=100
-@ via @155 b=0 p=0 d=100
-@ via @156 b=213 p=0 d=49729
-@ via @157 b=213 p=0 d=59729
-@ via @158 b=3312 p=0 d=11045684
-@ via @159 b=6001 p=0 d=36132121
-@ via @160 b=6001 p=0 d=36142121
-@@188: line 12.0 t=724697 -> @156
-SSP 
-@ via @156 b=0 p=0 d=10100
-@ via @157 b=0 p=0 d=100
-@ via @158 b=175 p=0 d=44225
-@ via @159 b=422 p=0 d=186624
-@ via @160 b=422 p=0 d=196624
-@ via @161 b=5288 p=0 d=28078804
-@@189: line 12.0 t=303268 -> @158
-3.11-
-@\discretionary via @156 b=71 p=50 d=19061
-@\discretionary via @157 b=71 p=50 d=9061
-@\discretionary via @158 b=0 p=50 d=2600
-@\discretionary via @159 b=1 p=50 d=12621
-@\discretionary via @160 b=1 p=50 d=2621
-@\discretionary via @161 b=883 p=50 d=809949
-@\discretionary via @162 b=2846 p=50 d=8179236
-@@190: line 12.2- t=261643 -> @158
-12 
-@ via @158 b=0 p=0 d=100
-@ via @159 b=0 p=0 d=10100
-@ via @160 b=0 p=0 d=100
-@ via @161 b=218 p=0 d=61984
-@ via @162 b=1189 p=0 d=1447601
-@ via @163 b=4556 p=0 d=20848356
-@ via @164 b=4556 p=0 d=20848356
-@@191: line 12.2 t=259143 -> @160
-(Ed. 
-@ via @161 b=0 p=0 d=100
-@ via @162 b=81 p=0 d=8281
-@ via @163 b=977 p=0 d=974169
-@ via @164 b=977 p=0 d=974169
-@ via @165 b=5203 p=0 d=27185369
-@@192: line 12.1 t=247296 -> @162
-@@193: line 12.2 t=245507 -> @161
-p. 
-@ via @161 b=0 p=0 d=100
-@ via @162 b=1 p=0 d=121
-@ via @163 b=182 p=0 d=36864
-@ via @164 b=182 p=0 d=36864
-@ via @165 b=1527 p=0 d=2372369
-@ via @166 b=3635 p=0 d=13286025
-@ via @167 b=3635 p=0 d=13296025
-@ via @168 b=5260 p=0 d=27782900
-@@194: line 12.0 t=131586 -> @163
-57): 
-@ via @162 b=0 p=0 d=100
-@ via @163 b=0 p=0 d=10100
-@ via @164 b=0 p=0 d=100
-@ via @165 b=159 p=0 d=38561
-@ via @166 b=584 p=0 d=352836
-@ via @167 b=584 p=0 d=362836
-@ via @168 b=1014 p=0 d=1058576
-@ via @169 b=3954 p=0 d=15723296
-@ via @170 b=7576 p=0 d=57547396
-@ via @171 b=7576 p=0 d=57557396
-@@195: line 12.0 t=62319 -> @165
-pī-
-@\discretionary via @163 b=0 p=50 d=22600
-@\discretionary via @164 b=0 p=50 d=12600
-@\discretionary via @165 b=9 p=50 d=2861
-@\discretionary via @166 b=95 p=50 d=13525
-@\discretionary via @167 b=95 p=50 d=13525
-@\discretionary via @168 b=226 p=50 d=78196
-@\discretionary via @169 b=1360 p=50 d=1889400
-@\discretionary via @170 b=2894 p=50 d=8435716
-@\discretionary via @171 b=2894 p=50 d=8445716
-@\discretionary via @172 b=5008 p=50 d=25202824
-@\discretionary via @173 b=5008 p=50 d=25202824
-@@196: line 12.1- t=33719 -> @166
-@@197: line 12.2- t=26619 -> @165
-nasā 
-@ via @165 b=0 p=0 d=100
-@ via @166 b=1 p=0 d=121
-@ via @167 b=1 p=0 d=121
-@ via @168 b=18 p=0 d=784
-@ via @169 b=411 p=0 d=187241
-@ via @170 b=1132 p=0 d=1304164
-@ via @171 b=1132 p=0 d=1314164
-@ via @172 b=2334 p=0 d=5504336
-@ via @173 b=2334 p=0 d=5504336
-@ via @174 b=6047 p=0 d=36697249
-@@198: line 12.1 t=22617 -> @168
-@@199: line 12.2 t=20315 -> @166
-ya-
-@\discretionary via @165 b=6 p=50 d=2756
-@\discretionary via @166 b=0 p=50 d=2600
-@\discretionary via @167 b=0 p=50 d=2600
-@\discretionary via @168 b=0 p=50 d=12600
-@\discretionary via @169 b=82 p=50 d=10964
-@\discretionary via @170 b=348 p=50 d=130664
-@\discretionary via @171 b=348 p=50 d=140664
-@\discretionary via @172 b=922 p=50 d=891124
-@\discretionary via @173 b=922 p=50 d=891124
-@\discretionary via @174 b=2894 p=50 d=8445716
-@\discretionary via @175 b=4254 p=50 d=18184196
-@\discretionary via @176 b=4254 p=50 d=18194196
-@@200: line 12.1- t=30486 -> @169
-@@201: line 12.2- t=22794 -> @166
-munā 
-@ via @168 b=46 p=0 d=3136
-@ via @169 b=0 p=0 d=100
-@ via @170 b=11 p=0 d=441
-@ via @171 b=11 p=0 d=441
-@ via @172 b=119 p=0 d=26641
-@ via @173 b=119 p=0 d=26641
-@ via @174 b=772 p=0 d=621524
-@ via @175 b=1275 p=0 d=1651225
-@ via @176 b=1275 p=0 d=1661225
-@ via @177 b=3343 p=0 d=11252609
-@ via @178 b=5274 p=0 d=27930656
-@@202: line 12.2 t=16372 -> @170
-@@203: line 12.3 t=24969 -> @168
-gaṅgā 
-@ via @170 b=0 p=0 d=100
-@ via @171 b=0 p=0 d=100
-@ via @172 b=0 p=0 d=100
-@ via @173 b=0 p=0 d=100
-@ via @174 b=25 p=0 d=1225
-@ via @175 b=74 p=0 d=7056
-@ via @176 b=74 p=0 d=7056
-@ via @177 b=530 p=0 d=301600
-@ via @178 b=1132 p=0 d=1314164
-@ via @179 b=2521 p=0 d=6415961
-@ via @180 b=3735 p=0 d=14035025
-@ via @181 b=6526 p=0 d=42719296
-@@204: line 12.1 t=10695 -> @174
-@@205: line 12.2 t=16031 -> @170
-can-
-@\discretionary via @172 b=41 p=50 d=15101
-@\discretionary via @173 b=41 p=50 d=15101
-@\discretionary via @174 b=0 p=50 d=2600
-@\discretionary via @175 b=0 p=50 d=2600
-@\discretionary via @176 b=0 p=50 d=2600
-@\discretionary via @177 b=49 p=50 d=15981
-@\discretionary via @178 b=201 p=50 d=67021
-@\discretionary via @179 b=703 p=50 d=530869
-@\discretionary via @180 b=1226 p=50 d=1550196
-@\discretionary via @181 b=2582 p=50 d=6730964
-@\discretionary via @182 b=6859 p=50 d=47185661
-@@206: line 12.2- t=12070 -> @174
-drab-
-@\discretionary via @175 b=13 p=50 d=13029
-@\discretionary via @176 b=13 p=50 d=3029
-@\discretionary via @177 b=0 p=50 d=12600
-@\discretionary via @178 b=4 p=50 d=12696
-@\discretionary via @179 b=101 p=50 d=34821
-@\discretionary via @180 b=271 p=50 d=101461
-@\discretionary via @181 b=853 p=50 d=757269
-@\discretionary via @182 b=3078 p=50 d=9538244
-@\discretionary via @183 b=6575 p=50 d=43374725
-@@207: line 12.2- t=21850 -> @177
-@@208: line 12.3- t=12655 -> @176
-hāgā 
-@ via @177 b=19 p=0 d=841
-@ via @178 b=0 p=0 d=100
-@ via @179 b=1 p=0 d=121
-@ via @180 b=19 p=0 d=841
-@ via @181 b=182 p=0 d=36864
-@ via @182 b=1168 p=0 d=1387684
-@ via @183 b=3189 p=0 d=10233601
-@ via @184 b=7203 p=0 d=52027369
-@@209: line 12.2 t=9350 -> @178
-@@210: line 12.3 t=10091 -> @177
-saras-
-@\discretionary via @179 b=18 p=50 d=13284
-@\discretionary via @180 b=0 p=50 d=12600
-@\discretionary via @181 b=0 p=50 d=22600
-@\discretionary via @182 b=104 p=50 d=15496
-@\discretionary via @183 b=656 p=50 d=456056
-@\discretionary via @184 b=2221 p=50 d=4989861
-@\discretionary via @185 b=5403 p=50 d=29313069
-@@211: line 12.3- t=23275 -> @179
-vatī 
-@ via @181 b=0 p=0 d=10100
-@ via @182 b=5 p=0 d=10225
-@ via @183 b=187 p=0 d=38809
-@ via @184 b=1024 p=0 d=1069156
-@ via @185 b=3098 p=0 d=9659664
-@@212: line 13.0 t=3865255 -> @184
-| 
-@ via @181 b=0 p=0 d=10100
-@ via @182 b=0 p=0 d=10100
-@ via @183 b=88 p=0 d=9604
-@ via @184 b=635 p=0 d=416025
-@ via @185 b=2142 p=0 d=4631104
-@ via @186 b=6825 p=0 d=46717225
-@@213: line 13.0 t=3212124 -> @184
-vipāsā 
-@ via @183 b=0 p=0 d=10100
-@ via @184 b=18 p=0 d=784
-@ via @185 b=303 p=0 d=97969
-@ via @186 b=1817 p=0 d=3337929
-@ via @187 b=2671 p=0 d=7187761
-@@214: line 13.0 t=1732429 -> @185
-śataru-
-@\discretionary via @184 b=0 p=50 d=22600
-@\discretionary via @185 b=1 p=50 d=12621
-@\discretionary via @186 b=200 p=50 d=46600
-@\discretionary via @187 b=359 p=50 d=138661
-@\discretionary via @188 b=4634 p=50 d=21569236
-@@215: line 13.0- t=1333472 -> @186
-drā 
-@ via @185 b=0 p=0 d=100
-@ via @186 b=41 p=0 d=2601
-@ via @187 b=98 p=0 d=11664
-@ via @188 b=2503 p=0 d=6315169
-@ via @189 b=7595 p=0 d=57836025
-@@216: line 13.1 t=1230361 -> @187
-ca 
-@ via @185 b=4 p=0 d=196
-@ via @186 b=2 p=0 d=10144
-@ via @187 b=10 p=0 d=400
-@ via @188 b=1028 p=0 d=1077444
-@ via @189 b=3815 p=0 d=14630625
-@@217: line 13.2 t=1219097 -> @187
-śrīrātriś 
-@ via @187 b=60 p=0 d=14900
-@ via @188 b=4 p=0 d=10196
-@ via @189 b=259 p=0 d=72361
-@ via @190 b=1466 p=0 d=2188576
-@ via @191 b=3503 p=0 d=12351169
-@@218: line 13.0 t=375629 -> @189
-caiva 
-@ via @188 b=0 p=0 d=10100
-@ via @189 b=0 p=0 d=10100
-@ via @190 b=161 p=0 d=39241
-@ via @191 b=666 p=0 d=466976
-@ via @192 b=4582 p=0 d=21086464
-@ via @193 b=4582 p=0 d=21096464
-@@219: line 13.0 t=300884 -> @190
-nar-
-@\discretionary via @189 b=0 p=50 d=12600
-@\discretionary via @190 b=2 p=50 d=12644
-@\discretionary via @191 b=77 p=50 d=10069
-@\discretionary via @192 b=1259 p=50 d=1612861
-@\discretionary via @193 b=1259 p=50 d=1622861
-@\discretionary via @194 b=4792 p=50 d=23061704
-@@220: line 13.1- t=269212 -> @191
-@@221: line 13.2- t=274287 -> @190
-madā 
-@ via @190 b=0 p=0 d=100
-@ via @191 b=0 p=0 d=100
-@ via @192 b=126 p=0 d=18496
-@ via @193 b=126 p=0 d=28496
-@ via @194 b=931 p=0 d=885481
-@ via @195 b=7273 p=0 d=53042089
-@@222: line 13.0 t=265792 -> @192
-@@223: line 13.2 t=259243 -> @191
-| 
-@ via @190 b=8 p=0 d=324
-@ via @191 b=0 p=0 d=100
-@ via @192 b=43 p=0 d=2809
-@ via @193 b=43 p=0 d=2809
-@ via @194 b=433 p=0 d=196249
-@ via @195 b=4108 p=0 d=16957924
-@ via @196 b=6893 p=0 d=47651409
-@ via @197 b=6893 p=0 d=47661409
-@@224: line 13.1 t=248316 -> @193
-evaṃ 
-@ via @192 b=0 p=0 d=100
-@ via @193 b=0 p=0 d=100
-@ via @194 b=0 p=0 d=10100
-@ via @195 b=285 p=0 d=87025
-@ via @196 b=820 p=0 d=688900
-@ via @197 b=820 p=0 d=698900
-@ via @198 b=5431 p=0 d=29604481
-@ via @199 b=5431 p=0 d=29614481
-@@225: line 13.0 t=149344 -> @195
-@@226: line 13.2 t=141686 -> @194
-na-
-@\discretionary via @192 b=60 p=50 d=17400
-@\discretionary via @193 b=60 p=50 d=7400
-@\discretionary via @194 b=0 p=50 d=12600
-@\discretionary via @195 b=6 p=50 d=12756
-@\discretionary via @196 b=84 p=50 d=21336
-@\discretionary via @197 b=84 p=50 d=21336
-@\discretionary via @198 b=1552 p=50 d=2442344
-@\discretionary via @199 b=1552 p=50 d=2452344
-@\discretionary via @200 b=3179 p=50 d=10182221
-@\discretionary via @201 b=3179 p=50 d=10192221
-@@227: line 13.1- t=47955 -> @197
-vanadyo 
-@ via @196 b=3 p=0 d=169
-@ via @197 b=3 p=0 d=169
-@ via @198 b=0 p=0 d=100
-@ via @199 b=0 p=0 d=100
-@ via @200 b=48 p=0 d=3364
-@ via @201 b=48 p=0 d=3364
-@ via @202 b=2376 p=0 d=5702996
-@ via @203 b=2376 p=0 d=5702996
-@@228: line 13.1 t=26158 -> @201
-@@229: line 13.2 t=20415 -> @199
-na-
-@\discretionary via @198 b=0 p=50 d=2600
-@\discretionary via @199 b=0 p=50 d=2600
-@\discretionary via @200 b=0 p=50 d=12600
-@\discretionary via @201 b=0 p=50 d=12600
-@\discretionary via @202 b=452 p=50 d=225944
-@\discretionary via @203 b=452 p=50 d=225944
-@\discretionary via @204 b=5726 p=50 d=32904196
-@\discretionary via @205 b=5726 p=50 d=32914196
-@@230: line 13.2- t=22915 -> @199
-vanāḍīṣu 
-@ via @202 b=0 p=0 d=100
-@ via @203 b=0 p=0 d=100
-@ via @204 b=145 p=0 d=24025
-@ via @205 b=145 p=0 d=34025
-@ via @206 b=1184 p=0 d=1435636
-@ via @207 b=5403 p=0 d=29310569
-@ via @208 b=5403 p=0 d=29310569
-@@231: line 13.2 t=16472 -> @202
-vas-
-@\discretionary via @204 b=0 p=50 d=2600
-@\discretionary via @205 b=0 p=50 d=2600
-@\discretionary via @206 b=69 p=50 d=18741
-@\discretionary via @207 b=1168 p=50 d=1410184
-@\discretionary via @208 b=1168 p=50 d=1410184
-@\discretionary via @209 b=7081 p=50 d=50294781
-@\discretionary via @210 b=7081 p=50 d=50294781
-@@232: line 13.2- t=13295 -> @204
-anti 
-@ via @204 b=0 p=0 d=100
-@ via @205 b=0 p=0 d=100
-@ via @206 b=0 p=0 d=100
-@ via @207 b=187 p=0 d=48809
-@ via @208 b=187 p=0 d=48809
-@ via @209 b=2735 p=0 d=7545025
-@ via @210 b=2735 p=0 d=7545025
-@@233: line 13.2 t=10795 -> @204
-| 
-@ via @204 b=19 p=0 d=10841
-@ via @205 b=19 p=0 d=841
-@ via @206 b=0 p=0 d=100
-@ via @207 b=55 p=0 d=4225
-@ via @208 b=55 p=0 d=14225
-@ via @209 b=1442 p=0 d=2118304
-@ via @210 b=1442 p=0 d=2118304
-@ via @211 b=5985 p=0 d=35950025
-@@234: line 13.2 t=12170 -> @206
-@@235: line 13.3 t=16872 -> @205
-anyā 
-@ via @207 b=0 p=0 d=100
-@ via @208 b=0 p=0 d=100
-@ via @209 b=57 p=0 d=4489
-@ via @210 b=57 p=0 d=14489
-@ via @211 b=1067 p=0 d=1169929
-@ via @212 b=4765 p=0 d=22800625
-@ via @213 b=8075 p=0 d=65367225
-@@236: line 13.1 t=13839 -> @209
-@@237: line 13.2 t=12755 -> @208
-up-
-@\discretionary via @207 b=37 p=50 d=14709
-@\discretionary via @208 b=37 p=50 d=14709
-@\discretionary via @209 b=0 p=50 d=2600
-@\discretionary via @210 b=0 p=50 d=2600
-@\discretionary via @211 b=141 p=50 d=45301
-@\discretionary via @212 b=1325 p=50 d=1784725
-@\discretionary via @213 b=2469 p=50 d=6147941
-@@238: line 13.2- t=11950 -> @209
-anadyaḥ 
-@ via @211 b=0 p=0 d=100
-@ via @212 b=0 p=0 d=10100
-@ via @213 b=15 p=0 d=625
-@ via @214 b=2103 p=0 d=4464769
-@@239: line 13.2 t=23375 -> @211
-ku-
-@\discretionary via @212 b=0 p=50 d=12600
-@\discretionary via @213 b=0 p=50 d=12600
-@\discretionary via @214 b=359 p=50 d=138661
-@\discretionary via @215 b=3826 p=50 d=14727396
-@@240: line 14.0- t=1871090 -> @214
-ly-
-@\discretionary via @212 b=3 p=50 d=12669
-@\discretionary via @213 b=0 p=50 d=12600
-@\discretionary via @214 b=97 p=50 d=13949
-@\discretionary via @215 b=2261 p=50 d=5169941
-@\discretionary via @216 b=7981 p=50 d=63858581
-@@241: line 14.1- t=1746378 -> @214
-opaku-
-@\discretionary via @214 b=0 p=50 d=12600
-@\discretionary via @215 b=93 p=50 d=23109
-@\discretionary via @216 b=1221 p=50 d=1517861
-@\discretionary via @217 b=4193 p=50 d=17677709
-@@242: line 14.1- t=1356581 -> @215
-lyā 
-@ via @214 b=30 p=0 d=11600
-@ via @215 b=1 p=0 d=10121
-@ via @216 b=338 p=0 d=121104
-@ via @217 b=1755 p=0 d=3125225
-@@243: line 14.0 t=1351465 -> @216
-@@244: line 14.2 t=1343593 -> @215
-dvis-
-@\discretionary via @215 b=1 p=50 d=22621
-@\discretionary via @216 b=0 p=50 d=2600
-@\discretionary via @217 b=43 p=50 d=5309
-@\discretionary via @218 b=5403 p=50 d=29303069
-@@245: line 14.1- t=1224406 -> @217
-@@246: line 14.2- t=1232961 -> @216
-ap-
-@\discretionary via @216 b=0 p=50 d=2600
-@\discretionary via @217 b=0 p=50 d=2600
-@\discretionary via @218 b=2469 p=50 d=6147941
-@@247: line 14.2- t=1221697 -> @217
-tati-
-@\discretionary via @217 b=0 p=50 d=2600
-@\discretionary via @218 b=533 p=50 d=297349
-@\discretionary via @219 b=6876 p=50 d=47419496
-@@248: line 14.0- t=672978 -> @218
-sa-
-@\discretionary via @217 b=43 p=50 d=5309
-@\discretionary via @218 b=108 p=50 d=16424
-@\discretionary via @219 b=3612 p=50 d=13121384
-@@249: line 14.0- t=392053 -> @218
-has-
-@\discretionary via @218 b=0 p=50 d=12600
-@\discretionary via @219 b=816 p=50 d=684776
-@\discretionary via @220 b=3635 p=50 d=13298525
-@\discretionary via @221 b=3635 p=50 d=13308525
-@@250: line 14.2- t=388229 -> @218
-ranāḍīsu 
-@ via @219 b=0 p=0 d=10100
-@ via @220 b=0 p=0 d=100
-@ via @221 b=0 p=0 d=100
-@ via @222 b=2005 p=0 d=4060225
-@ via @223 b=2005 p=0 d=4070225
-@ via @224 b=4739 p=0 d=22553001
-@@251: line 14.2 t=269312 -> @220
-vas-
-@\discretionary via @220 b=0 p=50 d=12600
-@\discretionary via @221 b=0 p=50 d=12600
-@\discretionary via @222 b=64 p=50 d=7976
-@\discretionary via @223 b=64 p=50 d=7976
-@\discretionary via @224 b=310 p=50 d=104900
-@@252: line 14.1- t=267219 -> @223
-anti 
-@ via @222 b=0 p=0 d=10100
-@ via @223 b=0 p=0 d=100
-@ via @224 b=0 p=0 d=100
-@ via @225 b=2261 p=0 d=5157441
-@ via @226 b=2261 p=0 d=5167441
-@ via @227 b=6316 p=0 d=40018276
-@@253: line 14.2 t=248416 -> @224
-|[][] 
-@\penalty via @222 b=0 p=-10000 d=10100
-@\penalty via @223 b=0 p=-10000 d=100
-@\penalty via @224 b=0 p=-10000 d=100
-@\penalty via @225 b=0 p=-10000 d=10100
-@\penalty via @226 b=0 p=-10000 d=100
-@\penalty via @227 b=0 p=-10000 d=100
-@\penalty via @228 b=0 p=-10000 d=100
-@\penalty via @229 b=0 p=-10000 d=100
-@\penalty via @230 b=0 p=-10000 d=100
-@\penalty via @231 b=0 p=-10000 d=100
-@\penalty via @232 b=0 p=-10000 d=100
-@\penalty via @233 b=0 p=-10000 d=100
-@\penalty via @234 b=0 p=-10000 d=100
-@\penalty via @235 b=0 p=-10000 d=100
-@\penalty via @236 b=0 p=-10000 d=100
-@\penalty via @237 b=0 p=-10000 d=100
-@\penalty via @238 b=0 p=-10000 d=100
-@\penalty via @239 b=0 p=-10000 d=100
-@\penalty via @240 b=0 p=-10000 d=10100
-@\penalty via @241 b=0 p=-10000 d=100
-@\penalty via @242 b=0 p=-10000 d=100
-@\penalty via @243 b=0 p=-10000 d=10100
-@\penalty via @244 b=0 p=-10000 d=100
-@\penalty via @245 b=0 p=-10000 d=100
-@\penalty via @246 b=0 p=-10000 d=100
-@\penalty via @247 b=0 p=-10000 d=100
-@\penalty via @248 b=0 p=-10000 d=10100
-@\penalty via @249 b=0 p=-10000 d=10100
-@\penalty via @250 b=0 p=-10000 d=100
-@\penalty via @251 b=0 p=-10000 d=100
-@\penalty via @252 b=0 p=-10000 d=100
-@\penalty via @253 b=0 p=-10000 d=100
-@@254: line 14.2 t=10895 -> @233
-[] 
-@\penalty via @254 b=0 p=-10000 d=100
-@@255: line 15.2 t=10995 -> @254
-[][]\TU/AdobeTextPro(0)/b/n/8 2 [][][]idānīṃ[] []\TU/AdobeTextPro(0)/m/n/8 
-D[]U$[][]$] []idānīm[] []cett.  [][][][][]\TU/AdobeTextPro(0)/b/n/8 piṇḍa-
-mad-hye[] []\TU/AdobeTextPro(0)/m/n/8 D[]U$[][]$] []\TU/AdobeTextPro(0)/m/it/8 
-om. [] []\TU/AdobeTextPro(0)/m/n/8 cett.  [][][][][]\TU/AdobeTextPro(0)/b/n/8 
-’ṣṭaku-la-parvatāḥ[] \TU/AdobeTextPro(0)/m/n/8 em.] 
-@ via @255 b=2856 p=0 d=8223956
-@@256: line 16.0 t=8234951 -> @255
-[]aṣṭaku-
-@\discretionary via @255 b=178 p=50 d=47844
-@@257: line 16.0- t=58839 -> @255
-la-
-@\discretionary via @255 b=70 p=50 d=8900
-@@258: line 16.1- t=19895 -> @255
-parvatāḥ[] 
-@ via @255 b=0 p=0 d=100
-@@259: line 16.2 t=11095 -> @255
-[]P[]D[]U$[][]$ []aṣṭaku-la-parvatā[] []U$[][]$ []aṣṭa-maku-la-parvat
-āḥ[] []B[]E[]L  [][][][][]\TU/AdobeTextPro(0)/b/n/8 meru-par-vataḥ[] \TU/A
-dobeTextPro(0)/m/n/8 em.] []merumpar-
-@\discretionary via @256 b=0 p=50 d=12600
-@\discretionary via @257 b=149 p=50 d=37781
-@\discretionary via @258 b=587 p=50 d=368909
-@@260: line 17.0- t=96620 -> @257
-vataḥ[] 
-@ via @257 b=0 p=0 d=10100
-@ via @258 b=0 p=0 d=100
-@ via @259 b=5667 p=0 d=32238329
-@@261: line 17.2 t=19995 -> @258
-[]D[]U$[][]$
-@\math via @259 b=332 p=0 d=126964
-@@262: line 17.0 t=138059 -> @259
- []meru-
-@\discretionary via @259 b=0 p=50 d=2600
-@@263: line 17.2- t=13695 -> @259
-maṃ-daraḥ[] []cett.  [][][][][]\TU/AdobeTextPro(0)/b/n/8 kailās-aparvata
-ḥ[] []\TU/AdobeTextPro(0)/m/n/8 D[]U$[][]$] []kailāsaḥ[] []cett.  [][]\TU/
-AdobeTextPro(0)/b/n/8 2--3 [][][]pṛṣṭhamad-
-@\discretionary via @260 b=2753 p=50 d=7646669
-@@264: line 18.0- t=7743289 -> @260
-hye[] 
-@ via @260 b=836 p=0 d=715716
-@ via @261 b=7030 p=0 d=49571600
-@@265: line 18.0 t=812336 -> @260
-[]\TU/AdobeTextPro(0)/m/n/8 E[]U$[][]$] 
-@ via @260 b=2 p=0 d=10144
-@ via @261 b=909 p=0 d=854561
-@ via @262 b=6032 p=0 d=36505764
-@@266: line 18.2 t=106764 -> @260
-[]pṛṣṭhaṃ 
-@ via @261 b=0 p=0 d=100
-@ via @262 b=85 p=0 d=9025
-@ via @263 b=1715 p=0 d=2985625
-@@267: line 18.2 t=20095 -> @261
-mad-
-@\discretionary via @262 b=0 p=50 d=12600
-@\discretionary via @263 b=73 p=50 d=19389
-@@268: line 18.1- t=33084 -> @263
-hye[] 
-@ via @263 b=0 p=0 d=100
-@@269: line 18.2 t=13795 -> @263
-[]P 
-@ via @263 b=0 p=0 d=100
-@@270: line 18.2 t=13795 -> @263
-[]pṛthvīa-mad-hye[] []B[]L []paiṭi-mad-hye[] []D []paiṭhamad-hye[] []U$[
-][]$  [][]\TU/AdobeTextPro(0)/b/n/8 3 [][][]himā-
-@\discretionary via @264 b=1769 p=50 d=3177341
-@@271: line 19.0- t=10920630 -> @264
-calaḥ[] 
-@ via @264 b=82 p=0 d=8464
-@ via @265 b=1609 p=0 d=2621161
-@@272: line 19.0 t=3433497 -> @265
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @264 b=0 p=0 d=10100
-@ via @265 b=7 p=0 d=10289
-@ via @266 b=1533 p=0 d=2390849
-@@273: line 19.2 t=822625 -> @265
-[]himā-
-@\discretionary via @265 b=18 p=50 d=13284
-@\discretionary via @266 b=1 p=50 d=2621
-@\discretionary via @267 b=2495 p=50 d=6287525
-@\discretionary via @268 b=7704 p=50 d=59518296
-@@274: line 19.2- t=109385 -> @266
-calaḥ 
-@ via @266 b=0 p=0 d=100
-@ via @267 b=323 p=0 d=120889
-@ via @268 b=2221 p=0 d=4977361
-@@275: line 19.2 t=106864 -> @266
-|| 
-@ via @266 b=89 p=0 d=9801
-@ via @267 b=66 p=0 d=5776
-@ via @268 b=931 p=0 d=885481
-@ via @269 b=4266 p=0 d=18294176
-@@276: line 19.1 t=25871 -> @267
-par-
-@\discretionary via @267 b=0 p=50 d=2600
-@\discretionary via @268 b=63 p=50 d=17829
-@\discretionary via @269 b=874 p=50 d=793956
-@\discretionary via @270 b=2253 p=50 d=5133669
-@@277: line 19.2- t=22695 -> @267
-vataḥ[] 
-@ via @268 b=0 p=0 d=100
-@ via @269 b=25 p=0 d=1225
-@ via @270 b=213 p=0 d=59729
-@@278: line 19.1 t=15020 -> @269
-[]D 
-@ via @268 b=1 p=0 d=121
-@ via @269 b=0 p=0 d=100
-@ via @270 b=17 p=0 d=729
-@@279: line 19.1 t=14524 -> @270
-@@280: line 19.2 t=13895 -> @269
-[]himā-
-@\discretionary via @269 b=98 p=50 d=14164
-@\discretionary via @270 b=0 p=50 d=2600
-@@281: line 19.2- t=16395 -> @270
-cala-parvataḥ[] []U$[][]$  [][]\TU/AdobeTextPro(0)/b/n/8 4 [][][]śrīśaila
-ḥ[] []\TU/AdobeTextPro(0)/m/n/8 cett.] []śrīśailāsaḥ[] 
-@ via @271 b=3312 p=0 d=11035684
-@@282: line 20.0 t=21956314 -> @271
-[]B 
-@ via @271 b=1571 p=0 d=2499561
-@ via @272 b=7667 p=0 d=58936329
-@@283: line 20.0 t=13420191 -> @271
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 par-
-@\discretionary via @271 b=74 p=50 d=19556
-@\discretionary via @272 b=1460 p=50 d=2163400
-@@284: line 20.0- t=5596897 -> @272
-vatāḥ[] 
-@ via @271 b=0 p=0 d=10100
-@ via @272 b=149 p=0 d=25281
-@ via @273 b=3323 p=0 d=11118889
-@@285: line 20.0 t=3458778 -> @272
-[]\TU/AdobeTextPro(0)/m/n/8 D[]U$[][]$] 
-@ via @272 b=0 p=0 d=10100
-@ via @273 b=230 p=0 d=67600
-@ via @274 b=2042 p=0 d=4220704
-@@286: line 20.0 t=890225 -> @273
-[]śailāḥ[] 
-@ via @273 b=0 p=0 d=100
-@ via @274 b=82 p=0 d=8464
-@ via @275 b=1762 p=0 d=3149984
-@ via @276 b=3735 p=0 d=14025025
-@@287: line 20.1 t=117849 -> @274
-[]E[]U$[][]$
-@\math via @274 b=0 p=0 d=100
-@\math via @275 b=157 p=0 d=37889
-@\math via @276 b=533 p=0 d=294849
-@\math via @277 b=1990 p=0 d=4010000
-@@288: line 20.2 t=109485 -> @274
- []śailā[] 
-@ via @275 b=0 p=0 d=100
-@ via @276 b=5 p=0 d=225
-@ via @277 b=198 p=0 d=53264
-@ via @278 b=2689 p=0 d=7284601
-@ via @279 b=6001 p=0 d=36132121
-@ via @280 b=6001 p=0 d=36142121
-@@289: line 20.2 t=26096 -> @276
-[]B[]P[]L 
-@ via @275 b=48 p=0 d=3364
-@ via @276 b=0 p=0 d=100
-@ via @277 b=0 p=0 d=100
-@ via @278 b=327 p=0 d=113569
-@ via @279 b=1112 p=0 d=1258884
-@ via @280 b=1112 p=0 d=1268884
-@ via @281 b=4832 p=0 d=23454964
-@@290: line 20.2 t=22795 -> @277
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 aṃgulīnāṃ[] 
-@ via @281 b=0 p=0 d=100
-@@291: line 20.2 t=16495 -> @281
-[]\TU/AdobeTextPro(0)/m/n/8 E[]P[]D] []aṃgulīb-hyāṃ[] []U$[][]$ []aṃguli
-°[] []B[]L 
-@ via @282 b=2970 p=0 d=8880400
-@@292: line 21.0 t=30836714 -> @282
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 mūleṣu[] 
-@ via @282 b=0 p=0 d=10100
-@ via @283 b=132 p=0 d=20164
-@ via @284 b=1194 p=0 d=1449616
-@@293: line 21.0 t=7046513 -> @284
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @283 b=0 p=0 d=10100
-@ via @284 b=5 p=0 d=10225
-@ via @285 b=1371 p=0 d=1907161
-@@294: line 21.0 t=5365939 -> @285
-[]mad-
-@\discretionary via @284 b=4 p=50 d=22696
-@\discretionary via @285 b=11 p=50 d=12941
-@\discretionary via @286 b=1028 p=50 d=1079944
-@\discretionary via @287 b=7415 p=50 d=55133125
-@@295: line 21.0- t=1970169 -> @286
-hye[] 
-@ via @285 b=0 p=0 d=10100
-@ via @286 b=216 p=0 d=51076
-@ via @287 b=3428 p=0 d=11819844
-@@296: line 21.0 t=941301 -> @286
-[]D[]U$[][]$
-@\math via @286 b=0 p=0 d=10100
-@\math via @287 b=419 p=0 d=184041
-@\math via @288 b=3250 p=0 d=10637600
-@@297: line 21.0 t=301890 -> @287
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 var-
-@\discretionary via @287 b=0 p=50 d=2600
-@\discretionary via @288 b=203 p=50 d=57869
-@\discretionary via @289 b=2269 p=50 d=5206341
-@@298: line 21.2- t=120449 -> @287
-tante[] 
-@ via @287 b=64 p=0 d=15476
-@ via @288 b=0 p=0 d=100
-@ via @289 b=232 p=0 d=68564
-@ via @290 b=4967 p=0 d=24780529
-@@299: line 21.0 t=94660 -> @289
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @289 b=0 p=0 d=100
-@ via @290 b=443 p=0 d=215209
-@@300: line 21.2 t=26196 -> @289
-[]var-
-@\discretionary via @290 b=3 p=50 d=2669
-@\discretionary via @291 b=4454 p=50 d=19939796
-@@301: line 21.2- t=25464 -> @290
-tate[] 
-@ via @290 b=0 p=0 d=100
-@ via @291 b=1867 p=0 d=3533129
-@@302: line 21.2 t=22895 -> @290
-[]B[]L 
-@ via @291 b=433 p=0 d=206249
-@@303: line 21.0 t=222744 -> @291
-[]par-
-@\discretionary via @291 b=16 p=50 d=3176
-@@304: line 21.1- t=19671 -> @291
-vate[] 
-@ via @291 b=0 p=0 d=100
-@@305: line 21.2 t=16595 -> @291
-[]U$[][]$
-@\math via @291 b=18 p=0 d=784
-@@306: line 21.3 t=17279 -> @291
-  [][]\TU/AdobeTextPro(0)/b/n/8 6 [][][]śarīre[] []\TU/AdobeTextPro(0)/m/n/8 
-cett.] 
-@ via @292 b=6658 p=0 d=44462224
-@@307: line 22.0 t=75298938 -> @292
-[]śarīra-
-@\discretionary via @292 b=845 p=50 d=733525
-@\discretionary via @293 b=6032 p=50 d=36508264
-@@308: line 22.0- t=31570239 -> @292
-mad-
-@\discretionary via @292 b=143 p=50 d=25909
-@\discretionary via @293 b=2608 p=50 d=6856424
-@@309: line 22.0- t=13902937 -> @293
-hye[] 
-@ via @292 b=11 p=0 d=10441
-@ via @293 b=1178 p=0 d=1411344
-@ via @294 b=7944 p=0 d=63266116
-@@310: line 22.0 t=8457857 -> @293
-[]E[]U$[][]$
-@\math via @292 b=0 p=0 d=10100
-@\math via @293 b=155 p=0 d=27225
-@\math via @294 b=2302 p=0 d=5345344
-@\math via @295 b=6047 p=0 d=36687249
-@@311: line 22.0 t=7073738 -> @293
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 na-
-@\discretionary via @293 b=0 p=50 d=12600
-@\discretionary via @294 b=312 p=50 d=106184
-@\discretionary via @295 b=1521 p=50 d=2356461
-@\discretionary via @296 b=4779 p=50 d=22937021
-@@312: line 22.0- t=4326630 -> @295
-vanāḍyas[] 
-@ via @294 b=0 p=0 d=10100
-@ via @295 b=6 p=0 d=10256
-@ via @296 b=279 p=0 d=83521
-@ via @297 b=3635 p=0 d=13286025
-@ via @298 b=7291 p=0 d=53314601
-@@313: line 22.0 t=1024822 -> @296
-[]\TU/AdobeTextPro(0)/m/n/8 E[]U$[][]$] 
-@ via @295 b=3 p=0 d=10169
-@ via @296 b=0 p=0 d=10100
-@ via @297 b=500 p=0 d=260100
-@ via @298 b=1603 p=0 d=2611769
-@ via @299 b=7540 p=0 d=57002500
-@@314: line 22.0 t=561990 -> @297
-[]na-
-@\discretionary via @296 b=0 p=50 d=12600
-@\discretionary via @297 b=60 p=50 d=7400
-@\discretionary via @298 b=411 p=50 d=199741
-@\discretionary via @299 b=3108 p=50 d=9724424
-@@315: line 22.1- t=309290 -> @297
-vanaḍyas[] 
-@ via @297 b=38 p=0 d=12304
-@ via @298 b=0 p=0 d=100
-@ via @299 b=109 p=0 d=14161
-@ via @300 b=2961 p=0 d=8836841
-@ via @301 b=6575 p=0 d=43372225
-@@316: line 22.0 t=108821 -> @299
-[]B[]L[]P 
-@ via @299 b=0 p=0 d=10100
-@ via @300 b=303 p=0 d=107969
-@ via @301 b=1253 p=0 d=1605169
-@ via @302 b=5446 p=0 d=29777936
-@@317: line 22.2 t=104760 -> @299
-[]ṇavānāḍyas[] 
-@ via @301 b=0 p=0 d=100
-@ via @302 b=0 p=0 d=100
-@ via @303 b=203 p=0 d=45369
-@ via @304 b=1221 p=0 d=1515361
-@ via @305 b=6428 p=0 d=41457844
-@@318: line 22.2 t=22995 -> @302
-[]D 
-@ via @302 b=0 p=0 d=100
-@ via @303 b=15 p=0 d=625
-@ via @304 b=336 p=0 d=119716
-@ via @305 b=2726 p=0 d=7495696
-@@319: line 22.2 t=22995 -> @302
-[]ṇavā-
-@\discretionary via @303 b=0 p=50 d=12600
-@\discretionary via @304 b=0 p=50 d=12600
-@\discretionary via @305 b=196 p=50 d=54936
-@\discretionary via @306 b=2418 p=50 d=5907684
-@@320: line 22.2- t=32271 -> @304
-naḍyaḥs[] 
-@ via @305 b=0 p=0 d=100
-@ via @306 b=17 p=0 d=10729
-@@321: line 22.2 t=16695 -> @305
-[]U$[][]$
-@\math via @306 b=0 p=0 d=100
-@@322: line 22.2 t=17379 -> @306
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 tiṣṭhanti[] 
-@ via @307 b=26 p=0 d=1296
-@ via @308 b=2245 p=0 d=5085025
-@@323: line 23.0 t=36655264 -> @308
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @307 b=3 p=0 d=10169
-@ via @308 b=12 p=0 d=10484
-@ via @309 b=879 p=0 d=790321
-@ via @310 b=5756 p=0 d=33246756
-@@324: line 23.0 t=14693258 -> @309
-[]tiṣṭhati[] 
-@ via @309 b=0 p=0 d=10100
-@ via @310 b=28 p=0 d=1444
-@ via @311 b=2376 p=0 d=5692996
-@ via @312 b=4995 p=0 d=25050025
-@@325: line 23.1 t=8459301 -> @310
-[]D[]U$[][]$
-@\math via @310 b=0 p=0 d=10100
-@\math via @311 b=143 p=0 d=23409
-@\math via @312 b=659 p=0 d=447561
-@@326: line 23.0 t=4774191 -> @312
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 navānāṃ 
-@ via @312 b=87 p=0 d=19409
-@ via @313 b=265 p=0 d=75625
-@ via @314 b=3780 p=0 d=14364100
-@ via @315 b=7030 p=0 d=49561600
-@@327: line 23.0 t=1100447 -> @313
-nadīnāṃ[] 
-@ via @313 b=46 p=0 d=13136
-@ via @314 b=1 p=0 d=10121
-@ via @315 b=73 p=0 d=6889
-@ via @316 b=6961 p=0 d=48594841
-@@328: line 23.1 t=316179 -> @315
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @314 b=54 p=0 d=14096
-@ via @315 b=0 p=0 d=100
-@ via @316 b=849 p=0 d=737881
-@ via @317 b=5802 p=0 d=33789344
-@@329: line 23.2 t=309390 -> @315
-[]na-
-@\discretionary via @316 b=51 p=50 d=6221
-@\discretionary via @317 b=1033 p=50 d=1100349
-@@330: line 23.1- t=115042 -> @316
-vanadīnāṃ[] 
-@ via @317 b=0 p=0 d=100
-@ via @318 b=2042 p=0 d=4220704
-@ via @319 b=4792 p=0 d=23069204
-@@331: line 23.2 t=104860 -> @317
-[]E 
-@ via @317 b=5 p=0 d=225
-@ via @318 b=820 p=0 d=698900
-@ via @319 b=2189 p=0 d=4845601
-@ via @320 b=6792 p=0 d=46277204
-@@332: line 23.2 t=104985 -> @317
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 var-
-@\discretionary via @318 b=7 p=50 d=2789
-@\discretionary via @319 b=110 p=50 d=26900
-@\discretionary via @320 b=1107 p=50 d=1270189
-@@333: line 23.2- t=25784 -> @318
-tante[] 
-@ via @318 b=0 p=0 d=100
-@ via @319 b=0 p=0 d=100
-@ via @320 b=78 p=0 d=7744
-@ via @321 b=3989 p=0 d=16002001
-@@334: line 23.2 t=23095 -> @319
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @320 b=0 p=0 d=100
-@ via @321 b=463 p=0 d=233729
-@ via @322 b=3333 p=0 d=11185649
-@@335: line 23.2 t=32371 -> @320
-[]ni-
-@\discretionary via @320 b=91 p=50 d=22701
-@\discretionary via @321 b=38 p=50 d=4804
-@\discretionary via @322 b=733 p=50 d=564549
-@@336: line 23.1- t=21499 -> @321
-var-
-@\discretionary via @321 b=0 p=50 d=2600
-@\discretionary via @322 b=184 p=50 d=50136
-@\discretionary via @323 b=4660 p=50 d=21811400
-@@337: line 23.2- t=19295 -> @321
-taṃte[] 
-@ via @321 b=96 p=0 d=11236
-@ via @322 b=0 p=0 d=100
-@ via @323 b=1168 p=0 d=1387684
-@@338: line 23.2 t=17479 -> @322
-[]U$[][]$
-@\math via @322 b=0 p=0 d=100
-@\math via @323 b=259 p=0 d=72361
-@\math via @324 b=3746 p=0 d=14107536
-@@339: line 23.2 t=17479 -> @322
- []var-
-@\discretionary via @323 b=7 p=50 d=12789
-@\discretionary via @324 b=887 p=50 d=807109
-@\discretionary via @325 b=8094 p=50 d=65677316
-@@340: line 24.0- t=15500367 -> @324
-tate[] 
-@ via @323 b=0 p=0 d=10100
-@ via @324 b=162 p=0 d=29584
-@ via @325 b=3815 p=0 d=14630625
-@@341: line 24.0 t=14722842 -> @324
-[]B 
-@ via @323 b=0 p=0 d=10100
-@ via @324 b=21 p=0 d=961
-@ via @325 b=1755 p=0 d=3115225
-@@342: line 24.0 t=11574526 -> @325
- [][]\TU/AdobeTextPro(0)/b/n/8 7 [][][]saras-
-@\discretionary via @325 b=0 p=50 d=2600
-@\discretionary via @326 b=509 p=50 d=271861
-@@343: line 24.0- t=5046052 -> @326
-vatī[] 
-@ via @325 b=0 p=0 d=100
-@ via @326 b=71 p=0 d=6561
-@ via @327 b=4378 p=0 d=19254544
-@@344: line 24.1 t=4780752 -> @326
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @326 b=0 p=0 d=10100
-@ via @327 b=663 p=0 d=452929
-@@345: line 24.0 t=1553376 -> @327
-[]saras-
-@\discretionary via @327 b=4 p=50 d=12696
-@\discretionary via @328 b=1521 p=50 d=2346461
-@@346: line 24.2- t=1113143 -> @327
-vati[] 
-@ via @327 b=0 p=0 d=10100
-@ via @328 b=552 p=0 d=315844
-@ via @329 b=5008 p=0 d=25190324
-@ via @330 b=7981 p=0 d=63856081
-@@347: line 24.0 t=632023 -> @328
+@@159: line 18.2- t=43759 -> @145
+gaḥ[] []E []atha tattv-abiṃ-duyo-gaprāraṃb-
+@\discretionary via @146 b=1755 p=50 d=3117725
+@\discretionary via @147 b=4569 p=50 d=20979741
+@@160: line 19.0- t=89972828 -> @146
+haḥ[] 
+@ via @146 b=103 p=0 d=12769
+@ via @147 b=783 p=0 d=628849
+@ via @148 b=6364 p=0 d=40627876
+@@161: line 19.0 t=79563383 -> @147
 []L 
-@ via @327 b=0 p=0 d=10100
-@ via @328 b=206 p=0 d=46656
-@ via @329 b=2644 p=0 d=7053716
-@ via @330 b=4505 p=0 d=20385225
-@@348: line 24.0 t=362835 -> @328
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 vipāśā[] 
-@ via @328 b=0 p=0 d=100
-@ via @329 b=38 p=0 d=2304
-@ via @330 b=206 p=0 d=46656
-@ via @331 b=7273 p=0 d=53052089
-@@349: line 24.0 t=161698 -> @330
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @329 b=0 p=0 d=100
-@ via @330 b=0 p=0 d=100
-@ via @331 b=1728 p=0 d=3030644
-@ via @332 b=5077 p=0 d=25887569
-@@350: line 24.2 t=115142 -> @330
-[]vaipaśā[] 
-@ via @331 b=26 p=0 d=1296
-@ via @332 b=321 p=0 d=119561
-@ via @333 b=1005 p=0 d=1040225
-@ via @334 b=4505 p=0 d=20395225
-@@351: line 24.1 t=106156 -> @331
-[]D[]U$[][]$
-@\math via @331 b=0 p=0 d=100
-@\math via @332 b=7 p=0 d=289
-@\math via @333 b=120 p=0 d=26900
-@\math via @334 b=1270 p=0 d=1648400
-@\math via @335 b=7613 p=0 d=58120129
-@@352: line 24.0 t=52684 -> @333
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 śataru-
-@\discretionary via @333 b=1 p=50 d=12621
-@\discretionary via @334 b=6 p=50 d=2756
-@\discretionary via @335 b=628 p=50 d=419544
-@\discretionary via @336 b=1210 p=50 d=1500900
-@\discretionary via @337 b=2781 p=50 d=7812181
-@@353: line 24.2- t=25851 -> @334
-drā[] 
-@ via @334 b=0 p=0 d=100
-@ via @335 b=143 p=0 d=33409
-@ via @336 b=396 p=0 d=164836
-@ via @337 b=1237 p=0 d=1565009
-@ via @338 b=6396 p=0 d=41046836
-@@354: line 24.2 t=23195 -> @334
-\TU/AdobeTextPro(0)/m/n/8 em.] 
-@ via @335 b=0 p=0 d=100
-@ via @336 b=5 p=0 d=225
-@ via @337 b=123 p=0 d=27689
-@ via @338 b=1721 p=0 d=3006361
-@ via @339 b=4531 p=0 d=20630681
-@ via @340 b=8132 p=0 d=66292164
-@@355: line 24.2 t=21724 -> @336
-[]śā-
-@\discretionary via @335 b=0 p=50 d=2600
-@\discretionary via @336 b=0 p=50 d=12600
-@\discretionary via @337 b=4 p=50 d=12696
-@\discretionary via @338 b=401 p=50 d=181421
-@\discretionary via @339 b=1325 p=50 d=1794725
-@\discretionary via @340 b=2726 p=50 d=7498196
-@\discretionary via @341 b=6927 p=50 d=48124469
-@@356: line 24.2- t=31991 -> @337
-tahṛdā[] 
-@ via @337 b=4 p=0 d=196
-@ via @338 b=7 p=0 d=289
-@ via @339 b=141 p=0 d=32801
-@ via @340 b=549 p=0 d=312481
-@ via @341 b=2181 p=0 d=4800481
-@ via @342 b=5787 p=0 d=33605209
-@@357: line 24.2 t=17768 -> @338
-[]D[]P[]U$[][]$
-@\math via @338 b=10 p=0 d=400
-@\math via @339 b=0 p=0 d=100
-@\math via @340 b=6 p=0 d=10256
-@\math via @341 b=219 p=0 d=52441
-@\math via @342 b=1112 p=0 d=1258884
-@\math via @343 b=6204 p=0 d=38613796
-@@358: line 24.2 t=17579 -> @339
- []śatahradā[] 
-@ via @341 b=0 p=0 d=10100
-@ via @342 b=0 p=0 d=10100
-@ via @343 b=369 p=0 d=143641
-@ via @344 b=1838 p=0 d=3415104
-@@359: line 25.0 t=5189693 -> @343
-[]E 
-@ via @342 b=0 p=0 d=10100
-@ via @343 b=114 p=0 d=15376
-@ via @344 b=857 p=0 d=751689
-@ via @345 b=6477 p=0 d=42081169
-@@360: line 25.0 t=5061428 -> @343
-[]śāśatahṛdā[] 
-@ via @344 b=0 p=0 d=100
-@ via @345 b=130 p=0 d=19600
-@ via @346 b=1205 p=0 d=1486225
-@ via @347 b=4416 p=0 d=19589476
-@@361: line 25.0 t=1572976 -> @345
-[]B 
-@ via @344 b=0 p=0 d=100
-@ via @345 b=17 p=0 d=729
-@ via @346 b=477 p=0 d=247169
-@ via @347 b=2205 p=0 d=4906225
-@ via @348 b=6412 p=0 d=41242084
-@@362: line 25.0 t=1360312 -> @346
-[]śā-
-@\discretionary via @345 b=0 p=50 d=12600
-@\discretionary via @346 b=87 p=50 d=21909
-@\discretionary via @347 b=764 p=50 d=601576
-@\discretionary via @348 b=2809 p=50 d=7949261
-@@363: line 25.1- t=1135052 -> @346
-tadrumā[] 
-@ via @346 b=0 p=0 d=100
-@ via @347 b=0 p=0 d=10100
-@ via @348 b=119 p=0 d=16641
-@ via @349 b=2626 p=0 d=6948496
-@@364: line 25.0 t=379476 -> @348
-[]U$[][]$
-@\math via @347 b=0 p=0 d=10100
-@\math via @348 b=1 p=0 d=10121
-@\math via @349 b=776 p=0 d=617796
-@\math via @350 b=7704 p=0 d=59515796
-@@365: line 25.2 t=372956 -> @348
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 irā-
-@\discretionary via @348 b=11 p=50 d=12941
-@\discretionary via @349 b=19 p=50 d=3341
-@\discretionary via @350 b=1360 p=50 d=1889400
-@@366: line 25.1- t=165039 -> @349
-vatī[] 
-@ via @349 b=0 p=0 d=10100
-@ via @350 b=303 p=0 d=107969
-@ via @351 b=5862 p=0 d=34480384
-@@367: line 25.2 t=171798 -> @349
-[]\TU/AdobeTextPro(0)/m/n/8 D[]E] 
-@ via @349 b=78 p=0 d=17744
-@ via @350 b=0 p=0 d=100
-@ via @351 b=1221 p=0 d=1515361
-@@368: line 25.2 t=115242 -> @350
-[]irā-
-@\discretionary via @350 b=0 p=50 d=2600
-@\discretionary via @351 b=181 p=50 d=38981
-@\discretionary via @352 b=3364 p=50 d=11386376
-@@369: line 25.2- t=117742 -> @350
-vati[] 
-@ via @351 b=6 p=0 d=256
-@ via @352 b=1270 p=0 d=1638400
-@ via @353 b=7168 p=0 d=51533684
-@@370: line 25.2 t=106412 -> @351
-[]B[]L[]P[]U$[][]$
-@\math via @352 b=0 p=0 d=10100
-@\math via @353 b=621 p=0 d=408161
-@\math via @354 b=2970 p=0 d=8890400
-@@371: line 25.2 t=62784 -> @352
- []\TU/AdobeTextPro(0)/m/it/8 om.
-@\kern via @352 b=0 p=0 d=10100
-@\kern via @353 b=49 p=0 d=3481
-@\kern via @354 b=681 p=0 d=487481
-@\kern via @355 b=6859 p=0 d=47193161
-@@372: line 25.1 t=29332 -> @353
- [] 
-@ via @352 b=2 p=0 d=10144
-@ via @353 b=14 p=0 d=576
-@ via @354 b=366 p=0 d=151376
-@ via @355 b=4242 p=0 d=18089504
-@ via @356 b=6825 p=0 d=46727225
-@@373: line 25.1 t=26427 -> @353
-[]\TU/AdobeTextPro(0)/m/n/8 U$[][]$
-@\math via @353 b=0 p=0 d=100
-@\math via @354 b=20 p=0 d=900
-@\math via @355 b=783 p=0 d=638849
-@\math via @356 b=1509 p=0 d=2317361
-@@374: line 25.1 t=24095 -> @354
-@@375: line 25.2 t=25951 -> @353
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 aparā[] 
-@ via @354 b=41 p=0 d=2601
-@ via @355 b=0 p=0 d=100
-@ via @356 b=9 p=0 d=361
-@ via @357 b=1028 p=0 d=1087444
-@ via @358 b=6559 p=0 d=43161761
-@@376: line 25.2 t=21824 -> @355
-@@377: line 25.3 t=25796 -> @354
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @355 b=73 p=0 d=6889
-@ via @356 b=1 p=0 d=121
-@ via @357 b=36 p=0 d=2116
-@ via @358 b=1314 p=0 d=1762976
-@@378: line 25.1 t=19884 -> @357
-@@379: line 25.3 t=28613 -> @355
-[]gaṃḍakī[] 
-@ via @358 b=0 p=0 d=100
-@ via @359 b=1173 p=0 d=1399489
-@ via @360 b=2384 p=0 d=5731236
-@@380: line 25.2 t=17679 -> @358
-[]U$[][]$
-@\math via @358 b=0 p=0 d=100
-@\math via @359 b=327 p=0 d=113569
-@\math via @360 b=812 p=0 d=675684
-@@381: line 25.2 t=17679 -> @358
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 nady-
-@\discretionary via @359 b=0 p=50 d=12600
-@\discretionary via @360 b=2 p=50 d=12644
-@\discretionary via @361 b=1924 p=50 d=3742856
-@\discretionary via @362 b=3635 p=50 d=13288525
-@\discretionary via @363 b=5359 p=50 d=28838661
-@@382: line 26.2- t=5074072 -> @360
-opana-
-@\discretionary via @360 b=32 p=50 d=14264
-@\discretionary via @361 b=213 p=50 d=52229
-@\discretionary via @362 b=621 p=50 d=400661
-@\discretionary via @363 b=1210 p=50 d=1500900
-@@383: line 26.0- t=1625205 -> @361
-dinir-
-@\discretionary via @361 b=0 p=50 d=12600
-@\discretionary via @362 b=27 p=50 d=3869
-@\discretionary via @363 b=136 p=50 d=33816
-@\discretionary via @364 b=3884 p=50 d=15165736
-@@384: line 26.0- t=1168868 -> @363
-jharāḥ 
-@ via @361 b=98 p=0 d=21664
-@ via @362 b=0 p=0 d=10100
-@ via @363 b=0 p=0 d=100
-@ via @364 b=614 p=0 d=389376
-@ via @365 b=3547 p=0 d=12662249
-@ via @366 b=6493 p=0 d=42289009
-@@385: line 26.0 t=768852 -> @364
-srotāṃsi[] 
-@ via @364 b=0 p=0 d=10100
-@ via @365 b=42 p=0 d=2704
-@ via @366 b=299 p=0 d=95481
-@ via @367 b=1917 p=0 d=3723329
-@ via @368 b=7291 p=0 d=53314601
-@@386: line 26.0 t=260520 -> @366
-\TU/AdobeTextPro(0)/m/n/8 em.] 
-@ via @365 b=0 p=0 d=100
-@ via @366 b=1 p=0 d=121
-@ via @367 b=196 p=0 d=52436
-@ via @368 b=1675 p=0 d=2849225
-@ via @369 b=3386 p=0 d=11542816
-@@387: line 26.2 t=165160 -> @366
-[]nady-
-@\discretionary via @366 b=55 p=50 d=26725
-@\discretionary via @367 b=0 p=50 d=2600
-@\discretionary via @368 b=57 p=50 d=6989
-@\discretionary via @369 b=269 p=50 d=100341
-@\discretionary via @370 b=1442 p=50 d=2120804
-@@388: line 26.1- t=122231 -> @368
-opanadī-
-@\discretionary via @368 b=7 p=50 d=2789
-@\discretionary via @369 b=0 p=50 d=12600
-@\discretionary via @370 b=19 p=50 d=3341
-@\discretionary via @371 b=1635 p=50 d=2718525
-@\discretionary via @372 b=5548 p=50 d=30893864
-@@389: line 26.1- t=109753 -> @370
-@@390: line 26.2- t=118031 -> @368
-nairb-
-@\discretionary via @370 b=0 p=50 d=2600
-@\discretionary via @371 b=190 p=50 d=52500
-@\discretionary via @372 b=1430 p=50 d=2076100
-@\discretionary via @373 b=3460 p=50 d=12043400
-@@391: line 26.0- t=115284 -> @371
-@@392: line 26.2- t=109012 -> @370
-huras-
-@\discretionary via @371 b=0 p=50 d=2600
-@\discretionary via @372 b=98 p=50 d=14164
-@\discretionary via @373 b=316 p=50 d=108776
-@\discretionary via @374 b=4013 p=50 d=16187029
-@\discretionary via @375 b=4013 p=50 d=16197029
-@@393: line 26.1- t=43496 -> @372
-rota°[] 
-@ via @371 b=68 p=0 d=6084
-@ via @372 b=0 p=0 d=100
-@ via @373 b=0 p=0 d=100
-@ via @374 b=631 p=0 d=410881
-@ via @375 b=631 p=0 d=420881
-@@394: line 26.2 t=26527 -> @373
-[]D 
-@ via @372 b=0 p=0 d=100
-@ via @373 b=0 p=0 d=100
-@ via @374 b=86 p=0 d=9216
-@ via @375 b=86 p=0 d=9216
-@ via @376 b=3623 p=0 d=13208689
-@ via @377 b=3623 p=0 d=13208689
-@@395: line 26.1 t=33311 -> @374
-@@396: line 26.2 t=26527 -> @373
-[]nadyū-
-@\discretionary via @374 b=3 p=50 d=2669
-@\discretionary via @375 b=3 p=50 d=2669
-@\discretionary via @376 b=36 p=50 d=4616
-@\discretionary via @377 b=36 p=50 d=14616
-@\discretionary via @378 b=4543 p=50 d=20732309
-@\discretionary via @379 b=4543 p=50 d=20742309
-@@397: line 26.1- t=26440 -> @376
-@@398: line 26.2- t=26764 -> @374
-panadī-
-@\discretionary via @376 b=37 p=50 d=4709
-@\discretionary via @377 b=37 p=50 d=4709
-@\discretionary via @378 b=22 p=50 d=3524
-@\discretionary via @379 b=22 p=50 d=13524
-@@399: line 26.1- t=23408 -> @378
-@@400: line 26.3- t=26533 -> @376
-nairb-
-@\discretionary via @378 b=0 p=50 d=2600
-@\discretionary via @379 b=0 p=50 d=2600
-@\discretionary via @380 b=1609 p=50 d=2633661
-@@401: line 26.2- t=22484 -> @378
-huras-
-@\discretionary via @380 b=0 p=50 d=2600
-@\discretionary via @381 b=1917 p=50 d=3725829
-@@402: line 26.2- t=20279 -> @380
-rota°[] 
-@ via @381 b=1 p=0 d=121
-@ via @382 b=2846 p=0 d=8166736
-@@403: line 26.2 t=17800 -> @381
-[]U$[][]$
-@\math via @381 b=0 p=0 d=100
-@\math via @382 b=120 p=0 d=26900
-@\math via @383 b=7540 p=0 d=57002500
-@@404: line 26.2 t=17779 -> @381
- []nadyo 
-@ via @382 b=25 p=0 d=1225
-@ via @383 b=55 p=0 d=4225
-@ via @384 b=2970 p=0 d=8880400
-@@405: line 27.1 t=1629430 -> @383
-nadānir-
-@\discretionary via @384 b=0 p=50 d=22600
-@\discretionary via @385 b=1540 p=50 d=2405000
-@@406: line 27.2- t=1191468 -> @384
-jārā 
-@ via @384 b=50 p=0 d=13600
-@ via @385 b=107 p=0 d=13689
-@@407: line 27.0 t=782541 -> @385
-srotāṃsī[] 
-@ via @386 b=192 p=0 d=40804
-@@408: line 27.0 t=301324 -> @386
+@ via @146 b=0 p=0 d=10100
+@ via @147 b=78 p=0 d=7744
+@ via @148 b=1975 p=0 d=3940225
+@@162: line 19.0 t=52614170 -> @148
+[]atha 
+@ via @146 b=15 p=0 d=10625
+@ via @147 b=0 p=0 d=10100
+@ via @148 b=15 p=0 d=625
+@@163: line 19.1 t=48674570 -> @148
+rā-
+@\discretionary via @147 b=87 p=50 d=31909
+@\discretionary via @148 b=0 p=50 d=22600
+@\discretionary via @149 b=4156 p=50 d=17358056
+@@164: line 19.0- t=23731776 -> @149
+jayoga 
+@ via @149 b=146 p=0 d=24336
+@ via @150 b=2884 p=0 d=8375236
+@@165: line 19.0 t=6398056 -> @149
+liṣy-
+@\discretionary via @149 b=0 p=50 d=12600
+@\discretionary via @150 b=192 p=50 d=53304
+@\discretionary via @151 b=2050 p=50 d=4246100
+@@166: line 19.0- t=1653179 -> @150
+ate[] 
+@ via @149 b=0 p=0 d=10100
+@ via @150 b=4 p=0 d=10196
+@ via @151 b=524 p=0 d=285156
+@ via @152 b=3815 p=0 d=14630625
+@ via @153 b=7595 p=0 d=57836025
+@@167: line 19.0 t=1293631 -> @151
 []P 
-@ via @386 b=4 p=0 d=10196
-@ via @387 b=4048 p=0 d=16477364
-@@409: line 27.2 t=270716 -> @386
-[]nadyo 
-@ via @387 b=0 p=0 d=100
-@ via @388 b=954 p=0 d=929296
-@@410: line 27.2 t=165260 -> @387
-nadānir-
-@\discretionary via @388 b=2 p=50 d=12644
-@\discretionary via @389 b=471 p=50 d=243861
-@\discretionary via @390 b=471 p=50 d=253861
-@\discretionary via @391 b=6236 p=50 d=39025016
-@\discretionary via @392 b=6236 p=50 d=39035016
-@@411: line 27.2- t=134875 -> @388
-jñārāsty 
-@ via @389 b=0 p=0 d=100
-@ via @390 b=0 p=0 d=100
-@ via @391 b=32 p=0 d=1764
-@ via @392 b=32 p=0 d=1764
-@ via @393 b=2932 p=0 d=8655364
-@@412: line 27.1 t=110776 -> @392
-@@413: line 27.2 t=109853 -> @389
-etāṃsī[] 
-@ via @393 b=0 p=0 d=100
-@ via @394 b=1210 p=0 d=1498400
-@ via @395 b=5050 p=0 d=25603600
-@ via @396 b=5050 p=0 d=25613600
-@@414: line 27.2 t=43596 -> @393
-[]B[]L 
-@ via @393 b=0 p=0 d=100
-@ via @394 b=33 p=0 d=1849
-@ via @395 b=546 p=0 d=309136
-@ via @396 b=546 p=0 d=319136
-@@415: line 27.1 t=28376 -> @394
-[]nadyo 
-@ via @394 b=24 p=0 d=1156
-@ via @395 b=0 p=0 d=100
-@ via @396 b=0 p=0 d=100
-@ via @397 b=250 p=0 d=67600
-@ via @398 b=250 p=0 d=77600
-@ via @399 b=6461 p=0 d=41873841
-@ via @400 b=6461 p=0 d=41883841
-@@416: line 27.2 t=26627 -> @396
-@@417: line 27.3 t=27683 -> @394
-nadānir-
-@\discretionary via @397 b=31 p=50 d=24181
-@\discretionary via @398 b=31 p=50 d=14181
-@\discretionary via @399 b=22 p=50 d=13524
-@\discretionary via @400 b=22 p=50 d=23524
-@\discretionary via @401 b=1509 p=50 d=2329861
-@@418: line 27.1- t=36932 -> @399
-@@419: line 27.3- t=40945 -> @398
-jñārās-
-@\discretionary via @399 b=2 p=50 d=12644
-@\discretionary via @400 b=2 p=50 d=12644
-@\discretionary via @401 b=3 p=50 d=12669
-@\discretionary via @402 b=1205 p=50 d=1498725
-@@420: line 27.2- t=35153 -> @401
-rotāsī[] 
-@ via @401 b=2 p=0 d=144
-@ via @402 b=8 p=0 d=324
-@ via @403 b=1661 p=0 d=2802241
-@ via @404 b=7796 p=0 d=60943636
-@@421: line 27.2 t=20603 -> @402
+@ via @150 b=0 p=0 d=10100
+@ via @151 b=65 p=0 d=5625
+@ via @152 b=1132 p=0 d=1304164
+@ via @153 b=2772 p=0 d=7739524
+@@168: line 19.1 t=1014100 -> @151
+[]atha 
+@ via @150 b=78 p=0 d=17744
+@ via @151 b=0 p=0 d=10100
+@ via @152 b=4 p=0 d=10196
+@ via @153 b=115 p=0 d=15625
+@ via @154 b=1577 p=0 d=2528569
+@ via @155 b=5417 p=0 d=29452329
+@@169: line 19.0 t=200385 -> @153
+rā-
+@\discretionary via @151 b=28 p=50 d=13944
+@\discretionary via @152 b=0 p=50 d=12600
+@\discretionary via @153 b=0 p=50 d=22600
+@\discretionary via @154 b=244 p=50 d=87016
+@\discretionary via @155 b=1596 p=50 d=2591736
+@\discretionary via @156 b=3989 p=50 d=16014501
+@@170: line 19.2- t=207360 -> @153
+jayoga 
+@ via @154 b=0 p=0 d=100
+@ via @155 b=19 p=0 d=841
+@ via @156 b=321 p=0 d=119561
+@ via @157 b=5133 p=0 d=26460449
+@@171: line 19.1 t=100268 -> @155
+likhy-
+@\discretionary via @155 b=0 p=50 d=12600
+@\discretionary via @156 b=0 p=50 d=12600
+@\discretionary via @157 b=329 p=50 d=127421
+@\discretionary via @158 b=1158 p=50 d=1376724
+@@172: line 19.2- t=112027 -> @155
+ate[] 
+@ via @156 b=0 p=0 d=100
+@ via @157 b=28 p=0 d=1444
+@ via @158 b=248 p=0 d=76564
+@ via @159 b=8113 p=0 d=65993129
+@@173: line 19.1 t=41674 -> @157
 []U$[][]$
-@\math via @402 b=0 p=0 d=100
-@\math via @403 b=150 p=0 d=35600
-@\math via @404 b=1661 p=0 d=2802241
-@@422: line 27.2 t=20379 -> @402
- []nadyo 
-@ via @403 b=0 p=0 d=100
-@ via @404 b=0 p=0 d=100
-@ via @405 b=1661 p=0 d=2792241
-@@423: line 27.2 t=17879 -> @404
-nadāni 
-@ via @405 b=0 p=0 d=100
-@ via @406 b=1533 p=0 d=2390849
-@@424: line 28.2 t=1629530 -> @405
-srotāṃsi[] 
-@ via @406 b=0 p=0 d=100
-@ via @407 b=44 p=0 d=2916
-@@425: line 28.1 t=785457 -> @407
-[]E 
-@ via @406 b=0 p=0 d=100
-@ via @407 b=0 p=0 d=10100
-@ via @408 b=3439 p=0 d=11895601
-@@426: line 28.2 t=792641 -> @407
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 taṭākāni[] 
-@ via @408 b=0 p=0 d=10100
-@ via @409 b=0 p=0 d=100
-@ via @410 b=2035 p=0 d=4192025
-@@427: line 28.2 t=270816 -> @409
-[]\TU/AdobeTextPro(0)/m/n/8 E] 
-@ via @408 b=7 p=0 d=10289
-@ via @409 b=0 p=0 d=100
-@ via @410 b=303 p=0 d=107969
-@ via @411 b=7415 p=0 d=55140625
-@@428: line 28.0 t=273229 -> @410
-@@429: line 28.2 t=270816 -> @409
-[]taṭāka[] 
-@ via @410 b=0 p=0 d=100
-@ via @411 b=497 p=0 d=267049
-@@430: line 28.2 t=165360 -> @410
+@\math via @157 b=0 p=0 d=100
+@\math via @158 b=0 p=0 d=100
+@\math via @159 b=2418 p=0 d=5905184
+@@174: line 19.2 t=40234 -> @158
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 rā-
+@\discretionary via @158 b=3 p=50 d=2669
+@\discretionary via @159 b=171 p=50 d=55261
+@@175: line 19.2- t=42803 -> @158
+jayo-
+@\discretionary via @159 b=0 p=50 d=12600
+@@176: line 19.2- t=56359 -> @159
+gasyedaṃ pha-laṃ[] []\TU/AdobeTextPro(0)/m/n/8 P[]U$[][]$] 
+@ via @160 b=6461 p=0 d=41873841
+@@177: line 20.0 t=131846669 -> @160
+[]rā-
+@\discretionary via @160 b=2253 p=50 d=5133669
+@@178: line 20.0- t=95106497 -> @160
+jayo-
+@\discretionary via @160 b=389 p=50 d=171701
+@\discretionary via @161 b=2932 p=50 d=8657864
+@\discretionary via @162 b=6825 p=50 d=46719725
+@@179: line 20.0- t=88221247 -> @161
+gasya 
+@ via @160 b=0 p=0 d=10100
+@ via @161 b=301 p=0 d=96721
+@ via @162 b=1215 p=0 d=1500625
+@@180: line 20.0 t=54114795 -> @162
+idaṃ 
+@ via @160 b=34 p=0 d=11936
+@ via @161 b=0 p=0 d=10100
+@ via @162 b=3 p=0 d=10169
+@ via @163 b=836 p=0 d=715716
+@ via @164 b=2065 p=0 d=4305625
+@@181: line 20.0 t=28037401 -> @164
+pha-
+@\discretionary via @161 b=66 p=50 d=18276
+@\discretionary via @162 b=0 p=50 d=12600
+@\discretionary via @163 b=4 p=50 d=2696
+@\discretionary via @164 b=98 p=50 d=24164
+@\discretionary via @165 b=4429 p=50 d=19707221
+@@182: line 20.1- t=23755940 -> @164
+laṃ[] 
+@ via @163 b=0 p=0 d=100
+@ via @164 b=0 p=0 d=10100
+@ via @165 b=1325 p=0 d=1782225
+@ via @166 b=4582 p=0 d=21086464
+@@183: line 20.0 t=8180281 -> @165
+[]N$[][]$[]N$[][]$[]D 
+@ via @165 b=0 p=0 d=10100
+@ via @166 b=31 p=0 d=1681
+@ via @167 b=791 p=0 d=641601
+@ via @168 b=2653 p=0 d=7091569
+@@184: line 20.1 t=1654860 -> @166
+[]\TU/AdobeTextPro(0)/m/it/8 om.
+@\kern via @165 b=30 p=0 d=11600
+@\kern via @166 b=0 p=0 d=10100
+@\kern via @167 b=20 p=0 d=900
+@\kern via @168 b=252 p=0 d=68644
+@\kern via @169 b=3861 p=0 d=14984641
+@\kern via @170 b=7221 p=0 d=52297361
+@@185: line 20.0 t=1082744 -> @168
+ [] 
+@ via @166 b=0 p=0 d=10100
+@ via @167 b=2 p=0 d=10144
+@ via @168 b=81 p=0 d=8281
+@ via @169 b=2027 p=0 d=4149369
+@ via @170 b=4072 p=0 d=16672724
+@@186: line 20.1 t=1022381 -> @168
+[]\TU/AdobeTextPro(0)/m/n/8 E[]L 
+@ via @167 b=0 p=0 d=10100
+@ via @168 b=0 p=0 d=100
+@ via @169 b=140 p=0 d=22500
+@ via @170 b=471 p=0 d=241361
+@ via @171 b=5862 p=0 d=34480384
+@@187: line 20.0 t=222885 -> @169
+ [][][][][]\TU/AdobeTextPro(0)/b/n/8 °yo-
+@\discretionary via @169 b=0 p=50 d=12600
+@\discretionary via @170 b=0 p=50 d=12600
+@\discretionary via @171 b=659 p=50 d=450061
+@\discretionary via @172 b=3460 p=50 d=12063400
+@@188: line 20.2- t=212985 -> @169
+genāneka°[] 
+@ via @171 b=0 p=0 d=100
+@ via @172 b=6 p=0 d=256
+@ via @173 b=323 p=0 d=110889
+@ via @174 b=3503 p=0 d=12351169
+@ via @175 b=6284 p=0 d=39624436
+@@189: line 20.2 t=100368 -> @171
+[]\TU/AdobeTextPro(0)/m/n/8 P[]N$[][]$] 
+@ via @172 b=7 p=0 d=289
+@ via @173 b=0 p=0 d=100
+@ via @174 b=219 p=0 d=62441
+@ via @175 b=740 p=0 d=572500
+@ via @176 b=3449 p=0 d=11974681
+@@190: line 20.2 t=41774 -> @173
+[]°yo-
+@\discretionary via @173 b=37 p=50 d=14709
+@\discretionary via @174 b=0 p=50 d=2600
+@\discretionary via @175 b=25 p=50 d=13725
+@\discretionary via @176 b=628 p=50 d=429544
+@@191: line 20.2- t=42834 -> @174
+gena 
+@ via @174 b=3 p=0 d=169
+@ via @175 b=0 p=0 d=100
+@ via @176 b=27 p=0 d=1369
+@@192: line 20.2 t=40403 -> @174
+aneka°[] 
+@ via @176 b=23 p=0 d=1089
+@@193: line 20.3 t=57448 -> @176
+[]D[]N$[][]$[]U$[][]$[]U$[][]$
+@\math via @177 b=2134 p=0 d=4596736
+@\math via @178 b=3849 p=0 d=14891881
+@@194: line 21.0 t=109998378 -> @178
+  [][]\TU/AdobeTextPro(0)/b/n/8 3 [][][]prekṣaṇasamaya[] 
+@ via @180 b=0 p=0 d=10100
+@ via @181 b=465 p=0 d=225625
+@ via @182 b=2173 p=0 d=4765489
+@@195: line 21.0 t=28263026 -> @181
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @181 b=0 p=0 d=10100
+@ via @182 b=88 p=0 d=9604
+@ via @183 b=1231 p=0 d=1540081
+@@196: line 21.0 t=9720362 -> @183
+[]prekṣyaṇasamaya[] 
+@ via @184 b=0 p=0 d=100
+@ via @185 b=10 p=0 d=10400
+@ via @186 b=57 p=0 d=4489
+@ via @187 b=2744 p=0 d=7584516
+@ via @188 b=8075 p=0 d=65377225
+@@197: line 21.1 t=1026870 -> @186
+[]U$[][]$
+@\math via @185 b=0 p=0 d=10100
+@\math via @186 b=0 p=0 d=100
+@\math via @187 b=381 p=0 d=152881
+@\math via @188 b=2080 p=0 d=4378100
+@@198: line 21.0 t=375766 -> @187
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 eva[] 
+@ via @187 b=0 p=0 d=10100
+@ via @188 b=23 p=0 d=1089
+@@199: line 21.1 t=214074 -> @188
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @188 b=2 p=0 d=144
+@ via @189 b=1342 p=0 d=1837904
+@@200: line 21.2 t=213129 -> @188
+[]evaṃ[] 
+@ via @189 b=3 p=0 d=169
+@ via @190 b=729 p=0 d=556121
+@ via @191 b=2302 p=0 d=5355344
+@@201: line 21.2 t=100537 -> @189
+[]U$[][]$
+@\math via @189 b=0 p=0 d=100
+@\math via @190 b=85 p=0 d=9025
+@\math via @191 b=574 p=0 d=351056
+@\math via @192 b=3895 p=0 d=15259025
+@@202: line 21.1 t=50799 -> @190
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 rā-
+@\discretionary via @190 b=0 p=50 d=2600
+@\discretionary via @191 b=11 p=50 d=12941
+@\discretionary via @192 b=666 p=50 d=469476
+@\discretionary via @193 b=6526 p=50 d=42731796
+@@203: line 21.2- t=44374 -> @190
+jayo-
+@\discretionary via @191 b=0 p=50 d=12600
+@\discretionary via @192 b=41 p=50 d=5101
+@\discretionary via @193 b=2205 p=50 d=4918725
+@@204: line 21.1- t=45504 -> @192
+@@205: line 21.2- t=55434 -> @191
+gaḥ[] 
+@ via @192 b=0 p=0 d=100
+@ via @193 b=666 p=0 d=466976
+@@206: line 21.2 t=40503 -> @192
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @193 b=1 p=0 d=121
+@ via @194 b=5288 p=0 d=28068804
+@@207: line 21.2 t=57569 -> @193
+[]rā-
+@\discretionary via @193 b=0 p=50 d=2600
+@\discretionary via @194 b=1342 p=50 d=1830404
+@@208: line 21.2- t=60048 -> @193
+jayo-
+@\discretionary via @194 b=289 p=50 d=91901
+@@209: line 22.0- t=110090279 -> @194
+gas[] 
+@ via @194 b=50 p=0 d=3600
+@@210: line 22.1 t=110001978 -> @194
+[]U$[][]$
+@\math via @194 b=0 p=0 d=10100
+@@211: line 22.2 t=110008478 -> @194
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 ta-
+@\discretionary via @194 b=21 p=50 d=13461
+@\discretionary via @195 b=4036 p=50 d=16372616
+@@212: line 22.0- t=44635642 -> @195
+syaite[] 
+@ via @195 b=977 p=0 d=974169
+@ via @196 b=7777 p=0 d=60637369
+@@213: line 22.0 t=29237195 -> @195
+[]\TU/AdobeTextPro(0)/m/n/8 P[]U$[][]$] 
+@ via @195 b=49 p=0 d=3481
+@ via @196 b=1577 p=0 d=2518569
+@@214: line 22.0 t=12238931 -> @196
+[]ta-
+@\discretionary via @195 b=1 p=50 d=12621
+@\discretionary via @196 b=465 p=50 d=228125
+@@215: line 22.0- t=9948487 -> @196
+sya 
+@ via @195 b=0 p=0 d=10100
+@ via @196 b=98 p=0 d=11664
+@@216: line 22.1 t=9732026 -> @196
+ete[] 
+@ via @196 b=0 p=0 d=10100
+@@217: line 22.2 t=9730462 -> @196
+[]cett. 
+@ via @196 b=3 p=0 d=10169
+@ via @197 b=3312 p=0 d=11035684
+@@218: line 22.2 t=9730531 -> @196
+ [][]\TU/AdobeTextPro(0)/b/n/8 4 [][][]caryāyo-
+@\discretionary via @197 b=0 p=50 d=2600
+@\discretionary via @198 b=141 p=50 d=25301
+@\discretionary via @199 b=812 p=50 d=678184
+@\discretionary via @200 b=5741 p=50 d=33086501
+@@219: line 22.0- t=401067 -> @198
+gaḥ[] 
+@ via @197 b=0 p=0 d=100
+@ via @198 b=11 p=0 d=10441
+@ via @199 b=237 p=0 d=61009
+@ via @200 b=2837 p=0 d=8115409
+@@220: line 22.0 t=275083 -> @199
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @198 b=0 p=0 d=10100
+@ via @199 b=0 p=0 d=100
+@ via @200 b=357 p=0 d=144689
+@ via @201 b=2884 p=0 d=8385236
+@@221: line 22.2 t=214174 -> @199
+[]tvaryāyo-
+@\discretionary via @200 b=0 p=50 d=2600
+@\discretionary via @201 b=17 p=50 d=3229
+@\discretionary via @202 b=488 p=50 d=250504
+@\discretionary via @203 b=1014 p=50 d=1071076
+@\discretionary via @204 b=3000 p=50 d=9072600
+@\discretionary via @205 b=3000 p=50 d=9082600
+@\discretionary via @206 b=7796 p=50 d=60946136
+@@222: line 22.1- t=103766 -> @201
+gaḥ[] 
+@ via @201 b=0 p=0 d=100
+@ via @202 b=105 p=0 d=13225
+@ via @203 b=327 p=0 d=123569
+@ via @204 b=1430 p=0 d=2073600
+@ via @205 b=1430 p=0 d=2083600
+@ via @206 b=4479 p=0 d=20161121
+@@223: line 22.0 t=64024 -> @202
+[]U$[][]$
+@\math via @201 b=0 p=0 d=100
+@\math via @202 b=2 p=0 d=144
+@\math via @203 b=40 p=0 d=2500
+@\math via @204 b=430 p=0 d=193600
+@\math via @205 b=430 p=0 d=203600
+@\math via @206 b=1852 p=0 d=3477044
+@@224: line 22.1 t=46874 -> @203
+@@225: line 22.2 t=50943 -> @202
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 layayo-
+@\discretionary via @204 b=0 p=50 d=12600
+@\discretionary via @205 b=0 p=50 d=12600
+@\discretionary via @206 b=17 p=50 d=3229
+@\discretionary via @207 b=958 p=50 d=949524
+@\discretionary via @208 b=1783 p=50 d=3237349
+@\discretionary via @209 b=4739 p=50 d=22565501
+@@226: line 22.1- t=43732 -> @206
+gaḥ[] 
+@ via @204 b=34 p=0 d=11936
+@ via @205 b=34 p=0 d=1936
+@ via @206 b=0 p=0 d=100
+@ via @207 b=228 p=0 d=66644
+@ via @208 b=587 p=0 d=366409
+@ via @209 b=2221 p=0 d=4977361
+@ via @210 b=6220 p=0 d=38812900
+@@227: line 22.2 t=40603 -> @206
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @207 b=0 p=0 d=100
+@ via @208 b=5 p=0 d=225
+@ via @209 b=221 p=0 d=53361
+@ via @210 b=1199 p=0 d=1461681
+@ via @211 b=5388 p=0 d=29148404
+@ via @212 b=7944 p=0 d=63266116
+@@228: line 22.2 t=57669 -> @207
+[]nayayo-
+@\discretionary via @209 b=0 p=50 d=22600
+@\discretionary via @210 b=2 p=50 d=2644
+@\discretionary via @211 b=259 p=50 d=84861
+@\discretionary via @212 b=591 p=50 d=373701
+@\discretionary via @213 b=4013 p=50 d=16187029
+@@229: line 23.0- t=45009343 -> @212
+gaḥ[] 
+@ via @210 b=0 p=0 d=100
+@ via @211 b=33 p=0 d=1849
+@ via @212 b=143 p=0 d=23409
+@ via @213 b=1983 p=0 d=3972049
+@ via @214 b=7740 p=0 d=60062500
+@@230: line 23.0 t=33209244 -> @213
+[]U$[][]$
+@\math via @210 b=69 p=0 d=16241
+@\math via @211 b=0 p=0 d=100
+@\math via @212 b=6 p=0 d=10256
+@\math via @213 b=618 p=0 d=394384
+@\math via @214 b=3428 p=0 d=11819844
+@\math via @215 b=4981 p=0 d=24910081
+@@231: line 23.0 t=24058775 -> @214
+  [][]\TU/AdobeTextPro(0)/b/n/8 5 [][][]lakṣyayo-
+@\discretionary via @213 b=53 p=50 d=16469
+@\discretionary via @214 b=0 p=50 d=12600
+@\discretionary via @215 b=12 p=50 d=22984
+@\discretionary via @216 b=237 p=50 d=63509
+@\discretionary via @217 b=1117 p=50 d=1282629
+@@232: line 23.0- t=9795535 -> @216
+gaḥ[] 
+@ via @214 b=0 p=0 d=10100
+@ via @215 b=0 p=0 d=10100
+@ via @216 b=23 p=0 d=1089
+@ via @217 b=321 p=0 d=119561
+@ via @218 b=5302 p=0 d=28227344
+@@233: line 23.1 t=9733115 -> @216
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @216 b=0 p=0 d=100
+@ via @217 b=0 p=0 d=100
+@ via @218 b=776 p=0 d=627796
+@@234: line 23.2 t=9730562 -> @217
+[]lakṣayo-
+@\discretionary via @218 b=0 p=50 d=2600
+@\discretionary via @219 b=883 p=50 d=809949
+@\discretionary via @220 b=3396 p=50 d=11603336
+@@235: line 23.0- t=1211016 -> @219
+gaḥ[] 
+@ via @218 b=3 p=0 d=169
+@ via @219 b=244 p=0 d=64516
+@ via @220 b=1515 p=0 d=2325625
+@@236: line 23.0 t=465583 -> @219
+[]U$[][]$
+@\math via @219 b=18 p=0 d=784
+@\math via @220 b=391 p=0 d=160801
+@\math via @221 b=4647 p=0 d=21697649
+@@237: line 23.1 t=401851 -> @219
+  [][]\TU/AdobeTextPro(0)/b/n/8 6 [][][]sid-
+@\discretionary via @219 b=42 p=50 d=25204
+@\discretionary via @220 b=0 p=50 d=12600
+@\discretionary via @221 b=216 p=50 d=63576
+@\discretionary via @222 b=4036 p=50 d=16382616
+@@238: line 23.0- t=277750 -> @221
+@@239: line 23.2- t=287683 -> @220
+dhayo-
+@\discretionary via @221 b=0 p=50 d=2600
+@\discretionary via @222 b=635 p=50 d=428525
+@\discretionary via @223 b=2828 p=50 d=8056744
+@@240: line 23.2- t=216774 -> @221
+gaḥ[] 
+@ via @221 b=16 p=0 d=676
+@ via @222 b=114 p=0 d=15376
+@ via @223 b=1038 p=0 d=1098304
+@ via @224 b=5374 p=0 d=28987456
+@ via @225 b=5374 p=0 d=28997456
+@@241: line 23.0 t=119142 -> @222
+[]\TU/AdobeTextPro(0)/m/n/8 P[]U$[][]$] 
+@ via @222 b=0 p=0 d=100
+@ via @223 b=28 p=0 d=1444
+@ via @224 b=845 p=0 d=731025
+@ via @225 b=845 p=0 d=741025
+@ via @226 b=5417 p=0 d=29452329
+@@242: line 23.1 t=65468 -> @223
+[]rā-
+@\discretionary via @222 b=8 p=50 d=12824
+@\discretionary via @223 b=0 p=50 d=12600
+@\discretionary via @224 b=169 p=50 d=34541
+@\discretionary via @225 b=169 p=50 d=44541
+@\discretionary via @226 b=2261 p=50 d=5169941
+@\discretionary via @227 b=7081 p=50 d=50294781
+@@243: line 23.0- t=81415 -> @224
+@@244: line 23.2- t=76624 -> @223
+jayo-
+@\discretionary via @223 b=12 p=50 d=12984
+@\discretionary via @224 b=1 p=50 d=2621
+@\discretionary via @225 b=1 p=50 d=2621
+@\discretionary via @226 b=594 p=50 d=377316
+@\discretionary via @227 b=2837 p=50 d=8117909
+@@245: line 23.2- t=49495 -> @224
+gaḥ[] 
+@ via @224 b=0 p=0 d=100
+@ via @225 b=0 p=0 d=100
+@ via @226 b=114 p=0 d=15376
+@ via @227 b=1112 p=0 d=1268884
+@@246: line 23.2 t=46974 -> @224
+[]\OML/cmm/m/it/8  
+@ via @224 b=17 p=0 d=10729
+@ via @225 b=17 p=0 d=729
+@ via @226 b=11 p=0 d=441
+@ via @227 b=381 p=0 d=162881
+@ via @228 b=5231 p=0 d=27478081
+@@247: line 23.2 t=44173 -> @226
+@@248: line 23.3 t=51672 -> @225
+ [][][][][]\TU/AdobeTextPro(0)/b/n/8 rā-
+@\discretionary via @226 b=0 p=50 d=12600
+@\discretionary via @227 b=4 p=50 d=2696
+@\discretionary via @228 b=922 p=50 d=881124
+@\discretionary via @229 b=6725 p=50 d=45372725
+@@249: line 23.2- t=43299 -> @227
+jayo-
+@\discretionary via @227 b=0 p=50 d=2600
+@\discretionary via @228 b=66 p=50 d=8276
+@\discretionary via @229 b=2293 p=50 d=5316309
+@\discretionary via @230 b=7925 p=50 d=62966725
+@@250: line 23.2- t=43203 -> @227
+gaḥ[] 
+@ via @228 b=0 p=0 d=100
+@ via @229 b=703 p=0 d=508369
+@ via @230 b=3590 p=0 d=12960000
+@@251: line 23.2 t=57769 -> @228
+[]\TU/AdobeTextPro(0)/m/n/8 P[]U$[][]$] 
+@ via @229 b=3 p=0 d=10169
+@ via @230 b=318 p=0 d=107584
+@ via @231 b=3068 p=0 d=9474084
+@@252: line 24.0 t=33316828 -> @230
+[]sid-
+@\discretionary via @229 b=0 p=50 d=22600
+@\discretionary via @230 b=5 p=50 d=12725
+@\discretionary via @231 b=621 p=50 d=400661
+@@253: line 24.0- t=24459436 -> @231
+dhayo-
+@\discretionary via @230 b=27 p=50 d=13869
+@\discretionary via @231 b=0 p=50 d=12600
+@\discretionary via @232 b=3803 p=50 d=14551469
+@@254: line 24.2- t=24071375 -> @231
+gaḥ[] 
+@ via @231 b=0 p=0 d=10100
+@ via @232 b=1418 p=0 d=2039184
+@ via @233 b=6477 p=0 d=42081169
+@@255: line 24.0 t=11834719 -> @232
+[]cett. 
+@ via @232 b=92 p=0 d=10404
+@ via @233 b=1270 p=0 d=1638400
+@@256: line 24.1 t=9805939 -> @232
+ [][][][][]\TU/AdobeTextPro(0)/b/n/8 ete 
+@ via @232 b=0 p=0 d=10100
+@ via @233 b=7 p=0 d=289
+@ via @234 b=1226 p=0 d=1537696
+@@257: line 24.2 t=9733404 -> @233
+pañ-
+@\discretionary via @233 b=0 p=50 d=2600
+@\discretionary via @234 b=48 p=50 d=5864
+@\discretionary via @235 b=2343 p=50 d=5549109
+@\discretionary via @236 b=8056 p=50 d=65062856
+@@258: line 24.0- t=6760125 -> @235
+cadaśayo-
+@\discretionary via @235 b=1 p=50 d=22621
+@\discretionary via @236 b=291 p=50 d=93101
+@\discretionary via @237 b=3354 p=50 d=11318996
+@@259: line 24.0- t=558684 -> @236
+gāḥ[] 
+@ via @235 b=0 p=0 d=10100
+@ via @236 b=8 p=0 d=10324
+@ via @237 b=986 p=0 d=992016
+@ via @238 b=6592 p=0 d=43586404
+@ via @239 b=6592 p=0 d=43596404
+@@260: line 24.2 t=475907 -> @236
+[]\TU/AdobeTextPro(0)/m/n/8 D[]N$[][]$[]P[]U$[][]$] 
+@ via @237 b=0 p=0 d=100
+@ via @238 b=4 p=0 d=10196
+@ via @239 b=4 p=0 d=196
+@ via @240 b=1448 p=0 d=2135764
+@ via @241 b=7291 p=0 d=53304601
+@@261: line 24.2 t=287879 -> @239
+[]evaṃ 
+@ via @238 b=45 p=0 d=13025
+@ via @239 b=45 p=0 d=3025
+@ via @240 b=10 p=0 d=400
+@ via @241 b=692 p=0 d=492804
+@ via @242 b=6893 p=0 d=47651409
+@@262: line 24.2 t=217174 -> @240
+paṃ-
+@\discretionary via @240 b=1 p=50 d=12621
+@\discretionary via @241 b=0 p=50 d=12600
+@\discretionary via @242 b=812 p=50 d=678184
+@\discretionary via @243 b=1888 p=50 d=3614904
+@\discretionary via @244 b=1888 p=50 d=3624904
+@\discretionary via @245 b=6428 p=50 d=41470344
+@@263: line 24.2- t=131742 -> @241
+cadaśāyogā 
+@ via @242 b=40 p=0 d=12500
+@ via @243 b=0 p=0 d=10100
+@ via @244 b=0 p=0 d=100
+@ via @245 b=9 p=0 d=361
+@ via @246 b=744 p=0 d=578516
+@ via @247 b=5064 p=0 d=25755476
+@ via @248 b=5064 p=0 d=25755476
+@@264: line 24.2 t=49856 -> @245
+bhavaṃti[] 
+@ via @246 b=14 p=0 d=576
+@ via @247 b=0 p=0 d=100
+@ via @248 b=0 p=0 d=100
+@ via @249 b=24 p=0 d=1156
+@ via @250 b=1019 p=0 d=1068841
+@ via @251 b=6691 p=0 d=44913401
+@@265: line 24.1 t=44455 -> @249
+@@266: line 24.2 t=44273 -> @247
+@@267: line 24.3 t=47550 -> @246
+[]U$[][]$
+@\math via @247 b=0 p=0 d=100
+@\math via @248 b=0 p=0 d=100
+@\math via @249 b=0 p=0 d=100
+@\math via @250 b=74 p=0 d=7056
+@\math via @251 b=1577 p=0 d=2528569
+@@268: line 24.1 t=50259 -> @250
+@@269: line 24.2 t=43399 -> @249
+  [][]\TU/AdobeTextPro(0)/b/n/8 8 [][][]idānīṃ[] 
+@ via @251 b=12 p=0 d=484
+@ via @252 b=7 p=0 d=10289
+@ via @253 b=252 p=0 d=68644
+@ via @254 b=3849 p=0 d=14901881
+@@270: line 24.2 t=58253 -> @251
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @252 b=17 p=0 d=10729
+@ via @253 b=0 p=0 d=10100
+@ via @254 b=246 p=0 d=75536
+@ via @255 b=2205 p=0 d=4906225
+@@271: line 25.0 t=16740944 -> @255
+[]idānī[] 
+@ via @254 b=0 p=0 d=100
+@ via @255 b=42 p=0 d=2704
+@ via @256 b=3323 p=0 d=11108889
+@@272: line 25.1 t=11837423 -> @255
+[]N$[][]$
+@\math via @254 b=16 p=0 d=676
+@\math via @255 b=0 p=0 d=10100
+@\math via @256 b=744 p=0 d=568516
+@\math via @257 b=3623 p=0 d=13208689
+@@273: line 25.0 t=10374455 -> @256
+ []atha[] 
+@ via @255 b=69 p=0 d=16241
+@ via @256 b=10 p=0 d=400
+@ via @257 b=417 p=0 d=192329
+@ via @258 b=2197 p=0 d=4870849
+@@274: line 25.2 t=9806339 -> @256
+[]U$[][]$
+@\math via @256 b=0 p=0 d=100
+@\math via @257 b=18 p=0 d=784
+@\math via @258 b=468 p=0 d=228484
+@\math via @259 b=8151 p=0 d=66601921
+@@275: line 25.0 t=6988609 -> @258
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 kriyāyo-
+@\discretionary via @258 b=20 p=50 d=23400
+@\discretionary via @259 b=196 p=50 d=54936
+@\discretionary via @260 b=1635 p=50 d=2718525
+@@276: line 25.0- t=613620 -> @259
+gasya[] 
+@ via @259 b=0 p=0 d=10100
+@ via @260 b=119 p=0 d=26641
+@ via @261 b=7631 p=0 d=58394881
+@@277: line 25.0 t=502548 -> @260
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @260 b=0 p=0 d=100
+@ via @261 b=1226 p=0 d=1537696
+@ via @262 b=7722 p=0 d=59793824
+@@278: line 25.2 t=476007 -> @260
+[]kriyāyo-
+@\discretionary via @261 b=0 p=50 d=2600
+@\discretionary via @262 b=244 p=50 d=77016
+@\discretionary via @263 b=1436 p=50 d=2113416
+@@279: line 25.0- t=294190 -> @262
+@@280: line 25.2- t=290479 -> @261
+gas[] 
+@ via @261 b=0 p=0 d=100
+@ via @262 b=31 p=0 d=1681
+@ via @263 b=546 p=0 d=319136
+@@281: line 25.1 t=218855 -> @262
+[]U$[][]$
+@\math via @262 b=0 p=0 d=100
+@\math via @263 b=72 p=0 d=6724
+@\math via @264 b=5652 p=0 d=32068244
+@@282: line 25.1 t=138466 -> @263
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 kathy-
+@\discretionary via @263 b=20 p=50 d=13400
+@\discretionary via @264 b=433 p=50 d=208749
+@\discretionary via @265 b=7116 p=50 d=50782376
+@\discretionary via @266 b=7116 p=50 d=50792376
+@\discretionary via @267 b=7116 p=50 d=50792376
+@@283: line 25.3- t=145142 -> @263
+ate[] 
+@ via @264 b=102 p=0 d=22544
+@ via @265 b=4217 p=0 d=17867529
+@ via @266 b=4217 p=0 d=17877529
+@ via @267 b=4217 p=0 d=17877529
+@@284: line 25.0 t=72400 -> @264
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @264 b=0 p=0 d=100
+@ via @265 b=721 p=0 d=534361
+@ via @266 b=721 p=0 d=544361
+@ via @267 b=721 p=0 d=544361
+@ via @268 b=3601 p=0 d=13039321
+@ via @269 b=3601 p=0 d=13049321
+@@285: line 25.2 t=49956 -> @264
+[]kathay-
+@\discretionary via @265 b=0 p=50 d=2600
+@\discretionary via @266 b=0 p=50 d=2600
+@\discretionary via @267 b=0 p=50 d=2600
+@\discretionary via @268 b=165 p=50 d=33125
+@\discretionary via @269 b=165 p=50 d=43125
+@\discretionary via @270 b=4391 p=50 d=19381301
+@@286: line 25.2- t=46873 -> @266
+ate[] 
+@ via @265 b=0 p=0 d=100
+@ via @266 b=0 p=0 d=100
+@ via @267 b=0 p=0 d=100
+@ via @268 b=28 p=0 d=1444
+@ via @269 b=28 p=0 d=1444
+@ via @270 b=2547 p=0 d=6548249
+@@287: line 25.1 t=44843 -> @269
+@@288: line 25.2 t=44373 -> @266
 []D 
-@ via @410 b=12 p=0 d=484
-@ via @411 b=70 p=0 d=6400
-@ via @412 b=5133 p=0 d=26450449
-@ via @413 b=5133 p=0 d=26460449
-@@431: line 28.1 t=141275 -> @411
-[]taṭānī[] 
-@ via @411 b=0 p=0 d=100
-@ via @412 b=384 p=0 d=155236
-@ via @413 b=384 p=0 d=165236
-@ via @414 b=6412 p=0 d=41252084
-@@432: line 28.2 t=134975 -> @411
-[]B[]L[]P 
-@ via @412 b=0 p=0 d=100
-@ via @413 b=0 p=0 d=100
-@ via @414 b=1019 p=0 d=1068841
-@ via @415 b=4341 p=0 d=18931201
-@@433: line 28.2 t=109953 -> @413
-[]taḍaga[] 
-@ via @414 b=0 p=0 d=100
-@ via @415 b=147 p=0 d=24649
-@ via @416 b=3954 p=0 d=15723296
-@ via @417 b=3954 p=0 d=15723296
-@@434: line 28.0 t=53025 -> @415
-@@435: line 28.2 t=43696 -> @414
+@ via @265 b=6 p=0 d=256
+@ via @266 b=6 p=0 d=256
+@ via @267 b=6 p=0 d=256
+@ via @268 b=1 p=0 d=121
+@ via @269 b=1 p=0 d=121
+@ via @270 b=1189 p=0 d=1447601
+@ via @271 b=7944 p=0 d=63266116
+@@289: line 25.2 t=43520 -> @269
+[]\TU/AdobeTextPro(0)/m/it/8 om.
+@\kern via @268 b=0 p=0 d=100
+@\kern via @269 b=0 p=0 d=100
+@\kern via @270 b=265 p=0 d=85625
+@\kern via @271 b=3000 p=0 d=9060100
+@@290: line 25.2 t=43499 -> @269
+ [] 
+@ via @268 b=0 p=0 d=100
+@ via @269 b=0 p=0 d=100
+@ via @270 b=143 p=0 d=33409
+@ via @271 b=1983 p=0 d=3972049
+@ via @272 b=7522 p=0 d=56731024
+@@291: line 25.2 t=43499 -> @269
+[]\TU/AdobeTextPro(0)/m/n/8 U$[][]$
+@\math via @270 b=6 p=0 d=256
+@\math via @271 b=425 p=0 d=189225
+@\math via @272 b=2285 p=0 d=5267025
+@\math via @273 b=5161 p=0 d=26739241
+@@292: line 25.2 t=58509 -> @270
+  [][]\TU/AdobeTextPro(0)/b/n/8 9 [][][]kriyā-
+@\discretionary via @271 b=0 p=50 d=12600
+@\discretionary via @272 b=40 p=50 d=5000
+@\discretionary via @273 b=291 p=50 d=93101
+@\discretionary via @274 b=1540 p=50 d=2415000
+@\discretionary via @275 b=5231 p=50 d=27470581
+@@293: line 26.0- t=10467556 -> @273
+muk-
+@\discretionary via @272 b=0 p=50 d=2600
+@\discretionary via @273 b=13 p=50 d=3029
+@\discretionary via @274 b=357 p=50 d=147189
+@\discretionary via @275 b=2020 p=50 d=4123400
+@@294: line 26.0- t=9953528 -> @274
+tir[] 
+@ via @272 b=0 p=0 d=100
+@ via @273 b=0 p=0 d=10100
+@ via @274 b=130 p=0 d=29600
+@ via @275 b=1158 p=0 d=1364224
+@ via @276 b=6316 p=0 d=40018276
+@@295: line 26.0 t=8352833 -> @275
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @273 b=66 p=0 d=15776
+@ via @274 b=0 p=0 d=100
+@ via @275 b=81 p=0 d=8281
+@ via @276 b=1681 p=0 d=2859481
+@ via @277 b=6708 p=0 d=45131524
+@@296: line 26.0 t=3473101 -> @276
+[]kriyā-
+@\discretionary via @275 b=0 p=50 d=12600
+@\discretionary via @276 b=137 p=50 d=34109
+@\discretionary via @277 b=1259 p=50 d=1612861
+@\discretionary via @278 b=6510 p=50 d=42522900
+@@297: line 26.0- t=647729 -> @276
+mukti[] 
+@ via @276 b=0 p=0 d=10100
+@ via @277 b=214 p=0 d=50176
+@ via @278 b=2221 p=0 d=4987361
+@@298: line 26.0 t=552724 -> @277
+[]N$[][]$
+@\math via @276 b=0 p=0 d=10100
+@\math via @277 b=26 p=0 d=1296
+@\math via @278 b=768 p=0 d=615284
+@\math via @279 b=4353 p=0 d=19035769
+@\math via @280 b=4353 p=0 d=19045769
+@@299: line 26.1 t=503844 -> @277
+ []kriyā-
+@\discretionary via @277 b=0 p=50 d=12600
+@\discretionary via @278 b=34 p=50 d=4436
+@\discretionary via @279 b=1014 p=50 d=1061076
+@\discretionary via @280 b=1014 p=50 d=1071076
+@\discretionary via @281 b=2809 p=50 d=7949261
+@\discretionary via @282 b=8056 p=50 d=65062856
+@@300: line 26.1- t=480443 -> @278
+muk-
+@\discretionary via @278 b=0 p=50 d=2600
+@\discretionary via @279 b=214 p=50 d=62676
+@\discretionary via @280 b=214 p=50 d=72676
+@\discretionary via @281 b=949 p=50 d=922181
+@\discretionary via @282 b=3746 p=50 d=14110036
+@@301: line 26.0- t=356866 -> @279
+tiḥ 
+@ via @278 b=0 p=0 d=100
+@ via @279 b=54 p=0 d=4096
+@ via @280 b=54 p=0 d=4096
+@ via @281 b=425 p=0 d=189225
+@ via @282 b=2245 p=0 d=5085025
+@ via @283 b=6842 p=0 d=46959904
+@@302: line 26.1 t=294575 -> @280
+||[] 
+@ via @278 b=39 p=0 d=2401
+@ via @279 b=9 p=0 d=10361
+@ via @280 b=9 p=0 d=361
+@ via @281 b=166 p=0 d=30976
+@ via @282 b=1215 p=0 d=1500625
+@ via @283 b=4303 p=0 d=18611969
+@@303: line 26.0 t=249831 -> @281
 []U$[][]$
-@\math via @414 b=0 p=0 d=100
-@\math via @415 b=0 p=0 d=100
-@\math via @416 b=1014 p=0 d=1058576
-@\math via @417 b=1014 p=0 d=1058576
-@@436: line 28.2 t=28476 -> @415
- []taṭhānī[] 
-@ via @416 b=0 p=0 d=100
-@ via @417 b=0 p=0 d=100
-@ via @418 b=870 p=0 d=774400
-@ via @419 b=870 p=0 d=784400
-@ via @420 b=5147 p=0 d=26604649
-@@437: line 28.2 t=26727 -> @416
+@\math via @279 b=0 p=0 d=10100
+@\math via @280 b=0 p=0 d=100
+@\math via @281 b=13 p=0 d=529
+@\math via @282 b=364 p=0 d=139876
+@\math via @283 b=1924 p=0 d=3750356
+@\math via @284 b=4569 p=0 d=20967241
+@@304: line 26.1 t=219384 -> @281
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 ayaṃ[] 
+@ via @281 b=38 p=0 d=12304
+@ via @282 b=0 p=0 d=100
+@ via @283 b=129 p=0 d=29321
+@ via @284 b=642 p=0 d=425104
+@ via @285 b=4543 p=0 d=20739809
+@@305: line 26.2 t=138566 -> @282
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @282 b=90 p=0 d=20000
+@ via @283 b=0 p=0 d=100
+@ via @284 b=32 p=0 d=1764
+@ via @285 b=931 p=0 d=895481
+@ via @286 b=4467 p=0 d=20053529
+@@306: line 26.1 t=74164 -> @284
+[]layaṃ[] 
+@ via @284 b=0 p=0 d=10100
+@ via @285 b=19 p=0 d=841
+@ via @286 b=594 p=0 d=374816
+@ via @287 b=1735 p=0 d=3045025
+@ via @288 b=1735 p=0 d=3055025
+@ via @289 b=3271 p=0 d=10774961
+@ via @290 b=7925 p=0 d=62974225
+@@307: line 26.1 t=50797 -> @285
+[]N$[][]$
+@\math via @285 b=0 p=0 d=100
+@\math via @286 b=146 p=0 d=34336
+@\math via @287 b=624 p=0 d=401956
+@\math via @288 b=624 p=0 d=411956
+@\math via @289 b=1348 p=0 d=1854164
+@\math via @290 b=3861 p=0 d=14994641
+@\math via @291 b=7308 p=0 d=53563124
+@@308: line 26.2 t=50056 -> @285
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 yo-
+@\discretionary via @285 b=62 p=50 d=7684
+@\discretionary via @286 b=1 p=50 d=12621
+@\discretionary via @287 b=54 p=50 d=6596
+@\discretionary via @288 b=54 p=50 d=6596
+@\discretionary via @289 b=209 p=50 d=60461
+@\discretionary via @290 b=1019 p=50 d=1071341
+@\discretionary via @291 b=1990 p=50 d=4012500
+@\discretionary via @292 b=7047 p=50 d=49813749
+@@309: line 26.1- t=50969 -> @288
+@@310: line 26.2- t=59494 -> @286
+@@311: line 26.3- t=57640 -> @285
+gaḥ[] 
+@ via @286 b=0 p=0 d=100
+@ via @287 b=1 p=0 d=121
+@ via @288 b=1 p=0 d=121
+@ via @289 b=29 p=0 d=1521
+@ via @290 b=355 p=0 d=143225
+@ via @291 b=744 p=0 d=578516
+@ via @292 b=3679 p=0 d=13618721
+@@312: line 26.1 t=45041 -> @289
+@@313: line 26.2 t=44494 -> @288
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @287 b=10 p=0 d=400
+@ via @288 b=10 p=0 d=400
+@ via @289 b=0 p=0 d=100
+@ via @290 b=5 p=0 d=225
+@ via @291 b=19 p=0 d=841
+@ via @292 b=571 p=0 d=347561
+@ via @293 b=4805 p=0 d=23184225
+@@314: line 26.1 t=44340 -> @291
+@@315: line 26.2 t=43620 -> @289
+[]yo-
+@\discretionary via @290 b=0 p=50 d=2600
+@\discretionary via @291 b=0 p=50 d=2600
+@\discretionary via @292 b=55 p=50 d=6725
+@\discretionary via @293 b=1259 p=50 d=1622861
+@\discretionary via @294 b=3579 p=50 d=12893421
+@\discretionary via @295 b=7116 p=50 d=50782376
+@@316: line 26.2- t=46099 -> @291
+gaḥ 
+@ via @290 b=22 p=0 d=1024
+@ via @291 b=3 p=0 d=169
+@ via @292 b=1 p=0 d=121
+@ via @293 b=477 p=0 d=237169
+@ via @294 b=1867 p=0 d=3523129
+@ via @295 b=4156 p=0 d=17355556
+@@317: line 26.2 t=43668 -> @291
+@@318: line 26.3 t=44523 -> @290
+|[] 
+@ via @291 b=44 p=0 d=2916
+@ via @292 b=0 p=0 d=100
+@ via @293 b=259 p=0 d=72361
+@ via @294 b=1205 p=0 d=1476225
+@ via @295 b=2828 p=0 d=8054244
+@@319: line 26.3 t=46415 -> @291
+[]N$[][]$[]U$[][]$
+@\math via @293 b=1 p=0 d=10121
+@\math via @294 b=116 p=0 d=15876
+@\math via @295 b=494 p=0 d=254016
+@\math via @296 b=3861 p=0 d=14984641
+@@320: line 27.0 t=8606849 -> @295
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 sid-
+@\discretionary via @293 b=28 p=50 d=23944
+@\discretionary via @294 b=0 p=50 d=22600
+@\discretionary via @295 b=15 p=50 d=3125
+@\discretionary via @296 b=710 p=50 d=520900
+@\discretionary via @297 b=2781 p=50 d=7802181
+@@321: line 27.0- t=3994001 -> @296
+dhidāyakaḥ[] 
+@ via @296 b=0 p=0 d=10100
+@ via @297 b=11 p=0 d=10441
+@ via @298 b=800 p=0 d=656100
+@ via @299 b=2547 p=0 d=6538249
+@ via @300 b=7326 p=0 d=53816896
+@@322: line 27.2 t=658170 -> @297
+[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
+@ via @297 b=0 p=0 d=10100
+@ via @298 b=25 p=0 d=1225
+@ via @299 b=293 p=0 d=91809
+@ via @300 b=1762 p=0 d=3139984
+@ via @301 b=4819 p=0 d=23319241
+@@323: line 27.1 t=553949 -> @298
+[]sid-
+@\discretionary via @298 b=0 p=50 d=12600
+@\discretionary via @299 b=9 p=50 d=2861
+@\discretionary via @300 b=295 p=50 d=105525
+@\discretionary via @301 b=1248 p=50 d=1595064
+@\discretionary via @302 b=3029 p=50 d=9238021
+@\discretionary via @303 b=4995 p=50 d=25052525
+@@324: line 27.2- t=506705 -> @299
+dhidāyakaṃ[] 
+@ via @300 b=14 p=0 d=10576
+@ via @301 b=0 p=0 d=10100
+@ via @302 b=32 p=0 d=1764
+@ via @303 b=140 p=0 d=22500
+@ via @304 b=1308 p=0 d=1737124
+@ via @305 b=6316 p=0 d=40028276
+@@325: line 27.0 t=272331 -> @303
 []U$[][]$
-@\math via @416 b=0 p=0 d=100
-@\math via @417 b=0 p=0 d=100
-@\math via @418 b=119 p=0 d=16641
-@\math via @419 b=119 p=0 d=26641
-@\math via @420 b=1783 p=0 d=3224849
-@@438: line 28.2 t=26727 -> @416
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 vāpīkūpā[] 
-@ via @420 b=0 p=0 d=100
-@ via @421 b=141 p=0 d=32801
-@ via @422 b=958 p=0 d=947024
-@ via @423 b=7944 p=0 d=63276116
-@@439: line 28.2 t=35253 -> @420
+@\math via @301 b=0 p=0 d=10100
+@\math via @302 b=0 p=0 d=100
+@\math via @303 b=5 p=0 d=10225
+@\math via @304 b=343 p=0 d=124609
+@\math via @305 b=2671 p=0 d=7197761
+@@326: line 27.2 t=260056 -> @303
+  [][]\TU/AdobeTextPro(0)/b/n/8 11 [][][]tat-
+@\discretionary via @304 b=0 p=50 d=2600
+@\discretionary via @305 b=78 p=50 d=10244
+@\discretionary via @306 b=1688 p=50 d=2885704
+@@327: line 27.1- t=148810 -> @305
+tataḥ[] 
+@ via @305 b=0 p=0 d=100
+@ via @306 b=255 p=0 d=70225
+@ via @307 b=3078 p=0 d=9535744
+@@328: line 27.0 t=144389 -> @306
+@@329: line 27.2 t=138666 -> @305
 []\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @421 b=0 p=0 d=100
-@ via @422 b=10 p=0 d=400
-@ via @423 b=1320 p=0 d=1778900
-@@440: line 28.2 t=20703 -> @421
-[]vāpikupāḥ[] 
-@ via @423 b=0 p=0 d=100
-@ via @424 b=147 p=0 d=34649
-@ via @425 b=4569 p=0 d=20967241
-@@441: line 28.2 t=17979 -> @423
-[]D 
-@ via @423 b=14 p=0 d=576
-@ via @424 b=17 p=0 d=729
-@ via @425 b=2181 p=0 d=4800481
-@ via @426 b=6316 p=0 d=40028276
-@@442: line 28.3 t=18455 -> @423
- [][]\TU/AdobeTextPro(0)/b/n/8 8 [][][]dvis-
-@\discretionary via @425 b=19 p=50 d=3341
-@\discretionary via @426 b=336 p=50 d=132216
-@\discretionary via @427 b=5533 p=50 d=30737349
-@@443: line 29.1- t=788798 -> @425
-ap-
-@\discretionary via @425 b=0 p=50 d=2600
-@\discretionary via @426 b=76 p=50 d=9896
-@\discretionary via @427 b=3229 p=50 d=10503621
-@\discretionary via @428 b=7186 p=50 d=51784916
-@\discretionary via @429 b=7186 p=50 d=51794916
-@@444: line 29.2- t=788057 -> @425
-tati°[] 
-@ via @425 b=0 p=0 d=100
-@ via @426 b=0 p=0 d=100
-@ via @427 b=1127 p=0 d=1302769
-@ via @428 b=3138 p=0 d=9909904
-@ via @429 b=3138 p=0 d=9919904
-@@445: line 29.2 t=785557 -> @425
+@ via @306 b=0 p=0 d=100
+@ via @307 b=345 p=0 d=126025
+@ via @308 b=2591 p=0 d=6775201
+@ via @309 b=4752 p=0 d=22676644
+@ via @310 b=4752 p=0 d=22686644
+@ via @311 b=4752 p=0 d=22686644
+@@330: line 27.2 t=74264 -> @306
+[]tatas 
+@ via @307 b=1 p=0 d=121
+@ via @308 b=223 p=0 d=64289
+@ via @309 b=642 p=0 d=425104
+@ via @310 b=642 p=0 d=435104
+@ via @311 b=642 p=0 d=435104
+@ via @312 b=2573 p=0 d=6671889
+@ via @313 b=2573 p=0 d=6681889
+@@331: line 27.2 t=50918 -> @307
+tataḥ[] 
+@ via @307 b=24 p=0 d=11156
+@ via @308 b=0 p=0 d=100
+@ via @309 b=24 p=0 d=1156
+@ via @310 b=24 p=0 d=1156
+@ via @311 b=24 p=0 d=11156
+@ via @312 b=396 p=0 d=164836
+@ via @313 b=396 p=0 d=174836
+@ via @314 b=4156 p=0 d=17355556
+@ via @315 b=4156 p=0 d=17365556
+@ via @316 b=6910 p=0 d=47896400
+@@332: line 27.1 t=52125 -> @309
+@@333: line 27.2 t=50156 -> @308
+[]U$[][]$
+@\math via @308 b=0 p=0 d=100
+@\math via @309 b=0 p=0 d=100
+@\math via @310 b=0 p=0 d=100
+@\math via @311 b=0 p=0 d=100
+@\math via @312 b=54 p=0 d=4096
+@\math via @313 b=54 p=0 d=4096
+@\math via @314 b=1448 p=0 d=2125764
+@\math via @315 b=1448 p=0 d=2135764
+@\math via @316 b=2799 p=0 d=7900481
+@\math via @317 b=7981 p=0 d=63866081
+@\math via @318 b=7981 p=0 d=63866081
+@@334: line 27.1 t=48590 -> @313
+@@335: line 27.2 t=50156 -> @308
+ []taṃkṛ 
+@ via @312 b=0 p=0 d=100
+@ via @313 b=0 p=0 d=100
+@ via @314 b=50 p=0 d=3600
+@ via @315 b=50 p=0 d=3600
+@ via @316 b=248 p=0 d=76564
+@ via @317 b=1448 p=0 d=2135764
+@ via @318 b=1448 p=0 d=2135764
+@ via @319 b=2443 p=0 d=6027209
+@@336: line 27.1 t=47220 -> @315
+@@337: line 27.2 t=44594 -> @313
+taṃ[] 
+@ via @314 b=0 p=0 d=100
+@ via @315 b=0 p=0 d=100
+@ via @316 b=3 p=0 d=169
+@ via @317 b=213 p=0 d=59729
+@ via @318 b=213 p=0 d=59729
+@ via @319 b=449 p=0 d=220681
+@ via @320 b=5637 p=0 d=31888609
+@@338: line 27.2 t=43720 -> @315
+[]U$[][]$
+@\math via @314 b=4 p=0 d=196
+@\math via @315 b=4 p=0 d=196
+@\math via @316 b=0 p=0 d=100
+@\math via @317 b=13 p=0 d=529
+@\math via @318 b=13 p=0 d=10529
+@\math via @319 b=51 p=0 d=13721
+@\math via @320 b=2181 p=0 d=4800481
+@\math via @321 b=4454 p=0 d=19927296
+@@339: line 27.1 t=44197 -> @317
+@@340: line 27.2 t=43816 -> @315
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 kuñ-
+@\discretionary via @317 b=11 p=50 d=2941
+@\discretionary via @318 b=11 p=50 d=2941
+@\discretionary via @319 b=0 p=50 d=2600
+@\discretionary via @320 b=122 p=50 d=19924
+@\discretionary via @321 b=558 p=50 d=335124
+@@341: line 27.2- t=46609 -> @317
+canaṃ[] 
+@ via @320 b=0 p=0 d=10100
+@ via @321 b=2 p=0 d=10144
+@ via @322 b=3942 p=0 d=15628304
+@@342: line 28.2 t=4004145 -> @321
 []\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @426 b=55 p=0 d=4225
-@ via @427 b=45 p=0 d=3025
-@ via @428 b=357 p=0 d=134689
-@ via @429 b=357 p=0 d=144689
-@ via @430 b=3769 p=0 d=14290841
-@ via @431 b=7576 p=0 d=57547396
-@@446: line 29.1 t=273841 -> @427
-[]dvis-
-@\discretionary via @427 b=0 p=50 d=2600
-@\discretionary via @428 b=1 p=50 d=12621
-@\discretionary via @429 b=1 p=50 d=2621
-@\discretionary via @430 b=463 p=50 d=236229
-@\discretionary via @431 b=1205 p=50 d=1478725
-@\discretionary via @432 b=6188 p=50 d=38427704
-@@447: line 29.2- t=273416 -> @427
-ap-
-@\discretionary via @427 b=3 p=50 d=2669
-@\discretionary via @428 b=0 p=50 d=12600
-@\discretionary via @429 b=0 p=50 d=2600
-@\discretionary via @430 b=146 p=50 d=36836
-@\discretionary via @431 b=515 p=50 d=278125
-@\discretionary via @432 b=3780 p=50 d=14376600
-@@448: line 29.0- t=202196 -> @430
-tatī°[] 
-@ via @428 b=25 p=0 d=11225
-@ via @429 b=25 p=0 d=1225
-@ via @430 b=4 p=0 d=196
-@ via @431 b=69 p=0 d=6241
-@ via @432 b=1484 p=0 d=2242036
-@ via @433 b=6173 p=0 d=38239489
-@@449: line 29.1 t=147516 -> @431
-[]B[]P 
-@ via @430 b=0 p=0 d=100
-@ via @431 b=0 p=0 d=100
-@ via @432 b=332 p=0 d=126964
-@ via @433 b=2261 p=0 d=5167441
-@@450: line 29.2 t=141375 -> @431
-[]dis-
-@\discretionary via @430 b=74 p=50 d=9556
-@\discretionary via @431 b=0 p=50 d=2600
-@\discretionary via @432 b=19 p=50 d=3341
-@\discretionary via @433 b=565 p=50 d=343125
-@\discretionary via @434 b=4699 p=50 d=22177181
-@\discretionary via @435 b=4699 p=50 d=22187181
-@@451: line 29.1- t=138316 -> @432
-@@452: line 29.2- t=143875 -> @431
-ap-
-@\discretionary via @432 b=0 p=50 d=2600
-@\discretionary via @433 b=181 p=50 d=48981
-@\discretionary via @434 b=2726 p=50 d=7488196
-@\discretionary via @435 b=2726 p=50 d=7498196
-@\discretionary via @436 b=6775 p=50 d=46048725
-@@453: line 29.2- t=137575 -> @432
-tati[] 
-@ via @432 b=0 p=0 d=100
-@ via @433 b=17 p=0 d=729
-@ via @434 b=1231 p=0 d=1540081
-@ via @435 b=1231 p=0 d=1550081
-@ via @436 b=3679 p=0 d=13618721
-@@454: line 29.1 t=110682 -> @433
-[]E 
-@ via @432 b=13 p=0 d=529
-@ via @433 b=0 p=0 d=100
-@ via @434 b=491 p=0 d=251001
-@ via @435 b=491 p=0 d=261001
-@ via @436 b=1789 p=0 d=3246401
-@@455: line 29.2 t=110053 -> @433
- [][][][][]\TU/AdobeTextPro(0)/b/n/8 sa-
-@\discretionary via @433 b=9 p=50 d=2861
-@\discretionary via @434 b=16 p=50 d=3176
-@\discretionary via @435 b=16 p=50 d=3176
-@\discretionary via @436 b=237 p=50 d=73509
-@\discretionary via @437 b=3471 p=50 d=12129861
-@@456: line 29.1- t=46872 -> @435
-has-
-@\discretionary via @434 b=0 p=50 d=12600
-@\discretionary via @435 b=0 p=50 d=2600
-@\discretionary via @436 b=14 p=50 d=3076
-@\discretionary via @437 b=1365 p=50 d=1903125
-@\discretionary via @438 b=5939 p=50 d=35403101
-@@457: line 29.1- t=31552 -> @436
-ranāḍīnāṃ[] 
-@ via @437 b=0 p=0 d=100
-@ via @438 b=117 p=0 d=26129
-@ via @439 b=6094 p=0 d=37268816
-@@458: line 29.2 t=26827 -> @437
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @438 b=0 p=0 d=100
-@ via @439 b=995 p=0 d=1020025
-@@459: line 29.2 t=26827 -> @438
-[]sa-
-@\discretionary via @438 b=26 p=50 d=3796
-@\discretionary via @439 b=140 p=50 d=35000
-@\discretionary via @440 b=2495 p=50 d=6287525
-@@460: line 29.3- t=30523 -> @438
-has-
-@\discretionary via @439 b=6 p=50 d=2756
-@\discretionary via @440 b=874 p=50 d=793956
-@@461: line 29.2- t=38009 -> @439
-ranāḍīnā[] 
-@ via @440 b=0 p=0 d=100
-@ via @441 b=2443 p=0 d=6027209
-@@462: line 29.2 t=20803 -> @440
-[]B 
-@ via @440 b=0 p=0 d=100
-@ via @441 b=1014 p=0 d=1058576
-@ via @442 b=4156 p=0 d=17365556
-@@463: line 29.2 t=20803 -> @440
-[]sa-
-@\discretionary via @440 b=73 p=50 d=9389
-@\discretionary via @441 b=228 p=50 d=69144
-@\discretionary via @442 b=1509 p=50 d=2319861
-@\discretionary via @443 b=8056 p=50 d=65072856
-@@464: line 29.3- t=30092 -> @440
-has-
-@\discretionary via @441 b=13 p=50 d=3029
-@\discretionary via @442 b=414 p=50 d=192276
-@\discretionary via @443 b=3919 p=50 d=15449541
-@\discretionary via @444 b=6910 p=50 d=47908900
-@@465: line 29.1- t=21008 -> @441
-tranāḍī[] 
-@ via @441 b=17 p=0 d=729
-@ via @442 b=0 p=0 d=100
-@ via @443 b=345 p=0 d=126025
-@ via @444 b=1092 p=0 d=1224404
-@ via @445 b=5681 p=0 d=32397481
-@@466: line 29.2 t=18555 -> @442
-@@467: line 29.3 t=18708 -> @441
-[]E[]U$[][]$
-@\math via @442 b=76 p=0 d=7396
-@\math via @443 b=0 p=0 d=100
-@\math via @444 b=55 p=0 d=4225
-@\math via @445 b=1107 p=0 d=1257689
-@@468: line 29.3 t=25851 -> @442
-  [][][][][]\TU/AdobeTextPro(0)/b/n/8 tiṣṭhanti[] 
-@ via @445 b=0 p=0 d=100
-@ via @446 b=73 p=0 d=6889
-@ via @447 b=1102 p=0 d=1246544
-@ via @448 b=2744 p=0 d=7584516
-@@469: line 30.1 t=280730 -> @446
-[]\TU/AdobeTextPro(0)/m/n/8 cett.] 
-@ via @446 b=0 p=0 d=100
-@ via @447 b=3 p=0 d=169
-@ via @448 b=110 p=0 d=14400
-@ via @449 b=1796 p=0 d=3261636
-@ via @450 b=7030 p=0 d=49571600
-@@470: line 30.0 t=216596 -> @448
-[]tiṣṭhaṃṭī[] 
-@ via @449 b=0 p=0 d=100
-@ via @450 b=15 p=0 d=625
-@ via @451 b=242 p=0 d=63504
-@ via @452 b=242 p=0 d=73504
-@ via @453 b=824 p=0 d=705556
-@ via @454 b=3668 p=0 d=13527684
-@@471: line 30.1 t=142000 -> @450
-@@472: line 30.2 t=147616 -> @449
+@ via @321 b=13 p=0 d=10529
+@ via @322 b=642 p=0 d=435104
+@ via @323 b=6110 p=0 d=37454400
+@@343: line 28.0 t=1093274 -> @322
+[]kūr-
+@\discretionary via @322 b=36 p=50 d=4616
+@\discretionary via @323 b=1087 p=50 d=1205909
+@\discretionary via @324 b=2384 p=50 d=5753736
+@@344: line 28.1- t=662786 -> @322
+canaṃ[] 
+@ via @322 b=0 p=0 d=100
+@ via @323 b=49 p=0 d=3481
+@ via @324 b=305 p=0 d=109225
+@@345: line 28.1 t=557430 -> @323
+[]N$[][]$
+@\math via @323 b=0 p=0 d=100
+@\math via @324 b=27 p=0 d=1369
+@\math via @325 b=4726 p=0 d=22429696
+@@346: line 28.1 t=508074 -> @324
+  [][][][][]\TU/AdobeTextPro(0)/b/n/8 tato 
+@ via @324 b=0 p=0 d=100
+@ via @325 b=816 p=0 d=682276
+@ via @326 b=3668 p=0 d=13537684
+@@347: line 28.2 t=506805 -> @324
+bhavet[] 
+@ via @325 b=5 p=0 d=10225
+@ via @326 b=341 p=0 d=133201
+@ via @327 b=2452 p=0 d=6061444
+@@348: line 28.2 t=282556 -> @325
+[]\TU/AdobeTextPro(0)/m/n/8 P[]U$[][]$] 
+@ via @325 b=2 p=0 d=10144
+@ via @326 b=2 p=0 d=144
+@ via @327 b=345 p=0 d=126025
+@ via @328 b=2556 p=0 d=6584356
+@ via @329 b=2556 p=0 d=6594356
+@@349: line 28.2 t=260200 -> @326
+[]ato 
+@ via @326 b=0 p=0 d=100
+@ via @327 b=31 p=0 d=1681
+@ via @328 b=783 p=0 d=628849
+@ via @329 b=783 p=0 d=638849
+@ via @330 b=6157 p=0 d=38041889
+@@350: line 28.1 t=150491 -> @327
+bhava[] 
+@ via @327 b=0 p=0 d=100
+@ via @328 b=18 p=0 d=784
+@ via @329 b=18 p=0 d=784
+@ via @330 b=977 p=0 d=984169
+@ via @331 b=4765 p=0 d=22810625
+@@351: line 28.1 t=139450 -> @329
+@@352: line 28.2 t=148910 -> @327
+[]D[]N$[][]$[]N$[][]$
+@\math via @328 b=40 p=0 d=12500
+@\math via @329 b=40 p=0 d=2500
+@\math via @330 b=1 p=0 d=121
+@\math via @331 b=305 p=0 d=109225
+@\math via @332 b=2680 p=0 d=7236100
+@\math via @333 b=2680 p=0 d=7246100
+@\math via @334 b=7064 p=0 d=50041476
+@\math via @335 b=7064 p=0 d=50051476
+@@353: line 28.2 t=74385 -> @330
+ []ato 
+@ via @330 b=0 p=0 d=100
+@ via @331 b=14 p=0 d=576
+@ via @332 b=695 p=0 d=497025
+@ via @333 b=695 p=0 d=507025
+@ via @334 b=2435 p=0 d=5978025
+@ via @335 b=2435 p=0 d=5988025
+@@354: line 28.1 t=51494 -> @331
+va[] 
+@ via @330 b=51 p=0 d=3721
+@ via @331 b=0 p=0 d=100
+@ via @332 b=159 p=0 d=28561
+@ via @333 b=159 p=0 d=38561
+@ via @334 b=862 p=0 d=760384
+@ via @335 b=862 p=0 d=770384
+@ via @336 b=5893 p=0 d=34845409
+@ via @337 b=5893 p=0 d=34855409
+@@355: line 28.2 t=51018 -> @331
 []U$[][]$[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[] 
-@\penalty via @449 b=41 p=-10000 d=12601
-@\penalty via @450 b=0 p=-10000 d=100
-@\penalty via @451 b=0 p=-10000 d=100
-@\penalty via @452 b=0 p=-10000 d=100
-@\penalty via @453 b=0 p=-10000 d=100
-@\penalty via @454 b=0 p=-10000 d=100
-@\penalty via @455 b=0 p=-10000 d=100
-@\penalty via @456 b=0 p=-10000 d=100
-@\penalty via @457 b=0 p=-10000 d=100
-@\penalty via @458 b=0 p=-10000 d=100
-@\penalty via @459 b=0 p=-10000 d=100
-@\penalty via @460 b=0 p=-10000 d=100
-@\penalty via @461 b=0 p=-10000 d=100
-@\penalty via @462 b=0 p=-10000 d=100
-@\penalty via @463 b=0 p=-10000 d=100
-@\penalty via @464 b=0 p=-10000 d=100
-@\penalty via @465 b=0 p=-10000 d=100
-@\penalty via @466 b=0 p=-10000 d=100
-@\penalty via @467 b=0 p=-10000 d=100
-@\penalty via @468 b=0 p=-10000 d=100
-@\penalty via @469 b=0 p=-10000 d=100
-@\penalty via @470 b=0 p=-10000 d=10100
-@\penalty via @471 b=0 p=-10000 d=100
-@\penalty via @472 b=0 p=-10000 d=100
-@@473: line 30.2 t=18655 -> @466
-[] 
-@\penalty via @473 b=0 p=-10000 d=100
-@@474: line 31.2 t=18755 -> @473
-[]\TU/AdobeTextPro(0)/b/n/8 Philological Com-men-tary: [][]7 [][][]śataru-dr
-ā[]\TU/AdobeTextPro(0)/m/n/8 : []I emended ac-cord-ing to YSv (PT).[][] 
-@\par via @474 b=0 p=-10000 d=100
-@@475: line 32.2- t=18855 -> @474
+][][][][][][] 
+@\par via @331 b=1 p=-10000 d=121
+@\par via @332 b=0 p=-10000 d=100
+@\par via @333 b=0 p=-10000 d=100
+@\par via @334 b=0 p=-10000 d=100
+@\par via @335 b=0 p=-10000 d=100
+@\par via @336 b=0 p=-10000 d=100
+@\par via @337 b=0 p=-10000 d=100
+@\par via @338 b=0 p=-10000 d=100
+@\par via @339 b=0 p=-10000 d=100
+@\par via @340 b=0 p=-10000 d=100
+@\par via @341 b=0 p=-10000 d=5100
+@\par via @342 b=0 p=-10000 d=100
+@\par via @343 b=0 p=-10000 d=10100
+@\par via @344 b=0 p=-10000 d=5100
+@\par via @345 b=0 p=-10000 d=100
+@\par via @346 b=0 p=-10000 d=100
+@\par via @347 b=0 p=-10000 d=100
+@\par via @348 b=0 p=-10000 d=100
+@\par via @349 b=0 p=-10000 d=100
+@\par via @350 b=0 p=-10000 d=100
+@\par via @351 b=0 p=-10000 d=100
+@\par via @352 b=0 p=-10000 d=100
+@\par via @353 b=0 p=-10000 d=100
+@\par via @354 b=0 p=-10000 d=100
+@\par via @355 b=0 p=-10000 d=100
+@@356: line 28.2- t=43820 -> @338
 
 @firstpass
-[][][][][][][][]\TU/AdishilaSan(0)/m/n/10 इदानीं[] [][][]पिण
-्डमध्ये[] [][][]ऽष्टकुलपर्वताः[] क
-थ्यन्ते। मेरुदंडमध्ये [][][]मेर
-ुपर्वतः[][] ब्रह्मकपाटमध्ये [][][]
-कैलासपर्वतः[][] 
-@ via @0 b=84 p=0 d=8836
-@@1: line 1.1 t=8836 -> @0
-[][][]पृष्ठ– 
-@\penalty via @0 b=50 p=-10000 d=3600
-@\penalty via @1 b=0 p=-10000 d=100
-@@2: line 2.2 t=8936 -> @1
-@@3: line 1.3 t=3600 -> @0
-मध्ये[] [][][]हिमाचलः[][] वामस्कंधे 
-मलयाचलः[] दक्षिणस्कंधे मंदरा
-चलः[] दक्षणकर्णे विंध्याचलः[] 
-वामकर्णे 
-@ via @2 b=1 p=0 d=121
-@ via @3 b=1 p=0 d=121
-@@4: line 2.2 t=3721 -> @3
-मैनाकः[] ललाटमध्ये [][][]श्रीशैल
-ः[]। अपरे [][][]पर्वताः[] पादयो[][][]ग
-ुलीनां[] [][][]मूलेषु[] [][][]वर्तन्ते[
-]।[] [] 
-@\par via @4 b=0 p=-10000 d=100
-@@5: line 3.2- t=3821 -> @4
+@secondpass
+[][][][][][]\TU/AdishilaSan(0)/m/n/10 श्री गणेशाय नम
+ः[][] [][][]अथ राजयोगप्रकारो लिख्य
+ते[]। [][][]राजयोगस्येदं फलं[]। ये
+न राज[][][]योगेनानेक[]राज्यभोगसम
+य 
+@ via @0 b=* p=0 d=*
+@@1: line 1.3 t=0 -> @0
+एव। अनेकपार्थिवविनोद [][][]प्रे
+क्षणसमय[] एव। बहुतरकालं शरीरस
+्थितिर्भवति। स [][][]एव[] [][][]राजयो
+गः[]।[] [][][]त
+@\discretionary via @1 b=120 p=50 d=29400
+@@2: line 2.0- t=29400 -> @1
+स्यैते[] 
+@ via @1 b=1 p=0 d=121
+@@3: line 2.2 t=121 -> @1
+भे
+@\discretionary via @1 b=9 p=50 d=2861
+@@4: line 2.2- t=2861 -> @1
+दाः। [][][]क्रियायोगः १[] ज्ञानयो
+गः २[] [][][]चर्यायोगः[] ३[] हठयोगः ४[]
+ कर्मयोगः ५[] [][][]ल
+@\discretionary via @2 b=159 p=50 d=41061
+@@5: line 3.0- t=70461 -> @2
+य
+@\discretionary via @2 b=79 p=50 d=20421
+@@6: line 3.1- t=49821 -> @2
+योगः[] 
+@ via @2 b=0 p=0 d=10100
+@ via @3 b=110 p=0 d=24400
+@@7: line 3.0 t=24521 -> @3
+६[] 
+@ via @2 b=43 p=0 d=12809
+@ via @3 b=2 p=0 d=144
+@ via @4 b=13 p=0 d=529
+@@8: line 3.1 t=3390 -> @4
+@@9: line 3.2 t=265 -> @3
+ध्या
+@\discretionary via @3 b=17 p=50 d=3229
+@\discretionary via @4 b=1 p=50 d=12621
+@@10: line 3.3- t=3350 -> @3
+न
+@\discretionary via @3 b=69 p=50 d=8741
+@\discretionary via @4 b=15 p=50 d=13125
+@@11: line 3.3- t=8862 -> @3
+योगः ७[] मन्त्रयोगः ८[] [][][]लक्ष्
+ययोगः[] ९[] वासनायोगः १०[] शिवयो
+गः ११[] 
+@ via @5 b=31 p=0 d=1681
+@ via @6 b=82 p=0 d=8464
+@@12: line 4.1 t=58285 -> @6
+ब्र
+@\discretionary via @5 b=1 p=50 d=22621
+@\discretionary via @6 b=9 p=50 d=12861
+@@13: line 4.2- t=62682 -> @6
+ह्म
+@\discretionary via @5 b=0 p=50 d=22600
+@\discretionary via @6 b=0 p=50 d=12600
+@\discretionary via @7 b=166 p=50 d=33476
+@@14: line 4.0- t=57997 -> @7
+@@15: line 4.2- t=62421 -> @6
+योगः 
+@ via @6 b=86 p=0 d=19216
+@ via @7 b=4 p=0 d=10196
+@ via @8 b=174 p=0 d=33856
+@ via @9 b=174 p=0 d=43856
+@@16: line 4.0 t=37246 -> @8
+@@17: line 4.2 t=34717 -> @7
+१२[] 
+@ via @7 b=69 p=0 d=16241
+@ via @8 b=0 p=0 d=100
+@ via @9 b=0 p=0 d=100
+@ via @10 b=27 p=0 d=11369
+@ via @11 b=73 p=0 d=16889
+@@18: line 4.2 t=365 -> @9
+अ
+@\discretionary via @8 b=15 p=50 d=13125
+@\discretionary via @9 b=15 p=50 d=3125
+@\discretionary via @10 b=0 p=50 d=12600
+@\discretionary via @11 b=5 p=50 d=12725
+@@19: line 4.3- t=3390 -> @9
+द्वै
+@\discretionary via @8 b=62 p=50 d=17684
+@\discretionary via @9 b=62 p=50 d=7684
+@\discretionary via @10 b=0 p=50 d=12600
+@\discretionary via @11 b=0 p=50 d=12600
+@@20: line 4.2- t=15950 -> @10
+@@21: line 4.3- t=7949 -> @9
+त
+@\discretionary via @10 b=10 p=50 d=12900
+@\discretionary via @11 b=0 p=50 d=12600
+@@22: line 4.2- t=16250 -> @10
+योगः १३[] [][][]सिद्धयोगः[] १४[] [][][]र
+ाजयोगः[] १५[] [][][]एते पञ्चदशयोगा
+ः[][][] [] 
+@\par via @12 b=0 p=-10000 d=100
+@\par via @13 b=0 p=-10000 d=5100
+@\par via @14 b=0 p=-10000 d=15100
+@\par via @15 b=0 p=-10000 d=5100
+@\par via @16 b=0 p=-10000 d=10100
+@\par via @17 b=0 p=-10000 d=100
+@\par via @18 b=0 p=-10000 d=100
+@\par via @19 b=0 p=-10000 d=5100
+@\par via @20 b=0 p=-10000 d=5100
+@\par via @21 b=0 p=-10000 d=5100
+@\par via @22 b=0 p=-10000 d=5100
+@@23: line 5.2- t=465 -> @18
+
+
+Overfull \hbox (1.30316pt too wide) in paragraph at lines 382--1
+[][][]\TU/AdishilaSan(0)/m/n/10 श्री गणेशाय नमः[] [][
+]अथ राजयोगप्रकारो लिख्यते। [][]
+राजयोगस्येदं फलं। येन राज[][]य
+ोगेनानेकराज्यभोगसमय
+ []
 
 @firstpass
 []
 @\penalty via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-\TU/AdobeTextPro(0)/m/n/9 [XL.
+\TU/AdobeTextPro(0)/m/n/9 [II.
 @\kern via @0 b=0 p=0 d=100
 @\kern via @1 b=0 p=0 d=100
 @@2: line 1.2 t=100 -> @0
- \TU/AdobeTextPro(0)/b/n/9 śarīre 
+ \TU/AdobeTextPro(0)/b/n/9 kriyāyo-gasya 
 @ via @0 b=0 p=0 d=100
 @ via @1 b=0 p=0 d=100
 @ via @2 b=0 p=0 d=100
 @@3: line 1.2 t=100 -> @0
-na-vanāḍyaḥ\TU/AdobeTextPro(0)/m/n/9 ]
+lakṣaṇam\TU/AdobeTextPro(0)/m/n/9 ]
 @\par via @0 b=0 p=-10000 d=100
 @\par via @1 b=0 p=-10000 d=100
 @\par via @2 b=0 p=-10000 d=100
@@ -5703,223 +4939,540 @@ na-vanāḍyaḥ\TU/AdobeTextPro(0)/m/n/9 ]
 @@4: line 1.2- t=100 -> @0
 
 @firstpass
-[][][][]\TU/AdishilaSan(0)/m/n/10 इदानीं [][][]शरीरे[] []
-[][]नवनाड्य[] [][][]तिष्ठन्ति[]। तन्
-मध्ये [][][]नवानां नदीनां[] स्थान
-ानि [][][]वर्तन्ते[]। गंगायमुना व
-ितस्ता चंद्रभागा 
-@ via @0 b=3 p=0 d=169
-@@1: line 1.2 t=169 -> @0
-[][][]सरस्वती[] [][][]विपाशा[] [][][]शतरुद
-्रा[] [][][][][]इरावती[] नर्मदा। [][][]अप
-रा[] [][][]नद्योपनदिनिर्झराः स्र
-ोतांसि[] [][][]तटाकानि[] [][][]वापीकूप
-ा[] 
-@ via @1 b=45 p=0 d=3025
-@@2: line 2.1 t=3194 -> @1
-[][][]द्विसप्तति[][][][]सहस्रनाडीना
-ं[] मध्ये [][][]तिष्ठन्ति[]।[] [][] 
-@\par via @2 b=0 p=-10000 d=100
-@@3: line 3.2- t=3294 -> @2
-
-@firstpass
-[]
-@\penalty via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-\TU/AdobeTextPro(0)/m/n/9 [XXXIX.
-@\kern via @0 b=0 p=0 d=100
-@\kern via @1 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
- \TU/AdobeTextPro(0)/b/n/9 Eight 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@@3: line 1.2 t=100 -> @0
-Ma-jor 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@ via @3 b=0 p=0 d=100
-@@4: line 1.2 t=100 -> @0
-Moun-tains 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@ via @3 b=0 p=0 d=100
-@ via @4 b=0 p=0 d=100
-@@5: line 1.2 t=100 -> @0
-within 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@ via @3 b=0 p=0 d=100
-@ via @4 b=0 p=0 d=100
-@ via @5 b=0 p=0 d=100
-@@6: line 1.2 t=100 -> @0
-the 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@ via @3 b=0 p=0 d=100
-@ via @4 b=0 p=0 d=100
-@ via @5 b=0 p=0 d=100
-@ via @6 b=0 p=0 d=100
-@@7: line 1.2 t=100 -> @0
-Body\TU/AdobeTextPro(0)/m/n/9 ]
-@\par via @0 b=0 p=-10000 d=100
-@\par via @1 b=0 p=-10000 d=100
-@\par via @2 b=0 p=-10000 d=100
-@\par via @3 b=0 p=-10000 d=100
-@\par via @4 b=0 p=-10000 d=100
-@\par via @5 b=0 p=-10000 d=100
-@\par via @6 b=0 p=-10000 d=100
-@\par via @7 b=0 p=-10000 d=100
-@@8: line 1.2- t=100 -> @0
-
-
-
-LaTeX Warning: Citation 'yogavasishta' on page 5 undefined on input line 404.
-
-@firstpass
-[][]\TU/AdobeTextPro(0)/m/it/8 Haṭharat-nā-valī \TU/AdobeTextPro(0)/m/n/8 4.
-38ab sit-u-ates all ma-jor moun-tains within the bones of the spine: (\TU/Adobe
-TextPro(0)/m/it/8 vīṇā-daṇḍa-mayo 
-@ via @0 b=31 p=0 d=1681
-@@1: line 1.3 t=1681 -> @0
-merur asthīni ku-la-parvatāḥ\TU/AdobeTextPro(0)/m/n/8 ). ``The bones of Moun
-t Meru re-sem-bling a \TU/AdobeTextPro(0)/m/it/8 vīṇā \TU/AdobeTextPro(0)/m
-/n/8 are the ma-jor moun-tains.''; 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=1781 -> @1
-A 
-@ via @1 b=4 p=0 d=196
-@@3: line 2.2 t=1877 -> @1
-re-lated idea is ex-pressed within [] 73.59cd (\TU/AdobeTextPro(0)/m/it/8 jam-b
-ūd-vīpe mahāmeruṃ ku-la-parvatasaṃku-lam 
-@ via @2 b=42 p=0 d=2704
-@ via @3 b=0 p=0 d=100
-@@4: line 3.2 t=1977 -> @3
-@@5: line 3.3 t=4485 -> @2
-|| 
-@ via @3 b=20 p=0 d=900
-@@6: line 3.3 t=2777 -> @3
-59 ||\TU/AdobeTextPro(0)/m/n/8 ). ``In the con-ti-nent of Jam-bud-vīpa, there 
-is the great Mount Meru, filled with no-ble peaks.''| 
-@\par via @4 b=0 p=-10000 d=100
-@\par via @5 b=0 p=-10000 d=100
-@\par via @6 b=0 p=-10000 d=100
-@@7: line 4.2- t=2077 -> @4
-
-@firstpass
-\TU/AdobeTextPro(0)/m/n/10 Now, the eight ma-jor moun-tains within the body are taught.[][][][] 
+[][][][]\TU/AdishilaSan(0)/m/n/10 इदानीं[] [][][]क्रिय
+ायोगस्य[] लक्षणं [][][]कथ्यते[]। [] [] 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-[]\TU/AdobeTextPro(0)/m/n/10 (1) Within the spine is Mount Meru. (2) Within the door of Bah-man is Mount 
-@ via @0 b=0 p=0 d=100
+[][] [][][][][]\TU/AdishilaSan(0)/m/n/10 क्रियामुक्ति[]
+[][][]रयं[] [][][]योगः[] स्वपिण्डे [][][]स
+िद्धिदायकः[]।[] 
+@\penalty via @0 b=0 p=-10000 d=100
 @@1: line 1.2 t=100 -> @0
-Kailasa. (3) Within the back is the Himālaya. (4) Within the left shoul-der mou
-nt 
-@ via @1 b=0 p=0 d=100
+[] यं यं करोति कल्लोलं कार्यार
+ंभे मनः सदा।[] 
+@\penalty via @1 b=0 p=-10000 d=100
 @@2: line 2.2 t=200 -> @1
-Mal-abar. (5) Within the right shoul-der of the moun-tain of Man-dara. (6) In th
-e 
-@ via @2 b=4 p=0 d=196
-@@3: line 3.2 t=396 -> @2
-right 
-@ via @2 b=7 p=0 d=289
-@@4: line 3.2 t=489 -> @2
-ear, the Vin-d-hya moun-tain. (7) the Maināka[-mountain] is in the left ear. 
-@ via @3 b=13 p=0 d=529
-@@5: line 4.1 t=925 -> @3
-(8) 
-@ via @3 b=0 p=0 d=100
-@ via @4 b=48 p=0 d=3364
-@@6: line 4.1 t=3853 -> @4
-@@7: line 4.2 t=496 -> @3
-Within 
-@ via @4 b=42 p=0 d=2704
-@@8: line 4.3 t=3193 -> @4
-the fore-head Śrīśaila. Other moun-tains ex-ist in the hands, feet, and 
-@ via @5 b=8 p=0 d=324
-@@9: line 5.2 t=1249 -> @5
-toes. 
-@\par via @5 b=3 p=-10000 d=169
-@\par via @6 b=0 p=-10000 d=100
-@\par via @7 b=0 p=-10000 d=100
-@\par via @8 b=0 p=-10000 d=100
-@\par via @9 b=0 p=-10000 d=100
-@@10: line 5.2- t=596 -> @7
+[] [] [][][][][]तत्ततः[] [][][]कुञ्चनं[] कुर
+्वन्क्रियायोग[][][]स्ततो भवेत्[][
+] []\TU/AdobeTextPro(0)/m/n/10 II.1[] [][][]   [] 
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 3.2- t=300 -> @2
 
 @firstpass
 []
 @\penalty via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-\TU/AdobeTextPro(0)/m/n/9 [XL.
+\TU/AdobeTextPro(0)/m/n/9 [I.
 @\kern via @0 b=0 p=0 d=100
 @\kern via @1 b=0 p=0 d=100
 @@2: line 1.2 t=100 -> @0
- \TU/AdobeTextPro(0)/b/n/9 Nine 
+ \TU/AdobeTextPro(0)/b/n/9 Na-ture 
 @ via @0 b=0 p=0 d=100
 @ via @1 b=0 p=0 d=100
 @ via @2 b=0 p=0 d=100
 @@3: line 1.2 t=100 -> @0
-Rivers 
+of 
 @ via @0 b=0 p=0 d=100
 @ via @1 b=0 p=0 d=100
 @ via @2 b=0 p=0 d=100
 @ via @3 b=0 p=0 d=100
 @@4: line 1.2 t=100 -> @0
-within 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@ via @3 b=0 p=0 d=100
-@ via @4 b=0 p=0 d=100
-@@5: line 1.2 t=100 -> @0
-the 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@ via @3 b=0 p=0 d=100
-@ via @4 b=0 p=0 d=100
-@ via @5 b=0 p=0 d=100
-@@6: line 1.2 t=100 -> @0
-Body\TU/AdobeTextPro(0)/m/n/9 ]
+Rā-jayoga\TU/AdobeTextPro(0)/m/n/9 ]
 @\par via @0 b=0 p=-10000 d=100
 @\par via @1 b=0 p=-10000 d=100
 @\par via @2 b=0 p=-10000 d=100
 @\par via @3 b=0 p=-10000 d=100
 @\par via @4 b=0 p=-10000 d=100
-@\par via @5 b=0 p=-10000 d=100
-@\par via @6 b=0 p=-10000 d=100
-@@7: line 1.2- t=100 -> @0
+@@5: line 1.2- t=100 -> @0
 
 @firstpass
-[]\TU/AdobeTextPro(0)/m/n/10 Now, within the body, nine rivers are sit-u-ated. 
-Within it, the courses of the 
-@ via @0 b=2 p=0 d=144
-@@1: line 1.2 t=144 -> @0
-nine 
-@ via @0 b=10 p=0 d=400
-@@2: line 1.2 t=400 -> @0
-rivers ex-ist. Gaṅga, Ya-muna, Vi-tastā, Can-drab-hāga, Saras-vatī, Vipā
-śā, Śataru-drā, 
+[][]\TU/AdobeTextPro(0)/m/n/8 This state-ment seems un-con-nected to the def-i-n
+i-tion of Rā-jayoga that fol-lows.| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][]\TU/AdobeTextPro(0)/m/n/8 The def-i-ni-tion of Rā-jayoga al-ludes to the ex
+-cep-tion-ally wealthy lifestyle of Rā-macan-dra’s au-di-ence.| 
+@\par via @0 b=2 p=-10000 d=144
+@@1: line 1.2- t=144 -> @0
+
+
+LaTeX Warning: Citation 'nishvasa2015' on page 5 undefined on input line 409.
+
+@firstpass
+[][]\TU/AdobeTextPro(0)/m/n/8 The first three Yo-gas al-lude to the four \TU/Ad
+obeTextPro(0)/m/it/8 pāda\TU/AdobeTextPro(0)/m/n/8 s of the Śaiva \TU/AdobeTe
+xtPro(0)/m/it/8 āgama\TU/AdobeTextPro(0)/m/n/8 s; namely \TU/AdobeTextPro(0)/m
+/it/8 kriyā\TU/AdobeTextPro(0)/m/n/8 [\TU/AdobeTextPro(0)/m/it/8 pāda\TU/Adob
+eTextPro(0)/m/n/8 ], \TU/AdobeTextPro(0)/m/it/8 caryā\TU/AdobeTextPro(0)/m/n/8
+ [\TU/AdobeTextPro(0)/m/it/8 pāda\TU/AdobeTextPro(0)/m/n/8 ], 
+@ via @0 b=36 p=0 d=2116
+@@1: line 1.3 t=2116 -> @0
+\TU/AdobeTextPro(0)/m/it/8 yoga\TU/AdobeTextPro(0)/m/n/8 [\TU/AdobeTextPro(0)/m
+/it/8 padā\TU/AdobeTextPro(0)/m/n/8 ] and \TU/AdobeTextPro(0)/m/it/8 jñāna\T
+U/AdobeTextPro(0)/m/n/8 [\TU/AdobeTextPro(0)/m/it/8 pāda\TU/AdobeTextPro(0)/m/
+n/8 ], see [].| 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=2216 -> @1
+
+
+LaTeX Warning: Citation 'ramatosana' on page 5 undefined on input line 409.
+
+
+LaTeX Warning: Citation 'ssplonavla' on page 5 undefined on input line 409.
+
+
+LaTeX Warning: Reference `yogas_list' on page 5 undefined on input line 409.
+
+@firstpass
+[][]\TU/AdobeTextPro(0)/m/n/8 The ini-tial cod-i-fi-ca-tion of fif-teen \TU/Ado
+beTextPro(0)/m/it/8 yoga\TU/AdobeTextPro(0)/m/n/8 s ap-pears in []N$[][]$, []N$
+[][]$, []P, []D, []U$[][]$ and []U$[][]$. It is om-mit-ted in 
+@ via @0 b=17 p=0 d=729
+@@1: line 1.1 t=729 -> @0
+[]E, 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+[]L 
+@ via @0 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+and 
+@ via @0 b=51 p=0 d=3721
+@@4: line 1.3 t=3721 -> @0
+[]B. It is also ab-sent in the \TU/AdobeTextPro(0)/m/it/8 Yo-gasaṃ-graha\TU/A
+dobeTextPro(0)/m/n/8 . How-ever, it cer-tainly os orig-i-nal since it crosses 
+@ via @1 b=10 p=0 d=400
+@@5: line 2.2 t=1129 -> @1
+the 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=2 p=0 d=144
+@ via @3 b=32 p=0 d=1764
+@@6: line 2.1 t=1864 -> @3
+@@7: line 2.2 t=244 -> @2
+two 
+@ via @1 b=25 p=0 d=11225
 @ via @2 b=0 p=0 d=100
-@@3: line 2.2 t=500 -> @2
-Irā-vati und Nar-madā. Other rivers and wa-ter-falls near the rivers, cur-rent
-s, lakes, 
 @ via @3 b=0 p=0 d=100
-@@4: line 3.2 t=600 -> @3
-ponds and wells are within the 72000 chan-nels. 
+@ via @4 b=28 p=0 d=11444
+@@8: line 2.2 t=200 -> @3
+main 
+@ via @3 b=77 p=0 d=7569
+@ via @4 b=0 p=0 d=100
+@@9: line 2.2 t=3821 -> @4
+@@10: line 2.3 t=7669 -> @3
+branches of the stemma. The defini-tive source of the list of the fif-teen Yo-ga
+s pre-sented 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=43 p=0 d=2809
+@ via @7 b=43 p=0 d=2809
+@@11: line 3.1 t=3053 -> @7
+@@12: line 3.2 t=1229 -> @5
+at 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=1 p=0 d=121
+@ via @7 b=1 p=0 d=121
+@@13: line 3.2 t=365 -> @7
+the 
+@ via @5 b=62 p=0 d=5184
+@ via @6 b=0 p=0 d=100
+@ via @7 b=0 p=0 d=100
+@ via @8 b=5 p=0 d=225
+@@14: line 3.2 t=344 -> @7
+@@15: line 3.3 t=6313 -> @5
+be-gin-ning 
+@ via @9 b=0 p=0 d=100
+@ via @10 b=0 p=0 d=100
+@@16: line 3.2 t=3921 -> @9
+of 
+@ via @9 b=32 p=0 d=1764
+@ via @10 b=32 p=0 d=1764
+@@17: line 3.3 t=5585 -> @9
+the text is un-cer-tain. Rā-macan-dra’s text is largely based on the con-tent
+ and struc-ture 
+@ via @11 b=1 p=0 d=121
+@ via @12 b=1 p=0 d=121
+@ via @13 b=0 p=0 d=100
+@ via @14 b=8 p=0 d=324
+@ via @15 b=8 p=0 d=324
+@@18: line 4.2 t=465 -> @13
+of 
+@ via @13 b=1 p=0 d=121
+@ via @14 b=0 p=0 d=100
+@ via @15 b=0 p=0 d=100
+@@19: line 4.2 t=444 -> @14
+the 
+@ via @14 b=1 p=0 d=121
+@ via @15 b=1 p=0 d=121
+@@20: line 4.2 t=465 -> @14
+\TU/AdobeTextPro(0)/m/it/8 Yo-gas-var-o-daya \TU/AdobeTextPro(0)/m/n/8 (YSv) as quoted in [] (Ed. pp. 831-858). In this text, how-ever, the 
+@ via @18 b=5 p=0 d=225
+@ via @19 b=62 p=0 d=5184
+@@21: line 5.1 t=5628 -> @19
+@@22: line 5.2 t=690 -> @18
+list 
+@ via @18 b=0 p=0 d=100
+@ via @19 b=1 p=0 d=121
+@ via @20 b=77 p=0 d=7569
+@@23: line 5.1 t=8034 -> @20
+@@24: line 5.2 t=565 -> @19
+is 
+@ via @18 b=0 p=0 d=100
+@ via @19 b=0 p=0 d=100
+@ via @20 b=12 p=0 d=484
+@@25: line 5.2 t=544 -> @19
+in-com-plete. YSv men-tions the to-tal amount of fif-teen Yo-gas but names only eight sub-cat-e-gories 
+@ via @21 b=0 p=0 d=100
+@ via @22 b=0 p=0 d=100
+@ via @23 b=14 p=0 d=576
+@ via @24 b=14 p=0 d=576
+@@26: line 6.1 t=1141 -> @24
+@@27: line 6.2 t=790 -> @22
+of 
+@ via @21 b=0 p=0 d=100
+@ via @22 b=0 p=0 d=100
+@ via @23 b=0 p=0 d=100
+@ via @24 b=0 p=0 d=100
+@ via @25 b=7 p=0 d=289
+@@28: line 6.2 t=665 -> @24
+Rā-jayoga. Be-cause of that, Rā-macan-dra might have seen the ne-ces-sity to 
+com-plete it. The other 
+@ via @26 b=3 p=0 d=169
+@ via @27 b=3 p=0 d=169
+@ via @28 b=63 p=0 d=5329
+@@29: line 7.1 t=5994 -> @28
+@@30: line 7.2 t=959 -> @27
+source 
+@ via @26 b=46 p=0 d=13136
+@ via @27 b=46 p=0 d=3136
+@ via @28 b=0 p=0 d=100
+@@31: line 7.2 t=765 -> @28
+@@32: line 7.3 t=3926 -> @27
+he 
+@ via @28 b=86 p=0 d=9216
+@@33: line 7.3 t=9881 -> @28
+used for com-pil-ing his text is [] (SSP) which, how-ever, does not present such
+ 
+@ via @29 b=54 p=0 d=4096
+@ via @30 b=54 p=0 d=4096
+@@34: line 8.1 t=5055 -> @30
+a 
+@ via @29 b=6 p=0 d=256
+@ via @30 b=6 p=0 d=256
+@@35: line 8.2 t=1215 -> @30
+list. 
+@ via @29 b=0 p=0 d=100
+@ via @30 b=0 p=0 d=100
+@@36: line 8.2 t=1059 -> @30
+A 
+@ via @29 b=13 p=0 d=10529
+@ via @30 b=13 p=0 d=529
+@ via @31 b=11 p=0 d=441
+@ via @32 b=11 p=0 d=441
+@@37: line 8.2 t=1206 -> @31
+@@38: line 8.3 t=1488 -> @30
+more 
+@ via @31 b=0 p=0 d=100
+@ via @32 b=0 p=0 d=100
+@ via @33 b=0 p=0 d=100
+@@39: line 8.2 t=865 -> @31
+de-tailed in-ves-ti-ga-tion of the fif-teen Yo-gas can be found at p. [].| 
+@\par via @34 b=0 p=-10000 d=100
+@\par via @35 b=0 p=-10000 d=100
+@\par via @36 b=0 p=-10000 d=100
+@\par via @37 b=0 p=-10000 d=100
+@\par via @38 b=0 p=-10000 d=100
+@\par via @39 b=0 p=-10000 d=100
+@@40: line 9.2- t=965 -> @39
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/10 Homage to Śrī Gaṇeśa. Now, the na-ture of Rā-ja
+yoga is laid down. 
+@\penalty via @0 b=0 p=-10000 d=100
+@@1: line 1.2 t=100 -> @0
+This is the re-sult of Rā-jayoga[][][][]: Rā-jayoga is that by which long-term
+ dura-bil-ity 
+@ via @1 b=33 p=0 d=1849
+@@2: line 2.1 t=1949 -> @1
+of 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=200 -> @1
+the 
+@ via @1 b=10 p=0 d=400
+@@4: line 2.2 t=500 -> @1
+body arises [and] even amongst man-i-fold royal plea-sures even amongst 
+@ via @2 b=39 p=0 d=2401
+@@5: line 3.1 t=4350 -> @2
+the 
+@ via @2 b=0 p=0 d=100
+@ via @3 b=2 p=0 d=144
+@@6: line 3.2 t=344 -> @3
+man-i-fold 
+@ via @4 b=99 p=0 d=11881
+@@7: line 3.3 t=12381 -> @4
+royal en-ter-tain-ments and spec-ta-cle.[][][][] This truly is Rā-jayoga. These
+ 
+@ via @5 b=0 p=0 d=100
+@@8: line 4.2 t=4450 -> @5
+are 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@@9: line 4.2 t=444 -> @6
+the 
+@ via @6 b=0 p=0 d=100
+@@10: line 4.2 t=444 -> @6
+va-ri-eties 
+@ via @7 b=0 p=0 d=100
+@@11: line 4.2 t=12481 -> @7
+of this Rā-jayoga: 
+@\penalty via @8 b=0 p=-10000 d=100
+@\penalty via @9 b=0 p=-10000 d=100
+@\penalty via @10 b=0 p=-10000 d=100
+@\penalty via @11 b=0 p=-10000 d=100
+@@12: line 5.2 t=544 -> @10
+@secondpass
+\TU/AdobeTextPro(0)/m/n/10 Homage to Śrī Gaṇeśa. Now, the na-ture of Rā-ja
+yoga is laid down. 
+@\penalty via @0 b=0 p=-10000 d=*
+@@1: line 1.2 t=0 -> @0
+This is the re-sult of Rā-jayoga[][][][]: Rā-jayoga is that by which long-term
+ dura-bil-ity 
+@ via @1 b=33 p=0 d=1849
+@@2: line 2.1 t=1849 -> @1
+of 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=100 -> @1
+the 
+@ via @1 b=10 p=0 d=400
+@@4: line 2.2 t=400 -> @1
+body arises [and] even amongst man-i-fold royal plea-sures even amongst 
+@ via @2 b=39 p=0 d=2401
+@@5: line 3.1 t=4250 -> @2
+the 
+@ via @2 b=0 p=0 d=100
+@ via @3 b=2 p=0 d=144
+@@6: line 3.2 t=244 -> @3
+man-
+@\discretionary via @3 b=36 p=50 d=4616
+@\discretionary via @4 b=0 p=50 d=2600
+@@7: line 3.2- t=3000 -> @4
+@@8: line 3.3- t=4716 -> @3
+i-
+@\discretionary via @4 b=0 p=50 d=2600
+@@9: line 3.2- t=3000 -> @4
+fold 
+@ via @4 b=99 p=0 d=11881
+@@10: line 3.3 t=12281 -> @4
+royal en-ter-tain-ments and spec-ta-cle.[][][][] This truly is Rā-jayoga. These
+ 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=195 p=0 d=52025
+@@11: line 4.2 t=4350 -> @5
+are 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@@12: line 4.2 t=344 -> @6
+the 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=3 p=0 d=169
+@ via @8 b=3 p=0 d=169
+@ via @9 b=11 p=0 d=441
+@@13: line 4.2 t=344 -> @6
+va-
+@\discretionary via @7 b=0 p=50 d=12600
+@\discretionary via @8 b=0 p=50 d=12600
+@\discretionary via @9 b=0 p=50 d=12600
+@\discretionary via @10 b=55 p=50 d=16725
+@@14: line 4.2- t=15600 -> @9
+ri-
+@\discretionary via @7 b=3 p=50 d=12669
+@\discretionary via @8 b=3 p=50 d=12669
+@\discretionary via @9 b=0 p=50 d=12600
+@\discretionary via @10 b=7 p=50 d=2789
+@@15: line 4.2- t=15070 -> @10
+eties 
+@ via @10 b=0 p=0 d=100
+@@16: line 4.2 t=12381 -> @10
+of this Rā-jayoga: 
+@\penalty via @11 b=0 p=-10000 d=100
+@\penalty via @12 b=0 p=-10000 d=100
+@\penalty via @13 b=0 p=-10000 d=100
+@\penalty via @14 b=0 p=-10000 d=100
+@\penalty via @15 b=0 p=-10000 d=100
+@\penalty via @16 b=0 p=-10000 d=100
+@@17: line 5.2 t=444 -> @13
+[]\TU/AdobeTextPro(0)/b/n/10 1. \TU/AdobeTextPro(0)/m/n/10 The Yoga of [men-tal]
+ ac-tion (Kriyāyoga); \TU/AdobeTextPro(0)/b/n/10 2. \TU/AdobeTextPro(0)/m/n/10
+ the Yoga of knowl-edge (Jñā-
+@\discretionary via @17 b=1 p=50 d=2621
+@@18: line 6.2- t=3065 -> @17
+nayoga); \TU/AdobeTextPro(0)/b/n/10 3. \TU/AdobeTextPro(0)/m/n/10 the Yoga of wa
+n-der-ing (Caryāyoga);[][][][] \TU/AdobeTextPro(0)/b/n/10 4. \TU/AdobeTextPro(
+0)/m/n/10 the Yoga of force (Haṭhayoga);
+@\kern via @18 b=0 p=0 d=100
+@@19: line 7.2 t=3165 -> @18
+ \TU/AdobeTextPro(0)/b/n/10 5. \TU/AdobeTextPro(0)/m/n/10 the Yoga of deeds (Kar
+-mayoga); \TU/AdobeTextPro(0)/b/n/10 6. \TU/AdobeTextPro(0)/m/n/10 the Yoga of 
+ab-sorp-tion (Layayoga); \TU/AdobeTextPro(0)/b/n/10 7.
+@\kern via @19 b=105 p=0 d=23225
+@@20: line 8.0 t=26390 -> @19
+ \TU/AdobeTextPro(0)/m/n/10 the 
+@ via @19 b=0 p=0 d=100
+@@21: line 8.2 t=3265 -> @19
+Yoga of med-i-ta-tion (Dhyā-nayoga); \TU/AdobeTextPro(0)/b/n/10 8. \TU/AdobeTe
+xtPro(0)/m/n/10 the Yoga of Mantras (Mantrayoga);
+@\kern via @20 b=98 p=0 d=11664
+@@22: line 9.1 t=38054 -> @20
+ \TU/AdobeTextPro(0)/b/n/10 9.
+@\kern via @20 b=2 p=0 d=10144
+@@23: line 9.2 t=36534 -> @20
+ \TU/AdobeTextPro(0)/m/n/10 the 
+@ via @20 b=1 p=0 d=10121
+@ via @21 b=0 p=0 d=100
+@@24: line 9.2 t=3365 -> @21
+Yoga of tar-gets (Lakṣyayoga); \TU/AdobeTextPro(0)/b/n/10 10. \TU/AdobeTextPr
+o(0)/m/n/10 Yoga of men-tal residues (Vāsanāyoga);
+@\kern via @22 b=2 p=0 d=144
+@\kern via @23 b=133 p=0 d=30449
+@@25: line 10.2 t=38198 -> @22
+ \TU/AdobeTextPro(0)/b/n/10 11.
+@\kern via @22 b=0 p=0 d=100
+@\kern via @23 b=0 p=0 d=100
+@\kern via @24 b=166 p=0 d=40976
+@@26: line 10.0 t=44341 -> @24
+@@27: line 10.2 t=36634 -> @23
+ \TU/AdobeTextPro(0)/m/n/10 the 
+@ via @23 b=34 p=0 d=1936
+@ via @24 b=0 p=0 d=100
+@@28: line 10.2 t=3465 -> @24
+Yoga of Śiva (Śi-vayoga); \TU/AdobeTextPro(0)/b/n/10 12. \TU/AdobeTextPro(0)/
+m/n/10 the Yoga of Brah-man (Brah-mayoga); \TU/AdobeTextPro(0)/b/n/10 13.
+@\kern via @25 b=62 p=0 d=5184
+@@29: line 11.1 t=43382 -> @25
+ \TU/AdobeTextPro(0)/m/n/10 the 
+@ via @25 b=0 p=0 d=100
+@ via @26 b=35 p=0 d=2025
+@ via @27 b=35 p=0 d=2025
+@@30: line 11.1 t=38659 -> @27
+@@31: line 11.2 t=38298 -> @25
+Yoga 
+@ via @26 b=0 p=0 d=10100
+@ via @27 b=0 p=0 d=100
+@ via @28 b=5 p=0 d=225
+@@32: line 11.2 t=3690 -> @28
+of 
+@ via @26 b=62 p=0 d=15184
+@ via @27 b=62 p=0 d=5184
+@ via @28 b=0 p=0 d=100
+@@33: line 11.2 t=3565 -> @28
+non-duality (Ad-vaitayoga); \TU/AdobeTextPro(0)/b/n/10 14. \TU/AdobeTextPro(0)/
+m/n/10 the Yoga of the Sid-dhas (Sid-dhayoga);
+@\kern via @29 b=0 p=0 d=100
+@\kern via @30 b=26 p=0 d=1296
+@\kern via @31 b=26 p=0 d=1296
+@@34: line 12.1 t=39594 -> @31
+@@35: line 12.2 t=43482 -> @29
+ \TU/AdobeTextPro(0)/b/n/10 15.
+@\kern via @30 b=0 p=0 d=100
+@\kern via @31 b=0 p=0 d=100
+@\kern via @32 b=159 p=0 d=38561
+@@36: line 12.0 t=42251 -> @32
+@@37: line 12.2 t=38398 -> @31
+ \TU/AdobeTextPro(0)/m/n/10 the 
+@ via @32 b=0 p=0 d=100
+@ via @33 b=15 p=0 d=625
+@@38: line 12.1 t=4190 -> @33
+@@39: line 12.2 t=3790 -> @32
+Yoga 
+@ via @33 b=0 p=0 d=100
+@@40: line 12.2 t=3665 -> @33
+of kings (Rā-jayoga). These are the fif-teen Yo-gas.[][][][] 
+@\par via @34 b=0 p=-10000 d=100
+@\par via @35 b=0 p=-10000 d=100
+@\par via @36 b=0 p=-10000 d=10100
+@\par via @37 b=0 p=-10000 d=100
+@\par via @38 b=0 p=-10000 d=100
+@\par via @39 b=0 p=-10000 d=100
+@\par via @40 b=0 p=-10000 d=100
+@@41: line 13.2- t=3765 -> @40
+
+@firstpass
+[]
+@\penalty via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+\TU/AdobeTextPro(0)/m/n/9 [II.
+@\kern via @0 b=0 p=0 d=100
+@\kern via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+ \TU/AdobeTextPro(0)/b/n/9 Char-ac-ter-is-tics 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+of 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Kriyāyoga\TU/AdobeTextPro(0)/m/n/9 ]
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
 @\par via @4 b=0 p=-10000 d=100
-@@5: line 4.2- t=700 -> @4
+@@5: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10 Now, the char-ac-ter-is-tic of Kriyāyoga, the Yoga
+ of [men-tal] ac-tion, is de-scribed. 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][]\TU/AdobeTextPro(0)/m/n/8 All four verses on Kriyāyoga were taken from the \TU/AdobeTextPro(0)/m/it/8 Yo-gsavar-o-daya \TU/AdobeTextPro(0)/m/n/8 (YSv) as quo-ta-tions in the 
+@ via @0 b=72 p=0 d=6724
+@@1: line 1.1 t=6724 -> @0
+\TU/AdobeTextPro(0)/m/it/8 Prāṇa-toṣinī \TU/AdobeTextPro(0)/m/n/8 (PT) and
+ \TU/AdobeTextPro(0)/m/it/8 Yo-gakarṇikā \TU/AdobeTextPro(0)/m/n/8 (YK). No 
+sources for the fol-low-ing prose sec-tion can be iden-ti-fied.| 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=6824 -> @1
+
+@firstpass
+[]\TU/AdobeTextPro(0)/b/n/10 II.1[] \TU/AdobeTextPro(0)/m/n/10 This Yoga is lib-
+er-a-tion through [men-tal] ac-tion. It be-stows suc-cess(\TU/AdobeTextPro(0)/m
+/it/10 sid-dhi\TU/AdobeTextPro(0)/m/n/10 ) 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+in 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+one’s own body. Each wave the mind cre-ates at the be-gin-ning of an ac-tion, 
+@ via @1 b=41 p=0 d=2601
+@@3: line 2.1 t=2701 -> @1
+of 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=27 p=0 d=1369
+@@4: line 2.1 t=1469 -> @2
+@@5: line 2.2 t=200 -> @1
+all 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@6: line 2.2 t=200 -> @2
+those, one shall with-draw one-self. Then Kriyāyoga arises.[][][][] 
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@\par via @5 b=0 p=-10000 d=100
+@\par via @6 b=0 p=-10000 d=100
+@@7: line 3.2- t=300 -> @6
 
 LaTeX Font Info:    Font shape `TU/AdobeTextPro(0)/m/sl' in size <10> not avail
 able
 (Font)              Font shape `TU/AdobeTextPro(0)/m/it' tried instead on input
- line 404.
+ line 409.
 @firstpass
 []|| 
 @\par via @0 b=0 p=-10000 d=100
@@ -6004,6 +5557,96 @@ Trans-la-tion|
 @@1: line 1.2- t=100 -> @0
 
  [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/n/10 7|
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ [7]
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/n/10 8| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/it/10 Crit-i-cal 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Edi-tion 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+& 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+An-no-tated 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Trans-la-tion|
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+
+[8]
 @firstpass
 []\TU/AdobeTextPro(0)/b/n/20.74 Ap-pendix
 @\par via @0 b=0 p=-10000 d=100
@@ -6014,14 +5657,14 @@ Trans-la-tion|
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
- [7
+ [9
 
 ]
-<pics/Vishnu_Vishvarupa_cropped.jpg, id=101, 738.1176pt x 1068.8733pt>
+<pics/Vishnu_Vishvarupa_cropped.jpg, id=119, 738.1176pt x 1068.8733pt>
 File: pics/Vishnu_Vishvarupa_cropped.jpg Graphic file (type jpg)
 <use pics/Vishnu_Vishvarupa_cropped.jpg>
 Package luatex.def Info: pics/Vishnu_Vishvarupa_cropped.jpg  used on input line
- 415.
+ 419.
 (luatex.def)             Requested size: 330.0pt x 477.8734pt.
 @firstpass
 [][]
@@ -6042,10 +5685,10 @@ Given by Mrs. Ger-ald Clark.
 
 
 
-LaTeX Warning: Float too large for page by 50.3334pt on input line 418.
+LaTeX Warning: Float too large for page by 50.3334pt on input line 422.
 
 @firstpass
-[]|\TU/AdobeTextPro(0)/m/n/10 8| 
+[]|\TU/AdobeTextPro(0)/m/n/10 10| 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
@@ -6074,10 +5717,10 @@ LaTeX Warning: Float too large for page by 50.3334pt on input line 418.
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
-[8<./pics/Vishnu_Vishvarupa_cropped.jpg>]
+[10<./pics/Vishnu_Vishvarupa_cropped.jpg>]
 <pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Si
 ddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_
-Trust..jpg, id=107, 401.5pt x 1042.89626pt>
+Trust..jpg, id=125, 401.5pt x 1042.89626pt>
 File: pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Sidd
 ha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mu
 seum_Trust..jpg Graphic file (type jpg)
@@ -6086,7 +5729,7 @@ a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mus
 eum_Trust..jpg>
 Package luatex.def Info: pics/The_Equivalence_of_Self_and_Universe_(detail),_fo
 lio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_4
-6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 422.
+6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 426.
 (luatex.def)             Requested size: 165.0pt x 428.59277pt.
 @firstpass
 [][]
@@ -6143,7 +5786,7 @@ cm, RJS 2378, Mehra-garh Mu-seum Trust.
 
 
 
-LaTeX Warning: Float too large for page by 1.05278pt on input line 425.
+LaTeX Warning: Float too large for page by 1.05278pt on input line 429.
 
 @firstpass
 []|\TU/AdobeTextPro(0)/m/it/10 Fig-ures| 
@@ -6156,7 +5799,7 @@ LaTeX Warning: Float too large for page by 1.05278pt on input line 425.
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-[]|\TU/AdobeTextPro(0)/m/n/10 9|
+[]|\TU/AdobeTextPro(0)/m/n/10 11|
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
@@ -6175,9 +5818,9 @@ LaTeX Warning: Float too large for page by 1.05278pt on input line 425.
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
-[9<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha
-_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museu
-m_Trust..jpg>] [10
+[11<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddh
+a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Muse
+um_Trust..jpg>] [12
 
 
 
@@ -6187,7 +5830,7 @@ m_Trust..jpg>] [10
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
- [11]
+ [13]
 @firstpass
 []  
 @\par via @0 b=0 p=-10000 d=100
@@ -6195,32 +5838,32 @@ m_Trust..jpg>] [10
 
 
 
-Package biblatex Warning: Keyword 'codex' not found on input line 436.
-
-
-LaTeX Warning: Empty bibliography on input line 436.
-
-
-Package biblatex Warning: Keyword 'printsource' not found on input line 438.
-
-
-LaTeX Warning: Empty bibliography on input line 438.
-
-
-Package biblatex Warning: Keyword 'seclit' not found on input line 440.
+Package biblatex Warning: Keyword 'codex' not found on input line 440.
 
 
 LaTeX Warning: Empty bibliography on input line 440.
 
 
-Package biblatex Warning: Keyword 'onlinesource' not found on input line 442.
+Package biblatex Warning: Keyword 'printsource' not found on input line 442.
 
 
 LaTeX Warning: Empty bibliography on input line 442.
 
 
-warning  (pdf backend): ignoring duplicate destination with the name 'page.11'
-[11
+Package biblatex Warning: Keyword 'seclit' not found on input line 444.
+
+
+LaTeX Warning: Empty bibliography on input line 444.
+
+
+Package biblatex Warning: Keyword 'onlinesource' not found on input line 446.
+
+
+LaTeX Warning: Empty bibliography on input line 446.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.13'
+[13
 
 ]
 \tf@toc=\write8
@@ -6233,8 +5876,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `bindu.out' has not changed.
-(rerunfilecheck)             Checksum: C4D0FF8F506A67B4B0FD668A1EE7266F;1082.
+(rerunfilecheck)             Checksum: 39EA65370360B309A53ABC6C91035157;1082.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                bindu
@@ -6246,27 +5892,36 @@ Package logreq Info: Writing requests to 'bindu.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 46688 strings out of 477352
- 125007,1977958 words of node,token memory allocated
- 5862 words of node memory still in use:
-   3 hlist, 10 vlist, 1 rule, 5 glue, 3 kern, 576 glyph, 157 attribute, 219 glue
-_spec, 79 attribute_list, 2 shape, 3 write nodes
-   avail lists: 1:7,2:4586,3:2172,4:235,5:3506,6:35,7:9583,8:17,9:536,10:30,11:6
-90
- 66182 multiletter control sequences out of 65536+600000
- 99 fonts using 19556159 bytes
- 95i,11n,98p,10529b,6659s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 46663 strings out of 477352
+ 125011,1977958 words of node,token memory allocated
+ 6252 words of node memory still in use:
+   3 hlist, 11 vlist, 1 rule, 9 glue, 3 kern, 624 glyph, 161 attribute, 220 glue
+_spec, 81 attribute_list, 2 shape, 3 write nodes
+   avail lists: 1:9,2:4652,3:2013,4:221,5:3611,6:39,7:9790,8:22,9:668,10:26,11:6
+96
+ 66150 multiletter control sequences out of 65536+600000
+ 98 fonts using 19287351 bytes
+ 95i,11n,98p,8631b,5137s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.5'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.4'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.3'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.2'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
 </home/enjotel/.local/share/fonts/AdishilaSan.ttf></home/enjotel/.local/share/fo
-nts/AdishilaSanBoldB.ttf></home/enjotel/.local/share/fonts/AdobeTextPro-Bold.ttf
-></home/enjotel/.local/share/fonts/AdobeTextPro-Regular.ttf></home/enjotel/.loca
-l/share/fonts/Sanskrit_2003.ttf></home/enjotel/.local/share/fonts/AdobeTextPro-I
-t.ttf>
-Output written on bindu.pdf (17 pages, 4047852 bytes).
+nts/AdobeTextPro-Bold.ttf></home/enjotel/.local/share/fonts/AdobeTextPro-Regular
+.ttf></home/enjotel/.local/share/fonts/Sanskrit_2003.ttf></home/enjotel/.local/s
+hare/fonts/AdobeTextPro-It.ttf></usr/local/texlive/2022/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb>
+Output written on bindu.pdf (19 pages, 4057696 bytes).
 
-PDF statistics: 169 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 131072)
+PDF statistics: 190 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 131072)
  72 words of extra memory for PDF output out of 10000 (max. 100000000)
 
