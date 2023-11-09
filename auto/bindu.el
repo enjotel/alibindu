@@ -13,9 +13,6 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
-    "intro"
-    "kriyayoga"
-    "introtrans"
     "fig1"
     "fig2"
     "sec:bibli"))

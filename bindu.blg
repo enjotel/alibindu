@@ -1,17 +1,23 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'bindu.blg'
-[113] biber:340> INFO - === Mi Okt 11, 2023, 09:12:27
-[135] Biber.pm:418> INFO - Reading 'bindu.bcf'
-[270] Biber.pm:978> INFO - Found 3 citekeys in bib section 0
-[293] Biber.pm:4401> INFO - Processing section 0
-[309] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[319] bibtex.pm:1713> INFO - LaTeX decoding ...
-[637] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
-[719] Utils.pm:410> ERROR - BibTeX subsystem: /tmp/biber_tmp_iBlp/a411a05437c082f0cf4f7e71b7c360c2_7014.utf8, line 2083, syntax error: found "howpublished", expected end of entry ("}" or ")") (skipping to next "@")
-[719] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
-[719] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[719] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
-[719] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
-[719] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_iBlp/a411a05437c082f0cf4f7e71b7c360c2_7014.utf8, line 1855, warning: 121 characters of junk seen at toplevel
-[720] Biber.pm:132> INFO - WARNINGS: 5
-[720] Biber.pm:135> INFO - ERRORS: 1
+[121] biber:340> INFO - === Mi Nov  8, 2023, 13:06:47
+[149] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[263] Biber.pm:978> INFO - Found 1 citekeys in bib section 0
+[286] Biber.pm:4401> INFO - Processing section 0
+[306] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[314] bibtex.pm:1713> INFO - LaTeX decoding ...
+[662] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[744] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[744] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[745] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[745] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[747] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[748] bbl.pm:757> INFO - Output to bindu.bbl
+[748] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
+[748] Biber.pm:130> WARN - Duplicate entry key: 'birch2014' in file 'bindu.bib', skipping ...
+[749] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
+[749] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
+[749] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
+[749] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_1txf/a411a05437c082f0cf4f7e71b7c360c2_33292.utf8, line 2015, warning: 121 characters of junk seen at toplevel
+[749] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_1txf/a411a05437c082f0cf4f7e71b7c360c2_33292.utf8, line 2280, warning: 58 characters of junk seen at toplevel
+[749] Biber.pm:132> INFO - WARNINGS: 7
