@@ -2348,6 +2348,9 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bindu.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">mainkar2004</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">ramayana</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">mahabharata</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
