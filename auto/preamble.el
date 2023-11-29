@@ -46,7 +46,8 @@
     "biblatex"
     "ekdosis"
     "footmisc"
-    "xparse")
+    "xparse"
+    "comment")
    (TeX-add-symbols
     '("myfn" 1)
     '("mkbibnamefamily" 1)
@@ -134,12 +135,16 @@
     '("\\NewDocumentCommand{\\extra}{m}" "extra" "m" "New")
     '("\\NewDocumentCommand{\\crazy}{m}" "crazy" "m" "New")
     '("\\NewDocumentCommand{\\coro}{m}" "coro" "m" "New")
+    '("\\NewDocumentCommand{\\xmlhead}{O{}m}" "xmlhead" "O{}m" "New")
+    '("\\NewDocumentCommand{\\xmlheadtrans}{O{}m}" "xmlheadtrans" "O{}m" "New")
     '("\\NewDocumentCommand{\\skp}{m}" "skp" "m" "New")
     '("\\NewDocumentCommand{\\skm}{m}" "skm" "m" "New")
     '("\\NewDocumentCommand{\\dd}{}" "dd" "" "New"))
    (LaTeX-add-xparse-environments
     '("\\NewDocumentEnvironment{tlg}{O{}O{}}" "tlg" "O{}O{}" "New")
     '("\\NewDocumentEnvironment{prose}{O{}}" "prose" "O{}" "New")
-    '("\\NewDocumentEnvironment{tlate}{O{}}" "tlate" "O{}" "New")))
+    '("\\NewDocumentEnvironment{tlate}{O{}}" "tlate" "O{}" "New")
+    '("\\NewDocumentEnvironment{buber}{O{}}" "buber" "O{}" "New")
+    '("\\NewDocumentEnvironment{euber}{O{}}" "euber" "O{}" "New")))
  :latex)
 

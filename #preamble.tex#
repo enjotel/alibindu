@@ -320,6 +320,8 @@ surname=Liersch]
 \TeXtoTEIPat{\begin {tlate}[#1]}{<note type="translation" target="##1">}
   \TeXtoTEIPat{\end {tlate}}{</note>}
 
+%%%environment für überlaufende Fußnoten! 
+
 \NewDocumentEnvironment{buber}{O{}}{}{}
 \TeXtoTEIPat{\begin {buber}[#1]}{<note xml:id="#1">}
   \TeXtoTEIPat{\end {buber}}{</note>}
@@ -327,6 +329,7 @@ surname=Liersch]
 \NewDocumentEnvironment{euber}{O{}}{}{}
 \TeXtoTEIPat{\begin {euber}[#1]}{<note type="uberfootnote" target="##1">}
 \TeXtoTEIPat{\end {euber}}{</note>}
+
 
 \usepackage{comment}
 
