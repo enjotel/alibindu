@@ -43,6 +43,7 @@
     "urdhvalaksyatrans"
     "adholaksya"
     "adholaksyatrans"
+    "rajabody"
     "rajabodytrans"
     "anjacihna"
     "anjacihnatrans"
