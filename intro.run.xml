@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>bindu.bcf</file>
+      <file>intro.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>bindu.bbl</file>
+      <file>intro.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -66,19 +66,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>bindu</infile>
+      <infile>intro</infile>
     </cmdline>
     <input>
-      <file>bindu.bcf</file>
+      <file>intro.bcf</file>
     </input>
     <output>
-      <file>bindu.bbl</file>
+      <file>intro.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>bindu.bbl</file>
+      <file>intro.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>bindu.bcf</file>
+      <file>intro.bcf</file>
     </requires>
     <requires type="editable">
       <file>bindu.bib</file>

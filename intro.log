@@ -1,0 +1,5466 @@
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.27)  17 JAN 2024 00:43
+ restricted system commands enabled.
+**intro.tex
+(./intro.tex
+LaTeX2e <2022-06-01> patch level 5
+Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
+Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2022-10-04 2.75 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "/home/enjotel/.texlive2022/texmf-va
+r/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2022-10-03.lua" from kpse-res
+olved path "/usr/local/texlive/2022/texmf-dist/tex/luatex/luaotfload/fontloader-
+2022-10-03.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.120
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/home/enjotel/.texlive2022/texmf-va
+r/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' at position 1 in `glyph_stream_provider'
+.
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
+er'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2022-09-28>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./preamb
+le.tex
+(/usr/local/texlive/2022/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2022/07/29 v3.7r configurable book, report, article docu
+ment class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count183
+)
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count184
+\c@@memmarkcntra=\count185
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
+luaotfload | db : Font names database loaded from /home/enjotel/.texlive2022/tex
+mf-var/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count186
+\memPD=\dimen137
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count187
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count195
+\c@@ppsaveapp=\count196
+\ragrparindent=\dimen138
+\everylistparindent=\dimen139
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks16
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen140
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count197
+\c@poemline=\count198
+\c@modulo@vs=\count199
+\c@memfvsline=\count266
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen141
+\c@verse=\count267
+\c@chrsinstr=\count268
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count269
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box51
+\extrarowheight=\dimen143
+\NC@list=\toks17
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box52
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen144
+\TX@old@table=\dimen145
+\TX@old@col=\dimen146
+\TX@target=\dimen147
+\TX@delta=\dimen148
+\TX@cols=\count270
+\TX@ftn=\toks18
+)
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen161
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count275
+\@linestogo=\count276
+\@cellstogo=\count277
+\@cellsincolumn=\count278
+\crtok=\toks19
+\@mincolumnwidth=\dimen162
+\c@newflo@tctr=\count279
+\mem@margin@floatbox=\box53
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen163
+\c@@contsubnum=\count280
+\m@mscap@capbox=\box54
+\m@mscap@fbox=\box55
+\sidecapsep=\dimen164
+\sidecapwidth=\dimen165
+\m@m@tempdima=\dimen166
+\m@mscapraise=\dimen167
+\sidecapraise=\dimen168
+\m@mscapmainwidth=\dimen169
+\m@mscaplkern=\dimen170
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7655.
+LaTeX Info: Redefining \emph on input line 7663.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen171
+\cftbooknumwidth=\dimen172
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen173
+\c@maxsecnumdepth=\count281
+\bibindent=\dimen174
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks20
+\@indexbox=\insert252
+\glossarycolsep=\dimen175
+\glossaryrule=\dimen176
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count282
+\m@m@h=\dimen177
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count283
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count284
+\c@pagenoteshadow=\count285
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks21
+\afterevery@verbatim=\toks22
+\verbatim@line=\toks23
+\tab@position=\count286
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count287
+\c@bvlinectr=\count288
+\bvnumlength=\skip184
+\fb@frw=\dimen178
+\fb@frh=\dimen179
+\FrameRule=\dimen180
+\FrameSep=\dimen181
+\c@cp@cntr=\count289
+\c@ism@mctr=\count290
+\c@xsm@mctr=\count291
+\c@csm@mctr=\count292
+\c@ksm@mctr=\count293
+\c@xksm@mctr=\count294
+\c@cksm@mctr=\count295
+\c@msm@mctr=\count296
+\c@xmsm@mctr=\count297
+\c@cmsm@mctr=\count298
+\c@bsm@mctr=\count299
+\c@workm@mctr=\count300
+\c@sheetsequence=\count301
+\c@lastsheet=\count302
+\c@lastpage=\count303
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2022/07/10 v1.03 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+\c@figure=\count304
+\c@lofdepth=\count305
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count306
+\c@lotdepth=\count307
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+
+******************************************************
+Stock height and width: 625.96062pt by 441.01772pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 625.96062pt by 441.01772pt
+Text height and width: 478pt by 330pt
+Spine and edge margins: 51.21495pt and 59.75081pt
+Upper and lower margins: 64.682pt and 83.27861pt
+Headheight and headsep: 12pt and 18.06749pt
+Footskip: 25.29494pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 45.75081pt
+Sidecapsep and sidecapwidth: 7pt and 128pt
+Sidebarhsep and sidebarwidth: 7pt and 128pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 548.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 128pt
+Sidefootvsep and sidefootheight: 12pt and 548.39996pt
+******************************************************
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+
+
+Package hyphenat Warning: *******************************
+(hyphenat)                * You have used the htt option.
+(hyphenat)                * You are likely to get many Font Warning messages.
+(hyphenat)                * These can usually be ignored.
+(hyphenat)                *******************************.
+
+\langwohyphens=\language2
+LaTeX Info: Redefining \_ on input line 43.
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/10/23 3.82 The Babel package
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read3
+\l@dumylang=\language3
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@nohyphenation=\language4
+\l@german-x-2022-03-16=\language5
+\l@ngerman-x-2022-03-16=\language6
+\l@afrikaans=\language7
+\l@ancientgreek=\language8
+\l@ibycus=\language9
+\l@arabic=\language10
+\l@armenian=\language11
+\l@basque=\language12
+\l@belarusian=\language13
+\l@bulgarian=\language14
+\l@catalan=\language15
+\l@pinyin=\language16
+\l@churchslavonic=\language17
+\l@coptic=\language18
+\l@croatian=\language19
+\l@czech=\language20
+\l@danish=\language21
+\l@dutch=\language22
+\l@ukenglish=\language23
+\l@usenglishmax=\language24
+\l@esperanto=\language25
+\l@estonian=\language26
+\l@ethiopic=\language27
+\l@farsi=\language28
+\l@finnish=\language29
+\l@schoolfinnish=\language30
+\l@french=\language31
+\l@friulan=\language32
+\l@galician=\language33
+\l@georgian=\language34
+\l@german=\language35
+\l@ngerman=\language36
+\l@swissgerman=\language37
+\l@greek=\language38
+\l@monogreek=\language39
+\l@hungarian=\language40
+\l@icelandic=\language41
+\l@assamese=\language42
+\l@bengali=\language43
+\l@gujarati=\language44
+\l@hindi=\language45
+\l@kannada=\language46
+\l@malayalam=\language47
+\l@marathi=\language48
+\l@oriya=\language49
+\l@pali=\language50
+\l@panjabi=\language51
+\l@tamil=\language52
+\l@telugu=\language53
+\l@indonesian=\language54
+\l@interlingua=\language55
+\l@irish=\language56
+\l@italian=\language57
+\l@kurmanji=\language58
+\l@classiclatin=\language59
+\l@latin=\language60
+\l@liturgicallatin=\language61
+\l@latvian=\language62
+\l@lithuanian=\language63
+\l@macedonian=\language64
+\l@mongolian=\language65
+\l@mongolianlmc=\language66
+\l@bokmal=\language67
+\l@nynorsk=\language68
+\l@occitan=\language69
+\l@piedmontese=\language70
+\l@polish=\language71
+\l@portuguese=\language72
+\l@romanian=\language73
+\l@romansh=\language74
+\l@russian=\language75
+\l@sanskrit=\language76
+\l@serbian=\language77
+\l@serbianc=\language78
+\l@slovak=\language79
+\l@slovenian=\language80
+\l@spanish=\language81
+\l@swedish=\language82
+\l@thai=\language83
+\l@turkish=\language84
+\l@turkmen=\language85
+\l@ukrainian=\language86
+\l@uppersorbian=\language87
+\l@welsh=\language88
+\babelcatcodetablenum=\catcodetable12
+\bbl@pattcodes=\catcodetable13
+)
+\babel@savecnt=\count308
+\U@D=\dimen182
+\l@unhyphenated=\language89
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute4
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 108.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/locale/en/babel-english.t
+ex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (./babel-iast/babel-iast.sty
+Package babel Info: Importing data for iast
+(babel)             from babel-sa-Deva.ini. Reported on input line 1.
+Package babel Info: Hyphen rules for 'iast' set to \l@sanskrit
+(babel)             (\language76). Reported on input line 1.
+Inserting `Babel.hyphenate' at position 1 in `hyphenate'.)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
+File: l3backend-luatex.def 2022-09-28 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count309
+\l__pdf_internal_box=\box56
+))
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX (/
+usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count310
+\l__fontspec_language_int=\count311
+\l__fontspec_strnum_int=\count312
+\l__fontspec_tmp_int=\count313
+\l__fontspec_tmpa_int=\count314
+\l__fontspec_tmpb_int=\count315
+\l__fontspec_tmpc_int=\count316
+\l__fontspec_em_int=\count317
+\l__fontspec_emdef_int=\count318
+\l__fontspec_strong_int=\count319
+\l__fontspec_strongdef_int=\count320
+\l__fontspec_tmpa_dim=\dimen183
+\l__fontspec_tmpb_dim=\dimen184
+\l__fontspec_tmpc_dim=\dimen185
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks24
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count321
+)
+\@linkdim=\dimen186
+\Hy@linkcounter=\count322
+\Hy@pagecounter=\count323
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count324
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count325
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen187
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count326
+\Field@Width=\dimen188
+\Fld@charsize=\dimen189
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count327
+\c@Item=\count328
+\c@Hfootnote=\count329
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2022-09-22 v7.00t Hyperref driver for luaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count330
+\c@bookmark@seq@number=\count331
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip191
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2021/06/16 v1.19 nameref/hyperref package fixes for memoir cl
+ass
+
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 102.
+\c@memhycontfloat=\count332
+\c@Hpagenote=\count333
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+LaTeX Info: Redefining \Cref on input line 925.
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@tempbox=\box57
+\MT@count=\count334
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen190
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count335
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2022/06/23 v3.0f Definitions specific to luatex (RS)
+
+Lua module: microtype 2022/06/23 3.0f microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 686.
+LaTeX Info: Redefining \lslig on input line 686.
+\MT@outer@space=\skip192
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count336
+\output=\toks27
+\linenoprevgraf=\count337
+\linenumbersep=\dimen191
+\linenumberwidth=\dimen192
+\c@linenumber=\count338
+\c@pagewiselinenumber=\count339
+\c@LN@truepage=\count340
+\c@internallinenumber=\count341
+\c@internallinenumbers=\count342
+\quotelinenumbersep=\dimen193
+\bframerule=\dimen194
+\bframesep=\dimen195
+\bframebox=\box58
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+\intro@idxfile=\write4
+
+\openout4 = intro.idx
+
+Writing index file intro.idx 
+luaotfload | cache : Lookup cache loaded from /home/enjotel/.texlive2022/texmf-v
+ar/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 20 (nil) defines no feature for script dev2
+
+Package fontspec Warning: Input mapping not supported in LuaTeX.
+
+
+Package fontspec Info: Could not resolve font "Sanskrit2003/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Sanskrit2003/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "Sanskrit2003/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Warning: Input mapping not supported in LuaTeX.
+
+luaotfload | aux : font no 22 (nil) does not define feature smcp for script deva
+ with language dflt
+
+Package fontspec Info: Font family 'Sanskrit2003(0)' created for font
+(fontspec)             'Sanskrit2003' with options
+(fontspec)             [Script=Devanagari,Mapping=RomDev,Scale=1.1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.1]"Sanskrit2003:mode=node;script=deva;language=d
+flt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fourier/fourier-orns.sty
+Package: fourier-orns 2022/02/05 2.3 fourier-ornaments package
+luaotfload | aux : font no 26 (nil) defines no feature for script latn
+luaotfload | aux : font no 26 (nil) defines no feature for script dflt
+
+Package fontspec Info: Font family 'FourierOrns-Regular.otf(0)' created for
+(fontspec)             font 'FourierOrns-Regular.otf' with options [BoldFont =
+(fontspec)             FourierOrns-Regular.otf,ItalicFont =
+(fontspec)             FourierOrns-Regular.otf,BoldItalicFont =
+(fontspec)             FourierOrns-Regular.otf].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FourierOrns-Regular.otf]:mode=node;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FourierOrns-Regular.otf]:mode=node;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FourierOrns-Regular.otf]:mode=node;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[FourierOrns-Regular.otf]:mode=node;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2022-09-25 v2.30 (Daniel Flipo)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count343
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count344
+)
+\c@DefaultLines=\count345
+\c@DefaultDepth=\count346
+\DefaultFindent=\dimen196
+\DefaultNindent=\dimen197
+\DefaultSlope=\dimen198
+\DiscardVskip=\dimen199
+
+Loading lettrine.cfg
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+\L@lbox=\box59
+\L@tbox=\box60
+\c@L@lines=\count347
+\c@L@depth=\count348
+\L@Pindent=\dimen256
+\L@Findent=\dimen257
+\L@Nindent=\dimen258
+\L@lraise=\dimen259
+\L@first=\dimen260
+\L@next=\dimen261
+\L@slope=\dimen262
+\L@height=\dimen263
+\L@novskip=\dimen264
+\L@target@ht=\dimen265
+\L@target@dp=\dimen266
+\L@target@tht=\dimen267
+\LettrineWidth=\dimen268
+\LettrineHeight=\dimen269
+\LettrineDepth=\dimen270
+\Llist@everypar=\toks30
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pst-vectorian/psvectorian.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen271
+\Gin@req@width=\dimen272
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2022/19/23 v0.72 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count349
+\pstFP@xia=\count350
+\pstFP@xib=\count351
+\pstFP@xfa=\count352
+\pstFP@xfb=\count353
+\pstFP@rega=\count354
+\pstFP@regb=\count355
+\pstFP@regs=\count356
+\pstFP@times=\count357
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen273
+\pgfutil@tempdimb=\dimen274
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box61
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks34
+))) (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen275
+\pgf@xa=\dimen276
+\pgf@xb=\dimen277
+\pgf@xc=\dimen278
+\pgf@y=\dimen279
+\pgf@ya=\dimen280
+\pgf@yb=\dimen281
+\pgf@yc=\dimen282
+\c@pgf@counta=\count358
+\c@pgf@countb=\count359
+\c@pgf@countc=\count360
+\c@pgf@countd=\count361
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen283
+\pgfmath@count=\count362
+\pgfmath@box=\box62
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count363
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen284
+\pgffor@skip=\dimen285
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+\psLoopIndex=\count364
+
+`PSTricks' v3.17  <2022/10/23> (tvz,hv)
+\pst@dima=\dimen286
+\pst@dimb=\dimen287
+\pst@dimc=\dimen288
+\pst@dimd=\dimen289
+\pst@dimg=\dimen290
+\pst@dimh=\dimen291
+\pst@dimm=\dimen292
+\pst@dimn=\dimen293
+\pst@dimo=\dimen294
+\pst@dimp=\dimen295
+\pst@hbox=\box63
+\pst@ibox=\box64
+\pst@boxg=\box65
+\pst@cnta=\count365
+\pst@cntb=\count366
+\pst@cntc=\count367
+\pst@cntd=\count368
+\pst@cntg=\count369
+\pst@cnth=\count370
+\pst@cntm=\count371
+\pst@cntn=\count372
+\pst@cnto=\count373
+\pst@cntp=\count374
+\@zero=\count375
+\pst@toks=\toks40
+--- We are running lualatex with luapstricks ---
+Lua module: luapstricks 2022-09-10 v0.6 PSTricks backend for LuaLaTeX
+Lua function luaPST = 26
+Lua function luaPSTcolor = 27
+Lua function luaPSTbox = 28 (/usr/local/texlive/2022/texmf-dist/tex/generic/pst
+ricks/pstricks-color.tex)
+\psunit=\dimen296
+\psxunit=\dimen297
+\psyunit=\dimen298
+\pst@C@@rType=\count376
+\pslinewidth=\dimen299
+\psk@startLW=\dimen300
+\psk@endLW=\dimen301
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen302
+\pshookwidth=\dimen303
+)
+\pst@customdefs=\toks41
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen304
+\pst@symbolStep=\dimen305
+\pst@symbolWidth=\dimen306
+\pst@symbolLinewidth=\dimen307
+\everypsbox=\toks42
+\psframesep=\dimen308
+\pslabelsep=\dimen309
+\sh@wgridXunit=\dimen310
+\sh@wgridYunit=\dimen311
+\pst@shift=\dimen312
+\ps@imagectr=\count377
+)
+File: pstricks.tex 2022/10/23 v3.17 `PSTricks' (tvz,hv)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+)
+Package: psvectorian 2021/09/06 v0.41 vector ornaments
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip193
+\plpartopsep=\skip194
+\plitemsep=\skip195
+\plparsep=\skip196
+\pl@lab=\toks43
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip197
+\enit@outerparindent=\dimen313
+\enit@toks=\toks44
+\enit@inbox=\box66
+\enit@count@id=\count378
+\enitdp@description=\count379
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/10/09 v0.5w Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count380
+\calc@Bcount=\count381
+\calc@Adimen=\dimen314
+\calc@Bdimen=\dimen315
+\calc@Askip=\skip198
+\calc@Bskip=\skip199
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count382
+\calc@Cskip=\skip256
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen316
+\ESO@tempdimb=\dimen317
+)
+\AM@pagewidth=\dimen318
+\AM@pageheight=\dimen319
+\AM@fboxrule=\dimen320
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2022/10/09 v0.5w Pdfpages driver for LuaTeX (AM)
+)
+\pdfpages@includegraphics@status=\count383
+\AM@pagebox=\box67
+\AM@global@opts=\toks45
+\AM@pagecnt=\count384
+\AM@toc@title=\toks46
+\c@AM@survey=\count385
+\AM@templatesizebox=\box68
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen321
+\WF@size=\dimen322
+\c@WF@wrappedlines=\count386
+\WF@box=\box69
+\WF@everypar=\toks47
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+\TY@count=\count387
+\TY@linewidth=\dimen323
+\tymin=\dimen324
+\tymax=\dimen325
+\TY@tablewidth=\dimen326
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip257
+\LTright=\skip258
+\LTpre=\skip259
+\LTpost=\skip260
+\LTchunksize=\count388
+\LTcapwidth=\dimen327
+\LT@head=\box70
+\LT@firsthead=\box71
+\LT@foot=\box72
+\LT@lastfoot=\box73
+\LT@gbox=\box74
+\LT@cols=\count389
+\LT@rows=\count390
+\c@LT@tables=\count391
+\c@LT@chunks=\count392
+\LT@p@ftn=\toks48
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count393
+\csq@gtype=\count394
+\csq@glevel=\count395
+\csq@qlevel=\count396
+\csq@maxlvl=\count397
+\csq@tshold=\count398
+\csq@ltx@everypar=\toks49
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/nowidow/nowidow.sty
+Package: nowidow 2011/09/20 1.0 Easily prevent widows and orphans
+Package: nowidow 
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ellipsis/ellipsis.sty
+Package: ellipsis 2020/05/22 v1.8 fixes spacing around ellipses (three dots)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+LaTeX Info: Redefining \textellipsis on input line 77.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/adforn/adforn.sty
+Package: adforn 2019/10/13 v1.1b adforn CFR
+LaTeX Font Info:    Trying to load font information for U+OrnementsADF on input
+ line 4.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/adforn/uornementsadf.fd))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+\pgf@x=\dimen328
+\pgf@y=\dimen329
+\pgf@xa=\dimen330
+\pgf@ya=\dimen331
+\pgf@xb=\dimen332
+\pgf@yb=\dimen333
+\pgf@xc=\dimen334
+\pgf@yc=\dimen335
+\pgf@xd=\dimen336
+\pgf@yd=\dimen337
+\w@pgf@writea=\write5
+\r@pgf@reada=\read4
+\c@pgf@counta=\count399
+\c@pgf@countb=\count400
+\c@pgf@countc=\count401
+\c@pgf@countd=\count402
+\t@pgf@toka=\toks50
+\t@pgf@tokb=\toks51
+\t@pgf@tokc=\toks52
+\pgf@sys@id@count=\count403
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-luatex.d
+ef
+File: pgfsys-luatex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count404
+\pgfsyssoftpath@bigbuffer@items=\count405
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen338
+\pgf@picmaxx=\dimen339
+\pgf@picminy=\dimen340
+\pgf@picmaxy=\dimen341
+\pgf@pathminx=\dimen342
+\pgf@pathmaxx=\dimen343
+\pgf@pathminy=\dimen344
+\pgf@pathmaxy=\dimen345
+\pgf@xx=\dimen346
+\pgf@xy=\dimen347
+\pgf@yx=\dimen348
+\pgf@yy=\dimen349
+\pgf@zx=\dimen350
+\pgf@zy=\dimen351
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen352
+\pgf@path@lasty=\dimen353
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen354
+\pgf@shorten@start@additional=\dimen355
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box75
+\pgf@hbox=\box76
+\pgf@layerbox@main=\box77
+\pgf@picture@serial@count=\count406
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen356
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen357
+\pgf@pt@y=\dimen358
+\pgf@pt@temp=\dimen359
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen360
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen361
+\pgf@sys@shading@range@num=\count407
+\pgf@shadingcount=\count408
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box78
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box79
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen362
+\pgf@nodesepend=\dimen363
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count409
+\pgfplotmarksize=\dimen364
+)
+\tikz@lastx=\dimen365
+\tikz@lasty=\dimen366
+\tikz@lastxsaved=\dimen367
+\tikz@lastysaved=\dimen368
+\tikz@lastmovetox=\dimen369
+\tikz@lastmovetoy=\dimen370
+\tikzleveldistance=\dimen371
+\tikzsiblingdistance=\dimen372
+\tikz@figbox=\box80
+\tikz@figbox@bg=\box81
+\tikz@tempbox=\box82
+\tikz@tempbox@bg=\box83
+\tikztreelevel=\count410
+\tikznumberofchildren=\count411
+\tikznumberofcurrentchild=\count412
+\tikz@fig@count=\count413
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count414
+\pgfmatrixcurrentcolumn=\count415
+\pgf@matrix@numberofcolumns=\count416
+)
+\tikz@expandcount=\count417
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count418
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count419
+\c@listtotal=\count420
+\c@listcount=\count421
+\c@liststart=\count422
+\c@liststop=\count423
+\c@citecount=\count424
+\c@citetotal=\count425
+\c@multicitecount=\count426
+\c@multicitetotal=\count427
+\c@instcount=\count428
+\c@maxnames=\count429
+\c@minnames=\count430
+\c@maxitems=\count431
+\c@minitems=\count432
+\c@citecounter=\count433
+\c@maxcitecounter=\count434
+\c@savedcitecounter=\count435
+\c@uniquelist=\count436
+\c@uniquename=\count437
+\c@refsection=\count438
+\c@refsegment=\count439
+\c@maxextratitle=\count440
+\c@maxextratitleyear=\count441
+\c@maxextraname=\count442
+\c@maxextradate=\count443
+\c@maxextraalpha=\count444
+\c@abbrvpenalty=\count445
+\c@highnamepenalty=\count446
+\c@lownamepenalty=\count447
+\c@maxparens=\count448
+\c@parenlevel=\count449
+\blx@tempcnta=\count450
+\blx@tempcntb=\count451
+\blx@tempcntc=\count452
+\c@blx@maxsection=\count453
+\blx@maxsegment@0=\count454
+\blx@notetype=\count455
+\blx@parenlevel@text=\count456
+\blx@parenlevel@foot=\count457
+\blx@sectionciteorder@0=\count458
+\blx@sectionciteorderinternal@0=\count459
+\blx@entrysetcounter=\count460
+\blx@biblioinstance=\count461
+\labelnumberwidth=\skip261
+\labelalphawidth=\skip262
+\biblabelsep=\skip263
+\bibnamesep=\skip264
+\bibinitsep=\skip265
+\bibparsep=\skip266
+\bibhang=\skip267
+\blx@bcfin=\read5
+\blx@bcfout=\write6
+\blx@langwohyphens=\language90
+\c@mincomprange=\count462
+\c@maxcomprange=\count463
+\c@mincompwidth=\count464
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'verbose.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count465
+\c@savedafterword=\count466
+\c@annotator=\count467
+\c@savedannotator=\count468
+\c@author=\count469
+\c@savedauthor=\count470
+\c@bookauthor=\count471
+\c@savedbookauthor=\count472
+\c@commentator=\count473
+\c@savedcommentator=\count474
+\c@editor=\count475
+\c@savededitor=\count476
+\c@editora=\count477
+\c@savededitora=\count478
+\c@editorb=\count479
+\c@savededitorb=\count480
+\c@editorc=\count481
+\c@savededitorc=\count482
+\c@foreword=\count483
+\c@savedforeword=\count484
+\c@holder=\count485
+\c@savedholder=\count486
+\c@introduction=\count487
+\c@savedintroduction=\count488
+\c@namea=\count489
+\c@savednamea=\count490
+\c@nameb=\count491
+\c@savednameb=\count492
+\c@namec=\count493
+\c@savednamec=\count494
+\c@translator=\count495
+\c@savedtranslator=\count496
+\c@shortauthor=\count497
+\c@savedshortauthor=\count498
+\c@shorteditor=\count499
+\c@savedshorteditor=\count500
+\c@labelname=\count501
+\c@savedlabelname=\count502
+\c@institution=\count503
+\c@savedinstitution=\count504
+\c@lista=\count505
+\c@savedlista=\count506
+\c@listb=\count507
+\c@savedlistb=\count508
+\c@listc=\count509
+\c@savedlistc=\count510
+\c@listd=\count511
+\c@savedlistd=\count512
+\c@liste=\count513
+\c@savedliste=\count514
+\c@listf=\count515
+\c@savedlistf=\count516
+\c@location=\count517
+\c@savedlocation=\count518
+\c@organization=\count519
+\c@savedorganization=\count520
+\c@origlocation=\count521
+\c@savedoriglocation=\count522
+\c@origpublisher=\count523
+\c@savedorigpublisher=\count524
+\c@publisher=\count525
+\c@savedpublisher=\count526
+\c@language=\count527
+\c@savedlanguage=\count528
+\c@origlanguage=\count529
+\c@savedoriglanguage=\count530
+\c@pageref=\count531
+\c@savedpageref=\count532
+\shorthandwidth=\skip268
+\shortjournalwidth=\skip269
+\shortserieswidth=\skip270
+\shorttitlewidth=\skip271
+\shortauthorwidth=\skip272
+\shorteditorwidth=\skip273
+\locallabelnumberwidth=\skip274
+\locallabelalphawidth=\skip275
+\localshorthandwidth=\skip276
+\localshortjournalwidth=\skip277
+\localshortserieswidth=\skip278
+\localshorttitlewidth=\skip279
+\localshortauthorwidth=\skip280
+\localshorteditorwidth=\skip281
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-unicode.def)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
+\c@textcitecount=\count533
+\c@textcitetotal=\count534
+\c@textcitemaxnames=\count535
+\c@biburlbigbreakpenalty=\count536
+\c@biburlbreakpenalty=\count537
+\c@biburlnumpenalty=\count538
+\c@biburlucpenalty=\count539
+\c@biburllcpenalty=\count540
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count541
+)
+Package biblatex Info: Trying to load bibliography style 'verbose'...
+Package biblatex Info: ... file 'verbose.bbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/verbose.bbx
+File: verbose.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count542
+\c@bbx:relatedtotal=\count543
+)))
+Package biblatex Info: Trying to load citation style 'verbose'...
+Package biblatex Info: ... file 'verbose.cbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/cbx/verbose.cbx
+File: verbose.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-09-28 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
+
+))
+(./ekdosis.sty
+Package: ekdosis 2021/11/21 v1.4 Typesetting TEI xml-compliant critical edition
+s
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/expkv-opt/expkv-opt.sty
+Package: expkv-opt 2021-04-04 v0.2 parse class and package options with expkv
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/expkv/expkv.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/expkv/expkv.tex
+File: expkv.tex 2021-09-20 v1.9a an expandable key=val implementation
+)
+Package: expkv 2021-09-20 v1.9a an expandable key=val implementation
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/expkv-def/expkv-def.sty
+(/usr/local/texlive/2022/texmf-dist/tex/generic/expkv-def/expkv-def.tex
+(/usr/local/texlive/2022/texmf-dist/tex/generic/expkv/expkv.tex)
+File: expkv-def.tex 2022-01-29 v0.9 a key-defining frontend for expkv
+)
+Package: expkv-def 2022-01-29 v0.9 a key-defining frontend for expkv
+)
+(/usr/local/texlive/2022/texmf-dist/tex/lualatex/luacode/luacode.sty
+Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/local/texlive/2022/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count544
+)
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
+)
+\luacode@lines=\toks53
+\luacode@table@soft=\catcodetable16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/paracol/paracol.sty
+Package: paracol 2018/12/31 v1.35 
+\pcol@currcol=\count545
+\pcol@nextcol=\count546
+\pcol@ncol=\count547
+\pcol@ncolleft=\count548
+\pcol@page=\count549
+\pcol@basepage=\count550
+\pcol@toppage=\count551
+\pcol@footnotebase=\count552
+\pcol@nfootnotes=\count553
+\pcol@mcid=\count554
+\pcol@prevdepth=\dimen373
+\pcol@colht=\dimen374
+\pcol@textfloatsep=\dimen375
+\pcol@lrmargin=\dimen376
+\pagerim=\dimen377
+\pcol@topskip=\skip282
+\belowfootnoteskip=\skip283
+\pcol@topfnotes=\box84
+\pcol@prespan=\box85
+\pcol@rightpage=\box86
+\pcol@colorstack@saved=\box87
+\pcol@tempboxa=\box88
+\pcol@tempboxb=\box89
+\pcol@colorins=\insert247
+\pcol@everyvbox=\toks54
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/trivfloat/trivfloat.sty
+Package: trivfloat 2009/04/23 v1.4 Quick floats in LaTeX
+\c@tfl@float@cnt=\count555
+LaTeX Info: Redefining \tfl@uppercase on input line 223.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/zref/zref-user.sty
+Package: zref-user 2022-04-07 v2.34 Module user for zref (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2022-04-07 v2.34 Module base for zref (HO)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
+\c@abspage=\count556
+Package zref Info: New property: abspage on input line 65.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count557
+LaTeX Info: Redefining \checkoddpage on input line 45.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/parnotes/parnotes.sty
+Package: parnotes 2019/07/23 rev. 3b Notes after every paragraph, or elsewhere
+\c@parnotemark=\count558
+)
+\ekd@app@height=\dimen378
+\c@ekd@pb=\count559
+\c@ekd@lab=\count560
+\c@ekd@vpnum=\count561
+\vwidth@val=\dimen379
+)
+(./footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks55
+\footnotemargin=\dimen380
+\@outputbox@depth=\dimen381
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765
+.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write7
+
+Excluding comment 'comment')) (./titles.tex)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+ (./intro.aux
+
+Package babel Info: The following font families will use the default
+(babel)             settings for all or some languages:
+(babel)             * \rmfamily = lmr
+(babel)               [lmroman10-regular]:+tlig;
+(babel)             * \sffamily = lmss
+(babel)               [lmsans10-regular]:+tlig;
+(babel)             * \ttfamily = lmtt
+(babel)               [lmmono10-regular]:
+(babel)             There is nothing intrinsically wrong with it, but
+(babel)             'babel' will no set Script and Language, which could
+(babel)             be relevant in some languages. If your document uses
+(babel)             these families, consider redefining them with \babelfont.
+(babel)             Reported on input line 5.
+
+luaotfload | aux : font no 32 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 39 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 40 (nil) does not define feature smcp for script latn
+ with language dflt
+
+Package fontspec Info: Font family 'AdobeTextPro(0)' created for font 'Adobe
+(fontspec)             Text Pro' with options
+(fontspec)             [Ligatures=TeX,Script=Latin,Language=English].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"AdobeTextPro:mode=node;script=latn;language=dflt;+tl
+ig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"AdobeTextPro:mode=node;script=latn;language=dflt;+tl
+ig;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"AdobeTextPro/B:mode=node;script=latn;language=dflt;+
+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"AdobeTextPro/B:mode=node;script=latn;language=dflt;+
+tlig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"AdobeTextPro/I:mode=node;script=latn;language=dflt;+
+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"AdobeTextPro/BI:mode=node;script=latn;language=dflt;
++tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'AdishilaSan(0)' created for font
+(fontspec)             'AdishilaSan' with options
+(fontspec)             [Ligatures=TeX,Script=Devanagari,Language=Sanskrit,Rende
+rer=Harfbuzz,Scale=1.3].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.3]"AdishilaSan:mode=harf;script=deva;language=df
+lt;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.3]"AdishilaSan/B:mode=harf;script=deva;language=
+dflt;+tlig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.3]"AdishilaSan/I:mode=harf;script=deva;language=
+dflt;+tlig;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.3]"AdishilaSan/BI:mode=harf;script=deva;language
+=dflt;+tlig;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
+(Font)              scaled to size 13.00003pt on input line 24.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.
+tex UTF-8 Sanskrit hyphenation patterns
+(/usr/local/texlive/2022/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-sa.
+tex)))
+\openout1 = intro.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
+4.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/b/it' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/b/scsl' undefined
+(Font)              using `TU/lmtt/b/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/b/sc' undefined
+(Font)              using `TU/lmtt/b/n' instead on input line 94.
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 94.
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/it' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 94.
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/sl' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 94.
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/scsl' undefined
+(Font)              using `TU/lmtt/bx/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/sc' undefined
+(Font)              using `TU/lmtt/bx/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sbx/sc' undefined
+(Font)              using `TU/lmtt/sb/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/n' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/it' undefined
+(Font)              using `TU/lmtt/sb/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/sl' undefined
+(Font)              using `TU/lmtt/sb/it' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/scit' undefined
+(Font)              using `TU/lmtt/sb/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/sc' undefined
+(Font)              using `TU/lmtt/sb/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sbc/sc' undefined
+(Font)              using `TU/lmtt/c/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/n' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/it' undefined
+(Font)              using `TU/lmtt/c/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/sl' undefined
+(Font)              using `TU/lmtt/c/it' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/scit' undefined
+(Font)              using `TU/lmtt/c/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/sc' undefined
+(Font)              using `TU/lmtt/c/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/lc/it' in size <10> not available
+(Font)              Font shape `TU/lmtt/lc/sl' tried instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/lc/scsl' undefined
+(Font)              using `TU/lmtt/lc/sc' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/lc/sc' undefined
+(Font)              using `TU/lmtt/lc/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/m/ui' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/ui' undefined
+(Font)              using `TU/lmtt/bx/n' instead on input line 94.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/m/In' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 94.
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 94.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 94.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 94.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 94.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 94.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 94.
+LaTeX Font Info:    Redeclaring math accent \check on input line 94.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 94.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 94.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 94.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 94.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/AdobeTextPro(0)/m/n on input line 94
+.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 94.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/AdobeTextPro(0)/m/n on input line 9
+4.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/AdobeTextPro(0)/m/n --> TU/AdobeTextPro(0)/m/n on in
+put line 94.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/AdobeTextPro(0)/m/it on input line 
+94.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/AdobeTextPro(0)/b/n on input line 9
+4.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 94.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 94.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/AdobeTextPro(0)/m/n --> TU/AdobeTextPro(0)/b/n on in
+put line 94.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/AdobeTextPro(0)/b/it on input line
+ 94.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 94.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 94.
+Package hyperref Info: Link coloring OFF on input line 94.
+(./intro.out) (./intro.out)
+\@outlinefile=\write8
+
+\openout8 = intro.out
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count562
+\scratchdimen=\dimen382
+\scratchbox=\box90
+\nofMPsegments=\count563
+\nofMParguments=\count564
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count565
+\MPscratchDim=\dimen383
+\MPnumerator=\count566
+\makeMPintoPDFobject=\count567
+\everyMPtoPDFconversion=\toks57
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \microtypecontext on input line 94.
+Package microtype Info: Applying patch `item' on input line 94.
+Package microtype Info: Applying patch `toc' on input line 94.
+Package microtype Info: Applying patch `eqnum' on input line 94.
+Package microtype Info: Applying patch `footnote' on input line 94.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 94.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `AdobeTextPro' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Info: Redefining \dots on input line 94.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'iast'...
+Package biblatex Info: ... file 'iast.lbx' not found.
+
+
+Package biblatex Warning: Language 'iast' not supported.
+(biblatex)                Using dummy definitions on input line 94.
+
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+\openout6 = intro.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'intro.bbl' not found.
+No file intro.bbl.
+Package biblatex Info: Reference section=0 on input line 94.
+Package biblatex Info: Reference segment=0 on input line 94.
+\c@ekdapparatus=\count568
+\c@loadepth=\count569
+\cftbeforeekdapparatusskip=\skip284
+\cftekdapparatusindent=\skip285
+\cftekdapparatusnumwidth=\skip286
+@firstpass
+[]
+@\penalty via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+\TU/AdobeTextPro(0)/m/it/12 The 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Yo-gatattv-abindu
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 1.2- t=100 -> @0
+
+[1
+
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+@firstpass
+[] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+
+[2]
+@firstpass
+[]
+@\penalty via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `AdishilaSan' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TU/AdishilaSan(0)/m/n' will be
+(Font)              scaled to size 18.72003pt on input line 130.
+Package microtype Info: Character `AE ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotleft ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guillemotright ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textexclamdown ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textquestiondown ' is missing
+(microtype)             in font `TU/AdishilaSan(0)/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TU/Sanskrit2003(0)/m/n' will be
+(Font)              scaled to size 15.84007pt on input line 130.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Sanskrit2003' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+@firstpass
+\TU/Sanskrit2003(0)/m/n/14.4 यो
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Sanskrit2003(0)/m/n/14.4 योगतत्त्विबन्दु 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+[]
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/20.74 Yo
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/20.74 Yo-gatattv-abindu
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/12 Cr
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/12 Crit-i-cal 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Edi-tion
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/12 wi
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/12 with 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+an-no-tated 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Trans-la-tion
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/10.95 Vo
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10.95 Von
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/10.95 Ni
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10.95 Nils 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Ja-cob 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Lier-sch
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 In
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/9 In-dica 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+et 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Ti-bet-ica 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+Ver-lag
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 Ma
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/9 Mar-burg 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+2024
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
+ [3]
+@firstpass
+[]   
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+LaTeX Font Info:    Font shape `TU/AdobeTextPro(0)/bx/n' in size <9> not availa
+ble
+(Font)              Font shape `TU/AdobeTextPro(0)/b/n' tried instead on input 
+line 170.
+@firstpass
+\TU/AdobeTextPro(0)/b/n/9 Bib-li-ographis-che In-for-ma-tion Der Deutschen Bib-l
+io-thek 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+\TU/AdobeTextPro(0)/m/n/9 Die Deutsche Bib-lio-thek verze-ich-net diese Pub-lika
+-tion in der Deutschen Na-tion-al-bib-
+@\discretionary via @0 b=162 p=50 d=42084
+@@1: line 1.0- t=42084 -> @0
+li-
+@\discretionary via @0 b=26 p=50 d=3796
+@@2: line 1.1- t=3796 -> @0
+ogra-
+@\discretionary via @0 b=0 p=50 d=2600
+@@3: line 1.2- t=2600 -> @0
+phie; de-tail-lierte bib-li-ographis-che In-for-ma-tio-nen sind im In-ter-net 
+über http://dnb.ddb.de 
+@ via @3 b=0 p=0 d=100
+@@4: line 2.2 t=2700 -> @3
+abruf-bar. 
+@\par via @4 b=0 p=-10000 d=*
+@@5: line 3.2- t=2700 -> @4
+
+@firstpass
+\TU/AdobeTextPro(0)/b/n/9 Bib-li-o-graphic in-for-ma-tion pub-lished by Die Deut
+schen Bib-lio-thek 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+\TU/AdobeTextPro(0)/m/n/9 Die Deutsche Bib-lio-thek lists this pub-li-ca-tion in
+ the Deutsche Na-tion-al-bib-li-ogra-phie; de-
+@\discretionary via @0 b=0 p=50 d=2600
+@@1: line 1.2- t=2600 -> @0
+tailed bib-li-o-graphic data is avail-able in the In-ter-net at http://dnb.ddb.d
+e. 
+@\par via @1 b=0 p=-10000 d=*
+@@2: line 2.2- t=2600 -> @1
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 © In-dica et Ti-bet-ica Ver-lag, Mar-burg 2024 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 Alle Rechte vor-be-hal-ten / All rights re-served 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 Ohne aus-drück-liche Genehmi-gung des Ver-lages ist 
+es nicht ges-tat-tet, das Werk oder einzelne 
+@ via @0 b=13 p=0 d=529
+@@1: line 1.3 t=529 -> @0
+Teile da-raus nachzu-drucken, zu vervielfälti-gen oder auf Da-ten-träger zu sp
+e-ich-ern. 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=629 -> @1
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 Apart from any fair deal-ing for the pur-pose of pri-v
+ate study, re-search, crit-i-cism or re-view, 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+no 
+@ via @0 b=1 p=0 d=121
+@@2: line 1.2 t=121 -> @0
+part of this book may be re-pro-duced or trans-lated in any form, by print, phot
+o form, 
+@ via @1 b=2 p=0 d=144
+@@3: line 2.2 t=244 -> @1
+mi-cro-film, or any other means with-out writ-ten per-mis-sion. En-quiries shoul
+d be made 
+@ via @3 b=40 p=0 d=2500
+@@4: line 3.1 t=2744 -> @3
+to 
+@ via @3 b=0 p=0 d=100
+@@5: line 3.2 t=344 -> @3
+the 
+@ via @3 b=1 p=0 d=121
+@@6: line 3.2 t=365 -> @3
+pub-lish-ers. 
+@\par via @4 b=0 p=-10000 d=100
+@\par via @5 b=0 p=-10000 d=100
+@\par via @6 b=0 p=-10000 d=100
+@@7: line 4.2- t=444 -> @5
+
+@firstpass
+\TU/AdobeTextPro(0)/m/n/9 Satz:   Nils Ja-cob Lier-sch 
+@\penalty via @0 b=0 p=-10000 d=100
+@@1: line 1.2 t=100 -> @0
+Herstellung:   BoD – Books on De-mand GmbH, Norder-st-edt 
+@\penalty via @1 b=0 p=-10000 d=100
+@@2: line 2.2 t=200 -> @1
+@secondpass
+\TU/AdobeTextPro(0)/m/n/9 Satz:   Nils Ja-cob Lier-sch 
+@\penalty via @0 b=0 p=-10000 d=*
+@@1: line 1.2 t=0 -> @0
+Herstellung:   BoD – Books on De-mand GmbH, Norder-st-edt 
+@\penalty via @1 b=0 p=-10000 d=*
+@@2: line 2.2 t=0 -> @1
+ 
+@\par via @2 b=10000 p=-10000 d=*
+@@3: line 3.0- t=0 -> @2
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--212
+
+ []
+
+[4]
+LaTeX Font Info:    Font shape `TU/AdobeTextPro(0)/bx/n' in size <20.74> not av
+ailable
+(Font)              Font shape `TU/AdobeTextPro(0)/b/n' tried instead on input 
+line 225.
+@firstpass
+[]\TU/AdobeTextPro(0)/b/n/20.74 Contents[][][][]
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ (./intro.toc
+LaTeX Font Info:    Font shape `TU/AdobeTextPro(0)/bx/n' in size <10> not avail
+able
+(Font)              Font shape `TU/AdobeTextPro(0)/b/n' tried instead on input 
+line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+@firstpass
+[][] []\TU/AdobeTextPro(0)/b/n/10 Con-tents[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/AdobeTextPro(0)/b/n/10 In-tro-duc-tion[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+)
+warning  (pdf backend): ignoring duplicate destination with the name 'page.iv'
+[4
+
+]
+@firstpass
+[]\TU/AdobeTextPro(0)/b/n/20.74 In-tro-duc-tion
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ [1
+
+
+
+] [2
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 234.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 234.
+@firstpass
+@secondpass
+@emergencypass
+\TU/AdobeTextPro(0)/m/n/8 The
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+LaTeX Font Info:    Font shape `TU/AdobeTextPro(0)/bx/n' in size <8> not availa
+ble
+(Font)              Font shape `TU/AdobeTextPro(0)/b/n' tried instead on input 
+line 234.
+
+
+LaTeX Warning: Reference `placeoforigin' on page 3 undefined on input line 234.
+
+
+@firstpass
+[][][]\TU/AdobeTextPro(0)/m/n/8 The de-tailed dis-cus-sion of the place of ori-g
+in is found on p.[].| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10 The \TU/AdobeTextPro(0)/m/it/10 Yo-gatattv-abindu 
+\TU/AdobeTextPro(0)/m/n/10 (YTB) is a pre-mod-ern San-skrit Yoga text on Rā-jay
+oga 
+@ via @0 b=10 p=0 d=400
+@@1: line 1.2 t=400 -> @0
+that 
+@ via @0 b=1 p=0 d=121
+@@2: line 1.2 t=121 -> @0
+orig-i-nated in north-ern In-dia.[][][][] The most salient fea-ture of the work that makes 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=10 p=0 d=400
+@@3: line 2.2 t=500 -> @1
+it 
+@ via @1 b=47 p=0 d=3249
+@ via @2 b=0 p=0 d=100
+@@4: line 2.2 t=221 -> @2
+@@5: line 2.3 t=3649 -> @1
+his-tor-i-cally sig-nif-i-cant is its highly dif-fer-en-ti-ated tax-on-omy of ty
+pes of Yoga. 
+@ via @3 b=70 p=0 d=6400
+@@6: line 3.1 t=6900 -> @3
+In 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=5 p=0 d=225
+@ via @5 b=5 p=0 d=225
+@@7: line 3.2 t=446 -> @4
+the 
+@ via @3 b=32 p=0 d=1764
+@ via @4 b=0 p=0 d=100
+@ via @5 b=0 p=0 d=100
+@@8: line 3.2 t=321 -> @4
+@@9: line 3.3 t=2264 -> @3
+YTB’s in-tro-duc-tion, most manuscripts name fif-teen types of Yoga, pre-sente
+d 
+@ via @6 b=1 p=0 d=121
+@ via @7 b=0 p=0 d=100
+@@10: line 4.2 t=546 -> @7
+as 
+@ via @7 b=0 p=0 d=100
+@ via @8 b=1 p=0 d=121
+@ via @9 b=1 p=0 d=121
+@@11: line 4.2 t=442 -> @8
+sub-types of Rā-jayoga. The whole text is a yo-gic com-pendium in a text-book 
+@ via @10 b=28 p=0 d=1444
+@@12: line 5.1 t=1990 -> @10
+style 
+@ via @10 b=0 p=0 d=100
+@ via @11 b=0 p=0 d=100
+@@13: line 5.2 t=542 -> @11
+writ-ten pri-mar-ily in prose, where dif-fer-ent top-ics are in-tro-duced in sec
+-tions 
+@ via @12 b=0 p=0 d=100
+@@14: line 6.2 t=2090 -> @12
+launched by rec-og-niz-able phrases. Most sec-tions deal with these sub-types of
+ 
+@ via @14 b=91 p=0 d=10201
+@@15: line 7.1 t=12291 -> @14
+Rā-jayoga and their ef-fects, but oth-ers also cover top-ics like yo-gic phys-i
+-ol-ogy and 
+@ via @15 b=0 p=0 d=100
+@@16: line 8.2 t=12391 -> @15
+cos-mogony. 
+@\par via @16 b=0 p=-10000 d=100
+@@17: line 9.2- t=12491 -> @16
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/AdobeTextPro(0)/m/n/8 A
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+
+LaTeX Warning: Reference `titlediscussion' on page 3 undefined on input line 23
+6.
+
+@firstpass
+[][][]\TU/AdobeTextPro(0)/m/n/8 A dis-cus-sion of the ti-tle is found on p.[].|
+ 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10 One printed edi-tion of the YTB was pub-lished in 
+1905 with a Hindi trans-la-tion 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+and based on an un-known manuscript(s). This pub-li-ca-tion has the ti-tle ’ 
+\TU/AdobeTextPro(0)/m/it/10 Binduyoga\TU/AdobeTextPro(0)/m/n/10 ’ 
+@ via @1 b=6 p=0 d=256
+@@2: line 2.2 t=356 -> @1
+con-firmed by the printed text’s colophon. How-ever, as I dis-cuss in this boo
+k, 
+@ via @2 b=54 p=0 d=4096
+@@3: line 3.1 t=4452 -> @2
+the 
+@ via @2 b=0 p=0 d=100
+@@4: line 3.2 t=456 -> @2
+text was likely known as YTB.[][][][] The con-sulted manuscripts con-tain sig-ni
+f-i-cant 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=39 p=0 d=2401
+@@5: line 4.1 t=2857 -> @4
+@@6: line 4.2 t=4552 -> @3
+dis-crep-an-cies and vari-ant read-ings be-tween them as well as the printed edi
+-tion. 
+@ via @5 b=1 p=0 d=121
+@ via @6 b=1 p=0 d=121
+@@7: line 5.2 t=2978 -> @5
+A 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@@8: line 5.2 t=2957 -> @5
+crit-i-cal edi-tion will un-doubt-edly im-prove on the pub-lished edi-tion and 
+shed 
+@ via @7 b=16 p=0 d=676
+@@9: line 6.1 t=3654 -> @7
+fur-ther 
+@ via @8 b=12 p=0 d=484
+@@10: line 6.2 t=3441 -> @8
+light on the trans-mis-sion of this work. Ac-cord-ing to some manuscript 
+@ via @9 b=27 p=0 d=1369
+@@11: line 7.1 t=5023 -> @9
+colophons, 
+@ via @10 b=0 p=0 d=100
+@@12: line 7.2 t=3541 -> @10
+the YTB was com-posed by one Rā-macan-dra Parama-haṃsa in the late 
+@ via @11 b=0 p=0 d=100
+@@13: line 8.2 t=5123 -> @11
+17th - early 
+@ via @12 b=0 p=0 d=100
+@@14: line 8.2 t=3641 -> @12
+18th cen-tury. The date of com-po-si-tion is un-cer-tain, al-though it must 
+@ via @13 b=0 p=0 d=100
+@@15: line 9.2 t=5223 -> @13
+pre-date 
+@ via @14 b=80 p=0 d=8100
+@@16: line 9.1 t=11741 -> @14
+the 
+@ via @14 b=0 p=0 d=100
+@@17: line 9.2 t=3741 -> @14
+old-est avail-able manuscript, which was writ-ten in Nepal saṃ-vat 837, 
+@ via @15 b=0 p=0 d=100
+@@18: line 10.2 t=5323 -> @15
+which 
+@ via @16 b=3 p=0 d=169
+@@19: line 10.2 t=11910 -> @16
+is 
+@ via @16 b=0 p=0 d=100
+@ via @17 b=70 p=0 d=6400
+@@20: line 10.1 t=10141 -> @17
+@@21: line 10.2 t=11841 -> @16
+1716 
+@ via @17 b=0 p=0 d=100
+@@22: line 10.2 t=3841 -> @17
+CE. Since the text of this manuscript is miss-ing sig-nif-i-cant and lengthy 
+@ via @18 b=30 p=0 d=1600
+@ via @19 b=20 p=0 d=900
+@@23: line 11.1 t=12810 -> @19
+@@24: line 11.3 t=6923 -> @18
+parts 
+@ via @19 b=3 p=0 d=169
+@ via @20 b=0 p=0 d=100
+@ via @21 b=0 p=0 d=100
+@@25: line 11.2 t=10241 -> @20
+(25% 
+@ via @22 b=0 p=0 d=100
+@@26: line 11.2 t=3941 -> @22
+of 
+@ via @22 b=31 p=0 d=1681
+@@27: line 11.3 t=5522 -> @22
+the text) and con-tains var-i-ous cor-rup-tions, one can as-sume that 
+@ via @23 b=31 p=0 d=1681
+@ via @24 b=31 p=0 d=11681
+@@28: line 12.1 t=14491 -> @23
+some 
+@ via @23 b=4 p=0 d=196
+@ via @24 b=4 p=0 d=196
+@ via @25 b=25 p=0 d=1225
+@@29: line 12.1 t=11466 -> @25
+@@30: line 12.2 t=7119 -> @24
+time 
+@ via @25 b=0 p=0 d=100
+@ via @26 b=51 p=0 d=3721
+@@31: line 12.1 t=7662 -> @26
+@@32: line 12.2 t=10341 -> @25
+had 
+@ via @26 b=0 p=0 d=100
+@ via @27 b=2 p=0 d=144
+@@33: line 12.2 t=4041 -> @26
+passed from the orig-i-nal com-po-si-tion for the trans-mis-sion to de-te-ri-o-r
+ate 
+@ via @29 b=0 p=0 d=100
+@ via @30 b=0 p=0 d=100
+@@34: line 13.2 t=7219 -> @30
+to 
+@ via @29 b=53 p=0 d=13969
+@ via @30 b=53 p=0 d=3969
+@ via @31 b=0 p=0 d=100
+@ via @32 b=0 p=0 d=100
+@@35: line 13.2 t=7762 -> @31
+@@36: line 13.3 t=11088 -> @30
+this 
+@ via @31 b=6 p=0 d=256
+@ via @32 b=6 p=0 d=256
+@ via @33 b=0 p=0 d=100
+@@37: line 13.2 t=4141 -> @33
+ex-tent. There-fore, it is likely that the work was com-posed at least a few 
+@ via @34 b=10 p=0 d=400
+@@38: line 14.2 t=7619 -> @34
+decades 
+@ via @35 b=7 p=0 d=289
+@ via @36 b=7 p=0 d=289
+@ via @37 b=0 p=0 d=100
+@@39: line 14.2 t=4241 -> @37
+be-fore this Nepalese manuscript, per-haps some-time in the 17th cen-tury. 
+@ via @38 b=0 p=0 d=100
+@@40: line 15.2 t=7719 -> @38
+The 
+@ via @39 b=70 p=0 d=6400
+@@41: line 15.1 t=10641 -> @39
+manuscripts are scat-tered over the In-dian sub-con-ti-nent, which sug-gests tha
+t 
+@ via @40 b=0 p=0 d=100
+@@42: line 16.2 t=7819 -> @40
+it 
+@ via @40 b=0 p=0 d=100
+@ via @41 b=17 p=0 d=729
+@@43: line 16.1 t=11370 -> @41
+@@44: line 16.2 t=7819 -> @40
+was 
+@ via @41 b=0 p=0 d=100
+@@45: line 16.2 t=10741 -> @41
+widely trans-mit-ted at some point. Lenghty pas-sages of the YTB are quoted 
+@ via @42 b=0 p=0 d=100
+@ via @43 b=0 p=0 d=100
+@ via @44 b=0 p=0 d=100
+@@46: line 17.2 t=7919 -> @44
+with-out 
+@ via @45 b=9 p=0 d=361
+@@47: line 17.2 t=11102 -> @45
+@secondpass
+[]\TU/AdobeTextPro(0)/m/n/10 One printed edi-tion of the YTB was pub-lished in 
+1905 with a Hindi trans-
+@\discretionary via @0 b=63 p=50 d=7829
+@@1: line 1.1- t=7829 -> @0
+la-
+@\discretionary via @0 b=4 p=50 d=2696
+@@2: line 1.2- t=2696 -> @0
+tion 
+@ via @0 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+and based on an un-known manuscript(s). This pub-li-ca-tion has the ti-tle 
+@ via @1 b=36 p=0 d=2116
+@ via @2 b=184 p=0 d=47636
+@@4: line 2.1 t=9945 -> @1
+’ 
+@ via @1 b=7 p=0 d=289
+@ via @2 b=71 p=0 d=6561
+@@5: line 2.1 t=9257 -> @2
+@@6: line 2.2 t=8118 -> @1
+\TU/AdobeTextPro(0)/m/it/10 Binduyoga\TU/AdobeTextPro(0)/m/n/10 ’ 
+@ via @3 b=6 p=0 d=256
+@@7: line 2.2 t=356 -> @3
+con-firmed by the printed text’s colophon. How-ever, as I dis-cuss 
+@ via @4 b=86 p=0 d=9216
+@@8: line 3.1 t=19161 -> @4
+in 
+@ via @4 b=1 p=0 d=121
+@ via @5 b=12 p=0 d=484
+@ via @6 b=12 p=0 d=484
+@@9: line 3.2 t=8602 -> @6
+this 
+@ via @4 b=1 p=0 d=121
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@@10: line 3.2 t=8218 -> @6
+book, 
+@ via @7 b=54 p=0 d=4096
+@@11: line 3.1 t=4452 -> @7
+the 
+@ via @7 b=0 p=0 d=100
+@@12: line 3.2 t=456 -> @7
+text was likely known as YTB.[][][][] The con-sulted manuscripts con-
+@\discretionary via @8 b=0 p=50 d=2600
+@\discretionary via @9 b=19 p=50 d=3341
+@@13: line 4.1- t=11943 -> @9
+@@14: line 4.2- t=21761 -> @8
+tain 
+@ via @8 b=13 p=0 d=10529
+@ via @9 b=0 p=0 d=100
+@ via @10 b=72 p=0 d=6724
+@@15: line 4.1 t=14942 -> @10
+@@16: line 4.2 t=8702 -> @9
+sig-
+@\discretionary via @10 b=0 p=50 d=2600
+@@17: line 4.2- t=10818 -> @10
+nif-i
+@\discretionary via @10 b=6 p=50 d=2756
+@\discretionary via @11 b=80 p=50 d=10600
+@@18: line 4.1- t=15052 -> @11
+@@19: line 4.2- t=10974 -> @10
+-
+@\discretionary via @10 b=31 p=50 d=4181
+@\discretionary via @11 b=36 p=50 d=4616
+@@20: line 4.1- t=9068 -> @11
+@@21: line 4.3- t=12399 -> @10
+cant 
+@ via @11 b=0 p=0 d=100
+@ via @12 b=39 p=0 d=2401
+@@22: line 4.1 t=2857 -> @12
+@@23: line 4.2 t=4552 -> @11
+dis-
+@\discretionary via @12 b=0 p=50 d=2600
+@@24: line 4.2- t=3056 -> @12
+crep-an-cies and vari-ant read-ings be-tween them as well as the 
+@ via @13 b=9 p=0 d=361
+@ via @14 b=9 p=0 d=361
+@@25: line 5.2 t=12304 -> @13
+printed 
+@ via @15 b=0 p=0 d=100
+@ via @16 b=0 p=0 d=100
+@ via @17 b=0 p=0 d=100
+@ via @18 b=123 p=0 d=17689
+@ via @19 b=123 p=0 d=27689
+@@26: line 5.2 t=8802 -> @16
+edi-
+@\discretionary via @17 b=3 p=50 d=12669
+@\discretionary via @18 b=0 p=50 d=12600
+@\discretionary via @19 b=0 p=50 d=12600
+@\discretionary via @20 b=0 p=50 d=12600
+@\discretionary via @21 b=0 p=50 d=12600
+@@27: line 5.2- t=21668 -> @20
+tion. 
+@ via @18 b=66 p=0 d=15776
+@ via @19 b=66 p=0 d=5776
+@ via @20 b=18 p=0 d=10784
+@ via @21 b=18 p=0 d=784
+@ via @22 b=1 p=0 d=121
+@ via @23 b=1 p=0 d=121
+@ via @24 b=195 p=0 d=52025
+@@28: line 5.2 t=2978 -> @22
+A 
+@ via @22 b=0 p=0 d=100
+@ via @23 b=0 p=0 d=100
+@ via @24 b=1 p=0 d=121
+@@29: line 5.2 t=2957 -> @22
+crit-
+@\discretionary via @24 b=3 p=50 d=12669
+@@30: line 5.2- t=15725 -> @24
+i-
+@\discretionary via @24 b=22 p=50 d=13524
+@@31: line 5.3- t=16580 -> @24
+cal edi-tion will un-doubt-edly im-prove on the pub-lished 
+@ via @25 b=33 p=0 d=1849
+@@32: line 6.1 t=14153 -> @25
+edi-
+@\discretionary via @25 b=0 p=50 d=2600
+@@33: line 6.2- t=14904 -> @25
+tion 
+@ via @26 b=48 p=0 d=3364
+@@34: line 6.1 t=12166 -> @26
+and 
+@ via @26 b=0 p=0 d=100
+@ via @27 b=5 p=0 d=225
+@@35: line 6.2 t=8902 -> @26
+shed 
+@ via @27 b=10 p=0 d=400
+@ via @28 b=16 p=0 d=676
+@@36: line 6.1 t=3654 -> @28
+fur-
+@\discretionary via @28 b=0 p=50 d=2600
+@\discretionary via @29 b=0 p=50 d=2600
+@\discretionary via @30 b=158 p=50 d=50724
+@@37: line 6.2- t=5557 -> @29
+ther 
+@ via @29 b=12 p=0 d=484
+@ via @30 b=0 p=0 d=100
+@ via @31 b=0 p=0 d=100
+@@38: line 6.2 t=3441 -> @29
+light 
+@ via @31 b=78 p=0 d=7744
+@@39: line 6.3 t=24324 -> @31
+on the trans-mis-sion of this work. Ac-cord-ing to 
+@ via @32 b=54 p=0 d=4096
+@@40: line 7.1 t=18249 -> @32
+some 
+@ via @32 b=0 p=0 d=100
+@ via @33 b=0 p=0 d=100
+@@41: line 7.2 t=14253 -> @32
+manuscript 
+@ via @35 b=0 p=0 d=100
+@ via @36 b=27 p=0 d=1369
+@@42: line 7.1 t=5023 -> @36
+@@43: line 7.2 t=9002 -> @35
+colophons, 
+@ via @38 b=0 p=0 d=100
+@ via @39 b=151 p=0 d=35921
+@@44: line 7.2 t=3541 -> @38
+the 
+@ via @39 b=0 p=0 d=100
+@@45: line 7.2 t=24424 -> @39
+YTB was com-posed by one Rā-macan-dra Parama-
+@\discretionary via @40 b=0 p=50 d=2600
+@\discretionary via @41 b=185 p=50 d=50525
+@@46: line 8.2- t=20849 -> @40
+haṃsa 
+@ via @41 b=0 p=0 d=100
+@@47: line 8.2 t=14353 -> @41
+in the 
+@ via @42 b=108 p=0 d=13924
+@ via @43 b=108 p=0 d=23924
+@@48: line 8.0 t=18947 -> @42
+late 
+@ via @42 b=0 p=0 d=100
+@ via @43 b=0 p=0 d=100
+@@49: line 8.2 t=5123 -> @42
+17th - early 
+@ via @44 b=0 p=0 d=100
+@ via @45 b=47 p=0 d=3249
+@@50: line 8.2 t=3641 -> @44
+18th 
+@ via @45 b=0 p=0 d=100
+@@51: line 8.2 t=24524 -> @45
+cen-tury. The date of com-po-si-tion is un-cer-
+@\discretionary via @46 b=50 p=50 d=16100
+@@52: line 9.1- t=36949 -> @46
+tain, 
+@ via @46 b=0 p=0 d=100
+@@53: line 9.2 t=20949 -> @46
+al-
+@\discretionary via @46 b=1 p=50 d=12621
+@\discretionary via @47 b=53 p=50 d=6469
+@@54: line 9.1- t=20822 -> @47
+though 
+@ via @47 b=1 p=0 d=121
+@ via @48 b=47 p=0 d=3249
+@@55: line 9.1 t=22196 -> @48
+@@56: line 9.2 t=14474 -> @47
+it 
+@ via @47 b=91 p=0 d=10201
+@ via @48 b=1 p=0 d=10121
+@@57: line 9.2 t=29068 -> @48
+@@58: line 9.3 t=24554 -> @47
+must 
+@ via @48 b=38 p=0 d=12304
+@ via @49 b=0 p=0 d=100
+@@59: line 9.2 t=5223 -> @49
+pre-
+@\discretionary via @49 b=46 p=50 d=5636
+@@60: line 9.3- t=10759 -> @49
+date 
+@ via @50 b=80 p=0 d=8100
+@@61: line 9.1 t=11741 -> @50
+the 
+@ via @50 b=0 p=0 d=100
+@@62: line 9.2 t=3741 -> @50
+old-
+@\discretionary via @50 b=58 p=50 d=7124
+@\discretionary via @51 b=0 p=50 d=2600
+@@63: line 9.3- t=10765 -> @50
+est 
+@ via @51 b=0 p=0 d=100
+@@64: line 9.2 t=24624 -> @51
+avail-able manuscript, which was writ-
+@\discretionary via @52 b=13 p=50 d=13029
+@@65: line 10.1- t=49978 -> @52
+ten 
+@ via @52 b=0 p=0 d=100
+@@66: line 10.2 t=37049 -> @52
+in 
+@ via @52 b=6 p=0 d=256
+@ via @53 b=7 p=0 d=289
+@ via @54 b=103 p=0 d=12769
+@@67: line 10.2 t=21238 -> @53
+Nepal 
+@ via @54 b=2 p=0 d=144
+@@68: line 10.2 t=20966 -> @54
+saṃ-
+@\discretionary via @55 b=0 p=50 d=2600
+@\discretionary via @56 b=0 p=50 d=2600
+@\discretionary via @57 b=7 p=50 d=2789
+@\discretionary via @58 b=7 p=50 d=2789
+@@69: line 10.2- t=17074 -> @56
+vat 
+@ via @55 b=0 p=0 d=100
+@ via @56 b=0 p=0 d=100
+@ via @57 b=0 p=0 d=100
+@ via @58 b=0 p=0 d=100
+@@70: line 10.2 t=14574 -> @56
+837, 
+@ via @59 b=0 p=0 d=100
+@ via @60 b=126 p=0 d=28496
+@@71: line 10.2 t=5323 -> @59
+which 
+@ via @60 b=7 p=0 d=289
+@ via @61 b=3 p=0 d=169
+@@72: line 10.2 t=11048 -> @60
+is 
+@ via @61 b=0 p=0 d=100
+@ via @62 b=70 p=0 d=6400
+@@73: line 10.1 t=10141 -> @62
+@@74: line 10.2 t=11841 -> @61
+1716 
+@ via @62 b=0 p=0 d=100
+@ via @63 b=1 p=0 d=121
+@@75: line 10.2 t=3841 -> @62
+CE. 
+@ via @63 b=0 p=0 d=100
+@ via @64 b=0 p=0 d=100
+@@76: line 10.2 t=10865 -> @63
+Since the text of this manuscript 
+@ via @65 b=116 p=0 d=15876
+@@77: line 11.0 t=65854 -> @65
+is 
+@ via @65 b=9 p=0 d=361
+@@78: line 11.2 t=50339 -> @65
+miss-
+@\discretionary via @65 b=2 p=50 d=12644
+@\discretionary via @66 b=0 p=50 d=2600
+@\discretionary via @67 b=34 p=50 d=4436
+@@79: line 11.1- t=25674 -> @67
+ing 
+@ via @66 b=0 p=0 d=100
+@ via @67 b=0 p=0 d=100
+@@80: line 11.2 t=21338 -> @67
+sig-
+@\discretionary via @67 b=4 p=50 d=2696
+@\discretionary via @68 b=35 p=50 d=4525
+@@81: line 11.1- t=25491 -> @68
+@@82: line 11.2- t=23934 -> @67
+nif-i
+@\discretionary via @68 b=0 p=50 d=2600
+@\discretionary via @69 b=117 p=50 d=38629
+@@83: line 11.2- t=23566 -> @68
+-
+@\discretionary via @68 b=0 p=50 d=2600
+@\discretionary via @69 b=69 p=50 d=18741
+@@84: line 11.2- t=23566 -> @68
+cant 
+@ via @68 b=31 p=0 d=1681
+@ via @69 b=0 p=0 d=100
+@ via @70 b=60 p=0 d=4900
+@@85: line 11.1 t=19474 -> @70
+@@86: line 11.2 t=17174 -> @69
+@@87: line 11.3 t=22647 -> @68
+and 
+@ via @69 b=43 p=0 d=2809
+@ via @70 b=0 p=0 d=100
+@ via @71 b=105 p=0 d=23225
+@@88: line 11.2 t=14674 -> @70
+@@89: line 11.3 t=19883 -> @69
+lengthy 
+@ via @71 b=30 p=0 d=1600
+@ via @72 b=20 p=0 d=900
+@@90: line 11.1 t=11948 -> @72
+@@91: line 11.3 t=6923 -> @71
+parts 
+@ via @72 b=3 p=0 d=169
+@ via @73 b=0 p=0 d=100
+@ via @74 b=0 p=0 d=100
+@ via @75 b=164 p=0 d=40276
+@@92: line 11.2 t=10241 -> @73
+(25% 
+@ via @75 b=0 p=0 d=100
+@ via @76 b=42 p=0 d=2704
+@@93: line 11.1 t=13569 -> @76
+@@94: line 11.2 t=3941 -> @75
+of 
+@ via @75 b=31 p=0 d=1681
+@ via @76 b=0 p=0 d=100
+@@95: line 11.2 t=10965 -> @76
+@@96: line 11.3 t=5522 -> @75
+the 
+@ via @76 b=9 p=0 d=361
+@@97: line 11.2 t=11226 -> @76
+text) and con-tains var-i-ous 
+@ via @77 b=50 p=0 d=3600
+@@98: line 12.1 t=69454 -> @77
+cor-
+@\discretionary via @77 b=0 p=50 d=12600
+@\discretionary via @78 b=0 p=50 d=2600
+@@99: line 12.2- t=52939 -> @78
+rup-
+@\discretionary via @78 b=0 p=50 d=2600
+@\discretionary via @79 b=6 p=50 d=12756
+@@100: line 12.2- t=38430 -> @79
+tions, 
+@ via @79 b=3 p=0 d=169
+@ via @80 b=0 p=0 d=100
+@ via @81 b=90 p=0 d=10000
+@ via @82 b=90 p=0 d=10000
+@@101: line 12.2 t=21438 -> @80
+one 
+@ via @80 b=49 p=0 d=3481
+@ via @81 b=0 p=0 d=100
+@ via @82 b=0 p=0 d=100
+@ via @83 b=1 p=0 d=121
+@ via @84 b=9 p=0 d=361
+@@102: line 12.2 t=23687 -> @83
+@@103: line 12.3 t=24819 -> @80
+can 
+@ via @83 b=0 p=0 d=100
+@ via @84 b=0 p=0 d=100
+@ via @85 b=34 p=0 d=1936
+@ via @86 b=34 p=0 d=1936
+@ via @87 b=34 p=0 d=11936
+@@104: line 12.1 t=19110 -> @86
+@@105: line 12.2 t=23666 -> @84
+as-
+@\discretionary via @85 b=0 p=50 d=2600
+@\discretionary via @86 b=0 p=50 d=2600
+@\discretionary via @87 b=0 p=50 d=2600
+@\discretionary via @88 b=141 p=50 d=35301
+@\discretionary via @89 b=141 p=50 d=35301
+@@106: line 12.2- t=19774 -> @86
+sume 
+@ via @88 b=0 p=0 d=100
+@ via @89 b=0 p=0 d=100
+@@107: line 12.2 t=14774 -> @88
+that 
+@ via @90 b=31 p=0 d=1681
+@ via @91 b=31 p=0 d=11681
+@@108: line 12.1 t=13629 -> @90
+some 
+@ via @90 b=4 p=0 d=196
+@ via @91 b=4 p=0 d=196
+@ via @92 b=25 p=0 d=1225
+@@109: line 12.1 t=11466 -> @92
+@@110: line 12.2 t=7119 -> @91
+time 
+@ via @92 b=0 p=0 d=100
+@ via @93 b=51 p=0 d=3721
+@ via @94 b=51 p=0 d=3721
+@@111: line 12.1 t=7662 -> @94
+@@112: line 12.2 t=10341 -> @92
+had 
+@ via @93 b=0 p=0 d=100
+@ via @94 b=0 p=0 d=100
+@ via @95 b=2 p=0 d=144
+@ via @96 b=2 p=0 d=144
+@@113: line 12.2 t=4041 -> @94
+passed 
+@ via @97 b=0 p=0 d=100
+@@114: line 12.2 t=11326 -> @97
+from the orig-i-nal com-
+@\discretionary via @98 b=2 p=50 d=2644
+@@115: line 13.2- t=72098 -> @98
+po-
+@\discretionary via @98 b=0 p=50 d=2600
+@\discretionary via @99 b=11 p=50 d=12941
+@@116: line 13.2- t=65880 -> @99
+si-
+@\discretionary via @98 b=0 p=50 d=2600
+@\discretionary via @99 b=0 p=50 d=12600
+@\discretionary via @100 b=146 p=50 d=46836
+@@117: line 13.2- t=65539 -> @99
+tion 
+@ via @99 b=4 p=0 d=196
+@ via @100 b=0 p=0 d=100
+@@118: line 13.2 t=38530 -> @100
+for 
+@ via @100 b=1 p=0 d=121
+@ via @101 b=66 p=0 d=5776
+@@119: line 13.1 t=27214 -> @101
+the 
+@ via @101 b=0 p=0 d=100
+@ via @102 b=107 p=0 d=23689
+@ via @103 b=107 p=0 d=23689
+@@120: line 13.2 t=21538 -> @101
+trans-
+@\discretionary via @102 b=0 p=50 d=2600
+@\discretionary via @103 b=0 p=50 d=2600
+@\discretionary via @104 b=6 p=50 d=2756
+@\discretionary via @105 b=6 p=50 d=2756
+@\discretionary via @106 b=119 p=50 d=39141
+@@121: line 13.2- t=21866 -> @104
+mis-
+@\discretionary via @104 b=0 p=50 d=2600
+@\discretionary via @105 b=0 p=50 d=2600
+@\discretionary via @106 b=0 p=50 d=12600
+@@122: line 13.2- t=21710 -> @104
+sion 
+@ via @106 b=15 p=0 d=625
+@ via @107 b=23 p=0 d=1089
+@@123: line 13.1 t=15863 -> @107
+@@124: line 13.3 t=20399 -> @106
+to 
+@ via @107 b=0 p=0 d=100
+@@125: line 13.2 t=14874 -> @107
+de-
+@\discretionary via @107 b=17 p=50 d=3229
+@\discretionary via @108 b=0 p=50 d=2600
+@@126: line 13.2- t=16229 -> @108
+@@127: line 13.3- t=18003 -> @107
+te-
+@\discretionary via @108 b=0 p=50 d=2600
+@@128: line 13.2- t=16229 -> @108
+ri-
+@\discretionary via @108 b=0 p=50 d=2600
+@\discretionary via @109 b=83 p=50 d=11149
+@\discretionary via @110 b=83 p=50 d=11149
+@@129: line 13.1- t=18268 -> @110
+@@130: line 13.2- t=16229 -> @108
+o-
+@\discretionary via @108 b=40 p=50 d=15000
+@\discretionary via @109 b=10 p=50 d=2900
+@\discretionary via @110 b=10 p=50 d=2900
+@@131: line 13.2- t=10019 -> @110
+rate 
+@ via @109 b=0 p=0 d=100
+@ via @110 b=0 p=0 d=100
+@ via @111 b=155 p=0 d=27225
+@ via @112 b=155 p=0 d=37225
+@@132: line 13.2 t=7219 -> @110
+to 
+@ via @109 b=53 p=0 d=13969
+@ via @110 b=53 p=0 d=3969
+@ via @111 b=0 p=0 d=100
+@ via @112 b=0 p=0 d=100
+@@133: line 13.2 t=7762 -> @111
+@@134: line 13.3 t=11088 -> @110
+this 
+@ via @111 b=6 p=0 d=256
+@ via @112 b=6 p=0 d=256
+@ via @113 b=0 p=0 d=100
+@@135: line 13.2 t=4141 -> @113
+ex-
+@\discretionary via @113 b=0 p=50 d=2600
+@@136: line 13.2- t=6641 -> @113
+tent. 
+@ via @114 b=1 p=0 d=121
+@@137: line 13.2 t=11447 -> @114
+There-fore, it is likely 
+@ via @115 b=2 p=0 d=144
+@ via @116 b=95 p=0 d=11025
+@@138: line 14.1 t=76905 -> @116
+@@139: line 14.2 t=72242 -> @115
+that 
+@ via @115 b=3 p=0 d=169
+@ via @116 b=0 p=0 d=100
+@ via @117 b=0 p=0 d=100
+@@140: line 14.2 t=65639 -> @117
+the 
+@ via @116 b=45 p=0 d=3025
+@ via @117 b=0 p=0 d=100
+@ via @118 b=5 p=0 d=225
+@@141: line 14.2 t=38755 -> @118
+work 
+@ via @118 b=17 p=0 d=729
+@ via @119 b=0 p=0 d=100
+@ via @120 b=52 p=0 d=3844
+@@142: line 14.1 t=25382 -> @120
+@@143: line 14.2 t=27314 -> @119
+was 
+@ via @119 b=86 p=0 d=19216
+@ via @120 b=0 p=0 d=100
+@ via @121 b=80 p=0 d=8100
+@@144: line 14.1 t=29966 -> @121
+@@145: line 14.2 t=21638 -> @120
+com-
+@\discretionary via @121 b=0 p=50 d=12600
+@\discretionary via @122 b=10 p=50 d=12900
+@@146: line 14.2- t=34466 -> @121
+posed 
+@ via @122 b=4 p=0 d=196
+@ via @123 b=2 p=0 d=144
+@ via @124 b=2 p=0 d=144
+@ via @125 b=92 p=0 d=10404
+@@147: line 14.1 t=25278 -> @125
+@@148: line 14.2 t=16007 -> @123
+at 
+@ via @123 b=0 p=0 d=100
+@ via @124 b=0 p=0 d=100
+@ via @125 b=3 p=0 d=169
+@ via @126 b=79 p=0 d=7921
+@ via @127 b=79 p=0 d=17921
+@@149: line 14.1 t=24150 -> @126
+@@150: line 14.2 t=15043 -> @125
+least 
+@ via @125 b=7 p=0 d=289
+@ via @126 b=0 p=0 d=100
+@ via @127 b=0 p=0 d=100
+@ via @128 b=0 p=0 d=100
+@ via @129 b=12 p=0 d=484
+@ via @130 b=12 p=0 d=484
+@ via @131 b=51 p=0 d=3721
+@@151: line 14.1 t=13740 -> @131
+@@152: line 14.2 t=15163 -> @125
+a 
+@ via @126 b=0 p=0 d=100
+@ via @127 b=0 p=0 d=100
+@ via @128 b=0 p=0 d=100
+@ via @129 b=0 p=0 d=100
+@ via @130 b=0 p=0 d=100
+@ via @131 b=6 p=0 d=256
+@@153: line 14.2 t=10275 -> @131
+few 
+@ via @128 b=63 p=0 d=5329
+@ via @129 b=2 p=0 d=144
+@ via @130 b=2 p=0 d=144
+@ via @131 b=0 p=0 d=100
+@ via @132 b=10 p=0 d=400
+@ via @133 b=140 p=0 d=32500
+@ via @134 b=140 p=0 d=32500
+@@154: line 14.2 t=7619 -> @132
+decades 
+@ via @133 b=7 p=0 d=289
+@ via @134 b=7 p=0 d=289
+@ via @135 b=0 p=0 d=100
+@ via @136 b=22 p=0 d=1024
+@@155: line 14.1 t=7665 -> @136
+@@156: line 14.2 t=4241 -> @135
+be-
+@\discretionary via @135 b=0 p=50 d=2600
+@\discretionary via @136 b=0 p=50 d=12600
+@\discretionary via @137 b=178 p=50 d=47844
+@@157: line 14.2- t=6741 -> @135
+fore 
+@ via @136 b=24 p=0 d=1156
+@ via @137 b=1 p=0 d=121
+@@158: line 14.2 t=11568 -> @137
+@@159: line 14.3 t=7797 -> @136
+this 
+@ via @137 b=0 p=0 d=100
+@@160: line 14.2 t=11547 -> @137
+Nepalese manuscript, 
+@ via @138 b=20 p=0 d=10900
+@ via @139 b=20 p=0 d=900
+@ via @140 b=0 p=0 d=100
+@@161: line 15.2 t=65739 -> @140
+@@162: line 15.3 t=73142 -> @139
+per-
+@\discretionary via @140 b=26 p=50 d=3796
+@\discretionary via @141 b=0 p=50 d=2600
+@@163: line 15.2- t=41355 -> @141
+haps 
+@ via @141 b=68 p=0 d=6084
+@ via @142 b=3 p=0 d=169
+@ via @143 b=3 p=0 d=169
+@@164: line 15.2 t=25551 -> @142
+some-
+@\discretionary via @144 b=0 p=50 d=2600
+@\discretionary via @145 b=0 p=50 d=2600
+@\discretionary via @146 b=129 p=50 d=41821
+@@165: line 15.2- t=24238 -> @145
+time 
+@ via @146 b=0 p=0 d=100
+@@166: line 15.2 t=34566 -> @146
+in 
+@ via @146 b=1 p=0 d=121
+@ via @147 b=120 p=0 d=16900
+@ via @148 b=120 p=0 d=26900
+@@167: line 15.0 t=42178 -> @147
+@@168: line 15.2 t=34587 -> @146
+the 
+@ via @147 b=0 p=0 d=100
+@ via @148 b=0 p=0 d=100
+@ via @149 b=20 p=0 d=900
+@ via @150 b=20 p=0 d=900
+@@169: line 15.1 t=15943 -> @150
+@@170: line 15.2 t=16107 -> @148
+17th 
+@ via @149 b=0 p=0 d=100
+@ via @150 b=0 p=0 d=100
+@ via @151 b=24 p=0 d=1156
+@ via @152 b=24 p=0 d=1156
+@@171: line 15.1 t=14896 -> @151
+@@172: line 15.2 t=15143 -> @150
+cen-
+@\discretionary via @151 b=0 p=50 d=2600
+@\discretionary via @152 b=0 p=50 d=2600
+@\discretionary via @153 b=0 p=50 d=2600
+@\discretionary via @154 b=157 p=50 d=40389
+@@173: line 15.2- t=12875 -> @153
+tury. 
+@ via @154 b=0 p=0 d=100
+@@174: line 15.2 t=7719 -> @154
+The 
+@ via @155 b=70 p=0 d=6400
+@ via @156 b=70 p=0 d=6400
+@@175: line 15.1 t=10641 -> @156
+manuscripts 
+@ via @158 b=0 p=0 d=100
+@ via @159 b=0 p=0 d=100
+@ via @160 b=5 p=0 d=225
+@@176: line 15.2 t=7897 -> @159
+are 
+@ via @160 b=0 p=0 d=100
+@@177: line 15.2 t=11647 -> @160
+scat-tered over the 
+@ via @161 b=7 p=0 d=289
+@ via @162 b=7 p=0 d=289
+@@178: line 16.2 t=66028 -> @161
+In-
+@\discretionary via @161 b=0 p=50 d=2600
+@\discretionary via @162 b=0 p=50 d=2600
+@\discretionary via @163 b=11 p=50 d=12941
+@@179: line 16.2- t=54296 -> @163
+dian 
+@ via @163 b=0 p=0 d=100
+@ via @164 b=67 p=0 d=5929
+@@180: line 16.1 t=31480 -> @164
+@@181: line 16.2 t=41455 -> @163
+sub-
+@\discretionary via @164 b=0 p=50 d=2600
+@\discretionary via @165 b=119 p=50 d=39141
+@@182: line 16.2- t=28151 -> @164
+con-
+@\discretionary via @165 b=0 p=50 d=12600
+@@183: line 16.2- t=36838 -> @165
+ti-
+@\discretionary via @165 b=0 p=50 d=12600
+@\discretionary via @166 b=146 p=50 d=36836
+@@184: line 16.2- t=36838 -> @165
+nent, 
+@ via @166 b=0 p=0 d=100
+@ via @167 b=17 p=0 d=729
+@ via @168 b=17 p=0 d=729
+@@185: line 16.1 t=35316 -> @168
+@@186: line 16.2 t=34666 -> @166
+which 
+@ via @169 b=0 p=0 d=100
+@ via @170 b=0 p=0 d=100
+@ via @171 b=174 p=0 d=33856
+@ via @172 b=174 p=0 d=43856
+@@187: line 16.2 t=16043 -> @169
+sug-
+@\discretionary via @171 b=0 p=50 d=2600
+@\discretionary via @172 b=0 p=50 d=2600
+@\discretionary via @173 b=66 p=50 d=18276
+@@188: line 16.2- t=17496 -> @171
+gests 
+@ via @173 b=0 p=0 d=100
+@@189: line 16.2 t=12975 -> @173
+that 
+@ via @174 b=0 p=0 d=100
+@@190: line 16.2 t=7819 -> @174
+it 
+@ via @174 b=0 p=0 d=100
+@ via @175 b=17 p=0 d=729
+@@191: line 16.1 t=11370 -> @175
+@@192: line 16.2 t=7819 -> @174
+was 
+@ via @175 b=0 p=0 d=100
+@@193: line 16.2 t=10741 -> @175
+widely 
+@ via @176 b=105 p=0 d=23225
+@@194: line 16.0 t=31122 -> @176
+trans-
+@\discretionary via @176 b=0 p=50 d=2600
+@\discretionary via @177 b=1 p=50 d=2621
+@@195: line 16.2- t=10497 -> @176
+mit-
+@\discretionary via @177 b=0 p=50 d=2600
+@@196: line 16.2- t=14247 -> @177
+ted at some point. 
+@ via @178 b=0 p=0 d=100
+@ via @179 b=0 p=0 d=100
+@@197: line 17.2 t=54396 -> @179
+Lenghty 
+@ via @180 b=30 p=0 d=11600
+@ via @181 b=30 p=0 d=1600
+@ via @182 b=0 p=0 d=100
+@ via @183 b=71 p=0 d=6561
+@@198: line 17.2 t=28251 -> @182
+pas-
+@\discretionary via @183 b=0 p=50 d=12600
+@\discretionary via @184 b=0 p=50 d=12600
+@@199: line 17.2- t=49438 -> @184
+sages 
+@ via @184 b=62 p=0 d=5184
+@ via @185 b=5 p=0 d=225
+@ via @186 b=5 p=0 d=225
+@@200: line 17.2 t=34891 -> @186
+@@201: line 17.3 t=42022 -> @184
+of 
+@ via @185 b=0 p=0 d=100
+@ via @186 b=0 p=0 d=100
+@@202: line 17.2 t=34766 -> @186
+the 
+@ via @185 b=86 p=0 d=19216
+@ via @186 b=86 p=0 d=9216
+@ via @187 b=8 p=0 d=324
+@@203: line 17.2 t=16367 -> @187
+YTB 
+@ via @187 b=5 p=0 d=225
+@ via @188 b=0 p=0 d=100
+@@204: line 17.2 t=16268 -> @187
+are 
+@ via @188 b=10 p=0 d=400
+@ via @189 b=5 p=0 d=225
+@@205: line 17.2 t=13200 -> @189
+quoted 
+@ via @190 b=0 p=0 d=100
+@ via @191 b=0 p=0 d=100
+@ via @192 b=0 p=0 d=100
+@@206: line 17.2 t=7919 -> @192
+with-
+@\discretionary via @193 b=0 p=50 d=2600
+@@207: line 17.2- t=13341 -> @193
+out 
+@ via @193 b=9 p=0 d=361
+@ via @194 b=93 p=0 d=10609
+@@208: line 17.2 t=11102 -> @193
+at-
+@\discretionary via @194 b=0 p=50 d=12600
+@@209: line 17.2- t=43722 -> @194
+tri-
+@\discretionary via @194 b=0 p=50 d=12600
+@\discretionary via @195 b=65 p=50 d=18125
+@@210: line 17.1- t=28622 -> @195
+bu-
+@\discretionary via @194 b=43 p=50 d=15309
+@\discretionary via @195 b=0 p=50 d=12600
+@\discretionary via @196 b=131 p=50 d=42381
+@@211: line 17.2- t=23097 -> @195
+tion 
+@ via @195 b=0 p=0 d=100
+@ via @196 b=0 p=0 d=100
+@@212: line 17.2 t=10597 -> @195
+in 
+@ via @196 b=0 p=0 d=100
+@@213: line 17.2 t=14347 -> @196
+a 
+@ via @196 b=5 p=0 d=225
+@@214: line 17.2 t=14472 -> @196
+text called \TU/AdobeTextPro(0)/m/it/10 Yo-
+@\discretionary via @197 b=2 p=50 d=2644
+@@215: line 18.2- t=57040 -> @197
+gasaṃ-
+@\discretionary via @198 b=158 p=50 d=40724
+@@216: line 18.0- t=68975 -> @198
+graha
+@\kern via @198 b=0 p=0 d=100
+@\kern via @199 b=15 p=0 d=625
+@@217: line 18.2 t=28351 -> @198
+ \TU/AdobeTextPro(0)/m/n/10 as 
+@ via @198 b=17 p=0 d=729
+@ via @199 b=0 p=0 d=100
+@@218: line 18.3 t=28980 -> @198
+well 
+@ via @200 b=0 p=0 d=100
+@ via @201 b=0 p=0 d=100
+@ via @202 b=63 p=0 d=5329
+@@219: line 18.1 t=40095 -> @202
+@@220: line 18.2 t=34991 -> @200
+as 
+@ via @200 b=0 p=0 d=100
+@ via @201 b=0 p=0 d=100
+@ via @202 b=0 p=0 d=100
+@@221: line 18.2 t=34866 -> @202
+Sun-
+@\discretionary via @202 b=35 p=50 d=4525
+@\discretionary via @203 b=0 p=50 d=2600
+@@222: line 18.2- t=18967 -> @203
+da-
+@\discretionary via @203 b=0 p=50 d=2600
+@\discretionary via @204 b=26 p=50 d=3796
+@@223: line 18.1- t=20064 -> @204
+@@224: line 18.2- t=18967 -> @203
+radeva’s 
+@ via @205 b=0 p=0 d=100
+@@225: line 18.2 t=13300 -> @205
+\TU/AdobeTextPro(0)/m/it/10 Haṭhasaṅke-
+@\discretionary via @207 b=0 p=50 d=12600
+@\discretionary via @208 b=22 p=50 d=3524
+@@226: line 18.1- t=14626 -> @208
+ta-
+@\discretionary via @207 b=30 p=50 d=14100
+@\discretionary via @208 b=0 p=50 d=2600
+@\discretionary via @209 b=17 p=50 d=13229
+@@227: line 18.2- t=13702 -> @208
+can-
+@\discretionary via @208 b=11 p=50 d=2941
+@\discretionary via @209 b=0 p=50 d=12600
+@\discretionary via @210 b=0 p=50 d=12600
+@\discretionary via @211 b=153 p=50 d=49069
+@@228: line 18.2- t=14043 -> @208
+drikā\TU/AdobeTextPro(0)/m/n/10 . 
+@\par via @211 b=0 p=-10000 d=5100
+@\par via @212 b=0 p=-10000 d=100
+@\par via @213 b=0 p=-10000 d=100
+@\par via @214 b=0 p=-10000 d=100
+@\par via @215 b=0 p=-10000 d=5100
+@\par via @216 b=0 p=-10000 d=15100
+@\par via @217 b=0 p=-10000 d=100
+@\par via @218 b=0 p=-10000 d=100
+@\par via @219 b=0 p=-10000 d=100
+@\par via @220 b=0 p=-10000 d=100
+@\par via @221 b=0 p=-10000 d=100
+@\par via @222 b=0 p=-10000 d=5100
+@\par via @223 b=0 p=-10000 d=5100
+@\par via @224 b=0 p=-10000 d=5100
+@\par via @225 b=0 p=-10000 d=100
+@\par via @226 b=0 p=-10000 d=5100
+@\par via @227 b=0 p=-10000 d=5100
+@\par via @228 b=0 p=-10000 d=5100
+@@229: line 18.2- t=10697 -> @212
+
+
+LaTeX Warning: Citation 'birch2014' on page 3 undefined on input line 238.
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/AdobeTextPro(0)/m/n/8 Ma
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/AdobeTextPro(0)/m/n/8 Manuscripts un-der the name of \TU/AdobeTextPro
+(0)/m/it/8 Yo-gas-var-o-daya \TU/AdobeTextPro(0)/m/n/8 seem to be lost. I was no
+t able to al-lo-cate the 
+@ via @0 b=8 p=0 d=324
+@@1: line 1.2 t=324 -> @0
+manuscripts of the text in any manuscript cat-a-logue at hand.| 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=424 -> @1
+
+
+LaTeX Warning: Citation 'mallinsononline2013' on page 3 undefined on input line
+ 238.
+
+@firstpass
+[][][][] \TU/AdobeTextPro(0)/m/n/8 (2013) es-ti-mated the age of the \TU/AdobeT
+extPro(0)/m/it/8 Sid-dhasid-dhān-ta-pad-dhati \TU/AdobeTextPro(0)/m/n/8 to circ
+a 1700. 
+@ via @0 b=9 p=0 d=361
+@@1: line 1.2 t=361 -> @0
+The 
+@ via @0 b=21 p=0 d=961
+@@2: line 1.3 t=961 -> @0
+ex-ten-sive use of the \TU/AdobeTextPro(0)/m/it/8 Sid-dhasid-dhān-ta-pad-dhati \TU/AdobeTextPro(0)/m/n/8 as R
+ā-macan-dra’s source text and the bad con-di-tion 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=53 p=0 d=13969
+@@3: line 2.2 t=461 -> @1
+of 
+@ via @1 b=1 p=0 d=121
+@ via @2 b=0 p=0 d=100
+@@4: line 2.2 t=482 -> @1
+the 
+@ via @2 b=0 p=0 d=100
+@@5: line 2.2 t=1061 -> @2
+@secondpass
+[][][][] \TU/AdobeTextPro(0)/m/n/8 (2013) es-ti-mated the age of the \TU/AdobeT
+extPro(0)/m/it/8 Sid-dhasid-dhān-ta-pad-dhati \TU/AdobeTextPro(0)/m/n/8 to circ
+a 
+@ via @0 b=2310 p=0 d=5392400
+@@1: line 1.0 t=5392400 -> @0
+1700. 
+@ via @0 b=9 p=0 d=361
+@@2: line 1.2 t=361 -> @0
+The 
+@ via @0 b=21 p=0 d=961
+@@3: line 1.3 t=961 -> @0
+ex-ten-sive use of the \TU/AdobeTextPro(0)/m/it/8 Sid-dhasid-dhān-ta-pad-dhati \TU/AdobeTextPro(0)/m/n/8 as R
+ā-macan-dra’s source text and 
+@ via @1 b=3108 p=0 d=9721924
+@@4: line 2.0 t=15114324 -> @1
+the 
+@ via @1 b=652 p=0 d=438244
+@@5: line 2.0 t=5830644 -> @1
+bad 
+@ via @1 b=27 p=0 d=1369
+@ via @2 b=2057 p=0 d=4282489
+@@6: line 2.0 t=4282850 -> @2
+con-
+@\discretionary via @1 b=0 p=50 d=12600
+@\discretionary via @2 b=146 p=50 d=36836
+@\discretionary via @3 b=1845 p=50 d=3453525
+@@7: line 2.0- t=37197 -> @2
+di-
+@\discretionary via @1 b=0 p=50 d=12600
+@\discretionary via @2 b=16 p=50 d=3176
+@\discretionary via @3 b=800 p=50 d=668600
+@@8: line 2.1- t=3537 -> @2
+tion 
+@ via @2 b=0 p=0 d=100
+@ via @3 b=53 p=0 d=13969
+@@9: line 2.2 t=461 -> @2
+of 
+@ via @2 b=1 p=0 d=121
+@ via @3 b=0 p=0 d=100
+@@10: line 2.2 t=482 -> @2
+the 
+@ via @3 b=0 p=0 d=100
+@@11: line 2.2 t=1061 -> @3
+old-est dated manuscript of the YTB sug-gests (not proves) an 
+@ via @4 b=5985 p=0 d=35940025
+@@12: line 3.0 t=51054349 -> @4
+ear-
+@\discretionary via @4 b=1755 p=50 d=3117725
+@\discretionary via @5 b=5637 p=50 d=31891109
+@@13: line 3.0- t=18232049 -> @4
+lier 
+@ via @4 b=638 p=0 d=419904
+@ via @5 b=2799 p=0 d=7890481
+@@14: line 3.0 t=13721125 -> @5
+dat-
+@\discretionary via @4 b=38 p=50 d=4804
+@\discretionary via @5 b=539 p=50 d=303901
+@\discretionary via @6 b=2865 p=50 d=8268125
+@\discretionary via @7 b=6893 p=50 d=47663909
+@@15: line 3.0- t=6134545 -> @5
+ing 
+@ via @4 b=0 p=0 d=10100
+@ via @5 b=113 p=0 d=15129
+@ via @6 b=1210 p=0 d=1488400
+@ via @7 b=3713 p=0 d=13860729
+@ via @8 b=5862 p=0 d=34480384
+@@16: line 3.0 t=5771250 -> @6
+of 
+@ via @4 b=0 p=0 d=10100
+@ via @5 b=5 p=0 d=10225
+@ via @6 b=332 p=0 d=116964
+@ via @7 b=1490 p=0 d=2250000
+@ via @8 b=2626 p=0 d=6948496
+@@17: line 3.0 t=2287197 -> @7
+the 
+@ via @4 b=40 p=0 d=12500
+@ via @5 b=0 p=0 d=10100
+@ via @6 b=11 p=0 d=10441
+@ via @7 b=269 p=0 d=77841
+@ via @8 b=652 p=0 d=438244
+@ via @9 b=3240 p=0 d=10572500
+@ via @10 b=6961 p=0 d=48604841
+@@18: line 3.0 t=115038 -> @7
+\TU/AdobeTextPro(0)/m/it/8 Sid-
+@\discretionary via @5 b=60 p=50 d=17400
+@\discretionary via @6 b=0 p=50 d=12600
+@\discretionary via @7 b=5 p=50 d=22725
+@\discretionary via @8 b=53 p=50 d=16469
+@\discretionary via @9 b=779 p=50 d=635021
+@\discretionary via @10 b=2119 p=50 d=4545141
+@\discretionary via @11 b=6461 p=50 d=41886341
+@@19: line 3.1- t=20006 -> @8
+dhasid-
+@\discretionary via @7 b=7 p=50 d=22789
+@\discretionary via @8 b=0 p=50 d=12600
+@\discretionary via @9 b=6 p=50 d=2756
+@\discretionary via @10 b=122 p=50 d=29924
+@\discretionary via @11 b=1052 p=50 d=1140344
+@@20: line 3.2- t=3217 -> @9
+dhān-
+@\discretionary via @9 b=0 p=50 d=2600
+@\discretionary via @10 b=0 p=50 d=2600
+@\discretionary via @11 b=50 p=50 d=6100
+@@21: line 3.1- t=7161 -> @11
+@@22: line 3.2- t=3061 -> @9
+ta-
+@\discretionary via @9 b=20 p=50 d=3400
+@\discretionary via @10 b=0 p=50 d=2600
+@\discretionary via @11 b=1 p=50 d=2621
+@@23: line 3.2- t=3082 -> @10
+@@24: line 3.3- t=3861 -> @9
+pad-
+@\discretionary via @11 b=0 p=50 d=2600
+@@25: line 3.2- t=3661 -> @11
+dhati \TU/AdobeTextPro(0)/m/n/8 up to sev-eral years or decades be-fore 1700.| 
+@\par via @12 b=0 p=-10000 d=10100
+@\par via @13 b=0 p=-10000 d=15100
+@\par via @14 b=0 p=-10000 d=10100
+@\par via @15 b=0 p=-10000 d=15100
+@\par via @16 b=0 p=-10000 d=10100
+@\par via @17 b=0 p=-10000 d=10100
+@\par via @18 b=0 p=-10000 d=10100
+@\par via @19 b=0 p=-10000 d=5100
+@\par via @20 b=0 p=-10000 d=5100
+@\par via @21 b=0 p=-10000 d=5100
+@\par via @22 b=0 p=-10000 d=5100
+@\par via @23 b=0 p=-10000 d=5100
+@\par via @24 b=0 p=-10000 d=5100
+@\par via @25 b=0 p=-10000 d=5100
+@@26: line 4.2- t=8161 -> @22
+
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10 The YTB has not been dis-cussed or con-sid-ered in sec-ondary lit-er-a-ture on 
+@ via @0 b=83 p=0 d=8649
+@@1: line 1.1 t=8649 -> @0
+Yoga. 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+The only ex-cep-tion is [] (2014: 415–416) which briefly de-scribed 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=8749 -> @1
+the 
+@ via @1 b=25 p=0 d=11225
+@ via @2 b=58 p=0 d=4624
+@@4: line 2.1 t=4724 -> @2
+text 
+@ via @2 b=0 p=0 d=100
+@@5: line 2.2 t=200 -> @2
+in 
+@ via @2 b=81 p=0 d=8281
+@@6: line 2.3 t=8381 -> @2
+the con-text of the “fif-teen me-dieval Yo-gas” and noted that a sim-i-lar 
+@ via @3 b=31 p=0 d=1681
+@@7: line 3.1 t=10430 -> @3
+list 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=39 p=0 d=2401
+@@8: line 3.1 t=7125 -> @4
+@@9: line 3.2 t=8849 -> @3
+oc-curs 
+@ via @4 b=23 p=0 d=11089
+@ via @5 b=0 p=0 d=100
+@ via @6 b=31 p=0 d=11681
+@@10: line 3.2 t=300 -> @5
+in 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@@11: line 3.2 t=300 -> @5
+Nārāyaṇatīrtha’s \TU/AdobeTextPro(0)/m/it/10 Yo-gasid-dhān-ta-can-drik
+ā \TU/AdobeTextPro(0)/m/n/10 (17th - 18th cen-tury), a 
+@ via @7 b=99 p=0 d=11881
+@@12: line 4.1 t=22311 -> @7
+com-men-tary 
+@ via @10 b=0 p=0 d=100
+@@13: line 4.2 t=400 -> @10
+on 
+@ via @10 b=3 p=0 d=169
+@ via @11 b=0 p=0 d=100
+@@14: line 4.2 t=400 -> @11
+Patañ-jali’s Yo-gasū-tras that in-te-grates al-most and iden-ti-cal tax-on-o
+my 
+@ via @12 b=84 p=0 d=18836
+@@15: line 5.3 t=41147 -> @12
+of yo-gas 
+@ via @13 b=0 p=0 d=100
+@@16: line 5.2 t=500 -> @13
+within 
+@ via @14 b=6 p=0 d=256
+@@17: line 5.2 t=656 -> @14
+the \TU/AdobeTextPro(0)/m/it/10 aṣṭāṅga \TU/AdobeTextPro(0)/m/n/10 for-ma
+t. An in-com-plete ac-count of the fif-teen Yo-gas 
+@ via @15 b=1 p=0 d=121
+@@18: line 6.2 t=41268 -> @15
+is 
+@ via @15 b=0 p=0 d=100
+@@19: line 6.2 t=41247 -> @15
+found 
+@ via @16 b=2 p=0 d=144
+@@20: line 6.2 t=644 -> @16
+within 
+@ via @17 b=2 p=0 d=144
+@@21: line 6.2 t=800 -> @17
+the 
+@ via @17 b=0 p=0 d=100
+@@22: line 6.2 t=756 -> @17
+San-skrit Yoga text \TU/AdobeTextPro(0)/m/it/10 Yo-gas-var-o-daya \TU/AdobeText
+Pro(0)/m/n/10 (YSv), which is known only 
+@ via @18 b=0 p=0 d=100
+@ via @19 b=1 p=0 d=121
+@@23: line 7.2 t=41368 -> @19
+through 
+@ via @20 b=0 p=0 d=100
+@@24: line 7.2 t=744 -> @20
+quo-ta-tions 
+@ via @22 b=0 p=0 d=100
+@@25: line 7.2 t=856 -> @22
+in 
+@ via @22 b=40 p=0 d=2500
+@@26: line 7.3 t=3256 -> @22
+the \TU/AdobeTextPro(0)/m/it/10 Prāṇa-toṣinī \TU/AdobeTextPro(0)/m/n/10 an
+d \TU/AdobeTextPro(0)/m/it/10 Yo-gakarṇikā\TU/AdobeTextPro(0)/m/n/10 .[][][]
+[] The YSv pro-vides a to-tal 
+@ via @23 b=0 p=0 d=100
+@@27: line 8.2 t=41468 -> @23
+of 
+@ via @23 b=38 p=0 d=2304
+@@28: line 8.3 t=43672 -> @23
+fif-teen 
+@ via @24 b=0 p=0 d=100
+@@29: line 8.2 t=844 -> @24
+Yo-gas 
+@ via @25 b=27 p=0 d=1369
+@@30: line 8.1 t=2225 -> @25
+but 
+@ via @25 b=0 p=0 d=100
+@ via @26 b=2 p=0 d=144
+@@31: line 8.2 t=956 -> @25
+names only eight of them in its in-tro-duc-tory \TU/AdobeTextPro(0)/m/it/10 ślo
+ka\TU/AdobeTextPro(0)/m/n/10 s. A com-plete 
+@ via @27 b=2 p=0 d=144
+@ via @28 b=0 p=0 d=100
+@@32: line 9.2 t=41612 -> @27
+ac-count 
+@ via @29 b=0 p=0 d=100
+@ via @30 b=93 p=0 d=10609
+@@33: line 9.2 t=944 -> @29
+of 
+@ via @29 b=81 p=0 d=8281
+@ via @30 b=2 p=0 d=144
+@@34: line 9.2 t=2369 -> @30
+@@35: line 9.3 t=9125 -> @29
+the 
+@ via @30 b=0 p=0 d=100
+@ via @31 b=3 p=0 d=169
+@@36: line 9.2 t=1125 -> @31
+text 
+@ via @31 b=0 p=0 d=100
+@@37: line 9.2 t=1056 -> @31
+is 
+@ via @31 b=79 p=0 d=7921
+@@38: line 9.3 t=8877 -> @31
+yet to be found. The \TU/AdobeTextPro(0)/m/it/10 Yo-gas-var-o-daya \TU/AdobeTex
+tPro(0)/m/n/10 is the pri-mary source 
+@ via @32 b=1 p=0 d=121
+@@39: line 10.2 t=41733 -> @32
+and 
+@ via @32 b=0 p=0 d=100
+@@40: line 10.2 t=41712 -> @32
+tem-plate 
+@ via @33 b=11 p=0 d=441
+@ via @34 b=0 p=0 d=100
+@ via @35 b=0 p=0 d=100
+@ via @36 b=17 p=0 d=729
+@@41: line 10.1 t=1854 -> @36
+@@42: line 10.2 t=1385 -> @33
+for 
+@ via @34 b=53 p=0 d=3969
+@ via @35 b=53 p=0 d=3969
+@ via @36 b=0 p=0 d=100
+@ via @37 b=53 p=0 d=3969
+@@43: line 10.1 t=5025 -> @37
+@@44: line 10.2 t=1225 -> @36
+@@45: line 10.3 t=6338 -> @34
+the 
+@ via @36 b=57 p=0 d=4489
+@ via @37 b=0 p=0 d=100
+@ via @38 b=5 p=0 d=225
+@@46: line 10.2 t=1156 -> @37
+@@47: line 10.3 t=5614 -> @36
+com-pi-la-tion of the YTB. Rā-macan-dra closely fol-lows the 
+@ via @39 b=36 p=0 d=2116
+@@48: line 11.1 t=43849 -> @39
+con-tent 
+@ via @40 b=0 p=0 d=100
+@@49: line 11.2 t=41812 -> @40
+and struc-ture 
+@ via @43 b=0 p=0 d=100
+@ via @44 b=0 p=0 d=100
+@ via @45 b=0 p=0 d=100
+@ via @46 b=1 p=0 d=121
+@ via @47 b=1 p=0 d=121
+@@50: line 11.2 t=1277 -> @46
+by 
+@ via @46 b=0 p=0 d=100
+@ via @47 b=0 p=0 d=100
+@@51: line 11.2 t=1256 -> @46
+rewrit-ing the YSv’s \TU/AdobeTextPro(0)/m/it/10 śloka\TU/AdobeTextPro(0)/m/
+n/10 s into prose. Due to the in-com-plete 
+@ via @49 b=38 p=0 d=2304
+@@52: line 12.1 t=44116 -> @49
+trans-mis-sion 
+@ via @50 b=91 p=0 d=10201
+@@53: line 12.1 t=11478 -> @50
+of 
+@ via @50 b=1 p=0 d=121
+@@54: line 12.2 t=1398 -> @50
+the 
+@ via @50 b=0 p=0 d=100
+@ via @51 b=0 p=0 d=100
+@@55: line 12.2 t=1356 -> @51
+YSv, 
+@ via @51 b=41 p=0 d=2601
+@@56: line 12.3 t=3857 -> @51
+Rā-macan-dra’s YTB is a nat-u-ral and valu-able start-ing point 
+@ via @52 b=0 p=0 d=100
+@@57: line 13.2 t=44216 -> @52
+for a more 
+@ via @53 b=0 p=0 d=100
+@ via @54 b=24 p=0 d=1156
+@@58: line 13.1 t=2554 -> @54
+@@59: line 13.2 t=11578 -> @53
+in-
+@\discretionary via @53 b=0 p=50 d=2600
+@\discretionary via @54 b=0 p=50 d=2600
+@\discretionary via @55 b=73 p=50 d=9389
+@@60: line 13.1- t=10745 -> @55
+@@61: line 13.2- t=3998 -> @54
+depth 
+@ via @55 b=0 p=0 d=100
+@ via @56 b=12 p=0 d=484
+@@62: line 13.2 t=1456 -> @55
+study 
+@ via @56 b=23 p=0 d=1089
+@@63: line 13.3 t=4946 -> @56
+of the tax-on-omy of the fif-teen types of Yoga. The other 
+@ via @57 b=0 p=0 d=100
+@@64: line 14.2 t=44316 -> @57
+source 
+@ via @58 b=34 p=0 d=1936
+@ via @59 b=34 p=0 d=1936
+@@65: line 14.1 t=4490 -> @58
+text 
+@ via @58 b=0 p=0 d=100
+@ via @59 b=0 p=0 d=100
+@ via @60 b=2 p=0 d=144
+@ via @61 b=2 p=0 d=144
+@@66: line 14.2 t=2654 -> @58
+that 
+@ via @60 b=0 p=0 d=100
+@ via @61 b=0 p=0 d=100
+@ via @62 b=43 p=0 d=2809
+@@67: line 14.1 t=4265 -> @62
+@@68: line 14.2 t=4098 -> @61
+Rā-macan-dra 
+@ via @63 b=12 p=0 d=484
+@@69: line 14.2 t=5430 -> @63
+used is the \TU/AdobeTextPro(0)/m/it/10 Sid-dhasid-dhān-ta-pad-dhati \TU/Adobe
+TextPro(0)/m/n/10 (SSP)[][][][] whose 
+@ via @64 b=0 p=0 d=100
+@@70: line 15.2 t=44416 -> @64
+con-tent 
+@ via @65 b=0 p=0 d=100
+@@71: line 15.2 t=4590 -> @65
+he 
+@ via @66 b=0 p=0 d=100
+@@72: line 15.2 t=2754 -> @66
+draws 
+@ via @67 b=0 p=0 d=100
+@ via @68 b=0 p=0 d=100
+@@73: line 15.2 t=4198 -> @68
+on, par-tic-u-larly in the last third of his com-po-si-tion. An-other 
+@ via @70 b=10 p=0 d=400
+@@74: line 16.2 t=44816 -> @70
+text 
+@ via @70 b=0 p=0 d=100
+@@75: line 16.2 t=44516 -> @70
+that 
+@ via @71 b=2 p=0 d=144
+@@76: line 16.2 t=4734 -> @71
+in-cludes 
+@ via @72 b=69 p=0 d=6241
+@ via @73 b=9 p=0 d=361
+@@77: line 16.2 t=4559 -> @73
+@@78: line 16.3 t=8995 -> @72
+a 
+@ via @73 b=0 p=0 d=100
+@@79: line 16.2 t=4298 -> @73
+sim-i-lar tax-on-omy of twelve Yo-gas di-vided into three tetrads 
+@ via @74 b=2 p=0 d=144
+@@80: line 17.2 t=44960 -> @74
+is 
+@ via @74 b=0 p=0 d=100
+@@81: line 17.2 t=44916 -> @74
+Sun-dardās’s 
+@ via @76 b=53 p=0 d=3969
+@@82: line 17.3 t=8703 -> @76
+\TU/AdobeTextPro(0)/m/it/10 brāj 
+@ via @77 b=0 p=0 d=100
+@ via @78 b=0 p=0 d=100
+@ via @79 b=9 p=0 d=361
+@@83: line 17.2 t=4659 -> @79
+bhāṣa
+@\kern via @79 b=88 p=0 d=9604
+@@84: line 17.3 t=13902 -> @79
+ \TU/AdobeTextPro(0)/m/n/10 Yoga text named \TU/AdobeTextPro(0)/m/it/10 Sarvā
+ṅ-gayo-gapradīpikā \TU/AdobeTextPro(0)/m/n/10 which not just 
+@ via @80 b=0 p=0 d=100
+@ via @81 b=7 p=0 d=289
+@@85: line 18.2 t=45060 -> @80
+shares most 
+@ via @82 b=6 p=0 d=256
+@@86: line 18.2 t=8959 -> @82
+of 
+@ via @82 b=0 p=0 d=100
+@@87: line 18.2 t=8803 -> @82
+the 
+@ via @83 b=0 p=0 d=100
+@@88: line 18.2 t=4759 -> @83
+types 
+@ via @84 b=0 p=0 d=100
+@@89: line 18.2 t=14002 -> @84
+of 
+@ via @84 b=0 p=0 d=100
+@@90: line 18.2 t=14002 -> @84
+Yo-gas but also many of the prac-tices and con-tents 
+@ via @85 b=52 p=0 d=3844
+@@91: line 19.1 t=48904 -> @85
+found 
+@ via @85 b=1 p=0 d=121
+@@92: line 19.2 t=45181 -> @85
+within 
+@ via @86 b=10 p=0 d=400
+@@93: line 19.2 t=9359 -> @86
+the 
+@ via @86 b=0 p=0 d=100
+@ via @87 b=0 p=0 d=100
+@@94: line 19.2 t=8903 -> @87
+YTB 
+@ via @87 b=40 p=0 d=2500
+@ via @88 b=0 p=0 d=100
+@@95: line 19.2 t=4859 -> @88
+@@96: line 19.3 t=11303 -> @87
+and 
+@ via @88 b=78 p=0 d=7744
+@ via @89 b=0 p=0 d=100
+@ via @90 b=82 p=0 d=8464
+@@97: line 19.1 t=22466 -> @90
+@@98: line 19.2 t=14102 -> @89
+@@99: line 19.3 t=12503 -> @88
+YSv. 
+@ via @89 b=4 p=0 d=196
+@ via @90 b=0 p=0 d=100
+@@100: line 19.2 t=14102 -> @90
+These com-plex tax-onomies that emerged dur-ing 
+@ via @91 b=0 p=0 d=100
+@@101: line 20.2 t=49004 -> @91
+the 
+@ via @91 b=38 p=0 d=12304
+@ via @92 b=25 p=0 d=1225
+@@102: line 20.1 t=46406 -> @92
+17th 
+@ via @92 b=0 p=0 d=100
+@@103: line 20.2 t=45281 -> @92
+and 
+@ via @93 b=0 p=0 d=100
+@@104: line 20.2 t=9459 -> @93
+18th 
+@ via @94 b=0 p=0 d=100
+@@105: line 20.2 t=9003 -> @94
+cen-turies 
+@ via @97 b=0 p=0 d=100
+@ via @98 b=0 p=0 d=100
+@ via @99 b=0 p=0 d=100
+@@106: line 20.2 t=12603 -> @99
+crossed 
+@ via @100 b=72 p=0 d=6724
+@@107: line 20.3 t=20826 -> @100
+sec-tar-ian di-vides and were adapted to the 
+@ via @101 b=31 p=0 d=1681
+@@108: line 21.1 t=50685 -> @101
+spe-cific 
+@ via @102 b=0 p=0 d=100
+@ via @103 b=96 p=0 d=11236
+@@109: line 21.2 t=46506 -> @102
+needs 
+@ via @103 b=2 p=0 d=144
+@ via @104 b=2 p=0 d=144
+@@110: line 21.2 t=9603 -> @104
+of 
+@ via @104 b=0 p=0 d=100
+@@111: line 21.2 t=9559 -> @104
+dif-fer-ent au-thors 
+@ via @106 b=26 p=0 d=1296
+@@112: line 21.3 t=13899 -> @106
+and 
+@ via @107 b=0 p=0 d=100
+@@113: line 21.2 t=20926 -> @107
+tra-di-tions. The YTB thus en-cap-su-lates 
+@ via @108 b=61 p=0 d=5041
+@@114: line 22.1 t=55726 -> @108
+the 
+@ via @108 b=0 p=0 d=100
+@@115: line 22.2 t=50785 -> @108
+di-ver-sity 
+@ via @109 b=0 p=0 d=100
+@@116: line 22.2 t=46606 -> @109
+of 
+@ via @109 b=82 p=0 d=8464
+@ via @110 b=9 p=0 d=361
+@@117: line 22.2 t=9964 -> @110
+Haṭha- 
+@ via @111 b=0 p=0 d=100
+@@118: line 22.2 t=9659 -> @111
+and Rā-jayoga 
+@ via @112 b=0 p=0 d=100
+@@119: line 22.2 t=13999 -> @112
+types 
+@ via @113 b=0 p=0 d=100
+@@120: line 22.2 t=21026 -> @113
+and teach-ings af-ter the \TU/AdobeTextPro(0)/m/it/10 Haṭhapradīpikā
+@\kern via @114 b=0 p=0 d=100
+@\kern via @115 b=25 p=0 d=1225
+@@121: line 23.1 t=52010 -> @115
+@@122: line 23.2 t=55826 -> @114
+ \TU/AdobeTextPro(0)/m/n/10 (15th 
+@ via @115 b=29 p=0 d=1521
+@@123: line 23.3 t=52306 -> @115
+cen-tury) 
+@ via @116 b=19 p=0 d=841
+@ via @117 b=0 p=0 d=100
+@@124: line 23.2 t=10064 -> @117
+that 
+@ via @118 b=7 p=0 d=289
+@@125: line 23.2 t=9948 -> @118
+were 
+@ via @118 b=34 p=0 d=1936
+@@126: line 23.3 t=11595 -> @118
+adopted 
+@ via @119 b=2 p=0 d=144
+@@127: line 23.2 t=14143 -> @119
+by 
+@ via @119 b=0 p=0 d=100
+@@128: line 23.2 t=14099 -> @119
+a 
+@ via @119 b=7 p=0 d=289
+@ via @120 b=37 p=0 d=2209
+@@129: line 23.1 t=23235 -> @120
+@@130: line 23.2 t=14288 -> @119
+broad 
+@ via @120 b=27 p=0 d=1369
+@@131: line 23.3 t=22395 -> @120
+spec-trum of re-li-gious tra-di-tions and 
+@ via @121 b=0 p=0 d=100
+@ via @122 b=0 p=0 d=100
+@@132: line 24.2 t=52110 -> @121
+strata 
+@ via @123 b=0 p=0 d=100
+@@133: line 24.2 t=52406 -> @123
+of 
+@ via @123 b=8 p=0 d=324
+@@134: line 24.2 t=52630 -> @123
+In-dian 
+@ via @124 b=0 p=0 d=100
+@ via @125 b=80 p=0 d=8100
+@@135: line 24.1 t=18048 -> @125
+@@136: line 24.2 t=10164 -> @124
+so-ci-ety. 
+@ via @125 b=48 p=0 d=3364
+@ via @126 b=1 p=0 d=121
+@@137: line 24.2 t=11716 -> @126
+@@138: line 24.3 t=13312 -> @125
+In 
+@ via @126 b=0 p=0 d=100
+@@139: line 24.2 t=11695 -> @126
+the 
+@ via @127 b=23 p=0 d=1089
+@@140: line 24.1 t=15232 -> @127
+par-tic-u-lar 
+@ via @128 b=74 p=0 d=7056
+@ via @129 b=1 p=0 d=121
+@ via @130 b=1 p=0 d=121
+@ via @131 b=78 p=0 d=17744
+@@141: line 24.2 t=14409 -> @130
+@@142: line 24.3 t=21155 -> @128
+case 
+@ via @131 b=0 p=0 d=100
+@@143: line 24.2 t=22495 -> @131
+of 
+@ via @131 b=20 p=0 d=900
+@@144: line 24.3 t=23295 -> @131
+the YTB, there are var-i-ous state-ments 
+@ via @133 b=0 p=0 d=100
+@ via @134 b=25 p=0 d=1225
+@@145: line 25.1 t=53855 -> @134
+@@146: line 25.2 t=52506 -> @133
+through-out 
+@ via @135 b=0 p=0 d=100
+@ via @136 b=0 p=0 d=100
+@@147: line 25.2 t=10264 -> @136
+the 
+@ via @137 b=19 p=0 d=841
+@ via @138 b=19 p=0 d=10841
+@@148: line 25.1 t=12557 -> @137
+text 
+@ via @137 b=0 p=0 d=100
+@ via @138 b=0 p=0 d=100
+@ via @139 b=0 p=0 d=100
+@@149: line 25.2 t=11795 -> @139
+that 
+@ via @139 b=25 p=0 d=1225
+@ via @140 b=0 p=0 d=100
+@@150: line 25.2 t=15332 -> @140
+@@151: line 25.3 t=12920 -> @139
+re-veal a 
+@ via @141 b=10 p=0 d=400
+@ via @142 b=10 p=0 d=400
+@@152: line 25.2 t=14809 -> @141
+strat-egy 
+@ via @143 b=0 p=0 d=100
+@ via @144 b=0 p=0 d=100
+@@153: line 25.2 t=22595 -> @143
+to 
+@ via @143 b=41 p=0 d=2601
+@ via @144 b=0 p=0 d=100
+@@154: line 25.2 t=23395 -> @144
+@@155: line 25.3 t=25096 -> @143
+de-tach Yoga from its re-nun-ci-ate con-no-ta-tions 
+@ via @147 b=35 p=0 d=2025
+@@156: line 26.1 t=12289 -> @147
+and 
+@ via @147 b=0 p=0 d=100
+@ via @148 b=16 p=0 d=676
+@@157: line 26.1 t=13233 -> @148
+@@158: line 26.2 t=10364 -> @147
+to 
+@ via @147 b=32 p=0 d=1764
+@ via @148 b=0 p=0 d=100
+@@159: line 26.2 t=12657 -> @148
+@@160: line 26.3 t=12028 -> @147
+en-force 
+@ via @149 b=40 p=0 d=2500
+@ via @150 b=0 p=0 d=100
+@ via @151 b=0 p=0 d=100
+@@161: line 26.2 t=13020 -> @151
+@@162: line 26.3 t=14295 -> @149
+the 
+@ via @150 b=7 p=0 d=289
+@ via @151 b=7 p=0 d=289
+@@163: line 26.2 t=13209 -> @151
+supremacy 
+@ via @153 b=11 p=0 d=441
+@@164: line 26.2 t=23036 -> @153
+and 
+@ via @153 b=0 p=0 d=100
+@ via @154 b=0 p=0 d=100
+@ via @155 b=0 p=0 d=100
+@@165: line 26.2 t=22695 -> @153
+uni-ver-sal-ity of Rā-jayoga as a prac-tice that can 
+@ via @156 b=0 p=0 d=100
+@@166: line 27.2 t=12389 -> @156
+yield 
+@ via @157 b=0 p=0 d=100
+@ via @158 b=0 p=0 d=100
+@ via @159 b=5 p=0 d=225
+@ via @160 b=5 p=0 d=225
+@@167: line 27.2 t=10464 -> @158
+the 
+@ via @157 b=75 p=0 d=17225
+@ via @158 b=75 p=0 d=7225
+@ via @159 b=0 p=0 d=100
+@ via @160 b=0 p=0 d=100
+@@168: line 27.2 t=12128 -> @160
+@@169: line 27.3 t=17589 -> @158
+high-est 
+@ via @161 b=0 p=0 d=100
+@ via @162 b=0 p=0 d=100
+@ via @163 b=10 p=0 d=400
+@@170: line 27.2 t=13120 -> @161
+ben-e-fits even 
+@ via @164 b=0 p=0 d=100
+@@171: line 27.2 t=23136 -> @164
+for 
+@ via @164 b=12 p=0 d=484
+@ via @165 b=0 p=0 d=100
+@@172: line 27.2 t=22795 -> @165
+prac-ti-tion-ers who en-joy worldly plea-sures and 
+@ via @166 b=0 p=0 d=100
+@@173: line 28.2 t=12489 -> @166
+an 
+@ via @166 b=12 p=0 d=484
+@ via @167 b=12 p=0 d=484
+@@174: line 28.2 t=10948 -> @167
+ex-trav-a-gant 
+@ via @170 b=4 p=0 d=196
+@@175: line 28.2 t=13316 -> @170
+lifestyle. Tex-tual 
+@ via @171 b=0 p=0 d=100
+@ via @172 b=3 p=0 d=169
+@@176: line 28.2 t=22964 -> @172
+ev-i-dence sug-gests the pos-si-bil-ity that YTB may 
+@ via @173 b=0 p=0 d=100
+@@177: line 29.2 t=12589 -> @173
+be 
+@ via @173 b=0 p=0 d=100
+@ via @174 b=0 p=0 d=100
+@@178: line 29.2 t=11048 -> @174
+a 
+@ via @173 b=37 p=0 d=2209
+@ via @174 b=0 p=0 d=100
+@@179: line 29.2 t=11048 -> @174
+@@180: line 29.3 t=14698 -> @173
+unique 
+@ via @175 b=80 p=0 d=8100
+@@181: line 29.1 t=21416 -> @175
+ex-am-ple of a Rā-jayoga 
+@ via @176 b=0 p=0 d=100
+@@182: line 29.2 t=23064 -> @176
+text that was com-posed for a war-rior aris-toc-racy, 
+@ via @177 b=5 p=0 d=225
+@ via @178 b=0 p=0 d=100
+@ via @179 b=1 p=0 d=121
+@ via @180 b=1 p=0 d=121
+@@183: line 30.2 t=11148 -> @178
+mem-bers 
+@ via @181 b=0 p=0 d=100
+@@184: line 30.2 t=21516 -> @181
+of 
+@ via @181 b=34 p=0 d=11936
+@@185: line 30.3 t=33352 -> @181
+a royal court, per-haps 
+@ via @182 b=18 p=0 d=784
+@@186: line 30.3 t=23848 -> @182
+even mem-bers of a royal fam-ily or, at the very 
+@ via @183 b=0 p=0 d=100
+@@187: line 31.2 t=11248 -> @183
+least, 
+@ via @184 b=65 p=0 d=5625
+@@188: line 31.1 t=27141 -> @184
+the 
+@ via @184 b=0 p=0 d=100
+@ via @185 b=10 p=0 d=400
+@@189: line 31.2 t=21616 -> @184
+wealthy up-per class of 
+@ via @186 b=8 p=0 d=324
+@@190: line 31.2 t=24172 -> @186
+so-ci-ety. 
+@\par via @187 b=0 p=-10000 d=100
+@\par via @188 b=0 p=-10000 d=100
+@\par via @189 b=0 p=-10000 d=100
+@\par via @190 b=0 p=-10000 d=100
+@@191: line 32.2- t=11348 -> @187
+
+LaTeX Font Info:    Font shape `TU/AdobeTextPro(0)/m/sl' in size <10> not avail
+able
+(Font)              Font shape `TU/AdobeTextPro(0)/m/it' tried instead on input
+ line 239.
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/n/10 3|
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+[3]
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10 In ad-di-tion, the in-depth anal-y-sis of the YTB 
+also pro-vides a far-reaching in-sight 
+@ via @0 b=30 p=0 d=1600
+@@1: line 1.3 t=1600 -> @0
+into a com-plex in-ter-tex-tual net-work, all of which es-sen-tially de-liver th
+e same 
+@ via @1 b=93 p=0 d=20609
+@@2: line 2.1 t=22209 -> @1
+sets 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=1700 -> @1
+of 
+@ via @1 b=9 p=0 d=361
+@@4: line 2.2 t=1961 -> @1
+yoga the-o-rems and prac-tices with mi-nor de-vi-a-tions. The main fo-cus here 
+@ via @2 b=0 p=0 d=100
+@@5: line 3.2 t=22309 -> @2
+is 
+@ via @2 b=0 p=0 d=100
+@ via @3 b=19 p=0 d=841
+@@6: line 3.1 t=2541 -> @3
+on 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=7 p=0 d=289
+@@7: line 3.2 t=1800 -> @3
+three 
+@ via @4 b=24 p=0 d=1156
+@@8: line 3.3 t=3117 -> @4
+to five \TU/AdobeTextPro(0)/m/it/10 cakra\TU/AdobeTextPro(0)/m/n/10 s, six-teen \TU/AdobeTextPro(0)/m/it/10 
+ād-hāra\TU/AdobeTextPro(0)/m/n/10 s, two to five \TU/AdobeTextPro(0)/m/it/10 
+lakṣya\TU/AdobeTextPro(0)/m/n/10 s, and five \TU/AdobeTextPro(0)/m/it/10 vy-om
+a\TU/AdobeTextPro(0)/m/n/10 s. 
+@ via @5 b=14 p=0 d=576
+@@9: line 4.1 t=22885 -> @5
+This 
+@ via @5 b=1 p=0 d=121
+@ via @6 b=0 p=0 d=100
+@ via @7 b=9 p=0 d=361
+@@10: line 4.2 t=2161 -> @7
+net-work 
+@ via @8 b=0 p=0 d=100
+@@11: line 4.2 t=3217 -> @8
+spans at least an en-tire mil-len-nium. It can be traced back to early 
+@ via @9 b=1 p=0 d=121
+@@12: line 5.2 t=23006 -> @9
+śi-vaite 
+@ via @10 b=0 p=0 d=100
+@@13: line 5.2 t=2261 -> @10
+tantras 
+@ via @11 b=0 p=0 d=100
+@@14: line 5.2 t=3317 -> @11
+such 
+@ via @11 b=30 p=0 d=1600
+@@15: line 5.3 t=4817 -> @11
+as the \TU/AdobeTextPro(0)/m/it/10 Ne-tratantra\TU/AdobeTextPro(0)/m/n/10 . From
+ there those teach-ings can be found 
+@ via @12 b=0 p=0 d=100
+@@16: line 6.2 t=23106 -> @12
+in 
+@ via @12 b=0 p=0 d=100
+@@17: line 6.2 t=23106 -> @12
+early 
+@ via @13 b=0 p=0 d=100
+@@18: line 6.2 t=2361 -> @13
+texts 
+@ via @14 b=2 p=0 d=144
+@@19: line 6.2 t=3461 -> @14
+that 
+@ via @14 b=1 p=0 d=121
+@ via @15 b=9 p=0 d=361
+@@20: line 6.2 t=3438 -> @14
+teach 
+@ via @15 b=16 p=0 d=676
+@@21: line 6.3 t=5493 -> @15
+Haṭhayoga such as \TU/AdobeTextPro(0)/m/it/10 Śārṅghad-hāra-pad-dhati \T
+U/AdobeTextPro(0)/m/n/10 and \TU/AdobeTextPro(0)/m/it/10 Vivekamār-taṇḍa\T
+U/AdobeTextPro(0)/m/n/10 . 
+@ via @18 b=0 p=0 d=100
+@@22: line 7.2 t=2461 -> @18
+The 
+@ via @19 b=1 p=0 d=121
+@@23: line 7.2 t=3582 -> @19
+trans-mis-sion 
+@ via @21 b=0 p=0 d=100
+@@24: line 7.2 t=5593 -> @21
+con-tin-ues from there into me-dieval yoga texts such as the \TU/AdobeTextPro(0
+)/m/it/10 Śi-vayo-gapradīpikā \TU/AdobeTextPro(0)/m/n/10 all 
+@ via @24 b=1 p=0 d=121
+@@25: line 8.2 t=5714 -> @24
+the 
+@ via @24 b=0 p=0 d=100
+@@26: line 8.2 t=5693 -> @24
+way down to the texts al-ready men-tioned that are di-rectly con-nected to the 
+@ via @25 b=1 p=0 d=121
+@@27: line 9.2 t=5835 -> @25
+YTB 
+@ via @25 b=32 p=0 d=1764
+@ via @26 b=0 p=0 d=100
+@@28: line 9.2 t=5793 -> @26
+@@29: line 9.3 t=7478 -> @25
+to 
+@ via @26 b=1 p=0 d=121
+@@30: line 9.2 t=5814 -> @26
+@secondpass
+[]\TU/AdobeTextPro(0)/m/n/10 In ad-di-tion, the in-depth anal-y-sis of the YTB 
+also pro-vides a far-reaching 
+@ via @0 b=123 p=0 d=27689
+@@1: line 1.0 t=27689 -> @0
+in-
+@\discretionary via @0 b=0 p=50 d=2600
+@@2: line 1.2- t=2600 -> @0
+sight 
+@ via @0 b=30 p=0 d=1600
+@@3: line 1.3 t=1600 -> @0
+into a com-plex in-ter-tex-tual net-work, all of which es-sen-tially de-liver th
+e 
+@ via @1 b=6 p=0 d=10256
+@ via @2 b=125 p=0 d=28225
+@@4: line 2.0 t=30825 -> @2
+@@5: line 2.2 t=37945 -> @1
+same 
+@ via @1 b=38 p=0 d=12304
+@ via @2 b=0 p=0 d=100
+@ via @3 b=93 p=0 d=20609
+@@6: line 2.2 t=2700 -> @2
+sets 
+@ via @3 b=0 p=0 d=100
+@@7: line 2.2 t=1700 -> @3
+of 
+@ via @3 b=9 p=0 d=361
+@@8: line 2.2 t=1961 -> @3
+yoga the-o-rems and prac-tices with mi-nor de-vi-a-tions. The main fo-
+@\discretionary via @4 b=20 p=50 d=3400
+@\discretionary via @5 b=20 p=50 d=3400
+@@9: line 3.1- t=34225 -> @4
+cus 
+@ via @4 b=0 p=0 d=10100
+@ via @5 b=0 p=0 d=100
+@@10: line 3.2 t=38045 -> @5
+here 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=195 p=0 d=52025
+@@11: line 3.2 t=2800 -> @6
+is 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=19 p=0 d=841
+@@12: line 3.1 t=2541 -> @7
+@@13: line 3.2 t=2800 -> @6
+on 
+@ via @7 b=0 p=0 d=100
+@ via @8 b=7 p=0 d=289
+@@14: line 3.2 t=1800 -> @7
+three 
+@ via @8 b=24 p=0 d=1156
+@@15: line 3.3 t=3117 -> @8
+to five \TU/AdobeTextPro(0)/m/it/10 cakra\TU/AdobeTextPro(0)/m/n/10 s, six-teen \TU/AdobeTextPro(0)/m/it/10 
+ād-hāra\TU/AdobeTextPro(0)/m/n/10 s, two to five \TU/AdobeTextPro(0)/m/it/10 
+lakṣya\TU/AdobeTextPro(0)/m/n/10 s, and five 
+@ via @9 b=3 p=0 d=169
+@@16: line 4.2 t=34394 -> @9
+\TU/AdobeTextPro(0)/m/it/10 vy-
+@\discretionary via @9 b=0 p=50 d=12600
+@\discretionary via @10 b=11 p=50 d=2941
+@@17: line 4.2- t=40986 -> @10
+oma\TU/AdobeTextPro(0)/m/n/10 s. 
+@ via @10 b=0 p=0 d=100
+@ via @11 b=14 p=0 d=576
+@ via @12 b=150 p=0 d=25600
+@ via @13 b=150 p=0 d=35600
+@@18: line 4.1 t=3376 -> @11
+This 
+@ via @11 b=1 p=0 d=121
+@ via @12 b=0 p=0 d=100
+@ via @13 b=0 p=0 d=100
+@ via @14 b=9 p=0 d=361
+@@19: line 4.2 t=2161 -> @14
+net-
+@\discretionary via @14 b=0 p=50 d=2600
+@\discretionary via @15 b=60 p=50 d=17400
+@@20: line 4.2- t=4400 -> @14
+work 
+@ via @15 b=0 p=0 d=100
+@@21: line 4.2 t=3217 -> @15
+spans at least an en-tire mil-len-nium. It can be traced back 
+@ via @16 b=0 p=0 d=100
+@ via @17 b=20 p=0 d=900
+@@22: line 5.1 t=41886 -> @17
+@@23: line 5.2 t=34494 -> @16
+to 
+@ via @16 b=0 p=0 d=100
+@ via @17 b=0 p=0 d=100
+@@24: line 5.2 t=34494 -> @16
+early 
+@ via @18 b=1 p=0 d=121
+@@25: line 5.2 t=3497 -> @18
+śi-
+@\discretionary via @18 b=0 p=50 d=2600
+@\discretionary via @19 b=50 p=50 d=6100
+@@26: line 5.1- t=8261 -> @19
+@@27: line 5.2- t=5976 -> @18
+vaite 
+@ via @19 b=0 p=0 d=100
+@ via @20 b=15 p=0 d=625
+@@28: line 5.1 t=5025 -> @20
+@@29: line 5.2 t=2261 -> @19
+tantras 
+@ via @20 b=72 p=0 d=6724
+@ via @21 b=0 p=0 d=100
+@@30: line 5.2 t=3317 -> @21
+@@31: line 5.3 t=11124 -> @20
+such 
+@ via @21 b=30 p=0 d=1600
+@@32: line 5.3 t=4817 -> @21
+as the \TU/AdobeTextPro(0)/m/it/10 Ne-tratantra\TU/AdobeTextPro(0)/m/n/10 . From
+ there those teach-ings can 
+@ via @22 b=6 p=0 d=256
+@ via @23 b=6 p=0 d=256
+@ via @24 b=169 p=0 d=42041
+@@33: line 6.2 t=34750 -> @23
+be 
+@ via @22 b=0 p=0 d=100
+@ via @23 b=0 p=0 d=100
+@ via @24 b=2 p=0 d=144
+@@34: line 6.2 t=34594 -> @23
+found 
+@ via @25 b=0 p=0 d=100
+@ via @26 b=8 p=0 d=324
+@ via @27 b=8 p=0 d=324
+@@35: line 6.2 t=3597 -> @25
+in 
+@ via @25 b=0 p=0 d=100
+@ via @26 b=0 p=0 d=100
+@ via @27 b=0 p=0 d=100
+@ via @28 b=179 p=0 d=35721
+@ via @29 b=179 p=0 d=45721
+@@36: line 6.2 t=3597 -> @25
+early 
+@ via @28 b=0 p=0 d=100
+@ via @29 b=0 p=0 d=100
+@@37: line 6.2 t=2361 -> @29
+texts 
+@ via @30 b=2 p=0 d=144
+@ via @31 b=2 p=0 d=144
+@@38: line 6.2 t=3461 -> @30
+that 
+@ via @30 b=1 p=0 d=121
+@ via @31 b=1 p=0 d=121
+@ via @32 b=9 p=0 d=361
+@@39: line 6.2 t=3438 -> @30
+teach 
+@ via @32 b=16 p=0 d=676
+@@40: line 6.3 t=5493 -> @32
+Haṭhayoga such as \TU/AdobeTextPro(0)/m/it/10 Śārṅghad-hāra-pad-dhati \T
+U/AdobeTextPro(0)/m/n/10 and 
+@ via @33 b=0 p=0 d=100
+@ via @34 b=157 p=0 d=37889
+@@41: line 7.2 t=34850 -> @33
+\TU/AdobeTextPro(0)/m/it/10 Vivekamār-
+@\discretionary via @35 b=0 p=50 d=2600
+@\discretionary via @36 b=0 p=50 d=2600
+@@42: line 7.2- t=6197 -> @36
+taṇḍa\TU/AdobeTextPro(0)/m/n/10 . 
+@ via @37 b=0 p=0 d=100
+@@43: line 7.2 t=2461 -> @37
+The 
+@ via @38 b=1 p=0 d=121
+@@44: line 7.2 t=3582 -> @38
+trans-
+@\discretionary via @39 b=0 p=50 d=2600
+@@45: line 7.2- t=6038 -> @39
+mis-
+@\discretionary via @40 b=22 p=50 d=13524
+@@46: line 7.1- t=19017 -> @40
+sion 
+@ via @40 b=0 p=0 d=100
+@@47: line 7.2 t=5593 -> @40
+con-tin-ues from there into me-dieval yoga texts 
+@ via @41 b=0 p=0 d=100
+@@48: line 8.2 t=34950 -> @41
+such 
+@ via @42 b=182 p=0 d=46864
+@@49: line 8.0 t=53061 -> @42
+as 
+@ via @42 b=5 p=0 d=225
+@@50: line 8.2 t=6422 -> @42
+the 
+@ via @42 b=0 p=0 d=100
+@@51: line 8.2 t=6297 -> @42
+\TU/AdobeTextPro(0)/m/it/10 Śi-
+@\discretionary via @43 b=17 p=50 d=3229
+@@52: line 8.1- t=5690 -> @43
+vayo-
+@\discretionary via @43 b=0 p=50 d=2600
+@\discretionary via @44 b=14 p=50 d=3076
+@@53: line 8.1- t=6658 -> @44
+@@54: line 8.2- t=5061 -> @43
+gapradīpikā
+@\kern via @45 b=86 p=0 d=9216
+@\kern via @46 b=0 p=0 d=100
+@@55: line 8.2 t=19117 -> @46
+@@56: line 8.3 t=15254 -> @45
+ \TU/AdobeTextPro(0)/m/n/10 all 
+@ via @46 b=16 p=0 d=10676
+@ via @47 b=1 p=0 d=121
+@@57: line 8.2 t=5714 -> @47
+the 
+@ via @47 b=0 p=0 d=100
+@@58: line 8.2 t=5693 -> @47
+way down to the texts al-ready men-tioned 
+@ via @48 b=8 p=0 d=324
+@@59: line 9.2 t=35274 -> @48
+that 
+@ via @48 b=0 p=0 d=100
+@ via @49 b=26 p=0 d=1296
+@@60: line 9.2 t=35050 -> @48
+are 
+@ via @49 b=0 p=0 d=10100
+@ via @50 b=2 p=0 d=144
+@@61: line 9.2 t=6566 -> @50
+di-
+@\discretionary via @49 b=26 p=50 d=13796
+@\discretionary via @50 b=0 p=50 d=2600
+@\discretionary via @51 b=17 p=50 d=3229
+@\discretionary via @52 b=166 p=50 d=43476
+@@62: line 9.1- t=9526 -> @51
+@@63: line 9.2- t=9022 -> @50
+rectly 
+@ via @51 b=2 p=0 d=144
+@ via @52 b=0 p=0 d=100
+@ via @53 b=86 p=0 d=9216
+@ via @54 b=86 p=0 d=9216
+@@64: line 9.1 t=14277 -> @54
+@@65: line 9.2 t=5790 -> @52
+con-
+@\discretionary via @53 b=0 p=50 d=12600
+@\discretionary via @54 b=0 p=50 d=12600
+@@66: line 9.2- t=17661 -> @54
+nected to 
+@ via @55 b=10 p=0 d=400
+@ via @56 b=10 p=0 d=400
+@@67: line 9.2 t=15654 -> @56
+the 
+@ via @55 b=0 p=0 d=100
+@ via @56 b=0 p=0 d=100
+@ via @57 b=1 p=0 d=121
+@@68: line 9.2 t=5835 -> @57
+YTB 
+@ via @57 b=32 p=0 d=1764
+@ via @58 b=0 p=0 d=100
+@@69: line 9.2 t=5793 -> @58
+@@70: line 9.3 t=7478 -> @57
+to 
+@ via @58 b=1 p=0 d=121
+@@71: line 9.2 t=5814 -> @58
+fi-nally ar-rive in the late me-dieval Yo-
+@\discretionary via @59 b=10 p=50 d=2900
+@@72: line 10.2- t=38174 -> @59
+gau-
+@\discretionary via @59 b=0 p=50 d=2600
+@\discretionary via @60 b=48 p=50 d=5864
+@@73: line 10.1- t=40914 -> @60
+@@74: line 10.2- t=37874 -> @59
+paniṣads 
+@ via @61 b=0 p=0 d=100
+@ via @62 b=0 p=0 d=100
+@ via @63 b=0 p=0 d=100
+@@75: line 10.2 t=6666 -> @61
+such 
+@ via @62 b=86 p=0 d=19216
+@ via @63 b=86 p=0 d=9216
+@ via @64 b=4 p=0 d=196
+@ via @65 b=4 p=0 d=196
+@@76: line 10.2 t=5986 -> @65
+as 
+@ via @64 b=0 p=0 d=100
+@ via @65 b=0 p=0 d=100
+@ via @66 b=33 p=0 d=1849
+@@77: line 10.2 t=5890 -> @65
+the 
+@ via @64 b=73 p=0 d=16889
+@ via @65 b=73 p=0 d=6889
+@ via @66 b=0 p=0 d=100
+@@78: line 10.2 t=17761 -> @66
+@@79: line 10.3 t=12679 -> @65
+\TU/AdobeTextPro(0)/m/it/10 Maṇḍal-
+@\discretionary via @67 b=0 p=50 d=2600
+@\discretionary via @68 b=153 p=50 d=39069
+@@80: line 10.2- t=18254 -> @67
+abrāh-
+@\discretionary via @68 b=0 p=50 d=2600
+@\discretionary via @69 b=116 p=50 d=28376
+@\discretionary via @70 b=116 p=50 d=28376
+@@81: line 10.2- t=8435 -> @68
+maṇopaniṣat \TU/AdobeTextPro(0)/m/n/10 and the ex-ten-sive pre-modern 
+@ via @72 b=0 p=0 d=100
+@ via @73 b=53 p=0 d=3969
+@ via @74 b=53 p=0 d=3969
+@@82: line 11.1 t=41843 -> @74
+@@83: line 11.2 t=38274 -> @72
+yoga 
+@ via @73 b=3 p=0 d=169
+@ via @74 b=3 p=0 d=169
+@@84: line 11.2 t=38043 -> @74
+com-
+@\discretionary via @75 b=0 p=50 d=2600
+@@85: line 11.2- t=9266 -> @75
+pen-
+@\discretionary via @75 b=2 p=50 d=2644
+@\discretionary via @76 b=51 p=50 d=6221
+@@86: line 11.1- t=12207 -> @76
+@@87: line 11.2- t=9310 -> @75
+dia 
+@ via @76 b=0 p=0 d=100
+@ via @77 b=60 p=0 d=4900
+@@88: line 11.1 t=10790 -> @77
+@@89: line 11.2 t=6086 -> @76
+such 
+@ via @77 b=6 p=0 d=256
+@ via @78 b=0 p=0 d=100
+@ via @79 b=0 p=0 d=100
+@@90: line 11.2 t=6146 -> @77
+as 
+@ via @78 b=0 p=0 d=100
+@ via @79 b=0 p=0 d=100
+@@91: line 11.2 t=12779 -> @79
+the 
+@ via @80 b=39 p=0 d=2401
+@@92: line 11.1 t=20655 -> @80
+\TU/AdobeTextPro(0)/m/it/10 Haṭhatattvakau-mudi \TU/AdobeTextPro(0)/m/n/10 and
+ the \TU/AdobeTextPro(0)/m/it/10 Haṭhasaṅke-ta-can-drikā\TU/AdobeTextPro(0
+)/m/n/10 . 
+@ via @82 b=0 p=0 d=100
+@ via @83 b=0 p=0 d=100
+@@93: line 12.2 t=38374 -> @83
+The 
+@ via @84 b=0 p=0 d=100
+@@94: line 12.2 t=38143 -> @84
+an-
+@\discretionary via @84 b=33 p=50 d=4349
+@\discretionary via @85 b=0 p=50 d=12600
+@@95: line 12.2- t=21866 -> @85
+a-
+@\discretionary via @85 b=0 p=50 d=12600
+@\discretionary via @86 b=124 p=50 d=30456
+@\discretionary via @87 b=124 p=50 d=40456
+@@96: line 12.2- t=21866 -> @85
+lyt-
+@\discretionary via @85 b=1 p=50 d=12621
+@\discretionary via @86 b=0 p=50 d=12600
+@\discretionary via @87 b=0 p=50 d=12600
+@@97: line 12.2- t=21887 -> @85
+i-
+@\discretionary via @85 b=29 p=50 d=14021
+@\discretionary via @86 b=0 p=50 d=12600
+@\discretionary via @87 b=0 p=50 d=12600
+@@98: line 12.2- t=21910 -> @87
+@@99: line 12.3- t=23287 -> @85
+cal 
+@ via @86 b=0 p=0 d=100
+@ via @87 b=0 p=0 d=100
+@ via @88 b=4 p=0 d=196
+@ via @89 b=4 p=0 d=196
+@@100: line 12.2 t=6282 -> @89
+ex-
+@\discretionary via @88 b=0 p=50 d=2600
+@\discretionary via @89 b=0 p=50 d=2600
+@\discretionary via @90 b=145 p=50 d=36525
+@@101: line 12.2- t=8686 -> @89
+am-
+@\discretionary via @90 b=0 p=50 d=2600
+@\discretionary via @91 b=97 p=50 d=13949
+@@102: line 12.2- t=8746 -> @90
+i-
+@\discretionary via @90 b=0 p=50 d=2600
+@\discretionary via @91 b=36 p=50 d=4616
+@@103: line 12.1- t=17395 -> @91
+@@104: line 12.2- t=8746 -> @90
+na-
+@\discretionary via @90 b=0 p=50 d=2600
+@\discretionary via @91 b=0 p=50 d=2600
+@@105: line 12.2- t=8746 -> @90
+tion 
+@ via @92 b=0 p=0 d=100
+@@106: line 12.2 t=20755 -> @92
+of 
+@ via @92 b=0 p=0 d=100
+@@107: line 12.2 t=20755 -> @92
+this net-work pro-vides in-sights into the his-tory of 
+@ via @93 b=2 p=0 d=144
+@@108: line 13.2 t=38518 -> @93
+the 
+@ via @93 b=0 p=0 d=100
+@ via @94 b=10 p=0 d=400
+@@109: line 13.2 t=38474 -> @93
+re-
+@\discretionary via @94 b=0 p=50 d=2600
+@\discretionary via @95 b=1 p=50 d=12621
+@\discretionary via @96 b=22 p=50 d=13524
+@@110: line 13.1- t=35390 -> @96
+@@111: line 13.2- t=34487 -> @95
+lated 
+@ via @95 b=4 p=0 d=196
+@ via @96 b=0 p=0 d=100
+@ via @97 b=0 p=0 d=100
+@ via @98 b=1 p=0 d=121
+@ via @99 b=1 p=0 d=121
+@@112: line 13.2 t=21966 -> @96
+yoga 
+@ via @97 b=91 p=0 d=10201
+@ via @98 b=33 p=0 d=1849
+@ via @99 b=33 p=0 d=1849
+@ via @100 b=0 p=0 d=100
+@ via @101 b=3 p=0 d=169
+@@113: line 13.2 t=6382 -> @100
+tra-
+@\discretionary via @100 b=62 p=50 d=7684
+@\discretionary via @101 b=0 p=50 d=12600
+@\discretionary via @102 b=0 p=50 d=12600
+@\discretionary via @103 b=3 p=50 d=12669
+@\discretionary via @104 b=3 p=50 d=12669
+@\discretionary via @105 b=110 p=50 d=36900
+@@114: line 13.2- t=21286 -> @101
+@@115: line 13.3- t=13966 -> @100
+di-
+@\discretionary via @101 b=38 p=50 d=14804
+@\discretionary via @102 b=0 p=50 d=12600
+@\discretionary via @103 b=0 p=50 d=12600
+@\discretionary via @104 b=0 p=50 d=12600
+@\discretionary via @105 b=9 p=50 d=12861
+@@116: line 13.2- t=21346 -> @104
+@@117: line 13.3- t=23490 -> @101
+tions 
+@ via @105 b=0 p=0 d=100
+@ via @106 b=12 p=0 d=484
+@@118: line 13.2 t=8846 -> @105
+and 
+@ via @106 b=0 p=0 d=100
+@ via @107 b=0 p=0 d=100
+@@119: line 13.2 t=20855 -> @107
+en-
+@\discretionary via @107 b=2 p=50 d=2644
+@@120: line 13.2- t=23399 -> @107
+ables, for ex-am-ple, the trac-ing of the gen-e-
+@\discretionary via @108 b=172 p=50 d=45624
+@@121: line 14.0- t=84142 -> @108
+sis 
+@ via @108 b=17 p=0 d=729
+@@122: line 14.1 t=39247 -> @108
+of 
+@ via @108 b=0 p=0 d=100
+@ via @109 b=86 p=0 d=9216
+@@123: line 14.1 t=47690 -> @109
+@@124: line 14.2 t=38618 -> @108
+in-
+@\discretionary via @108 b=2 p=50 d=2644
+@\discretionary via @109 b=0 p=50 d=2600
+@\discretionary via @110 b=25 p=50 d=13725
+@\discretionary via @111 b=25 p=50 d=13725
+@@125: line 14.1- t=48212 -> @111
+@@126: line 14.2- t=41074 -> @109
+di-
+@\discretionary via @109 b=0 p=50 d=2600
+@\discretionary via @110 b=0 p=50 d=12600
+@\discretionary via @111 b=0 p=50 d=12600
+@@127: line 14.2- t=41074 -> @109
+vid-
+@\discretionary via @109 b=69 p=50 d=8741
+@\discretionary via @110 b=0 p=50 d=12600
+@\discretionary via @111 b=0 p=50 d=12600
+@\discretionary via @112 b=47 p=50 d=5749
+@@128: line 14.1- t=27715 -> @112
+ual 
+@ via @112 b=0 p=0 d=100
+@@129: line 14.2 t=22066 -> @112
+yoga 
+@ via @113 b=0 p=0 d=100
+@ via @114 b=59 p=0 d=4761
+@ via @115 b=59 p=0 d=14761
+@@130: line 14.2 t=6482 -> @113
+cat-
+@\discretionary via @113 b=10 p=50 d=2900
+@\discretionary via @114 b=0 p=50 d=12600
+@\discretionary via @115 b=0 p=50 d=12600
+@\discretionary via @116 b=1 p=50 d=12621
+@\discretionary via @117 b=1 p=50 d=12621
+@@131: line 14.2- t=9282 -> @113
+e-
+@\discretionary via @113 b=93 p=50 d=13109
+@\discretionary via @114 b=0 p=50 d=12600
+@\discretionary via @115 b=0 p=50 d=12600
+@\discretionary via @116 b=0 p=50 d=12600
+@\discretionary via @117 b=0 p=50 d=12600
+@@132: line 14.2- t=26566 -> @115
+@@133: line 14.3- t=19491 -> @113
+gories 
+@ via @118 b=0 p=0 d=100
+@ via @119 b=190 p=0 d=50000
+@@134: line 14.2 t=8946 -> @118
+men-
+@\discretionary via @119 b=0 p=50 d=2600
+@\discretionary via @120 b=1 p=50 d=12621
+@@135: line 14.2- t=23455 -> @119
+tioned in the fif-teen Yo-gas, such as Lakṣyayoga, 
+@ via @121 b=10 p=0 d=10400
+@ via @122 b=0 p=0 d=100
+@ via @123 b=20 p=0 d=900
+@ via @124 b=20 p=0 d=900
+@@136: line 15.1 t=39518 -> @124
+@@137: line 15.2 t=39347 -> @122
+whose 
+@ via @125 b=7 p=0 d=289
+@ via @126 b=7 p=0 d=289
+@ via @127 b=0 p=0 d=100
+@ via @128 b=8 p=0 d=324
+@@138: line 15.2 t=28039 -> @128
+tech-
+@\discretionary via @128 b=9 p=50 d=12861
+@\discretionary via @129 b=0 p=50 d=2600
+@@139: line 15.2- t=24666 -> @129
+niques 
+@ via @130 b=0 p=0 d=100
+@ via @131 b=19 p=0 d=841
+@ via @132 b=98 p=0 d=11664
+@ via @133 b=98 p=0 d=21664
+@@140: line 15.1 t=10123 -> @131
+@@141: line 15.2 t=6582 -> @130
+were 
+@ via @131 b=10 p=0 d=400
+@ via @132 b=0 p=0 d=100
+@ via @133 b=0 p=0 d=100
+@@142: line 15.2 t=9682 -> @131
+orig-
+@\discretionary via @134 b=0 p=50 d=2600
+@\discretionary via @135 b=146 p=50 d=46836
+@@143: line 15.2- t=11546 -> @134
+i-
+@\discretionary via @134 b=0 p=50 d=2600
+@\discretionary via @135 b=75 p=50 d=19725
+@@144: line 15.2- t=11546 -> @134
+nally 
+@ via @135 b=0 p=0 d=100
+@@145: line 15.2 t=23555 -> @135
+taught in early śi-vaite tantras, but only la-beled 
+@ via @136 b=0 p=0 d=100
+@ via @137 b=0 p=0 d=100
+@@146: line 16.2 t=39447 -> @137
+as 
+@ via @136 b=0 p=0 d=100
+@ via @137 b=0 p=0 d=100
+@@147: line 16.2 t=39447 -> @137
+a 
+@ via @136 b=35 p=0 d=12025
+@ via @137 b=35 p=0 d=2025
+@ via @138 b=41 p=0 d=2601
+@@148: line 16.1 t=30640 -> @138
+sep-
+@\discretionary via @138 b=0 p=50 d=2600
+@\discretionary via @139 b=31 p=50 d=14181
+@@149: line 16.1- t=38847 -> @139
+@@150: line 16.2- t=30639 -> @138
+a-
+@\discretionary via @138 b=0 p=50 d=2600
+@\discretionary via @139 b=5 p=50 d=12725
+@@151: line 16.2- t=30639 -> @138
+rate 
+@ via @139 b=0 p=0 d=100
+@@152: line 16.2 t=24766 -> @139
+type 
+@ via @140 b=0 p=0 d=100
+@ via @141 b=0 p=0 d=100
+@@153: line 16.2 t=6682 -> @141
+of 
+@ via @140 b=0 p=0 d=100
+@ via @141 b=0 p=0 d=100
+@ via @142 b=58 p=0 d=4624
+@@154: line 16.1 t=14306 -> @142
+@@155: line 16.2 t=6682 -> @141
+yoga 
+@ via @142 b=0 p=0 d=100
+@ via @143 b=10 p=0 d=400
+@ via @144 b=27 p=0 d=1369
+@@156: line 16.1 t=12915 -> @144
+@@157: line 16.2 t=9782 -> @142
+in 
+@ via @142 b=40 p=0 d=2500
+@ via @143 b=0 p=0 d=100
+@ via @144 b=0 p=0 d=100
+@@158: line 16.2 t=11646 -> @144
+@@159: line 16.3 t=12182 -> @142
+the 
+@ via @143 b=19 p=0 d=841
+@ via @144 b=4 p=0 d=196
+@ via @145 b=5 p=0 d=225
+@@160: line 16.2 t=11742 -> @144
+@@161: line 16.3 t=12387 -> @143
+17th 
+@ via @145 b=1 p=0 d=121
+@@162: line 16.2 t=23676 -> @145
+- 
+@ via @145 b=13 p=0 d=529
+@@163: line 16.3 t=24084 -> @145
+18th cen-turies. 
+@\par via @146 b=0 p=-10000 d=100
+@\par via @147 b=0 p=-10000 d=100
+@\par via @148 b=0 p=-10000 d=100
+@\par via @149 b=0 p=-10000 d=5100
+@\par via @150 b=0 p=-10000 d=5100
+@\par via @151 b=0 p=-10000 d=5100
+@\par via @152 b=0 p=-10000 d=100
+@\par via @153 b=0 p=-10000 d=100
+@\par via @154 b=0 p=-10000 d=100
+@\par via @155 b=0 p=-10000 d=100
+@\par via @156 b=0 p=-10000 d=100
+@\par via @157 b=0 p=-10000 d=100
+@\par via @158 b=0 p=-10000 d=100
+@\par via @159 b=0 p=-10000 d=100
+@\par via @160 b=0 p=-10000 d=100
+@\par via @161 b=0 p=-10000 d=100
+@\par via @162 b=0 p=-10000 d=100
+@\par via @163 b=0 p=-10000 d=100
+@@164: line 17.2- t=6782 -> @155
+
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/n/10 4| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/it/10 In-tro-duc-tion|
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ [4]
+@firstpass
+[]\TU/AdobeTextPro(0)/m/n/10 This book con-tains an in-tro-duc-tion, crit-i-cal edi-tion and an-no-tated trans-la-tion 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+of 
+@ via @0 b=22 p=0 d=1024
+@@2: line 1.3 t=1024 -> @0
+the \TU/AdobeTextPro(0)/m/it/10 Yo-gatattv-abindu\TU/AdobeTextPro(0)/m/n/10 . Th
+e in-tro-duc-tion dis-cusses prove-nance, au-thor-ship and 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=200 -> @1
+the 
+@ via @1 b=6 p=0 d=256
+@ via @2 b=0 p=0 d=100
+@@4: line 2.2 t=356 -> @1
+au-di-ence of the YTB. A com-pre-hen-sive dis-cus-sion of the tax-on-omy of the 
+@ via @3 b=40 p=0 d=2500
+@@5: line 3.1 t=2700 -> @3
+fif-teen 
+@ via @3 b=36 p=0 d=2116
+@ via @4 b=0 p=0 d=100
+@@6: line 3.2 t=456 -> @4
+@@7: line 3.3 t=2316 -> @3
+Yo-gas based on the crit-i-cal edi-tion of the YTB to-gether with a close ex-am-
+i-na-tion 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=0 p=0 d=100
+@@8: line 4.2 t=556 -> @6
+of 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=0 p=0 d=100
+@@9: line 4.2 t=556 -> @6
+the above men-tioned re-lated texts with sim-i-lar tax-onomies aims to es-tab-li
+sh 
+@ via @8 b=11 p=0 d=441
+@@10: line 5.2 t=997 -> @8
+their 
+@ via @8 b=7 p=0 d=289
+@ via @9 b=0 p=0 d=100
+@@11: line 5.2 t=656 -> @9
+po-si-tion within the broader his-tory of yoga and elu-ci-dates this pre-mod-ern
+ 
+@ via @10 b=0 p=0 d=100
+@@12: line 6.2 t=1097 -> @10
+late 
+@ via @10 b=7 p=0 d=289
+@ via @11 b=12 p=0 d=484
+@@13: line 6.2 t=1140 -> @11
+stage 
+@ via @11 b=17 p=0 d=729
+@@14: line 6.3 t=1385 -> @11
+of de-vel-op-ment in the his-tory of Haṭha- and Rā-jayoga tra-di-tions. The 
+@ via @12 b=1 p=0 d=121
+@@15: line 7.2 t=1218 -> @12
+re-main-der 
+@ via @14 b=0 p=0 d=100
+@@16: line 7.2 t=1485 -> @14
+of 
+@ via @14 b=0 p=0 d=100
+@@17: line 7.2 t=1485 -> @14
+the in-tro-duc-tion con-tains an overview of the manuscript ev-i-dence 
+@ via @15 b=0 p=0 d=100
+@@18: line 8.2 t=1318 -> @15
+and 
+@ via @15 b=38 p=0 d=2304
+@@19: line 8.3 t=3522 -> @15
+the 
+@ via @16 b=92 p=0 d=10404
+@@20: line 8.1 t=11889 -> @16
+ed-i-to-rial 
+@ via @17 b=5 p=0 d=225
+@@21: line 8.2 t=1710 -> @17
+poli-cies un-der-ly-ing the edi-tion. 
+@\par via @18 b=0 p=-10000 d=100
+@\par via @19 b=0 p=-10000 d=100
+@\par via @20 b=0 p=-10000 d=100
+@\par via @21 b=0 p=-10000 d=100
+@@22: line 9.2- t=1418 -> @18
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/AdobeTextPro(0)/m/n/10 5|
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ [5]
+\tf@toc=\write9
+
+\openout9 = intro.toc
+ (./intro.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `intro.out' has not changed.
+(rerunfilecheck)             Checksum: BAF1BBC49ADD965C89FA8CFF3FE3368C;188.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                intro
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'intro.run.xml'.
+
+\openout1 = intro.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 45707 strings out of 477352
+ 100000,1977958 words of node,token memory allocated
+ 1518 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 local_par, 8 glue, 4 kern, 1 penalty, 25 glyph, 2
+7 attribute, 207 glue_spec, 14 attribute_list, 2 shape, 3 write nodes
+   avail lists: 2:590,3:72,4:49,5:3097,6:30,7:8965,8:15,9:319,10:20,11:609
+ 65228 multiletter control sequences out of 65536+600000
+ 95 fonts using 18320767 bytes
+ 95i,11n,98p,3374b,2055s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/enjotel/.local/share/fonts/AdobeTextPro-Bold.ttf></home/enjotel/.local/sh
+are/fonts/AdobeTextPro-Regular.ttf></home/enjotel/.local/share/fonts/Sanskrit_20
+03.ttf></home/enjotel/.local/share/fonts/AdobeTextPro-It.ttf>
+Output written on intro.pdf (10 pages, 47452 bytes).
+
+PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 131072)
+ 32 words of extra memory for PDF output out of 10000 (max. 100000000)
+
