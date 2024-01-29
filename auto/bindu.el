@@ -13,16 +13,12 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
-    "laksyayoga"
-    "urdhvalaksya"
-    "laksyayogatrans"
-    "urdhvalaksyatrans"
-    "adholaksya"
-    "adholaksyatrans"
     "rajabody"
     "rajabodytrans"
     "anjacihna"
     "anjacihnatrans"
+    "caryayoga"
+    "caryayogatrans"
     "fig1"
     "fig2"
     "sec:bibli"))

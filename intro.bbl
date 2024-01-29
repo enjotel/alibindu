@@ -1,0 +1,340 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{yogasutra}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=59dc389ad2f6dfd4cf67948e9de2683d}{%
+           family={Āraṇya},
+           familyi={Ā\bibinitperiod},
+           given={Hariharānanda},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {State University of New York Press}%
+      }
+      \strng{namehash}{59dc389ad2f6dfd4cf67948e9de2683d}
+      \strng{fullhash}{59dc389ad2f6dfd4cf67948e9de2683d}
+      \strng{bibnamehash}{59dc389ad2f6dfd4cf67948e9de2683d}
+      \strng{editorbibnamehash}{59dc389ad2f6dfd4cf67948e9de2683d}
+      \strng{editornamehash}{59dc389ad2f6dfd4cf67948e9de2683d}
+      \strng{editorfullhash}{59dc389ad2f6dfd4cf67948e9de2683d}
+      \field{sortinit}{Ā}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Yoga Philosophy of Patañjali}
+      \field{title}{Pātañjalayogaśāstra}
+      \field{year}{1983}
+      \keyw{printsource}
+    \endentry
+    \entry{birch2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{International Journal of Hindu Studies 17, 3 (2013)}
+      \field{title}{Rājayoga: Reincarnations of the King of All Yogas}
+      \field{year}{2014}
+      \field{pages}{401\bibrangedash 444}
+      \range{pages}{44}
+      \keyw{seclit}
+    \endentry
+    \entry{birch2018proliferation}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=77002dceed7f810f1d22e1eda9d3bef2}{%
+           family={Name},
+           familyi={N\bibinitperiod},
+           given={Editor},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
+      }
+      \list{publisher}{1}{%
+        {Vienna University Press}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{editorbibnamehash}{77002dceed7f810f1d22e1eda9d3bef2}
+      \strng{editornamehash}{77002dceed7f810f1d22e1eda9d3bef2}
+      \strng{editorfullhash}{77002dceed7f810f1d22e1eda9d3bef2}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Yoga in Transformation: Historical and Contemporary Perspectives}
+      \field{note}{Submitted in 2013. Final Published Version in 2018}
+      \field{title}{The Proliferation of Āsana-s in Late-Mediaeval Yoga Texts}
+      \field{year}{2018}
+      \field{pages}{101\bibrangedash 180}
+      \range{pages}{80}
+      \verb{doi}
+      \verb 10.14220/9783737008624
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.14220/9783737008624
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.14220/9783737008624
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{amaraugha2024}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {École française d’Extrême-Orient}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{editorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{editornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{editorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Indologie 146, Haṭha Yoga Series 3}
+      \field{subtitle}{The Amaraugha and Amaraughaprabodha of Gorakṣanātha}
+      \field{title}{Amaraugha}
+      \field{year}{2024}
+      \keyw{printsource}
+    \endentry
+    \entry{birch2024}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tasmania}%
+      }
+      \list{publisher}{1}{%
+        {Unknown yet}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Ujjain Yogacintāmaṇi}
+      \field{year}{2024}
+      \keyw{seclit}
+    \endentry
+    \entry{mallinson2007}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Woodstock}%
+      }
+      \list{publisher}{1}{%
+        {Yoga Vidya.com LLC}%
+      }
+      \strng{namehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{fullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{bibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorbibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editornamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorfullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The Shiva Samhita}
+      \field{title}{Śivasaṃhitā}
+      \field{year}{2007}
+      \keyw{printsource}
+    \endentry
+    \entry{datta2024}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {École française d’Extrême-Orient}%
+      }
+      \strng{namehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{fullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{bibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorbibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editornamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorfullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Indologie 153?, Haṭha Yoga Series 5?}
+      \field{title}{Dattātreyayogaśāstra}
+      \field{year}{2024}
+      \keyw{printsource}
+    \endentry
+    \entry{mallinsononline2013}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington D.C.}%
+      }
+      \list{publisher}{1}{%
+        {Smithonian Institution, Freer Gallery of Art & Arthur M. Sackler Gallery, Smithsonian’s National Museum of Asian Art}%
+      }
+      \strng{namehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{fullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{bibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorbibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editornamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorfullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{1}
+      \field{title}{Yogic Identities: Tradition and Transformation}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://web.archive.org/web/20240116124707/https://asia-archive.si.edu/essays/yogic-identities/
+      \endverb
+      \verb{url}
+      \verb https://web.archive.org/web/20240116124707/https://asia-archive.si.edu/essays/yogic-identities/
+      \endverb
+      \keyw{seclit}
+      \warn{\item Overwriting field 'year' with year value from field 'date' for entry 'mallinsononline2013'}
+    \endentry
+    \entry{hathasamketacandrikajodhpur}{codex}{}
+      \name{author}{1}{}{%
+        {{hash=12629961f5a59d59ff935ab8fceddd08}{%
+           family={Sundaradeva},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Man Singh Pustak Prakash Library Jodhpur}%
+      }
+      \strng{namehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{fullhash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{bibnamehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authorbibnamehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authornamehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authorfullhash}{12629961f5a59d59ff935ab8fceddd08}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Ms. No. 2244}
+      \field{title}{Haṭhasaṃketacandrikā}
+      \keyw{codex}
+    \endentry
+    \entry{yogacandrika}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=520094a39d69203efd0793146e1914d5}{%
+           family={Vimalā},
+           familyi={V\bibinitperiod},
+           given={Karnāṭak},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chowkhambā Sanskrit Series Office}%
+      }
+      \strng{namehash}{520094a39d69203efd0793146e1914d5}
+      \strng{fullhash}{520094a39d69203efd0793146e1914d5}
+      \strng{bibnamehash}{520094a39d69203efd0793146e1914d5}
+      \strng{editorbibnamehash}{520094a39d69203efd0793146e1914d5}
+      \strng{editornamehash}{520094a39d69203efd0793146e1914d5}
+      \strng{editorfullhash}{520094a39d69203efd0793146e1914d5}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Chowkhambā Sanskrit Series, No 108}
+      \field{title}{Yogasiddhāntacandrikā}
+      \field{year}{2000}
+      \keyw{printsource}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
