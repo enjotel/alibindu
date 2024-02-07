@@ -134,6 +134,7 @@
     '("\\NewDocumentCommand{\\tl}{m}" "tl" "m" "New")
     '("\\NewDocumentCommand{\\extra}{m}" "extra" "m" "New")
     '("\\NewDocumentCommand{\\crazy}{m}" "crazy" "m" "New")
+    '("\\NewDocumentCommand{\\high}{m}" "high" "m" "New")
     '("\\NewDocumentCommand{\\coro}{m}" "coro" "m" "New")
     '("\\NewDocumentCommand{\\xmlhead}{O{}m}" "xmlhead" "O{}m" "New")
     '("\\NewDocumentCommand{\\xmlheadtrans}{O{}m}" "xmlheadtrans" "O{}m" "New")

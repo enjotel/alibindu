@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "alibindulager"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -25,19 +25,6 @@
     "cakra2trans"
     "cakra3"
     "cakra3trans"
-    "cakra4"
-    "cakra4trans"
-    "women"
-    "cakra5"
-    "cakra5trans"
-    "cakra6"
-    "cakra6trans"
-    "cakra7"
-    "cakra7trans"
-    "cakra8"
-    "cakra8trans"
-    "cakra9"
-    "cakra9trans"
     "laksyayoga"
     "urdhvalaksya"
     "laksyayogatrans"
@@ -78,6 +65,18 @@
     "knowledge"
     "knowledgetrans"
     "gapn1n2end"
-    "generationofbody"))
+    "generationofbody"
+    "fivegreatelements"
+    "greatelements"
+    "greatelements2"
+    "kulpentad"
+    "kulpentadtrans"
+    "uniqueknowledge"
+    "karmapentad"
+    "agnikala"
+    "suryakalatrans"
+    "agnikalatrans"
+    "majesty"
+    "majestytrans"))
  :latex)
 
