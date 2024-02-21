@@ -186,6 +186,39 @@
       \field{year}{2024}
       \keyw{seclit}
     \endentry
+    \entry{yuktabhavadeva}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
+           family={Gharote},
+           familyi={G\bibinitperiod},
+           given={M.L.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=91a5736ed8ba649ae9b10ef4d7086d95}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={V.K.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lonavla}%
+      }
+      \list{publisher}{1}{%
+        {Lonavla Yoga Institute}%
+      }
+      \strng{namehash}{6b61653b2dce9de984da808ce1d15302}
+      \strng{fullhash}{6b61653b2dce9de984da808ce1d15302}
+      \strng{bibnamehash}{6b61653b2dce9de984da808ce1d15302}
+      \strng{editorbibnamehash}{6b61653b2dce9de984da808ce1d15302}
+      \strng{editornamehash}{6b61653b2dce9de984da808ce1d15302}
+      \strng{editorfullhash}{6b61653b2dce9de984da808ce1d15302}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Yuktabhavadeva of Bhavadeva Miśra,}
+      \field{title}{Yuktabhavadeva}
+      \field{year}{2002}
+    \endentry
     \entry{mallinson2007}{book}{}
       \name{editor}{1}{}{%
         {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
@@ -308,6 +341,65 @@
       \field{title}{Haṭhasaṃketacandrikā}
       \keyw{codex}
     \endentry
+    \entry{kularnavatantra}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=7c33ce4b1c9705f8dfc75ea7c3712f83}{%
+           family={Vidyāratna},
+           familyi={V\bibinitperiod},
+           given={Tārānātha},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madras}%
+      }
+      \list{publisher}{2}{%
+        {Ganesh}%
+        {Company}%
+      }
+      \strng{namehash}{7c33ce4b1c9705f8dfc75ea7c3712f83}
+      \strng{fullhash}{7c33ce4b1c9705f8dfc75ea7c3712f83}
+      \strng{bibnamehash}{7c33ce4b1c9705f8dfc75ea7c3712f83}
+      \strng{editorbibnamehash}{7c33ce4b1c9705f8dfc75ea7c3712f83}
+      \strng{editornamehash}{7c33ce4b1c9705f8dfc75ea7c3712f83}
+      \strng{editorfullhash}{7c33ce4b1c9705f8dfc75ea7c3712f83}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Tantrik Texts 5 (ed. Arthur Avalon)}
+      \field{title}{Kulārṇavatantra}
+      \field{year}{1965}
+    \endentry
+    \entry{rudrayamala1937}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=185d1206b54ea1260c1ff6eabbb41b88}{%
+           family={Vidyasagar},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Calcutta}%
+      }
+      \strng{namehash}{185d1206b54ea1260c1ff6eabbb41b88}
+      \strng{fullhash}{185d1206b54ea1260c1ff6eabbb41b88}
+      \strng{bibnamehash}{185d1206b54ea1260c1ff6eabbb41b88}
+      \strng{editorbibnamehash}{185d1206b54ea1260c1ff6eabbb41b88}
+      \strng{editornamehash}{185d1206b54ea1260c1ff6eabbb41b88}
+      \strng{editorfullhash}{185d1206b54ea1260c1ff6eabbb41b88}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Rudrayamalam: uttara-tantram}
+      \field{year}{1937}
+      \verb{urlraw}
+      \verb https://ia800402.us.archive.org/5/items/Complete_Works_of_Jibananda_Vidyasagara/Rudrayamalam_Uttara_Tantram_-_Jiananda_Vidyasagara_1937.pdf
+      \endverb
+      \verb{url}
+      \verb https://ia800402.us.archive.org/5/items/Complete_Works_of_Jibananda_Vidyasagara/Rudrayamalam_Uttara_Tantram_-_Jiananda_Vidyasagara_1937.pdf
+      \endverb
+    \endentry
     \entry{yogacandrika}{book}{}
       \name{editor}{1}{}{%
         {{hash=520094a39d69203efd0793146e1914d5}{%
@@ -335,6 +427,9 @@
       \keyw{printsource}
     \endentry
   \enddatalist
+  \missing{ganesan2016saiva}
+  \missing{mrgendragama}
+  \missing{mrgendragamabrunner}
 \endrefsection
 \endinput
 

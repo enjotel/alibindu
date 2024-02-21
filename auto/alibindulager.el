@@ -13,24 +13,6 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
-    "intro"
-    "kriyayogastart"
-    "introtrans"
-    "kriyayogaend"
-    "siddhayoga"
-    "cakra1"
-    "cakra1trans"
-    "cakra2"
-    "virgin1"
-    "cakra2trans"
-    "cakra3"
-    "cakra3trans"
-    "laksyayoga"
-    "urdhvalaksya"
-    "laksyayogatrans"
-    "urdhvalaksyatrans"
-    "adholaksya"
-    "adholaksyatrans"
     "hathayoga"
     "secondtypehatha"
     "hathayogatrans"
@@ -77,6 +59,11 @@
     "suryakalatrans"
     "agnikalatrans"
     "majesty"
-    "majestytrans"))
+    "majestytrans"
+    "secretofscriptures"
+    "udasin"
+    "fig1"
+    "fig2"
+    "sec:bibli"))
  :latex)
 
