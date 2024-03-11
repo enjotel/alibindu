@@ -14,9 +14,9 @@
     "titles")
    (LaTeX-add-labels
     "dating"
-    "tab:waves"
     "yogas_list"
-    "15yogastable"
+    "tab:complextaxonomies"
+    "tab:waves"
     "discussionu2"
     "structure"
     "avadhutapurusa"))

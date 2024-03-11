@@ -1,0 +1,881 @@
+%Ultimatives Tool zur Datierung:
+%https://www.cc.kyoto-su.ac.jp/~yanom/pancanga/
+%skp = ignored in edition
+%skm = ignored in xml
+%%%---2-DO---%%%:
+% - add xml ids for cladistics
+% - produce diplomatic transcripts for saktumiva
+% - read Sarvangayogapradipika, Maya Burger! 
+% - maybe add second ciritical edition of yogasvarodaya?!
+% - grep-search alle Verse!!!!
+% - Mss spreadsheet
+% - additions to U2: make footnotes for the bahir mātrā-s: explaining the inventions of female deities and tell that this is "schwer interpretierbar"
+% - Consider changing Lakṣya to Lakṣa
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Don't forget
+% Siddhasiddhantapaddhati Yogic Body descriptions are followed by Rāmacandra
+% Quotes of the Yogasvarodaya in the Yoga Karṇikā
+% Rāmacandra more a compiler than an author!!!
+% Identify quotes of YTB in Haṭhasanketacandrikā -- done :D
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%MSS notes
+%
+%--B: i and ī are not differenciated
+%--P: no punctuation no daṇdas nothing
+%--U1: dot . serves as daṇḍa 
+%--\L and \U2 very similar
+%--figure out for U2: // ajapājapaḥ sahasra // 6000 //gha 0 16 pa 0 40// \U2?!?!?!?!?!?
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Einleitung Ideen 
+% - sprachliche Simplizität
+% - Potenzial als Anfängertext
+% - Großartige Einführung in die Textkritik -> Synoptische Edition 
+% - Gelegenheit Yogasvarodaya und Yogatattvabindu zu edieren 
+% - Historische Evidenz entweder für das königliche Leben in einer Maṭha in der Nähe von Benares während der Muslimischen Herrschaft, oder sogar Lehrtext für die Bildung junger Prinzen  
+% - eines der raren Beispiele der engen Verknüfung mehrerer Texte 
+% - eines der raren Beispiele der Prosaisierung eines metrischen Textes 
+% - Anwendung rezenter Technologie! 
+% - How the text was construed -> intermingling of Ysv and SSP
+% - Martin Straube: "jeder kleine Dorfhäuptling kann Rāja genannt werden". 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Ich habe dieses Zitat gefunden
+%Franz
+%Franz Veit
+%हठयोगः [Printed book page 5-501-c]
+%हठयोगः , पुं, (हठेन योगः ।) योगविशेषः ।
+%यथा, —
+%“इदानीं हठयोगस्तु कथ्यते हठसिद्धिदः ।
+%कृत्वासनं पवनाशं शरीरे रोगहारकम् ॥
+%पूरकं कुम्भकञ्चैव रेचकं वायुना भजेत् ।
+%इत्थं क्रमोत्क्रमं ज्ञात्वा पवनं सग्धयेत् सदा ॥
+%धौत्यादिकर्म्मषट्कञ्च संस्कुर्य्याद्धठसाधकः ।
+%एतन्नाड्यान्तु देवेशि ! वायुपूर्णं प्रतिष्ठितम् ॥
+%ततो मनो निश्चलं स्यात्तत आनन्द एव हि ।
+%हठयोगान्न कालः स्यान्मनः शून्ये भवेद्यदि ॥
+%इदानीं हठयोगस्य द्वितीयं भेदवत् शृणु ।
+%आकाशे नासिकाग्रे तु सूर्य्यकोटिसमं स्मरेत् ॥
+%श्वेतं रक्तं तथा पीतं कृष्णमित्यादिरूपतः ।
+%एवं ध्यात्वा चिरायुः स्यादङ्गाजननवर्ज्जितः ॥
+%शिवतुल्यो महात्मासौ हठयोगप्रसादतः ।
+%हठाज्ज्योतिर्म्मयो भूत्वा ह्यन्तरेण शिव भवेत् ।
+%अतोऽयं हठयोगः स्यात् सिद्धिदः सिद्धसेवितः ॥”
+%इति योगस्वरोदयः ॥ [ID=41348]
+
+%Now, Haṭhayoga indeed is explained as that which gives the siddhi (accomplishment) of haṭha (persistence).
+%One performs the wind-eating/serpent āsanam, which removes illness in the body
+%and filling – kumbhaka – emptying may distribute the vāyu/wind.
+%In this way, while being aware of the progress and regress of the breath one may feed on the wind continually.
+%And with the six karmmas, dhauti etc., the Sādhaka of Haṭha may prepare/embellish himself.
+%Thus/thereby, in the channel (nāḍī), Oh supreme Goddess, all of the winds (vāyu) are consecrated/placed.
+%Then the mind may be unmoved and then bliss it really is.
+%Through Haṭhayoga time will be no more, when the mind in emptiness abides.
+%
+%Now listen to the second disclosure of haṭhayoga:
+%In space, on the tip of the nose indeed, one may remember equal to ten million suns,
+%the primal forms: white, red, likewise yellow, dark blue.
+%Thus meditating/visualizing, one may have a long life, free of the birth of the body,
+%Equal to Śiva, this great soul, due to the blessing of Haṭhayoga,
+%shall become through persistence (haṭha) a being of light and internally śiva.
+%Therefore this Haṭhayoga grants accomplishment – it’s practiced by the Siddhas (accomplished ones).
+%Franz
+%Im śabdakalpadruma
+%Franz
+%Franz Veit
+%fj.veit@gmail.com
+\input{preamble.tex}
+\input{titles.tex}
+\title{Yogatattvabindu of Rāmacandra\\ A Critical Edition and Annotated Translation}
+\date{\today}
+
+\parindent=15pt
+\begin{document}
+
+% Zitiermöglichkeiten:
+%\footcite[See][p.\,1]{goldstein01:_tibet_englis_diction_moder_tibet}
+%\footnote{\cite{goldstein01:_tibet_englis_diction_moder_tibet}.}
+
+\frontmatter
+\thispagestyle{empty}
+\begin{center}
+  {\Large \emph{The Yogatattvabindu}}\\[3mm]
+\end{center}
+
+
+
+\newpage
+
+\
+
+\thispagestyle{empty}
+
+
+
+\normalsize
+
+
+\newpage
+
+
+\begin{center}
+\thispagestyle{empty}
+
+\
+
+\vskip 2mm
+
+\begin{otherlanguage}{iast}
+\LARGE \sanskritfont{Yogatattvabindu}
+\end{otherlanguage}
+
+\vskip .4cm
+
+\Huge Yogatattvabindu \\[7mm]
+\Large Critical Edition\\
+with annotated Translation
+
+
+\large
+
+\vspace{3cm}
+
+Von
+
+Nils Jacob Liersch
+\small
+\vfill
+
+\vfill
+
+Indica et Tibetica Verlag \\ % $\cdot$ 
+Marburg 2024
+
+\vskip 6mm
+
+\end{center}
+
+\newpage
+\newpage \ \thispagestyle{empty}
+\small  \
+
+\noindent
+
+\
+\vfill
+
+
+\small
+\noindent \textbf{Bibliographische Information Der Deutschen Bibliothek}
+
+\noindent
+Die Deutsche Bibliothek verzeichnet diese Publikation in der Deutschen Nationalbibliographie;
+detaillierte bibliographische Informationen sind im Internet über http://dnb.ddb.de abrufbar.
+
+\noindent
+\textbf{Bibliographic information published by Die Deutschen Bibliothek}
+
+\noindent
+Die Deutsche Bibliothek lists this publication in the Deutsche Nationalbibliographie; detailed
+bibliographic data is available in the Internet at http://dnb.ddb.de.  
+
+
+\vskip 1cm
+
+\noindent
+\copyright\ Indica et Tibetica Verlag, Marburg 2024
+
+\medskip
+
+\noindent
+Alle Rechte vorbehalten / All rights reserved
+
+\medskip
+
+\noindent
+Ohne ausdrückliche Genehmigung des Verlages ist es nicht gestattet, das Werk oder einzelne Teile
+daraus nachzudrucken, zu vervielfältigen oder auf Datenträger zu speichern.
+
+\smallskip
+
+\noindent
+Apart from any fair dealing for the purpose of private study, research, criticism or review, no
+part of this book may be reproduced or translated in any form, by print, photo form, microfilm, or
+any other means without written permission. Enquiries should be made to the publishers.
+
+\bigskip
+
+\noindent
+Satz: \ \ Nils Jacob Liersch \\
+Herstellung: \ \ BoD – Books on Demand GmbH, Norderstedt  \\
+
+\bigskip
+
+\noindent
+%\ISBN     
+
+\normalsize
+
+\newpage
+
+%\maketitle
+\clearpage
+\tableofcontents
+\addtocounter{page}{-1}
+\thispagestyle{empty}
+\clearpage
+
+
+\mainmatter
+
+\chapter{Introduction}
+\cleardoublepage
+
+\section{General remarks}
+The \textit{Yogatattvabindu} is a premodern Sanskrit Yoga text on Rājayoga that was written in the first half of the seventeenth century\footnote{The dating of the text is discussed on p.\pageref{dating}.} in northern India.\footnote{The detailed discussion of the place of origin is found on p.\pageref{placeoforigin}.} The most salient feature of the work that makes it historically significant is its highly differentiated taxonomy of types of Yoga. In the \textit{Yogatattvabindu}'s introduction, most manuscripts name fifteen types of Yoga, presented as subtypes of Rājayoga. The text is a yogic compendium written in a mix of mainly prose and 41 verses in textbook-style, where its 58 topics topics are introduced in sections launched by recognizable phrases. Most sections deal with the subtypes of Rājayoga and their effects, but others also cover topics like yogic physiology and cosmogony.
+
+The \textit{Yogatattvabindu} has not been discussed or considered in secondary literature on Yoga. The only exception is \citeauthor{birch2014} (2014: 415–416) who briefly described its list of fifteen Yogas in the context of the “fifteen medieval Yogas” and noted that a similar\footnote{My research suggests that list of fifteen Yogas in Nārāyaṇatīrtha’s \textit{Yogasiddhāntacandrikā} must be chronologically later than the ones found in the \textit{Yogatattvabindu} and its sources. As I will show in the discussion of the fifteen Yogas on p.\pageref{15yogas}, we have to assume that Nārāyaṇatīrtha saw the need to map the fifteen Yogas onto system of the \textit{Pātañjalayogaśāstra} due to their popularity among practitioners in his sphere of activity.} list occurs in Nārāyaṇatīrtha’s \textit{Yogasiddhāntacandrikā} (17th - 18th century), a commentary on the \textit{Pātañjalayogaśāstra} that integrates almost an identical taxonomy of yogas within the \textit{aṣṭāṅga} format. An incomplete account of the fifteen Yogas is found within the Sanskrit Yoga text \textit{Yogasvarodaya}, which is known only through quotations in the \textit{Prāṇatoṣinī} and \textit{Yogakarṇikā}.\footnote{Manuscripts under the name of \textit{Yogasvarodaya} seem to be lost. I was not able to allocate the manuscripts of the text in any manuscript catalogue at hand.} The \textit{Yogasvarodaya} provides a total of fifteen Yogas but names only eight of them in its introductory \textit{śloka}s. A complete account of the text is yet to be found and might be lost forever. The \textit{Yogasvarodaya} is the primary source and template for the compilation of the \textit{Yogatattvabindu}. Rāmacandra closely follows the content and structure by rewriting the \textit{Yogasvarodaya}’s \textit{śloka}s into prose. Due to the incomplete transmission of the \textit{Yogasvarodaya}, Rāmacandra’s \textit{Yogatattvabindu} is a natural and valuable starting point for an in-depth study of the taxonomy of the fifteen types of Yoga. The other source text that Rāmacandra used is the \textit{Siddhasiddhāntapaddhati} whose content he draws on, particularly in the last third of his composition. Another text that includes a similar taxonomy of twelve Yogas divided into three tetrads is Sundardās’s \textit{brāj bhāṣa} Yoga text named \textit{Sarvāṅgayogapradīpikā} which not just shares most of the types of Yogas but also many of the practices and contents found within the \textit{Yogatattvabindu} and \textit{Yogasvarodaya}.\footnote{For a comparative table of the complex Yoga taxonomies see table \ref{15yogastable} on p.\pageref{15yogastable}.}
+
+These complex taxonomies that emerged during the 17th and 18th centuries crossed sectarian divides and were adapted to the specific needs of different authors and traditions. The \textit{Yogatattvabindu} thus encapsulates the diversity of Haṭha- and Rājayoga types and teachings after the \textit{Haṭhapradīpikā} (15th century) that were adopted by a broad spectrum of religious traditions and strata of Indian society. In the particular case of the \textit{Yogatattvabindu}, there are various statements throughout the text that reveal a strategy to detach Yoga from its renunciate connotations and to enforce the supremacy and universality of Rājayoga as a practice that can yield the highest benefits even for practitioners who enjoy worldly pleasures and an extravagant lifestyle. Textual evidence suggests the possibility that \textit{Yogatattvabindu} may be a unique example of a Rājayoga text that was composed for warrior aristocracy and members of an royal court. 
+
+In addition, the analysis of the \textit{Yogatattvabindu} and the historical retracig of its teachings provides insight into a complex network of at least twenty texts,\footnote{This intertextual network which shares those specific teachings consists of the \textit{Netratantra}, \textit{Śāradatilakatantra}, \textit{Sarvadurgatipariśodhanatantra}, \textit{Ūrmikaulārṇavatantra}, \textit{Tantrāloka}, \textit{Manthanabhairavatantra}, \textit{Śārṅgadhārapaddhati}, \textit{Vivekamārtaṇḍa}, \textit{Śivayogapradīpikā}, (recensions of the \textit{Haṭhapradīpikā}), \textit{Amaraughaśāsana}, \textit{Yogasvarodaya}, \textit{Sarvāṅgayogapradīpikā}, \textit{Nityanāthapaddhati}, \textit{Siddhasiddhāntapaddhati}, \textit{Yogatattvabindu}, \textit{Yogacūḍāmaṇyupaniṣad}, \textit{Maṇḍalabrāhmaṇopaniṣat}, \textit{Haṭhatattvakaumudi} and \textit{Haṭhasaṃketacandrikā}.} all of which include one specific set of yoga theorems and practices with minor deviations - three to five \textit{cakra}s, sixteen \textit{ādhāra}s, two to five \textit{lakṣya}s, and five \textit{vyoma}s. This intertextual network spans at least an entire millennium. It begins in early śivaite Tantras such as the \textit{Netratantra} and ends in the large premodern Yoga compendiums like the \textit{Haṭhatattvakaumuḍī} and \textit{Haṭhasaṅketacandrikā}. The examination of this network provides insights into the history of the related yoga traditions and enables, for example, the reconstruction of the genesis of individual yoga categories mentioned in the fifteen Yogas, such as Lakṣyayoga, whose techniques were originally taught in early śivaite Tantras, but were only labeled as a separate type of yoga from the 17th century onwards.
+
+One printed edition of the \textit{Yogatattvabindu} was published in 1905 with a Hindi translation and based on an unknown manuscript(s). This publication has the title ’\textit{Binduyoga}’ confirmed by the printed text’s colophon. However, as I discuss in the course of the introduction, the text was likely known as \textit{Yogatattvabindu}. The consulted manuscripts contain significant discrepancies, structural differences and variant readings between them and the printed edition. Furthermore, the manuscripts are scattered over the Indian subcontinent, which suggests that it was widely transmitted at some point. Lenghty passages of the \textit{Yogatattvabindu} are quoted without attribution in a text called \textit{Yogasaṃgraha} and Sundaradeva’s \textit{Haṭhasaṅketacandrikā}. A critical edition will undoubtedly improve on the published edition and shed further light on the transmission of this important work.
+
+This book contains an introduction, critical edition and annotated translation of the \textit{Yogatattvabindu}. The introduction discusses provenance, authorship and the audience of the \textit{Yogatattvabindu}. A comprehensive discussion of the taxonomy of the fifteen Yogas based on the critical edition of the \textit{Yogatattvabindu}, together with a close examination of the above-mentioned related texts with similar taxonomies, aims to establish their position within the broader history of yoga and particularly elucidates the development of Haṭha- and Rājayoga traditions in the late medieval period. The remainder of the introduction contains an overview of the manuscript evidence and the editorial policies underlying the edition.
+
+\section{Dating the \textit{Yogatattvabindu}}
+\label{dating}
+The oldest dated manuscript of the \textit{Yogatattvabindu} \getsiglum{N1}\footnote{For a description of the manuscript see  p.\pageref{n1description}.} was written in Nepal \textit{saṃvat} 837, which is 1716 CE. Since the text of this manuscript is missing a significant and lengthy passage (ca. 25\% of the entire text) and contains various corruptions, one can assume that some time had passed from the original composition for the transmission to deteriorate to this extent. Therefore, it is likely that the work was composed at least a few decades before the creation of this Nepalese manuscript, perhaps sometime in the 17th century. The discovery that Sundaradeva's \textit{Haṭhasaṅketacandrikā} quotes a lengthy passage of the \textit{Yogatattvabindu} without attribution confirms this suspicion. The passages quoted from the \textit{Yogatattvabindu} include the teachings on the sixteen \textit{ādhāra}s\footnote{\citetitle{hathasamketacandrikajodhpur} (ms. no. 2244, f. 95r l. 3 -- f. 96r l. 4).} and the teachings on Lakṣyayoga and its subtypes.\footnote{\citetitle{hathasamketacandrikajodhpur} (ms. no. 2244, f. 124r l. 7 -- f. 125r l. 3).} The dating of the \textit{Haṭhasaṅketacandrikā} just recently had to be revised due to the discovery that some first-hand notes surrounding the main text of the Ujjain \textit{Yogacintāmaṇi} were in all likelihood borrowed from Sundaradeva's \textit{Haṭhasaṅketacandrikā}.\footnote{Cf. \citeauthor{birch2024} (2024:52-54).} \citeauthor{birch2018proliferation} (2018) dated the Ujjain \textit{Yogacintāmaṇi} to 1659 CE.\footnote{Cf. \citeauthor{birch2018proliferation} (2018: p.50 n. 111).} Thus, the \textit{terminus ante quem} for the compilation of the \textit{Haṭhasaṅketacandrikā} is 1659 CE which automatically makes it also the \textit{terminus ante quem} for the \textit{Yogatattvabindu} and the \textit{Yogasvarodaya}, due to the fact that Sundaradeva quoted from the \textit{Yogatattvabindu} and Rāmacandra quoted from and rewrote the contents of the \textit{Yogasvarodaya}. Thus, we can safely assume that the \textit{Yogatattvabindu} was written in the course of the first half of the 17th century or earlier. Because of that Rāmancandra's main source text \textit{Yogasvarodaya} must have been written even earlier.
+
+\subsection{Implications for the dating of the \textit{Yogasvarodaya} and the \textit{Siddhasiddhāntapaddhati}}
+Furthermore, \citeauthor{mallinsononline2013}\footnote{Cf. \fullcite{mallinsononline2013}.} estimated the age of the \textit{Siddhasiddhāntapaddhati} to circa 1700. Due to the above-mentioned new date of the \textit{Haṭhasaṅketacandrikā} and because Rāmacandra extensively quotes from \textit{Siddhasiddhāntapaddhati} the new terminus \textit{terminus ante quem} for the dating of the \textit{Siddhasiddhāntapaddhati} likewise must be set to 1659 CE. Thus, the \textit{Siddhasiddhāntapaddhati} was also likely composed during the first half of the 17th century or even ealier.
+
+\chapter{The complex medieval yoga taxonomies}
+\label{yogas_list}
+\clearpage
+
+
+
+\section{The rise of diversity: The increasing complexity of Yoga teaching systems in late medieval and pre-colonial India}
+
+
+In diesem Kapitel soll es darum gehen, dass zwischen dem 17. und 18. Jh. in Indien parallel zu einer Populariserung des Yoga in breiten Schichten der gesellschaft jenseits der asketischen Traditionen eine allgemeine Entwicklung zu beobachten ist, die sich in gesteigerter Komplexität äußert. In den damals zirkulierenden Texten kommt es zu einer Steiugerung der Anzahl der gelehrten Cakras, Āsanas, Kumbhakas, aber auch die Taxonomien der einzelnen Yogakategorien die gelehrt werden nehmen an Komplexität zu. 
+
+\subsection{Ein kurzer Überblick der in texten zu Verwenung kommenden Taxonomien.}
+
+
+\section{Comparative Analysis of the complex Yoga taxonomies}
+
+The similarities between the Yoga taxonomies of Rāmacandra's \textit{Yogatattvabindu}, his source text, the \textit{Yogasvarodaya} as well as the taxonomies laid out by Nārāyaṇatīrtha in his \textit{Yogasiddhāntacandrikā} and Sundardās' \textit{Sarvāṅgayogadīpikā} which all emerged within the same time period have been initially observed and discussed briefly by \citeauthor{birch2014} (2014)\footnote{See \parencite[415-416]{birch2014}.} In the following chapter, the lists and their items are examined in a comparative analysis.
+
+A complete comparative description of all yoga categories used in the literature would go far beyond the scope of this work. However, with this presentation I hope to adequately cover our understanding of the concepts of different yoga categories circulating in the literature of the 17th - 18th centuries.
+
+The analysis will follow the structure of the individual yogas outlined in the \textit{Yogatattvabindu}. Each yoga will be described based on the explanations in the \textit{Yogatattvabindu}, and its content will be compared with the explanations of the corresponding yoga in the texts with similar taxonomies. The comparison will broaden and clarify our understanding of the respective spectrum of meanings of the individual yoga categories in the discursive field of the authors of the texts containing the taxonomies. This comparison results in the documentation of the discursive web of word usage of various yoga categories between the 17th and 18th centuries CE, most probably mainly localised in central northern India.\footnote{The complex taxonmies evolved and circulated most likely in central northern India. For a detalled discussion see p.\pageref{location}.} Individual yoga categories that do not appear in the list of the \textit{Yogatattvabindu} but are listed in the other texts with complex taxonomies will also be covered and outlined. In addition, yoga categories that do not appear in any of the analysed lists but are nevertheless mentioned in the texts will also be covered so that this analysis attempts to approximate the overall picture of all yoga categories used during the period under consideration as closely as possible. However, it is essential to emphasise that the comparison of yoga categories focuses primarily on those texts that contain complex yoga taxonomies and cannot claim to be exhaustive. Although the analysis and comparison of the yoga categories can be extended to other yoga texts, locations and time periods if necessary or valuable, the restriction to the complex yoga taxonomies should be maintained to prevent this already complex endeavour going ad absurdum.\footnote{There are hundreds, if not thousand of Sanskrit and vernacular texts from different times and different regions of India, which operate with these categories.      
+
+\begin{table}[h]
+    \centering
+    \begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.05\textwidth}XXXX}
+        \toprule
+        No. & \textit{Yogatattvabindu} & \textit{Yogasvarodaya} & \textit{Yogasiddhāntacandrikā} & \textit{Sarvāṅgayogadīpikā} \\
+        \midrule
+        1. & \textit{kriyāyoga} & \textit{kriyāyoga} & \textit{kriyāyoga} & \textit{\textbf{bhaktiyoga}} \\
+        2. & \textit{jñānayoga} & \textit{jñānayoga} & \textit{caryāyoga} & \textit{mantrayoga} \\
+        3. & \textit{caryāyoga} & \textit{karmayoga} & \textit{karmayoga} & \textit{layayoga} \\
+        4. & \textit{haṭhayoga} & \textit{haṭhayoga} & \textit{haṭhayoga} & \textit{carcāyoga} \\
+        5. & \textit{karmayoga} & \textit{dhyānayoga} & \textit{mantrayoga} & \textit{\textbf{haṭhayoga}} \\
+        6. & \textit{layayoga}  & \textit{mantrayoga} & \textit{jñānayoga} & \textit{rājayoga} \\
+        7. & \textit{dhyānayoga} & \textit{urayoga}   & \textit{advaitayoga} & \textit{lakṣayoga} \\
+        8. & \textit{mantrayoga} & \textit{vāsanāyoga} & \textit{lakṣyayoga} & \textit{aṣṭāṅgayoga} \\
+        9. & \textit{lakṣyayoga} & -                   & \textit{brahmayoga} & \textit{\textbf{sāṃkhyayoga}} \\
+        10. & \textit{vāsanāyoga} & -                   & \textit{śivayoga} & \textit{jñānayoga} \\
+        11. & \textit{śivayoga} & -                    & \textit{siddhiyoga} & \textit{brahmayoga} \\
+        12. & \textit{brahmayoga} & -                  & \textit{vāsanāyoga} & \textit{advaitayoga} \\
+        13. & \textit{advaitayoga} & -                 & \textit{layayoga} & - \\
+        14. & \textit{siddhayoga} & -                  & \textit{dhyānayoga} & - \\
+        15. & \textit{rājayoga} & - [\textit{rājayoga}]& \textit{premabhaktiyoga} & - \\
+        \bottomrule
+    \end{tabularx}
+    \caption{Complex Taxonomies of Yoga in Yoga Texts of the 17th - 18th Centuries}
+    \label{tab:complextaxonomies}
+\end{table}
+%
+%The authenticity of the list specifying the fifteen Yogas presented at the beginning of the \textit{Yogatattvabindu} is ambiguous. This is due to the discrepancy between the order of the Yogas presented in the lists structure of the Yogas presented in the text and the order presented in the list. For example, the text commences with a description of \textit{kriyāyoga} and goes on to describe \textit{siddhakuṇḍaliniyoga} and then mentions \textit{mantrayoga} without adhering to the order presented in the list. This incongruity raises questions as to why the text structure deviates from the list. However, the reference to \textit{jñānotpattav upāyaḥ} may provide some insight into why \textit{jñānayoga} is included as the second \textit{yoga} in the list. To reconcile these apparent inconsistencies, there are several possible explanations: 1. The text is severely corrupted. 2. The list was added by a different hand at a later time. 3. The term \textit{jñānayoga} is included as a result of the practice of \textit{siddhakuṇḍalinīyoga}, which is said to generate knowledge through the central channel, as stated in the text. These explanations may be combined to provide a comprehensive understanding of the situation.
+%
+%\note[type=philcomm, labelb=_1e, labele=_1e, lem={urayogaḥ}]{The term \textit{urayoga} in YSv (PT) is uncertain. Birch suggests it might result from a corruption of \textit{lakṣyayoga} since it appears in the text. However, explaining the origin of the corruption is complex. Sellmer speculates it could be an abbreviation of \textit{uragayoga} (``Snake Yoga''), possibly a synonym for \textit{kuṇḍalinīyoga}, but this is problematic as the term is unattested elsewhere.}% 
+%
+%!!!!!!Yogasvarodaya am ältesten, dann Yogatattvabindu, dann Sarvanga und Yogasiddhāntacandrikā.  
+%
+%ERKLÄRE WARUM Rājayoga in YSV und YS an der Spitze ist und völlig Abwesend in Narayanatirhta (weil er nicht Śaiva ist!)
+%
+%%note in birch 2014 reincarnations of the king -- note 54! therē types! 
+%54. In the commentary called the Saubhågyabhåskara on the Çr⁄lalitå-
+%sahasranåmastotra (180), the eighteenth-century Bhåskararåya men-
+%tions Sāṃkhya, Tāraka, and Amanaska as the three types of Rājayoga
+%(råjayogo ’pi sāṃkhyatārakāmanaskabhedāt trividhaa). The Tārakayoga/
+%Amanaskayoga division may derive from South India, for it is present in
+%the Amanaska’s South Indian recension (but not the North Indian and
+%Nepalese) as well as the South Indian redactions of the Advayatårako-
+%pani‚at and Ma~alabråhma~opani‚at.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Was ist Kriyāyoga in YTB, YS, YSC und SYP?
+%Warum verdient es möglicherweise die erste Position?
+%Seit wann gibt es Kriyāyoga? (wann wird es erstmals erwähnt und wo?
+%
+%    Definition und Konzeptualisierung:
+%        Wie wird Kriyāyoga in den Texten definiert?
+%        Gibt es klare Konzepte oder Philosophien, die mit Kriyāyoga verbunden sind?
+%        Wie unterscheidet sich Kriyāyoga von anderen Arten von Yoga in den untersuchten Texten?
+%
+%    Taxonomie und Klassifikation:
+%        Wie wird Kriyāyoga in den komplexen Taxonomien der verschiedenen Yogas kategorisiert?
+%        Gibt es Hierarchien oder spezifische Zuordnungen zu anderen Yogapfaden?
+%        Wie wird die Rolle von Kriyāyoga innerhalb dieser Klassifikationen erklärt?
+%
+%    Historische Entwicklung:
+%        Gibt es Anhaltspunkte für die historische Entwicklung von Kriyāyoga in den untersuchten Texten?
+%        Gibt es Hinweise darauf, wie sich das Konzept im Laufe der Zeit verändert hat?
+%        Wie wird Kriyāyoga im Vergleich zu älteren Texten dargestellt?
+%
+%    Rituale und Praktiken:
+%        Welche spezifischen Rituale oder Praktiken sind mit Kriyāyoga verbunden?
+%        Wie werden diese Praktiken in den Texten beschrieben und erklärt?
+%        Gibt es Anweisungen oder Empfehlungen für die Umsetzung von Kriyāyoga?
+%
+%   Verbindung zu anderen philosophischen Schulen:
+%        Gibt es Verbindungen zwischen Kriyāyoga und anderen philosophischen Schulen oder Traditionen?
+%        Wie wird die Beziehung zu vedischen, tantrischen oder anderen Strömungen dargestellt?
+%
+%    Einfluss auf spätere Traditionen:
+%        Gibt es Hinweise darauf, wie Kriyāyoga spätere yogische Traditionen beeinflusst hat?
+%        Wie wird Kriyāyoga in späteren Schriften oder Praktiken weitergeführt oder modifiziert?
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        5
+
+%%%%1.Positionierung
+%%%
+\section{Kriyāyoga - \uproman{1}}
+
+Kriyāyoga\footnote{See section II. on p.\pageref{kriyayogastart}-\pageref{kriyayogaend}.} is the first Yoga within the list of fifteen Yogas presented by Rāmacandra and his source text \textit{Yogasvarodaya}. Remarkably, Nārāyaṇatīrtha also positions Kriyāyoga at the first position within the list of fifteen Yogas in his \textit{Yogasiddhāntacandrikā}. Sundardās, on the other hand, omits Kriyāyoga within his taxonomy.
+
+\subsection{The concept of Kriyāyoga in the \textit{Yogatattvabindu}}
+
+Since Rāmacandra refers to all fifteen Yogas as variants of Rājayoga in his initial definition of Yoga, and no explicit hierarchy is recognisable from his formulations in the text, all variants of Rājayoga appear to have been regarded by him as equally effective. All Yogas aim towards the same goal: long-term durability of the body (\textit{bahutarakālaṃ śarīrasthitiḥ}). The positioning of Kriyāyoga does not initially provide any information about the efficiency or the assignment of differently talented practitioners to a particular type of Yoga, as was the case in the older fourfold taxonomies.\footnote{According to \citetitle{amaraugha2024}\textit{prabodha} 18-24, Mantrayoga is best suited for the weak, Layayoga for the average, Haṭhayoga for the talented and Rājayoga for the exceptionally talented practitioner. In \citetitle{datta2024} 14, one finds the statement that the lowest practitioner should perform mantra yoga, which is then also referred to as the lowest Yoga. \citetitle{mallinson2007} 12-28 expands this fourfold scheme of Yogas and practitioners with a temporal dimension. The weak practitioner needs twelve years to succeed with Mantrayoga, the average practitioner needs eight years with Laya, the able practitioner six years with Haṭha and the exceptional practitioner three years with Rājayoga} Implicit hierarchical aspects are nevertheless present - although all Yoga types are a type of Rājayoga, Rāmacandra nonetheless places Rājayoga in the final and topmost position of his taxonomy.
+The only apparent reason why Rāmacandra specifies Kriyāyoga as the first Yoga seems to be that his primary source text, whose content structure he largely follows,\footnote{see the chapter on ``structural inconsistencies'' on p.\pageref{struktur},} specifies this type of Yoga as the first.
+
+The passage on Kriyāyoga in the \textit{Yogatattvabindu} is relatively short. The four verses presented by Rāmacandra are quoted without attribution from the \textit{Yogasvarodaya}. A prose section repeats the content of the verses. By definition, Kriyāyoga in \textit{Yogatattvabindu} is ``liberation through [mental] action'' (\textit{kriyāmuktir ayaṃ yogaḥ}). In contrast to Rāmacandra's worldly definition of Rājayoga and its subcategories, here, liberation (\textit{mukti}) overrides this initial goal. In addition, the practitioner achieves ``success in one's own body'' (\textit{svapiṇḍe siddhidāyakaḥ}). The method of Kriyāyoga involves restraining any [mental] wave before an action. This restraint consists of reducing negative [mind-]waves and cultivating positive ones. Noticeably, the number of negative waves significantly exceeds the number of positive waves.
+
+\begin{table}[h]
+    \centering
+    \begin{tabularx}{\textwidth}{XX}
+        \toprule
+        \textbf{Mental waves to be cultivated} & \textbf{Mental waves to be reduced} \\
+        \midrule
+        Patience (\textit{kṣamā}) & Envy (\textit{matsārya}) \\
+        Discrimination (\textit{viveka}) & Selfishness(\textit{mamatā})\\
+        Equanimity (\textit{vairāgya}) & Cheating (\textit{māyā})\\
+        Peace (\textit{śānti}) & Violence (\textit{hiṃsā})\\
+        Modesty (\textit{santoṣa}) & Intoxication (\textit{mada})\\
+        Desirelessness (\textit{niṣpṛha}) & Pride (\textit{garvata})\\
+        & Lust (\textit{kāma}) \\
+        & Anger (\textit{krodha}) \\
+        & Fear (\textit{bhaya})\\
+        & Laziness (\textit{lajjā})\\
+        & Greed (\textit{lobha})\\
+        & Error (\textit{moha})\\
+        & Impurity (\textit{aśuci})\\
+        & Attachment and aversion (\textit{rāgadveśau}) \\
+        & Disgust and laziness (\textit{ghṛṇālasya})\\
+        & error (\textit{bhrānti})\\
+        & Deceit (\textit{daṃbha})\\
+        & Envy (repeatedly) (\textit{akṣama})\\
+        & Confusion (\textit{bhrama})\\
+        \bottomrule
+    \end{tabularx}
+    \caption{Mental waves to be cultivated and reduced in Rāmacandra's Kriyāyoga}
+    \label{tab:waves}
+\end{table}
+
+The one who cultivates positive [mind-]waves and reduces the negative is called a \textit{kriyāyogī}. In the prose passage of the section, the term \textit{bahukriyāyogi} is used. The term is unprecedented in the rest of the yoga literature and presumably intends to express many reduced and cultivated waves.
+\newpage
+
+\subsection{The concept of Kriyāyoga in the \textit{Yogasvarodaya}}
+A closer examination of the Kriyāyoga section in the \textit{Yogasvarodaya} reveals Rāmancandra's reductionism since he excludes significant aspects of the original concept of the \textit{Yogasvarodaya}'s Kriyāyoga.
+
+%YK 1.214-216
+
+\begin{quote}
+\textit{dhyānapūjādānayajñajapahomādikāḥ kriyāḥ} |\\
+\textit{kriyāmuktimayo yogaḥ svapiṇḍe siddhidāyakaḥ}\footnote{svapiṇḍe siddhidāyakaḥ YTB] sapiṇḍisiddhidāyakaḥ YSv sapiṇḍisiddhidāyakaḥ YK} || 1 ||
+
+(1) Actions are meditation, ritual veneration, donation, recitation, fire sacrifice, etc. 
+The Yoga made of liberation through action[s] bestows success in one's own body. 
+
+\textit{yat karomīti saṅkalpaṃ kāryārambhe manaḥ sadā} |\\
+\textit{tat sāṅgācaraṇaṃ kurvan kriyāyogarato bhavet} || 2 ||
+
+(2) ``Whatever I do'' at the beginning of an action, the mind always has intention.  
+Doing that undertaking with all its parts, one becomes established in Kriyāyoga. 
+
+\textit{kṣamāvivekavairāgyaśāntisantoṣanispṛhāḥ} |\\
+\textit{etad yuktiyuto yo'sau kriyāyogo nigadyate} || 3 ||
+
+(3) Patience, discrimination, equanimity, peace, modesty, desirelessness:
+The one endowed with these means is said to be a Kriyāyogī.
+
+\textit{mātsaryaṃ mamatā māyā hiṃsā ca madagarvitā} |\\
+\textit{kāmaḥ krodho bhayaṃ lajjā lobho mohas tathā'śuciḥ} || 4 ||
+
+(4) Envy, selfishness, cheating, violence, intoxication and pride,
+lust, anger, fear, laziness, greed, error, and impurity.
+
+\textit{rāgadveṣau ghṛṇālasyaśrāntidambhakṣamābhramāḥ} |\\
+\textit{yasyaitāni na vidyante kriyāyogī sa ucyate} || 5 ||
+
+(5) Attachment and aversion, disgust and laziness, error, deceit, envy [and] confusion:
+Whoever does not experience these is called a Kriyāyogī.
+
+\textit{sa eva muktaḥ sa jñānī caṇḍināśena īśvaraḥ} |\\
+\textit{kriyāmuktikaro yo'sau rājayogaḥ sa muktidaḥ} || 6 ||(om. YK)
+
+(6) He alone, the wise one, the lord, through the destruction of impetuous [behaviour]
+who performs the liberation through action[s] is liberated. This Rājayoga is the giver of liberation.
+
+\textit{yāvan mano layaṃ yāti kṛṣṇe svātmani cinmaye} | \\ 
+\textit{bhaved iṣṭamanā mantrī japahomau samabhyaset} || 7 ||\footnote{7ab \approx \citetitle{rudrayamala1937} 38.58cd.}(om. YSv) 
+
+(7) Until the mind enters absorption [and] would be in Kṛṣṇa, in one's own self, filled with consciousness,
+the mantra practitioner (\textit{mantrin}) should practise recitation and fire sacrifice with an aspiring mind. 
+
+\textit{vidite paratattve tu samastair niyamair alam} |\\
+\textit{tālavṛntena kiṃ kāryaṃ lavdhe malayamārute} || 8 ||\footnote{\approx \citetitle{kularnavatantra} 9.28 \& \citetitle{yuktabhavadeva} 1.80.} (om. YSv) 
+
+(8) When the highest principle has been realised through all the \textit {niyama}s, as is proper,
+Why should one wave the palm frond when the wind from the Himalayas has already reached?
+
+\textit{tāvat karmmāṇi kurvanti yāvajjñānaṃ na vidyate} |\\ 
+\textit{jñāne jāte pareśāni karmākarma na vidyate} || 9 ||(om. YSv) 
+
+(9) As long as [regular?] actions are performed, so long realisation is unknown.
+When knowledge ensues, oh, Supreme Goddess, neither action nor non-action is known.
+\end{quote}
+
+These verses\footnote{The numbering used here was introduced by me for practical reasons and does not correspond to the original numbering of the verses in the citations of the source texts. The \textit{Prāṇatoṣiṇī} does not number the verses at all. The verses can be found in the printed edition of the \textit{Prāṇatoṣiṇī} on p. 831. The verses here are in the \textit{Yogakarṇikā} with the numbering 1.209-216 and can be found in the edition on p. 17.} stem from the only two currently available sources of the \textit{Yogasvarodaya}, namely the quotations from the \textit{Prāṇatoṣiṇī}\footnote{A considerable part of the \textit{Yogasvarodaya} is quoted with source reference (\textit{yogasvarodaye}).} and the \textit{Yogakarṇikā}.\footnote{Normally the \textit{Yogakarṇikā} quotes its sources. This passage is one of the few exceptional cases in which the verses have been taken from the \textit{Yogasvarodaya} without citing the source. However, this passage ends after verse 1.216 with ``\textit{iti yogasaṅketāḥ |}''.} The quotations of both texts essentially correspond, but the last verses of the passage differ. It cannot be ruled out that the last three verses of the \textit{Yogakarṇikā} in particular come from a different source and were not present within the \textit{Yogasvarodaya}. However, their content is so closely interwoven with the preceding verses that this scenario can be considered unlikely.
+
+The main difference to the Kriyāyoga that Rāmacandra has constructed from these verses is the definition of the actions (\textit{kriyāḥ}) mentioned immediately at the beginning of the verses, of which the actions (\textit{kriyā}s) of Kriyāyoga is then predominantly composed, namely of (1) meditation, (2) ritual worship of God, (3) offerings, (4) recitation and (5) fire sacrifice, etc. Furthermore, while Rāmacandra declares the elements mentioned in the table \ref{tab:waves} as waves (\textit{kallola}) of the mind which are either required to be cultivated or reduced before any action is executed, the same elements are conceptualised in the \textit{Yogasvarodaya} as the intentions (\textit{saṅkalpa}) preceding the previously defined actions (\textit{kriyā}s), which should be observed.
+
+In the three verses concluding this section, which are only handed down in the \textit{Yogakarṇikā}, the practitioner is referred to as \textit{mantrin} and should perform recitation and fire offerings until entering absorption (\textit{laya}).
+
+Thus, this concept of Kriyāyoga in the \textit{Yogasvarodaya} is a clear reference to the \textit{kriyāpada}\footnote{See e.g. \citeauthor{ganesan2016saiva} (2016) and \citetitle{mrgendragama} (Ed. pp. 1-205).} of the Śaiva \textit{āgama}s. The Śaiva \textit{āgama}s are collections of various tantric traditions, written in Sanskrit or Tamil, in which cosmology, epistemology, philosophical teachings, various practices such as meditation or yoga, mantra recitation, worship of the gods, etc. are described. These texts usually consist of four sections (\textit{pāda}s): The \textit{jñānapāda} (knowledge section), the \textit{yogapāda} (yoga section), \textit{kriyāpada} (action section) and \textit{caryāpada} (behaviour section). It can be no coincidence that \textit{jñāna°}, \textit{kriyā°} and \textit{caryā°} were each integrated as a separate yoga category within the taxonomy of the fifteen yogas\footnote{see p.\pageref{intro}.}. The \textit{kriyāpada} is the section of a Śaiva \textit{āgama} that describes rules and practices for the performance of various rituals such as the significant initiation (\textit{dīkṣa}), ceremonies and worship of the gods. Additionally, \textit{prāṇāyāma} techniques and meditations are often found as parts of these rituals. There are also explanations of the nature of \textit{mudrā}s, \textit{maṇḍala}s and \textit{mantra}s. Furthermore, various characteristics of different types of Śaiva initiates\footnote{These are \textit{samayin, putraka, sādhaka, ācārya,} and \textit{astrābhiṣeka}.} can be found here.\footnote{See \citeauthor{ganesan2016saiva} (2016) for a general overview of the four \textit{pāda}s. One of the few Śaiva \textit{āgama}s that has been edited and translated into a Western language (French) is the \citetitle{mrgendragama}. For this see \citeauthor{mrgendragama} (1962) \& \citeauthor{mrgendragamabrunner} (1985).} The \textit{kriyā}s mentioned at the beginning of the \textit{Yogasvarodaya} - meditation, ritual veneration, donation, recitation, fire sacrifice, etc. have hardly deniable parallels to the \textit{kriyāpada}s of the Śaiva \textit{āgama}s and thus could have their reception-historical roots precisely there. The other part, however, which describes the cultivation or reduction of certain intentions preceding all actions (\textit{saṅkalpa}) or [mental] waves (\textit{kallola}), I have not yet been able to locate in the Śaiva \textit{āgama}s.
+%iti yogasaṅketāḥ।
+%https://www.wisdomlib.org/hinduism/essay/sivaprakasam-study/d/doc1210756.html
+%-> Carya,Kriya,Yoga and Jnana! 
+%
+%In the Shaiva Siddhanta tradition, the term "pada" refers to the four categories or aspects that make up the structure of the Absolute Reality (Brahman) and the process of creation. These four padas are:%
+%
+%    Charya Pada: Also known as the path of conduct or virtuous living. It involves observing religious rituals, ethical practices, and engaging in acts of service and devotion.%
+%
+%    Kriya Pada: This is the path of action and ritual worship. It involves the performance of various rituals, ceremonies, and worship practices to attain spiritual purification and alignment with the divine.%
+%
+%    Yoga Pada: This path emphasizes meditation, concentration, and yogic practices. It involves controlling the mind and senses to attain a higher state of consciousness and union with the divine.
+%
+%    Jnana Pada: Also known as the path of knowledge or wisdom. It involves the study and contemplation of philosophical teachings to gain a deep understanding of the nature of reality and the self.
+%
+%    These four padas together form the comprehensive spiritual framework of the Shaiva Siddhanta tradition.
+\subsection{The concept of Kriyāyoga in the \textit{Yogasiddhāntacandrikā}}
+
+The Kriyāyoga in Nārāyaṇatīrtha's commentary on \textit{Pātañjalayogaśāstra} entitled \textit{Yogasiddhāntacandrikā} presents Kriyāyoga as the first of his fifteen Yogas, which he locates in Pātañjalayoga. The term Kriyāyoga occurs in \textit{Pātañjalayogaśāstra} 2.1. According to the introduction to this Sūtra, in the \textit{bhāṣya}-part of the\textit{Pātañjalayogaśāstra}, Kriyāyoga is the means by which someone with a distracted mind can also attain Yoga (\textit{vyutthitacitto 'pi yogayuktaḥ}). In the \textit{sūtra} itself, Kriyāyoga is defined as follows:
+\begin{quote}  
+  \textit{tapaḥsvādhyāyeśvarapraṇidhānāni kriyāyogaḥ} |\\
+  \citetitle{yogasutra} 2.1  \\
+\end{quote}
+
+Kriyāyoga, or ``yoga through action'', consists of three elements. Namely, abstinence (\textit{tapas}), which according to \textit{bhāṣya} should be practised both mentally and physically, the repetition of \textit{mantra}s or the study of sacred literature (\textit{svadhyāya}) and devotion to God (\textit{īśvarapraṇidhāna}).
+According to \citetitle{yogasutra} 2.2, these three elements of Kriyāyoga should lead the practitioner to attain \textit{samādhi} by reducing the so-called \textit{kleśa}s. This explanatory model is also used by Nārāyaṇatīrtha (\citeauthor{yogacandrika}, 2000:71). The five \textit{kleśa}s consist of ignorance (\textit{avidyā}), self-centredness (\textit{asmitā}), attachment (\textit{rāga}), aversion (\textit{dveṣa}) and fear of death (\textit{abhiniveśa}). 
+All three main components of Patañjali's Kriyāyoga are not mentioned in the \textit{Yogatattvabindu} and \textit{Yogasvarodaya}. Nevertheless, a practice similar to the reduction of the \textit{kleśa}s can also be found here. Although the specific fear of death (\textit{abhiniveśa}) is not mentioned, the more general term for fear (\textit{bhaya}) is cited.\footnote{The details of Nārāyaṇatīrtha's understanding of Kriyāyoga have already be discussed by \citeauthor{penna2004} (2004): 62-66 and will therefore not be covered here again.}
+The Kriyāyoga in \textit{Yogatattvabindu} and \textit{Yogasvarodaya} could, therefore, be perhaps regarded as a degenerated or simplified variant of the Pātañjalean model, which restricts itself predominantly to the aspect of the reduction of negative waves of the mind, which is comparable to the reduction of \textit{kleśa}s and adds the aspect of cultivating positive ``waves'' to be mix. In both systems, Kriyāyoga is a means for liberation.\footnote{The Kriyāyoga of the \citetitle{yogasutra} will not be dealt with in detail here, as this has already been done in countless academic and informal publications. For the \textit{sūtra}s related to Kriyāyoga and Patañjali's autocommentary in Sanskrit with English translation, see \citeauthor{yogasutra} (1983): 113 et seqq. For a comprehensible and more accessible overview, see \citeauthor{bryant2009} (2009): 170 et seqq.}
+
+\subsection{Kriyāyoga in the complex late-medieval Yoga taxonomies}
+
+The analysis of Kriyāyoga within the taxonomies of fifteen yogas shows two distinct models. One is Nārāyaṇatīrtha's model, which draws directly on the Kriyāyoga of \textit{Pātañjalayogaśāstra}. Additional śaiva influences characterise the other model of Kriyāyoga that seems to have been prominent in the 17. - 18. century C.E. The precisely defined \textit{kriyā}s of the \textit{Yogasvarodaya} must be historically linked to the \textit{kriyāpāda}s of the Śaiva \textit{āgama}s, whereby the core practice of reducing and cultivating specific mental configurations before any action is loosely associated with the Kriyāyoga of the \textit{Pātañjalayogaśāstra}. The observation that the \textit{kriyā}-, \textit{caryā-} \textit{jñānayoga}, an allusion to the \textit{kriyā}-, \textit{caryā-} \textit{jñānapāda}s of the Śaiva \textit{āgama}s, shows that Nārāyaṇatīrtha, as a proponent of the \textit{Pātañjalayoga}, could not possibly have been the originator of the fifteenfold taxonomy, but rather that this taxonomy of the fifteen yogas had achieved such local popularity in the discourse of the time and that Nārāyaṇatīrtha perhaps wanted to convince his readers that Patañjali's \textit{Yogaśāstra} is the Yoga \textit{par excellence} and all varieties of Yogas are in truth already present in the ``classical'' system of Patañjali.
+
+\subsection{Exkurs: Popularisierung des Kriyāyoga im globalen Kontext}
+
+Die vergleichsweise einzigartigen Abhandlungen über Kriyāyoga, welche sich in der Yogaliteratur ab dem 17. Jh.\footnote{The terminus \textit{ad quem} for the \textit{Yogasvarodaya} is 1659 CE, see p.\pageref{dating} for the details.} nur im \textit{Yogasvarodaya} sowie Rāmacandra's \textit{Yogatattvabindu} zeigen, welche offenbar, wenn auch nicht gänzlich vom Pātañlaja-Modell abweichen, und, wie gezeigt, deutliche Einflüsse tantrischer Abstammung aufweisen, können bis auf Weiteres als Randphänomene betrachtet werden. Die überwältigende Mehrheit der im zweiten Jahrtausend n. u. Z. verfassten Sanskrit Yogatexte greift auf das im \textit{Pātañjalayogaśāstra} propagierte Modell des Kriyāyoga zurück. Dementsprechend war es auch vor allem die Erschließung des \textit{Yogasūtra}s im Westen, beginnend mit der Übersetzung von Henry Thomas Colebrooke im Jahr 1805\footnote{See \parencite{colebrook2014} for a detailled discussion.} welche dafür sorgte, dass das darin enthaltene Konzept des Kriyāyoga auch im Westen lange Zeit das Verständnis des Begriffes im akademischen und informellen Diskurs dominierte. 
+
+Dies änderte sich erst mit dem globalen Erfolg und der Popularität von Paramahaṃsa Yogānanda (1893-1952) und der im Jahre 1920 von ihm gegründeten \textit{Self Realization Fellowship}, welche ihre ganz eigene Yogapraxis unter der Oberkategorie Kriyāyoga verbreiteten. Hierdurch wurde das Bedeutungsspektrum des Begriffes Kriyāyoga signifikant verändert und erweitert. Neben diversen Büchern die Yogānanda veröffentlichte, war es vor allem das im Jahr 1946 erschienene Buch \citetitle{autobioyogi}, die Autobiographie von Paramahaṃsa Yogānanda selbst, welches maßgeblich zum Erfolg von Yogānanda beitrug. Bis zum heutigen Tag gilt dieses Werk als Klassiker in der populären Yogaliteratur und spirituellen Literatur, befindet sich seit über siebzig Jahren im Druck und wurde in mehr als 50 Sprachen (Stand Jan. 2019) übersetzt.\footnote{Beleg!} Bis heute existiert eine globalen Anhängerschaft. Yogānanda, seine Bücher, seine globale Anhängerschaft und die zahlreichen Bücher seiner Anhängerschaft machten ihr eigenes ``Kriyāyoga'' jenseits des indischen Subkontinents bekannt. Diese Art von Kriyāyoga wurde bereits von Yogānandas Vorgängern zum zentralen Oberbegriff dieser Yogatradtionslinie stilisiert und dessen Konzept ist im aktuellen, vor allem non-akademischen Diskurs der Gegenwart schätzungsweise genauso bekannt, wie das Kriyāyoga des Yogasūtra.
+
+Was ist das Kriyāyoga nach Yogānanda? Und wie unterscheidet es sich von den bereits präsentierten Modellen?
+
+Um diese Frage zu beanworten habe ich eine ganz Liste bedeutsamer Publikationen zu diesem Thema konsultiert. \footnote{List with all puplications. Yet, cannot clame this list is complete or exhaustive.}
+
+
+
+Und wie ist es zu Stande gekommen?
+
+
+Kirya Lineage graphics (S.9 Kiryayoga for Self Discovery)
+
+I speculate that the term Kriyāyoga, as the generic term for his system of Yoga was likely a strategical decision of Lahiri Mahasaya. On the one hand he wanted to profit from the newly gained Yogasūtra Hype in the West. On the other hand in his local discourse around Varanasi which in these days was a true melting post in which several Traditions came together, the list of 15 Yogas with Kriyāyoga as the first category among the known Yoga varieties that existed had the exalted position and one that would allow him to do justice to the classical yoga of Patanjali, profit from the popularity of the term in the local discourse and reinterpreting the kriyā (action) aspect to allow him to integrate the whole array of practices that were available in his days. 
+
+
+\section{Jñānayoga - \uproman{2}}
+
+Jñānāyoga\footnote{See section \uproman{21} on p.\pageref{jnanayogastart}-\pageref{jnanayogaend}.} is the second Yoga within Rāmacandra's list of fifteen Yogas as well as his source text, the \textit{Yogasvarodaya}. In Nārāyaṇatīrtha's list of fifteen, Jñānayoga occupies the sixth place. Sundardās positions Jñānayoga at the tenth position in his list of twelve Yogas. Here, it is subsumed under the Sāṅkhyayoga category, the third and final tetrad of his list.
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section{mantrayoga}
+
+ganz wichtig! siehe Yogabīja (working ed von jason) 106 und 107:
+
+107 vor allem: guruvākyāt suṣuṃṇāyāṃ viparīto bhavej japaḥ
+so 'haṃ so ham iti prāpte mantrayogaḥ tadocyate
+
+"From the teacher's words, let there arise a reverse repetition in Suṣumnā. When the realization 'I am that, I am that' is attained, it is called Mantra Yoga."
+
+
+also in the Yogaśikhopaniṣad Mantrayoga is declared to be so ham ham so (cf. Translation p. 352) und (cf. Edition p. 458 (in pdf)) 
+
+
+Birch Amaraugha-Edition
+p. 34, n. 72:
+
+For example, the Dattātreyayogaśāstra (12–14) mentions only that the yogi should recite
+a mantra after installing the letters into his limbs (aṅgeṣu mātṛkānyāsapūrvaṃ mantraṃ japet
+sudhīḥ). The Yogabīja (106–107) describes the practice of Mantrayoga as the recitation of so
+’ham (so ’haṃ so ’ham iti prāpto mantrayogaḥ sa ucyate). This is called the ajapā mantra in other
+texts (e.g., Vivekamārtaṇḍa 29–31). The Śārṅgadharapaddhati (4349) defines Mantrayoga as
+a practice accomplished by those skilled in repeating mantras of deities, such as Brahmā,
+Viṣṇu or Śiva, and mentions Vatsarāja as an example of such an adept (br
+
+\end{document}
+
+\section{Rāmacandra's audience}
+
+\section{About the author}
+
+
+
+\chapter{Introduction}
+\mainmatter
+
+\begin{quote}
+nādakoṭisahasrāṇi bindukoṭiśatāni ca/
+sarve tatra layaṃ yānti yatra devo nirañjanaḥ//
+\end{quote}
+
+Thousands of crores of resonances and hundreds of crores of visual focal points, all dissolve into the place where the unadorned god is.
+
+\citetitle{hathapradipika2024}
+
+\chapter{Rāmacandra's Audience}
+
+atha rājayogaḥ || yogasvarodaye | īśvara uvāca |
+rājayogaṃ pravakṣyāmi śṛṇu sarvatra siddhidam |
+guhyād guhyataraṃ devi nānādharmaṃ parāt param |
+rājayogena deveśi nṛpapūjyo bhaven naraḥ |
+rājayogī cirāyuś ca aṣṭaiśvaryamayo bhavet ||
+
+„Alsdann Rājayoga. Im Yogasvarodaya. Gott sprach:
+Ich werde den Rājayoga verkünden, der in jedem Fall Vollkommenheit verleiht, höre zu!
+Geheimnisvoller als das Geheimste, oh Göttin, viele gute Eigenschaften, höher als das höchste. 
+Durch Rājayoga würde der Mensch einer sein, der zu verehren ist, wie ein König,(oder der von Königen zu verehren ist) oh Göttin der
+Götter! Der Rājayogin wird ein langes Leben haben und mit den acht übernatürlichen Kräften
+ausgestatett sein.“
+
+
+%%%%%%%%%%%
+%%%%%%%%%%%
+%%%%%%%%%%%
+%%%%%%%%%%%
+%%%%%%%%%%%
+%%%%%%%%%%%
+
+König Someśvaras Werk Mānasollāsa ("Erfrischung des Geistes") aus dem 12. Jahrhundert über
+die Erziehung junger Prinzen:
+„After performing the \textbf{Upanayana} ceremony in the eighth or eleventh year, the prince should be taught in
+one of the Vedas, the use of weapons and various sciences. ...They are required to be trained by experts
+and repeatedly examined by experts. When the king is pleased with the progress of the princes, he
+should embrace them and honour them with sweet words and presents, and the teachers should be
+presented with cows, towns or even villages. After educating the princes properly, the king should get
+them married.“
+(Shrigondekar 1939:20)
+
+HIER WICHTIG KOLLOQUIUM: Max schlägt vor, dass ich mein Argument ans Ende der Beobachtungen Stelle und zwar als Vorschlag die Beobachtungen einzuordnen und nicht den Vorschlag voran.!!!
+
+
+%%%%%%%
+%%%%%%%
+%%%%%%
+
+Laut Birch 2014 nur zwei Texte, welche die Konnotation von Rājayoga als „der für Könige geeignete Yoga“ haben:
+–
+Rājayogabhāṣya:
+rājayogaḥ rājña upayukto yogas tathocyate |
+„Der königliche Yoga, so wird gesagt, ist der Yoga der vom König angewendet wird."
+–
+Divākaras Kommentar zu Bodhasāra:
+... rājayogo rājñāṃ nṛpāṇāṃ svasthāne \emph{sthitvāpi} sādhayituṃ śakyatvāt tatsambandhī yogo
+jīvabrahmaikyaviṣayakajñānalakṣaṇo ...
+„Rājayoga ist das Yoga für Könige, weil Herrscher in der Lage sind es zu Stande zu bringen selbst wenn sie in ihrer Position
+(als Könige) bleiben. In diesem Zusammenhang ist sein [Haupt-]Merkmal das Wissen über die Vereinigung des
+individuellen Selbst mit Brahman“
+● Śivatattvaratnākara
+● Netratantra
+
+
+%%%%%%%
+%%%%%%%
+%%%%%%%
+ganz wichtig: Im Kolloquium war Jürgen überzeugt! (was sehr gut ist), Steiner und die Studi's eher unschlüssig und Stanislav nicht überzeugt ohne den Rest des Textes zu kennen. 
+Es ist sehr wichtig in der Argumentation zwar zu versuchen zu überzeugen, aber dennoch die eine Ausweichmöglichkeit zu lassen. Zumindest kann man sich darauf einstellen, dass dieses Thema kontrovers diskutiert wird.
+
+,,, oh kooler Begriff: Rāmacandra war ein Proto-Krishnamacharya ... :D 
+
+
+\chapter{Uncovering the Fundamental Teachings of Yogatattvabindu: A Textual Network}
+
+\begin{itemize}
+\item Netratantra
+\item Śāradatilakatantra
+\item Sarvadurgatipariśodhanatantra
+\item Ūrmikaulārṇavatantra
+\item Tantrāloka
+\item Manthanabhairavatantra
+\item Śārṅgadhārapaddhati 
+\item Vivekamārtaṇḍa
+\item Śivayogapradīpikā
+\item (Haṭhapradīpikā)
+\item Amaraughaśāsana
+\item Yogasvarodaya
+\item Sarvāṅgayogapradīpikā
+\item Nityanāthapaddhati  
+\item Siddhasiddhāntapaddhati
+\item Yogatattvabindu 
+\item Yogacūḍāmaṇyupaniṣad
+\item Maṇḍalabrāhmaṇopaniṣat
+\item Haṭhatattvakaumudi
+\item Haṭhasaṃketacandrikā
+\end{itemize}
+
+see Netra tantra Intro Bäumer p.43 ff
+
+\section{Lakṣyayoga}
+
+\begin{itemize}
+\item origin tantric Traditions -> e.g. Netratantra
+\item also check Mālinivijayottara 2004 Vasudeva pp. 256-257
+\item also \citetitle{birch2013} 2.10 Śāmbhavī Mudrā
+  \end{itemize} 
+
+\chapter{Sources}
+\section{The Additions of  SORI 6082 - U\textsubscript{2}}
+\label{discussionu2}
+Analyse the additions of U\textsubscript{2} and present the \textit{cakra}s and their attriubutes in a table .
+\begin{itemize}
+\item  Muktabodha-Texte sehe ich 3 Belege für bahiśśakti Muktabodha/krīyakramādyotikā.html 2938 suṣirānte bahiśśaktiṃ vinyasedvyomarūpiṇīm | tasyā madhye tu Muktabodha/sakalāgamasārasaṅgraha.html 2186 suṣirāntabahiśśaktiṃ vyāpinīṃ cintayet tataḥ || Muktabodha/kriyakramadyotikavyākhyā.html 1846 tanmadhye ca bahiśśaktiṃ sudhābindu parisrutim
+\item  Parā\footnote{Im Kaśm. Śiv. °das ewige Wort, in welchem potentiell alle Begriffe und Worte ruhen; vgl. das śabdabrahma des Vyākaraṇa. [B.]― Schmidt S. 246}.
+\item additional material was probably side notes text surrounding text that was incorporated into the main text by the scribe
+\item main structure of the attributions are two nominatives that refer to each other. In many other cases we have a karmadhāraya compound of two substantives refering to each other as a correspondence
+  \item note that the additions are very difficult material and sometimes har dto make sense of this is why several places had to be cruxed and only tentative translations were provided. 
+  \end{itemize}
+
+\chapter{Conventions in the Critical Apparatus}
+\section{Sigla in the Critical Apparatus}
+
+\begin{itemize}
+\item E : Printed Edition
+\item P : Pune BORI 664
+\item L : Lalchand Research Library LRL5876
+\item B : Bodleian Oxford D 4587
+\item \None : NGMPP B 38-31
+\item \Ntwo : NGMPP B 38-35 / A 1327-14
+\item \Done : IGNCA 30019
+\item \Uone : SORI 1574
+\item \Utwo: SORI 6082
+\end{itemize}
+
+The order of the readings in the critical apparatus is arranged according to the quality of readings in decending order. The critical apparatus is positive. Gemitation is not recorded. 
+
+\section{Abbreviations}
+\begin{itemize}
+  \item qcr: quote cum referencia (quoted with reference)
+  \end{itemize}
+
+\section{Punctuation}
+
+The inconsistent use of punctuation marks in the available witnesses necessitates standardization. Upon close examination, it appears that punctuation has frequently been dropped or added during the transmission of the texts. The neglect or improper handling of punctuation by the copists has resulted in different versions of lists with and without punctuation. In many instances, missing punctuation has led to the addition of case endings, alteration of the text, and the combination of list items into compound formations that were not present in the original text. Although punctuation plays an important role, deviations in punctuation at the end of sentences, lists, and verse-numbering will only be extensively documented in the critical apparatus of the printed edition. This means that emendations of obvious punctuation mistakes will not be recorded in the critical apparatus. However, the digital edition of this work provides a more detailed documentation of deviations in punctuation through diplomatic transcripts of each witness, and even has a function to display sentences cumulatively.
+
+In the printed edition of the \textit{Yogatattvabindu}, standard conventions of punctuation are followed. In verse poetry, a \textit{daṇḍa} (|) marks the end of a half-verse or half of the \textit{śloka}, and a double \textit{daṇḍa} (||) marks the end of a verse. In prose, a single \textit{daṇḍa} indicates the end of a sentence, and a double \textit{daṇḍa} marks the end of a paragraph. Variations in the use of \textit{avagraha} will be recorded, and items in lists will be separated by a double-\textit{daṇḍa}.
+
+\section{Sandhi}
+
+Among the witnesses we see deviating and inconsistent application of \textit{sandhi}. There is no clear evidence that originally \textit{sandhi} was intentionally not applied. This edition will therefore apply \textit{sandhi} consistently throughout the constituted text to provide a readable text sticking to contemporary conventions in Sanskrit. The variant readings concerning \textit{sandhi} are recorded consistently in the apparatus criticus. This is due to various textcritical problems arising from the inconsistent usage of punctuation which results in application or non-application of \textit{sandhi} wheter the respective witness applied a \textit{daṇḍa} or not. This is particularly the case within lists, which frequently occur in our compilation. Items were most likely originally separated by \textit{daṇḍa}. 
+
+
+\section{Class Nasals}
+
+Due to inconsistent use of class nasals among the witnesses \textit{anusvāra}s have been substituted with the respective class nasals throughout the edition.
+
+\section{Lists}
+
+Lists are a frequent feature in the \textit{Yogatattvabindu}. The text opens with a list of 15 Yogas and there are many more lists utilized throughout its content. To produce a consistent and easily readable edition, all lists have been identified, normalized to the Nominative Singular or Nominative Plural form of the respective item, or in the case of explanatory lists, to the Ablative Singular or Plural. The items are separated by a double \textit{daṇḍa}. Differences in punctuation and simple punctuation emendations, unless they are text-critically or systematically significant, will not be recorded in the apparatus criticus.
+\clearpage
+
+\section{Grammatical particularities}
+
+Section XVII. ->
+
+Grammatical constructions in this text may deviate from classical Sanskrit. In most cases, however, these should not be regarded as errors due to their frequency, but as phenomena of contemporary or regional language usage. Some constructions in this section and in other passages of the text use the genitive as a substitute for other cases, such as the dative, instrumental or locative (cf. \citeauthor{whitney1879} 1879: 87 [294]). In particular, this can be observed in this and other places in the text in relative clause constructions beginning with \textit{yasya}, which must be read as \textit{yasmin}, as otherwise the corresponding correlative pronoun seems to be missing, and the genitive, for example, in connection with the following word \textit{manasi} or \textit{manaḥ} (see edition text) would make the yogin the implicit subject of the sentence and the actual correlative pronoun of the construction referring to \textit{yasya}, in this section \textit{ayam} or \textit{saḥ}, would appear incongruent. At the same time, the \textit{daṇḍa}s in these constructions should be understood as commas or semicolons.     
+
+\section{Structural Issues of the Yogatattvabindu}
+\label{structure}
+\chapter{Related Texts}
+
+\section{Yogasvarodaya}
+
+Note: Mention the parallels to \citetitle{sarada} and how here \textit{svarodaya} plays an important role in the system of yoga. Also there seems to be some distant influence. I think originally there might have been was a larger section of svarodaya or even a chapter in the Yogasvarodaya which was not quoted in PT and YK!!
+
+
+list 
+
+\section{Śivayogapradīpikā}
+In the \citetitle{shivayogapradipika} 4.41cd-47ab we find descriptions closely resembling those of \citetitle{advaya}:
+\begin{quote}
+antarlakṣyam iti jñeyaṃ bahirlakṣyam atha śṛṇu ||41||\\
+nāsāgradeśāc caturaḥ ṣaḍ aṣṭau tathā daśa dvādaśa saṃkhyayāṅguliḥ |\\
+bahiḥ smaren nīlasudhūmraraktataraṅgapītābhasutattvapañcakam ||42||\\
+athavā sanmukhākāśaṃ sthiradṛṣṭyā vilakṣayet |\\
+jyotirmayūkhā dṛśyante yogibhir dhīramānasaiḥ ||43||\\
+dṛṣṭyagre vāpy apāṅge vā taptakāñcanasaṃnibham | \\
+bhūmiṃ saṃlakṣayed dṛṣṭiḥ sthirā bhavati yoginaḥ ||44||\\
+athavā śirasaś cordhve dvādaśāṅgulasaṃmite |\\
+jyotiḥpuñjaṃ nirākāraṃ lakṣayen muktidaṃ bhavet ||45||\\
+yatra yatrārthavān yogī tatra tatra vilakṣayet |\\
+ākāśam eva yas tasya cittaṃ bhavati tādṛśam ||46||\\
+ity anekavidhākāraṃ bahirlakṣyam udīritam |\\
+\end{quote}
+
+Revise translation! see Powell 2023! 
+
+``(41cd) That was the inner fixation. Now hear the external fixation that needs to be understood.(42) From the tip of the nose, counting with four, six, ten, and twelve, using the numerical system of the fingers. The five elements in [the colours of] outdoor blue, intense grey, wave of red and yellow mystery. (43) Alternatively, one may gaze steadily towards the space [directly] in front of [the face]. Luminous rays are perceived by steadfast-minded yogins. (44) In front of the gaze or at the outer corner of the eye space, resembling the shine of molten gold, the gaze should be fixed on the ground - [thus] stability arises for the yogin. (45) Alternatively, above the head, with a [distance of] twelve finger-breadths, one should fixate the formless cluster of light, which bestows liberation. (46) Wherever the yogin is suitable to the object, there he should fixate only space, in order for his mind to becomes as such. (47ab) Thus, various external fixations have been mentioned.''
+
+\section{Netratantra}
+
+Netratantra
+
+Gavin Flood, Bjarne Wernicke-Olesen and Rajan Khatiwoda
+Consultants: Alexis Sanderson, Diwakar Acharya
+
+The Netratantra (NT), the ‘Tantra of the Eye’, is an important text in Kashmir and Nepal, dating from around the early ninth century, and widely disseminated during the eleventh and probably tenth centuries. The text takes its name from Śiva as Netranātha or ‘Lord of the Eye’. It was commented on by the Pratyabhijñā philosopher Kṣemarāja (c. 1000-1050) in his extant Netratantroddyota, that itself bears witness to its importance in his desire to bring the text into the orbit of his non-dualist metaphysics. The project will edit, translate, and describe its traditions as borne witness to in the Nepalese recension of the text. Alexis Sanderson has shown how the Netratantra was connected with royalty and used in the courts by Śaiva officiants in the role of royal priest or rājapurohita. That Śaiva and Mahāyāna gurus performed ‘apatropaic, restorative and aggressive Mantra rituals’ for the protection of king and kingdom is well attested in the kingdoms of south and south-east Asia from the ninth to eleventh century and the Netratantra is a text that bears witness to Śaiva gurus in the service of kings.[1] The principle use of the text would have been the protection of the king and his family through the propagation of its ritual procedures and particularly the recitation of the netra mantra (OṂ JUṂ SAḤ in the short version). Thus, the text is a ‘universal’ (sarvasāmānya-) tantra, which ‘overrides the distinctions between the various branches of the Mantramārga […] and that between the Mantramārga and the Kulamārga by propagating a form of worship for use by royal officiants that can be inflected as required to take on the character of any of these divisions and indeed of others outside Śaivism.’[2]
+
+The text was first brought to our attention by Hélène Brunner who describes each chapter in some detail in her 1974 paper;[3] an extremely useful source for not only the contents of the text, but for her comments on its structure and relation to other texts, and has been researched by André Padoux in his studies of the correspondences between cosmos, sound, and body[3] and of the way the netramantra is formed. Somadeva Vasudeva has done research on yoga in the text, particularly the subtle visualization and subtle body of chapter seven,[5] as has James Mallinson.[6]
+
+It is probable that the Netratantra was composed over a long period of time and the redactor is bringing together diverse elements into a whole. There are parallels between the Netra and the Svacchandatantra although more work on the parallels and influence of the Svacchanda needs to be done.[7] David White argues that the oldest or original section of the work is the material concerned with possession and exorcism[8] and this systematic treatment of possession is indeed a notable feature of it, akin to similar treatment in the Īśānaśivagurudevapaddhati Mantrapāda chapter 42.
+
+The central deity of the Netratantra is Amṛteśvara, called Amṛtīśa in the Nepalese recension, also known as Amṛteśabhairava, Mṛtyunjit, and Mṛtyuñjaya, whose consort is Lakṣmī/Śrī called Amṛtalakṣmī in ritual manuals based on the text.[9] After an initial chapter in which Amṛteśvara, referred to as Bhairava, responds to the questions of the Goddess by extolling the virtues and powers of Śiva’s eye, the text presents a number of visualisations of a number of deities, catholic in its range, not only from the systems of the Mantramārga but from Vaiṣṇava traditions as well.[10] Furthermore, a strong Śākta influence is evident in the text with its many references to deities and practices characteristic of the Kulamārga (e.g. chapter 7 on the subtle visualising meditation and chapter 20 on yoginīs).
+
+The project to study the text will especially focus on the theme of models of the person or self that the text entails. Based on close philological reading, we hope to account for different understandings of the person implicit in the text. Chapters on ritual and meditation reflect the understandings of the person in the wider community of which the text is an index. In particular, three chapters, six, seven, and eight, that the text calls the mundane or gross meditation (sthūladhyānam), the subtle meditation (sūkṣmadhyānam), and the supreme meditation (para­dhyānam), correspond to three types or levels of the body, gross, subtle and supreme.[11] It seems that this threefold hierarchical structure is an attempt to order a range of practices that the Netra is incorporating and it does so with some coherence. The lowest level of meditation practice is concerned with magical protection (primarily of the king [6.35] and his family) from demonic beings. This involves the practitioner, the Sādhaka or Mantrin, constructing diagrams within which the name of the person to be protected is written along with other rites of appeasement (śāntiḥ) and prosperity (puṣṭiḥ). The subtle level concerns the visualisation of the body and the powers moving within it. The subtle meditation is especially interesting because it presents two different systems of visualisation, one in which subtle energy rises up through the body, piercing the levels to the location of Śiva at the crown of the head and a second in which that same power rising through the body releases nectar at the crown of the head that then floods the body.[12] In his commentary Kṣemarāja calls these the tantra-prakrīyā and the kula-prakrīyā respectively, the latter being an index of the Śākta kulamārga. Finally, the supreme meditation is principally a reinterpretation of the ‘limbs’ of classical yoga from the perspective of supreme reality, the level of Śiva.[13] All of these entail distinct understandings of what a person is (e.g. a permeable self in ch. 6 and 19, a processual self in ch. 7 and a gnostic self in ch. 8).
+
+There are two major recensions of the text, one in Kashmir (where four manuscripts exist to our knowledge) and one in Nepal where again there are four manuscripts (to be described presently). These have been preserved by the Nepal-German Manuscript Preservation Project (NGMCP). The Nepalese manuscripts probably represent an older recension of the text, a judgement based on its slightly less polished language, which the Kashmiris have amended at times in the interests of producing a better text although Sanderson argues for the Kashmir origin of the text between 700 and 850 AD.[14] Of the four Nepalese witnesses, the oldest is a palm leaf manuscript (N1) of which there is a much more recent (19th century?) devanāgarī apograph (N2). N1 is dated to February or March 1200, the copying being done by Pandit Kīrttidhara, commissioned by the author of a ritual manual Viśveśvara, and completed during Caitra in saṃvat 320 (= 1200 AD).[15] Often the Kashmir reading is better semantically and grammatically, but we intend to preserve the text as it stands while noting the Kashmir variants.
+
+Project output:
+A full annotated translation of the Netratantra with an introduction in two volumes in the Routledge Studies in Tantric Traditions series.
+
+[1] Alexis Sanderson, ‘Religion and the State: Śaiva Officiants in the Territory of the King’s brahmanical Chaplain,’ p. 238, Indo-Iranian Journal vol. 47, 2004, pp. 229-300. This is corroborated by texts such as the Amṛteśadīkṣāvidhi that prescribe initiation and ritual for the royal family (p. 241).
+[2] Alexis Sanderson, ‘The Śaiva Literature,’ p. 30, Journal of Indological Studies, Nos. 24 \& 25 (2012–2013), pp. 1-113.
+[3] Hélène Brunner, ‘Un Tantra du Nord: le Netra Tantra’, Bulletin l’École Français d’Extreme Orient, vol. 61, 1974, pp. 125-97.
+[4] André Padoux, Vāc: A Study of the Word in Selected Hindu Tantras, trans. J. Gontier (Albany: SUNY Press, 1991). Also, his useful and lucid paper ‘Corps et cosmos: l’image du corps du yogin tantrique,’ in V. Boullier and Gilles Tarabout (eds.), Images du corps dans le monde hindou (Paris: CNRS, 2002), pp. 163-87. See also Gavin Flood, ‘Body, Breath, and Representation in Śaiva Tantrism,’ in Axel Michaels and Christoph Wulf (eds.), Images of the Body in India (London: Routledge, 2011), pp. 70-83.
+[5] Somadeva Vasudeva, ‘The Śaiva Yogas and their Relation to Other Systems of Yoga,’ pp. 7-8, RINDAS Series of Working Papers, Traditional Indian Thought 26, 2017, pp. 1-16.
+[6] James Mallinson and Mark Singleton, The Roots of Yoga (London: Penguin, 2017), ch 5.
+[7] André Padoux, Tantric Mantras (London: Routledge, 2011), pp. 90. 95.
+[8] David White, ‘Netra Tantra at the Crossroads of the Demonological Cosmopolis,’ Journal of Hindu Studies, vol. 5, 2012, pp. 145-71.
+[9] Sanderson, ‘Religion and the State,’ p. 239, n. 18.
+[10] For example, it describes Viṣṇu as a sixteen-year old, ityphallic youth seated on a ram (13.10-13b), as well as visualisations of Tumburu and his sisters (chapter 11).
+[11] Padoux (2002, p. 172) cites Kṣemarāja’s commentary on the Śivasūtra 3.4 where a triple body is related to the cosmic hierarchy.
+[12] Bjarne Wenicke-Olesen has referred to the latter as being a ‘Śākta anthropology’ that can be contrasted with the earlier idea of the retention of semen (bindu) in the head. In an article with Silje Lyngar Einarsen he writes: ‘Es zeigt sich, daß eine ursprüngliche oder frühe Binduyoga-Anthropologie, die auf das Zurückhalten des Samens (bindhudhāraṇa) ausgerichtet war, von einem mit dem Kuṇḍalinī-System verknüpften Śākta-Anthropologie ersetzt wird, die auf die Überströmung des Körpers mit Unsterblichkeitselexir (amṛtaplavana) ausgerichtet ist’ (Wernicke-Olesen, B. and S. L. Einarsen. 2018. ’Übungswissen in Yoga, Tantra und Asketismus des frühen indischen Mittelalters’, in A.-B. Renger and A. Stellmacher (eds), Übungswissen in Religion und Philosophie: Produktion, Weitergabe, Wandel, pp. 241-257. Berlin: LIT Verlag). Also see James Mallinson, ‘Śāktism and Haṭha Yoga’ in B. Wernicke-Olesen (ed.), Goddess Traditions in Tantric Hinduism: History, Practice and Doctrine (London: Routledge, 2015), pp. 109-40.
+[13] Vasudeva has written on the six ancillaries of yoga. Concerning those in the Netratantra he observes that ‘it may actually be more appropriate to compare the eight ancillaries of the Netratantra with the formulaic dhāraṇās taught in the Vijñānabhairava, which show an even greater tendency towards the transcendence of the inherited complex of ritual and yogic procedures’ (Vasudeva 2004, p. 382).
+[14] Sanderson, ‘Religion and the State,’ p. 242.
+[15] N1 folio 49. Amṛteśatantra, NAK MS 1-285, NGMPP Reel No. B 25/5. Palm Leaf; Nepalese variant of proto-Bengali script, 1200 AD (= Saṃvat 320). NAK 5-4866, NGMPP Reel No. A 171/12.
+
+Link to chapter 7: Netratantra VII: Subtle Visualisation (sample chapter)
+The Lord of Immortality: An Introduction, Critical Edition, and Translation of the Netra Tantra, chapter 7. Critically edited, translated and introduced by Gavin Flood, Bjarne Wernicke-Olesen, Rajan Khatiwoda (Oxford: OCHS 2019).
+https://saktatraditions.org/netratantra/
+
+\section{4.9.6 The Śivatattvaratnākara}
+The Śivatattvaratnākara is a large compendium attributed to a king named Keḷadi Basavabhūpāla (also
+known as Basavarāja, Basavāppa Nāyaka I) who reigned from 1696–1714 in Ikkeri, Karnataka. In the
+seventh chapter of the Śivatattvaratnākara, in a section providing instructions on yoga for the king, a
+large portion of the Śivayogapradīpikā is quoted. 338 The Śivatattvaratnākara also at times provides
+further details or interpretations of the verses, for example, supplying the mantras referred to in
+Śivayogapradīpikā 1.5. 339 The text thus provides an intriguing early modern example of the adapation of
+yoga in a non-ascetic and courtly environment. page 146 in Powell 2023
+
+\section{Amaraughaśāsana}
+
+Perhaps the earliest Nāth work on Haṭha Yoga
+from northwest India is the Amaraughaśāsana,
+whose oldest manuscript is dated 1525 CE.
+
+Mallinson Nāth Sampradaya 2011 
+\chapter{notes}
+
+4.9.6 The Śivatattvaratnākara
+The Śivatattvaratnākara is a large compendium attributed to a king named Keḷadi Basavabhūpāla (also
+known as Basavarāja, Basavāppa Nāyaka I) who reigned from 1696–1714 in Ikkeri, Karnataka. In the
+seventh chapter of the Śivatattvaratnākara, in a section providing instructions on yoga for the king, a
+large portion of the Śivayogapradīpikā is quoted. 338 The Śivatattvaratnākara also at times provides
+further details or interpretations of the verses, for example, supplying the mantras referred to in
+Śivayogapradīpikā 1.5. 339 \textbf{The text thus provides an intriguing early modern example of the adapation of
+yoga in a non-ascetic and courtly environment.}
+
+Powell 2024:146
+
+\chapter{Content and Implications}
+
+\section{Rāmacandra's Avadhūtapuruṣa}
+\label{avadhutapurusa} 
+
+Rāmacandra's passage on the Avadhūta is based exclusively on the template of SSP 6.1 - 116, selecting and modifying mainly those verses that correspond to his specific definition of Rājayoga (cf. \pageref{intro}), his Rājayoga, which is primarily characterised by a life of material prosperity. Rāmacandra's concept of an Avadhūta shows no traces of the original ascetic conception, the antinomian traits, or sometimes terrible practices of an Avadhūta. As \citeauthor{pudi2023} shows in her 2023 article \citetitle{pudi2023}, the image of the Avadhūta changes significantly from the advanced and already liberated antinomian ascetic of the early medieval Vidyāpīṭha and some early medieval Purāṇas in the following centuries. Already in the medieval Saṃnyāsa Upaniṣads of the early second millennium CE. the Avadhūta is integrated into the Brahmanical \textit{āśrama} system, its unconventional traits and unorthodox practice is tamed, and the Avadhūta is thereby elevated, according to \citeauthor{pudi2023}, to a legitimate and even the highest class of \textit{saṃnyāsa āśrama}. In \citeauthor{pudi2023}s words, to a sanitised \textit{saṃnyāsin}.
+
+In the 18th century CE, the Avadhūta conception of the SSP moved further away from the antinomian-ascetic concept of the early Middle Ages. Apart from a single verse, namely SSP 6.20, in which the author points out that the Avadhūta sometimes immerses himself in worldly pleasures, or behaves devilishly like a naked and world-denying hermit, sometimes acts like a king, or he behaves according to the social norm, there is not a single remnant of the concept of an antinomian ascetic. On the contrary, all yogic practices originating in ascetic milieus, such as the practice of \textit{tapas}, surprisingly the oath of continuous nakedness (\textit{digambaras}) (SSP 6. 78), the practice of \textit{kumbhaka} or \textit{oṃ} recitation (SSP 6.79), \textit{bindu}-oriented practices (SSP 6.83), \textit{khecarīmudrā} (SSP 6.84) and other \textit{mudrā}s (SSP 6.86-97) are rejected and characterised as not practical.
+
+All those who adhere to these practices and wear a begging bowl cannot attain liberation. The avadhūta of the SSP is no longer an ascetic but nothing other than the supreme and ultimately liberated yogi \textit{par excellance}located beyond the \textit{āśrama}s (SSP 6.22). The detachment of the term from its ascetic origins observed here is particularly evident in SSP 6.4. He is "The yogi who has burnt his desires and smeared his body with their ashes and who is absorbed in the true nature of the Self is called Avadhūta". (\textit{nijasmaravibhūtir yo yogī svāṅge vibhūṣitaḥ | ādhāre yasya vā rūḍhiḥ so 'vadhūto 'bhidhīyate || 4 ||}). 
+ 
+Rāmacandra adopts this ideal, which the SSP has further developed, and pushes the development even further. Rāmacandra makes the already purified Avadhūta presentable at the royal court by symbolically wrapping it in royal robes. In this garb, Rāmacandra's Avadhūta, the sublime and liberated person who is above all things, becomes fit for courtly-royal life, as does the Rājayoga, which also arose in an ascetic-tantric context (see \citeauthor[2019]{birch2019saiva}) and is now tailored to the specific circumstances of life in the royal court. 
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+\chapter{Dankesagung}
+Dominic Haas! Danke!
+Shaman Hatley! Danke!
+Dominik Goodall! Danke!
+Jim
+Jasom
+Mitsuyo
+Jüprgen
+Max!!!!
+Bastian!
+Roland Steiner
+Kolloquium
+allen MArburgern
