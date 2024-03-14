@@ -19,8 +19,11 @@
 \usepackage[english]{babel}
 \usepackage{babel-iast/babel-iast}
 
-\babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.3]{AdishilaSan}%AdishilaSan}
-\babelfont[english]{rm}{Adobe Text Pro}
+%\babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.3]{AdishilaSan}%AdishilaSan}
+\babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.1]{Sanskrit2003}
+%\babelfont[english]{rm}{Adobe Text Pro}
+\babelfont[english]{rm}{Vollkorn}
+%\babelfont[english]{rm}{1592 GLC Garamond}
 
 %%% more functionality
 \PassOptionsToPackage{hyphens}{url}
@@ -355,7 +358,8 @@ surname=Liersch]
 \TeXtoTEIPat{\skm {#1}}{}
 
 % \NewDocumentCommand{\dd}{}{/\hskip-4pt/}
-\NewDocumentCommand{\dd}{}{\mbox{/\hskip-4pt/}}
+% \NewDocumentCommand{\dd}{}{\mbox{/\hskip-4pt/}}
+\NewDocumentCommand{\dd}{}{\mbox{/\hskip-2pt/}}
 \TeXtoTEIPat{\dd {}}{//}
 
 

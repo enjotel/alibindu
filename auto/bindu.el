@@ -19,7 +19,6 @@
     "secondhathatrans"
     "jnanayogastart"
     "jnanayogatrans"
-    "jnanayogaend"
     "fig1"
     "fig2"
     "sec:bibli"))
