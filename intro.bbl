@@ -301,6 +301,70 @@
       \field{year}{2009}
       \keyw{printsource}
     \endentry
+    \entry{uddhavagita2007}{book}{}
+      \name{author}{4}{}{%
+        {{hash=823c749d6a7d8e9161cdf2ac19e415a5}{%
+           family={Cakravartin},
+           familyi={C\bibinitperiod},
+           given={Viśvanātha},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ff4f8637a9ac44f1c360911f39012821}{%
+           family={Sarasvatī\bibnamedelima Gosvāmī},
+           familyi={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Bhaktisiddhānta},
+           giveni={B\bibinitperiod}}}%
+        {{hash=20264f77750a54ee44e7416b18e660aa}{%
+           family={Dāsa},
+           familyi={D\bibinitperiod},
+           given={Bhumipati},
+           giveni={B\bibinitperiod}}}%
+        {{hash=018b7b82eae88c59fe7e280853fa55a3}{%
+           family={Dāsa},
+           familyi={D\bibinitperiod},
+           given={Pūrṇaprajña},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=018b7b82eae88c59fe7e280853fa55a3}{%
+           family={Dāsa},
+           familyi={D\bibinitperiod},
+           given={Pūrṇaprajña},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=20264f77750a54ee44e7416b18e660aa}{%
+           family={Dāsa},
+           familyi={D\bibinitperiod},
+           given={Bhumipati},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Kolkata}%
+      }
+      \list{publisher}{1}{%
+        {Touchstone Media}%
+      }
+      \strng{namehash}{df8bf2b3155af9a747f3ff852bd2f770}
+      \strng{fullhash}{5be532ea45edee6991714afffd87cca9}
+      \strng{bibnamehash}{df8bf2b3155af9a747f3ff852bd2f770}
+      \strng{authorbibnamehash}{df8bf2b3155af9a747f3ff852bd2f770}
+      \strng{authornamehash}{df8bf2b3155af9a747f3ff852bd2f770}
+      \strng{authorfullhash}{5be532ea45edee6991714afffd87cca9}
+      \strng{editorbibnamehash}{018b7b82eae88c59fe7e280853fa55a3}
+      \strng{editornamehash}{018b7b82eae88c59fe7e280853fa55a3}
+      \strng{editorfullhash}{018b7b82eae88c59fe7e280853fa55a3}
+      \strng{translatorbibnamehash}{20264f77750a54ee44e7416b18e660aa}
+      \strng{translatornamehash}{20264f77750a54ee44e7416b18e660aa}
+      \strng{translatorfullhash}{20264f77750a54ee44e7416b18e660aa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{ultimate companion to Bhagavad Gita by the same speaker; original Sanskrit text, Roman transliterations, and translations featuring Sārārtha darśinī commentary by Śrīla Viśvanātha Cakravartī Ṭhākura, chapter summaries and Gauḍiya bhāsya purport by Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura}
+      \field{title}{The Uddhava-Gītā}
+      \field{year}{2007}
+      \keyw{printed}
+    \endentry
     \entry{ganesan2016saiva}{incollection}{}
       \name{author}{1}{}{%
         {{hash=c662f409bca5fd973ff6cd409cd9bc12}{%
@@ -394,6 +458,124 @@
       \field{subtitle}{Yuktabhavadeva of Bhavadeva Miśra,}
       \field{title}{Yuktabhavadeva}
       \field{year}{2002}
+    \endentry
+    \entry{govindan2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b6e8a4a9ac01165f7b57c4215e60e841}{%
+           family={Govindan},
+           familyi={G\bibinitperiod},
+           given={Marshall},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Emmendingen}%
+      }
+      \list{publisher}{1}{%
+        {Hans-Nietsch-Verlag in Kooperation mit Kriya Yoga Publications}%
+      }
+      \strng{namehash}{b6e8a4a9ac01165f7b57c4215e60e841}
+      \strng{fullhash}{b6e8a4a9ac01165f7b57c4215e60e841}
+      \strng{bibnamehash}{b6e8a4a9ac01165f7b57c4215e60e841}
+      \strng{authorbibnamehash}{b6e8a4a9ac01165f7b57c4215e60e841}
+      \strng{authornamehash}{b6e8a4a9ac01165f7b57c4215e60e841}
+      \strng{authorfullhash}{b6e8a4a9ac01165f7b57c4215e60e841}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Kriya Yoga und die 18 Siddhas}
+      \field{title}{Babaji}
+      \field{year}{2010}
+      \keyw{seclit}
+    \endentry
+    \entry{kriyababajiyoga}{online}{}
+      \list{organization}{1}{%
+        {Kriya Babaji Yoga Sangam}%
+      }
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://web.archive.org/web/20240320214547/https://kriyababajiyogasangam.org/}}
+      \field{note}{Website saved with the Way Back Machine of archive.org on 20.03.2024}
+      \field{title}{Kriya Babaji Yoga Sangam Website}
+      \keyw{onlinesource}
+    \endentry
+    \entry{hariharananda1989}{book}{}
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Motilal Banarsidass}%
+      }
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The Scientific Process of Soul-Culture and the Essence of All Religions}
+      \field{title}{Kriya Yoga}
+      \field{year}{1989}
+      \keyw{seclit}
+    \endentry
+    \entry{kriyayogaupanishad1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ea12c4fa5ae6133e108fef79035282a6}{%
+           family={Kriyananda},
+           familyi={K\bibinitperiod},
+           given={Goswami},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The Temple of Kriya Yoga}%
+      }
+      \strng{namehash}{ea12c4fa5ae6133e108fef79035282a6}
+      \strng{fullhash}{ea12c4fa5ae6133e108fef79035282a6}
+      \strng{bibnamehash}{ea12c4fa5ae6133e108fef79035282a6}
+      \strng{authorbibnamehash}{ea12c4fa5ae6133e108fef79035282a6}
+      \strng{authornamehash}{ea12c4fa5ae6133e108fef79035282a6}
+      \strng{authorfullhash}{ea12c4fa5ae6133e108fef79035282a6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Kriya Yoga Upanishad and the Mystical Upanishads}
+      \field{year}{1993}
+      \keyw{printed}
+    \endentry
+    \entry{kriyayogalowenstein}{book}{}
+      \name{author}{2}{}{%
+        {{hash=353779c9ecf89fc93c2c52afecefa6cc}{%
+           family={Lowenstein},
+           familyi={L\bibinitperiod},
+           given={Keith\bibnamedelimb G.\bibnamedelimi (M.D.)},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+        {{hash=be7c37b6e931b26d54dbc8b0f795ca7f}{%
+           family={Lett},
+           familyi={L\bibinitperiod},
+           given={Andrea\bibnamedelimb J.\bibnamedelimi (M.A.)},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rochester}%
+      }
+      \list{publisher}{1}{%
+        {Inner Traditions}%
+      }
+      \strng{namehash}{63bc3c121384c412e67cc0156c487981}
+      \strng{fullhash}{63bc3c121384c412e67cc0156c487981}
+      \strng{bibnamehash}{63bc3c121384c412e67cc0156c487981}
+      \strng{authorbibnamehash}{63bc3c121384c412e67cc0156c487981}
+      \strng{authornamehash}{63bc3c121384c412e67cc0156c487981}
+      \strng{authorfullhash}{63bc3c121384c412e67cc0156c487981}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Practices for Deep States of Meditation}
+      \field{title}{Kriya Yoga for Self-Discovery}
+      \field{year}{2021}
+      \keyw{seclit}
     \endentry
     \entry{mallinson2007}{book}{}
       \name{editor}{1}{}{%
@@ -490,6 +672,35 @@
       \field{year}{2024}
       \keyw{printsource}
     \endentry
+    \entry{sarvangayoga}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=bad728c888298d636658fff59c460a8a}{%
+           family={Misra},
+           familyi={M\bibinitperiod},
+           given={R.C.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Kitabghar}%
+      }
+      \strng{namehash}{bad728c888298d636658fff59c460a8a}
+      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
+      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
+      \field{title}{Sarvāṅgayogapradīpikā}
+      \field{year}{1992}
+      \keyw{printsource}
+    \endentry
     \entry{mrgendragamabrunner}{book}{}
       \name{author}{2}{}{%
         {{hash=d8c7fd5fc1e42b69044da3fc0fcd4c45}{%
@@ -535,6 +746,34 @@
       \endverb
       \keyw{seclit}
     \endentry
+    \entry{kriyayoganityananda2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b689a5b3c80661457f7f3eb89dd8d8be}{%
+           family={Nityānanda\bibnamedelima Giri},
+           familyi={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Swāmī},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Munshiram Manoharlal Publishers Pvt. Ltd.}%
+      }
+      \strng{namehash}{b689a5b3c80661457f7f3eb89dd8d8be}
+      \strng{fullhash}{b689a5b3c80661457f7f3eb89dd8d8be}
+      \strng{bibnamehash}{b689a5b3c80661457f7f3eb89dd8d8be}
+      \strng{authorbibnamehash}{b689a5b3c80661457f7f3eb89dd8d8be}
+      \strng{authornamehash}{b689a5b3c80661457f7f3eb89dd8d8be}
+      \strng{authorfullhash}{b689a5b3c80661457f7f3eb89dd8d8be}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kriyāyoga: The science of Life-force}
+      \field{year}{2013}
+      \keyw{seclit}
+    \endentry
     \entry{penna2004}{book}{}
       \name{author}{1}{}{%
         {{hash=06aea7f9fc38e49153006ac65fb5feb6}{%
@@ -561,6 +800,126 @@
       \field{labeltitlesource}{title}
       \field{title}{Yogasiddhāntacandrikā of Nārāyaṇatīrtha [A Study]}
       \field{year}{2004}
+    \endentry
+    \entry{kriyayogasarasvati1981}{book}{}
+      \name{author}{1}{}{%
+        {{hash=370bea07a781ab54225e04bf7f9bb998}{%
+           family={Saraswati},
+           familyi={S\bibinitperiod},
+           given={Swami\bibnamedelima Satyananda},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ganga Darshan, Munger, Bihar}%
+      }
+      \list{publisher}{1}{%
+        {Yoga Publications Trust}%
+      }
+      \strng{namehash}{370bea07a781ab54225e04bf7f9bb998}
+      \strng{fullhash}{370bea07a781ab54225e04bf7f9bb998}
+      \strng{bibnamehash}{370bea07a781ab54225e04bf7f9bb998}
+      \strng{authorbibnamehash}{370bea07a781ab54225e04bf7f9bb998}
+      \strng{authornamehash}{370bea07a781ab54225e04bf7f9bb998}
+      \strng{authorfullhash}{370bea07a781ab54225e04bf7f9bb998}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Systematic Course in the Ancient Tantric Techniques of Yoga and Kriya}
+      \field{year}{1981}
+      \keyw{seclit}
+    \endentry
+    \entry{bhagavata}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=dd365210efe04ee00bf0c07b91056de2}{%
+           family={Shastri},
+           familyi={S\bibinitperiod},
+           given={J.L.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=309310b8c28757f05b4772d49ec022ce}{%
+           family={Tagara},
+           familyi={T\bibinitperiod},
+           given={G.V.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Motilal Banarsidass}%
+      }
+      \strng{namehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{fullhash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{bibnamehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{editorbibnamehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{editornamehash}{d2a909a85f7ea139173ccfff486cde9e}
+      \strng{editorfullhash}{d2a909a85f7ea139173ccfff486cde9e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Bhāgavata Purāṇa}
+      \field{volume}{1-5}
+      \field{year}{1950}
+      \keyw{printsource}
+    \endentry
+    \entry{shivanandakriya1982}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c08b1c9a9158189e4098b5ffff585ff7}{%
+           family={Sivananda},
+           familyi={S\bibinitperiod},
+           given={Sri\bibnamedelima Swami},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tehri-Garhwal}%
+      }
+      \list{publisher}{1}{%
+        {Divine Life Society}%
+      }
+      \strng{namehash}{c08b1c9a9158189e4098b5ffff585ff7}
+      \strng{fullhash}{c08b1c9a9158189e4098b5ffff585ff7}
+      \strng{bibnamehash}{c08b1c9a9158189e4098b5ffff585ff7}
+      \strng{authorbibnamehash}{c08b1c9a9158189e4098b5ffff585ff7}
+      \strng{authornamehash}{c08b1c9a9158189e4098b5ffff585ff7}
+      \strng{authorfullhash}{c08b1c9a9158189e4098b5ffff585ff7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{First Edition: 1955}
+      \field{title}{Tantra Yoga, Nada Yoga and Kriya Yoga}
+      \field{year}{1981}
+      \keyw{seclit}
+    \endentry
+    \entry{kriyayogasturgess2015}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9b4d8507b04fef634cbf2ec34f01b5ec}{%
+           family={Sturgess},
+           familyi={S\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Singing Dragon}%
+      }
+      \strng{namehash}{9b4d8507b04fef634cbf2ec34f01b5ec}
+      \strng{fullhash}{9b4d8507b04fef634cbf2ec34f01b5ec}
+      \strng{bibnamehash}{9b4d8507b04fef634cbf2ec34f01b5ec}
+      \strng{authorbibnamehash}{9b4d8507b04fef634cbf2ec34f01b5ec}
+      \strng{authornamehash}{9b4d8507b04fef634cbf2ec34f01b5ec}
+      \strng{authorfullhash}{9b4d8507b04fef634cbf2ec34f01b5ec}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The Ultimate Path to Self-Realisation}
+      \field{title}{The Supreme Art and Science of Rāja & Kriyā Yoga}
+      \field{year}{2015}
+      \keyw{seclit}
     \endentry
     \entry{hathasamketacandrikajodhpur}{codex}{}
       \name{author}{1}{}{%
@@ -726,6 +1085,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Autobiography of a Yogi}
       \field{year}{1946}
+      \keyw{seclit}
     \endentry
   \enddatalist
 \endrefsection
