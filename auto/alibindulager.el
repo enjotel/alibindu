@@ -48,6 +48,12 @@
     "rajabodytrans"
     "anjacihna"
     "anjacihnatrans"
+    "caryayoga"
+    "caryayogatrans"
+    "hathayoga"
+    "secondtypehatha"
+    "hathayogatrans"
+    "secondhathatrans"
     "eightenjoyments"
     "bahya"
     "bahyatrans"
@@ -73,12 +79,6 @@
     "lotusofsupport"
     "heartlotus"
     "heartlotustrans"
-    "knowledge"
-    "knowledgetrans"
-    "gapn1n2end"
-    "generationofbody"
-    "fivegreatelements"
-    "greatelements"
-    "greatelements2"))
+    "knowledge"))
  :latex)
 

@@ -48,6 +48,7 @@
     "teacher2011"
     "bastow1978"
     "bochinger2009"
+    "kaushik1993"
     "uddhavagita2007"
     "shivanandakriya1982"
     "baba1976"
@@ -140,6 +141,7 @@
     "rigveda"
     "rigvedaglossar"
     "sircar1966"
+    "apte1890practical"
     "yogapowers2017"
     "white2011"
     "kawamura1991"
@@ -314,6 +316,7 @@
     "gimp"
     "kriyababajiyoga"
     "kriyakrama"
-    "sakalagama"))
+    "sakalagama"
+    "goswamikriyananda"))
  '(or :bibtex :latex))
 

@@ -1,4 +1,4 @@
-﻿@inbook{kaviraj,
+@inbook{kaviraj,
   author      = {Kavirāj, Gopīnāth},
   title       = {The system of cakras according to Gorakṣanātha},
   editor      = {Sastri, Gaurinath},
@@ -37,7 +37,7 @@
 
 @book{kriyayogasarasvati1981,
 title={A Systematic Course in the Ancient Tantric Techniques of Yoga and Kriya},
-author={Satyananda, Sarasvati Swami},
+author={Saraswati, Swami Satyananda},
 year={1981},
 publisher={Yoga Publications Trust},
 address={Ganga Darshan, Munger, Bihar},
@@ -56,7 +56,6 @@ keywords={printed},
 @book{hariharananda1989,
 title={Kriya Yoga},
 subtitle={The Scientific Process of Soul-Culture and the Essence of All Religions},
-author={Hariharananda, Paramahamsa},
 year={1989},
 publisher={Motilal Banarsidass},
 address={New Delhi},
@@ -310,29 +309,6 @@ address={Lonavla},
   keywords={printsource},
 }
 
-@article{burger2014sarvangayogapradipika,
-  title = {La Sarvāṅgayogapradīpikā de Sundardās: une classification des chemins du yoga au 17e siècle},
-  author = {Burger, Maya},
-  journal = {Asiatische Studien = Etudes asiatiques},
-  year = {2014},
-  volume = {68},
-  number = {3},
-  pages = {683--708},
-  url = {https://www.degruyter.com/view/j/asia},
-  doi = {10.1515/asia-2014-0057},
-  publisher = {De Gruyter},
-  keywords = {seclit}, 
- }
-
-@book{jones2008encyclopedia,
-  title = {Encyclopedia of Hinduism},
-  author = {Jones, Constance and Ryan, James},
-  year = {2008},
-  publisher = {Checkmark Books, an imprint of Infobase Publishing},
-  address = {New York},
-  keywords = {seclit}, 
-}
-
 @book{goraksapaddhati,
   title={Gorakṣapaddhati},
   subtitle={Goraksha Samhita: Also Known As Goraksha Paddhati},
@@ -424,6 +400,8 @@ publisher={Inner Traditions},
 address={Rochester},
 keywords={seclit},
 }
+
+
 
 @book{anandakanda,
   title = {Ānandakanda},
@@ -2796,12 +2774,13 @@ subtitle={The Niśvāsatattvasaṃhitā: The Earliest Surviving Śaiva Tantra},
    keywords={printsource},
 }
 
-@book{upanishads1938,
-  author = {Kunjan Raja},
-  year = {1938},
+@book{kunjanraja1938,
+  author    = {Kunjan, Raja},
+  title     = {Unpublished Upanishads - Adyar Library 1938 Edition},
+  year      = {1938},
   publisher = {The Adyar Library},
-  address={Chennai}, 
-  keywords={printed}, 
+  address   = {Chennai}, 
+  note      = {This book contains 71 Upanishads that are not included in the well-known 108 Upanishads. They fall into 5 categories: Samanya Vedanta - 21, Yoga - 1, Vaishnava - 16, Saiva - 15, Sakata - 18},
 }
 
 @book{brhadaranyaka,
@@ -2958,15 +2937,7 @@ address={Delhi},
    keywords={printsource},
 }
 
-@book{singleton2013gurus,
-  title={Gurus of Modern Yoga},
-  author={Singleton, Mark and Goldberg, Ellen},
-  editor={Singleton, Mark},
-  year={2013},
-  publisher={Oxford University Press, USA},
-  address={Oxford}, 
-  keywords={seclit}, 
-}
+
 
 @book{hevajra,
    title={Hevajratantra},
@@ -3138,7 +3109,7 @@ address={Delhi},
   title = {Kriya Babaji Yoga Sangam Website},
   organization = {Kriya Babaji Yoga Sangam}, 
   howpublished = {\url{https://web.archive.org/web/20240320214547/https://kriyababajiyogasangam.org/}},
-  note = {\url{https://web.archive.org/web/20240320214547/https://kriyababajiyogasangam.org/}.Website saved with the Way Back Machine of archive.org on 20.03.2024}, 
+  note = {Website saved with the Way Back Machine of archive.org on 20.03.2024}, 
   keywords={onlinesource},
 }
 
@@ -3164,16 +3135,7 @@ address={Delhi},
   subtitle = {Temple of Kriya Yoga Website}, 
   organization = {Temple of Kriyayoga}, 
   howpublished = {\url{https://web.archive.org/web/20240319134009/https://templeofkriyayoga.org/goswami-kriyananda/}},
-  note = {\url{https://web.archive.org/web/20240319134009/https://templeofkriyayoga.org/goswami-kriyananda/}. Website saved with the Way Back Machine of archive.org on 19.03.2024}, 
-  keywords={onlinesource},
-}
-
-
-@online{yoganandawebsite,
-  title = {Official Yogānanda Website},
-  organization = {Self Realization Fellowship}, 
-  howpublished = {\url{https://web.archive.org/web/20240323081653/https://yogananda.org/autobiography-of-a-yogi}},
-  note = {\url{https://web.archive.org/web/20240323081653/https://yogananda.org/autobiography-of-a-yogi}. Website saved with the Way Back Machine of archive.org on 23.03.2024}, 
+  note = {Website saved with the Way Back Machine of archive.org on 19.03.2024}, 
   keywords={onlinesource},
 }
 
