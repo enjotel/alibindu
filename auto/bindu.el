@@ -3,6 +3,8 @@
  (lambda ()
    (LaTeX-add-bibitems
     "kaviraj"
+    "ogawa2023perception"
+    "balcerowicz2011dharmakirti"
     "haasgayatri"
     "govindan2010"
     "kriyayogasarasvati1981"
@@ -31,6 +33,8 @@
     "hatharatnavali"
     "yuktabhavadeva"
     "sarvangayoga"
+    "burger2014sarvangayogapradipika"
+    "jones2008encyclopedia"
     "goraksapaddhati"
     "yogacintamani"
     "sivasvarodaya"
@@ -280,6 +284,7 @@
     "vasudeva2004"
     "yogaupaniṣads"
     "yogaupaniṣaded"
+    "upanishads1938"
     "brhadaranyaka"
     "upanishads"
     "chandogya"
@@ -298,6 +303,7 @@
     "yogabija"
     "hp"
     "brahmayamala"
+    "singleton2013gurus"
     "hevajra"
     "liersch2023"
     "triadicheart"
@@ -317,6 +323,7 @@
     "kriyababajiyoga"
     "kriyakrama"
     "sakalagama"
-    "goswamikriyananda"))
+    "goswamikriyananda"
+    "yoganandawebsite"))
  '(or :bibtex :latex))
 

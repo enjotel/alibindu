@@ -46,6 +46,64 @@
       \field{title}{The Practical Sanskrit-English Dictionary}
       \field{year}{1890}
     \endentry
+    \entry{balcerowicz2011dharmakirti}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=ee5f87c74b70d9b6145573733778c14d}{%
+           family={Balcerowicz},
+           familyi={B\bibinitperiod},
+           given={Piotr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3ea57b38a70f1aea51f6701f175bdcec}{%
+           family={Krasser},
+           familyi={K\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1bf6377a9894833ea6d1d7e7b5ef8766}{%
+           family={Lasic},
+           familyi={L\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod}}}%
+        {{hash=db84320361372da3e1e1667fc97ef3d5}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Eli},
+           giveni={E\bibinitperiod}}}%
+        {{hash=18fc9cd53ff3d791e4fad5dc28599786}{%
+           family={Kellner},
+           familyi={K\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {Verlag der Österreichischen Akademie der Wissenschaften}%
+      }
+      \strng{namehash}{ee5f87c74b70d9b6145573733778c14d}
+      \strng{fullhash}{ee5f87c74b70d9b6145573733778c14d}
+      \strng{bibnamehash}{ee5f87c74b70d9b6145573733778c14d}
+      \strng{authorbibnamehash}{ee5f87c74b70d9b6145573733778c14d}
+      \strng{authornamehash}{ee5f87c74b70d9b6145573733778c14d}
+      \strng{authorfullhash}{ee5f87c74b70d9b6145573733778c14d}
+      \strng{editorbibnamehash}{04a98f3e4493144e6e6af1ae0cd3638c}
+      \strng{editornamehash}{04a98f3e4493144e6e6af1ae0cd3638c}
+      \strng{editorfullhash}{22610b03142e19803d1461f68b718209}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23–27, 2005}
+      \field{series}{Österreichische Akademie der Wissenschaften Philosophisch-Historische Klasse, Denkschriften}
+      \field{title}{Dharmakīrti’s Criticism of the Jaina Doctrine of Multiplexity of Reality (\textit{anekāntavāda})}
+      \field{volume}{424}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+      \keyw{seclit}
+    \endentry
     \entry{birch2013}{book}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -66,6 +124,7 @@
       \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
       \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
       \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -73,6 +132,62 @@
       \field{subtitle}{The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction: Ph.D. Dissertation}
       \field{title}{Amanaska}
       \field{year}{2013}
+      \keyw{printsource}
+    \endentry
+    \entry{birch2019saiva}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.academia.edu/40467193/The_Tantric_Śaiva_Origins_of_Rājayoga}}
+      \field{note}{\url{https://www.academia.edu/40467193/The_Tantric_Śaiva_Origins_of_Rājayoga}; Zugriff: 04.05.2023}
+      \field{title}{The Tantric Śaiva Origins of Rājayoga}
+      \field{year}{2019}
+      \keyw{seclit}
+    \endentry
+    \entry{nishvasa2015}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=10f29d8b6d6fc551f7bbe6f907ce168b}{%
+           family={Goodall},
+           familyi={G\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {Institut Français de Pondichéry / Ecole française d’Extrême-Orient / Sri Aurobini Ashram Press}%
+      }
+      \strng{namehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{fullhash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{bibnamehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{editorbibnamehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{editornamehash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \strng{editorfullhash}{10f29d8b6d6fc551f7bbe6f907ce168b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Indologie 128, Early Tantra Series 1}
+      \field{subtitle}{The Niśvāsatattvasaṃhitā: The Earliest Surviving Śaiva Tantra}
+      \field{title}{Niśvāsatattvasaṃhitā}
+      \field{volume}{1}
+      \field{year}{2015}
       \keyw{printsource}
     \endentry
     \entry{goodall2016}{book}{}
@@ -137,36 +252,94 @@
       \field{year}{2015}
       \keyw{printsource}
     \endentry
-    \entry{smith1998}{book}{}
-      \name{author}{1}{}{%
-        {{hash=d21004e633636a14d658dc1d70522dbc}{%
-           family={Smith},
-           familyi={S\bibinitperiod},
-           given={Brian\bibnamedelima K.},
-           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Delhi}%
+    \entry{yajnavalkya}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=6ddf4f184b63582c3bb97d4d0a2c2dfa}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=87888fbd023ee94b779eca35000dbc3a}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={Ganesh},
+           giveni={G\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Motilal Banarsidass}%
+        {Svastha Yoga Pte Ltd.}%
       }
-      \strng{namehash}{d21004e633636a14d658dc1d70522dbc}
-      \strng{fullhash}{d21004e633636a14d658dc1d70522dbc}
-      \strng{bibnamehash}{d21004e633636a14d658dc1d70522dbc}
-      \strng{authorbibnamehash}{d21004e633636a14d658dc1d70522dbc}
-      \strng{authornamehash}{d21004e633636a14d658dc1d70522dbc}
-      \strng{authorfullhash}{d21004e633636a14d658dc1d70522dbc}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \strng{namehash}{7c3a54b88ec8863a8b2d34c07672e1b6}
+      \strng{fullhash}{7c3a54b88ec8863a8b2d34c07672e1b6}
+      \strng{bibnamehash}{7c3a54b88ec8863a8b2d34c07672e1b6}
+      \strng{editorbibnamehash}{7c3a54b88ec8863a8b2d34c07672e1b6}
+      \strng{editornamehash}{7c3a54b88ec8863a8b2d34c07672e1b6}
+      \strng{editorfullhash}{7c3a54b88ec8863a8b2d34c07672e1b6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Yogayājñavalkya}
+      \field{year}{2013}
+      \keyw{printsource}
+    \endentry
+    \entry{ogawa2023perception}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc37f8e0985e3c24792b7512747bb135}{%
+           family={Ogawa},
+           familyi={O\bibinitperiod},
+           given={Hideyo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc37f8e0985e3c24792b7512747bb135}
+      \strng{fullhash}{fc37f8e0985e3c24792b7512747bb135}
+      \strng{bibnamehash}{fc37f8e0985e3c24792b7512747bb135}
+      \strng{authorbibnamehash}{fc37f8e0985e3c24792b7512747bb135}
+      \strng{authornamehash}{fc37f8e0985e3c24792b7512747bb135}
+      \strng{authorfullhash}{fc37f8e0985e3c24792b7512747bb135}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Reflections on Resemblance, Ritual, and Religion}
-      \field{year}{1998}
+      \field{journaltitle}{Tetsugaku: The Journal of Hiroshima Philosophical Society}
+      \field{title}{The Perception of the Self in the Nyāya Tradition: From a Kāraka Point of View}
+      \field{volume}{75}
+      \field{year}{2023}
+      \field{pages}{155\bibrangedash 170}
+      \range{pages}{16}
       \keyw{seclit}
     \endentry
+    \entry{manasollasa}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=c42e8453871c5fc297363a9eb5478893}{%
+           family={Shrigondekar},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mumbai}%
+      }
+      \list{publisher}{1}{%
+        {Bombay Vaibhav Press}%
+      }
+      \strng{namehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{fullhash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{bibnamehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editorbibnamehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editornamehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editorfullhash}{c42e8453871c5fc297363a9eb5478893}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{Baroda Oriental Institute}
+      \field{subtitle}{Mānasollāsa of King Someśvara}
+      \field{title}{Mānasollāsa}
+      \field{year}{1939}
+      \keyw{printsource}
+    \endentry
   \enddatalist
-  \missing{birch 2013}
+  \missing{bhagavadgita}
 \endrefsection
 \endinput
 
