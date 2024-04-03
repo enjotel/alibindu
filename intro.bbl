@@ -659,6 +659,35 @@
       \field{year}{1989}
       \keyw{seclit}
     \endentry
+    \entry{harimoto2014}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=2f8d8c01ce09913117ffbfdfacbd8c00}{%
+           family={Harimoto},
+           familyi={H\bibinitperiod},
+           given={Kengo},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hamburg}%
+      }
+      \list{publisher}{2}{%
+        {Department of Indian}%
+        {Tibetan Studies, Asien-Afrika- Institut, Universitätt Hamburg}%
+      }
+      \strng{namehash}{2f8d8c01ce09913117ffbfdfacbd8c00}
+      \strng{fullhash}{2f8d8c01ce09913117ffbfdfacbd8c00}
+      \strng{bibnamehash}{2f8d8c01ce09913117ffbfdfacbd8c00}
+      \strng{editorbibnamehash}{2f8d8c01ce09913117ffbfdfacbd8c00}
+      \strng{editornamehash}{2f8d8c01ce09913117ffbfdfacbd8c00}
+      \strng{editorfullhash}{2f8d8c01ce09913117ffbfdfacbd8c00}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{God, Reason, and Yoga: A Critical Edition and Translation of the Commentary Ascribed to Śaṅkara on Pātañjalayogaśāstra 1.23—28}
+      \field{year}{2014}
+      \keyw{printsource}
+    \endentry
     \entry{jones2008encyclopedia}{book}{}
       \name{author}{2}{}{%
         {{hash=a7b976ba08963913e71156b23b39f069}{%

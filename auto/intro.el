@@ -18,6 +18,7 @@
     "tab:complextaxonomies"
     "tab:waves"
     "jnanayogaintro"
+    "Jnanayogaintro2"
     "caryayogaintro"))
  :latex)
 
