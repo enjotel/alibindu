@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.27)  4 APR 2024 01:14
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.10.27)  10 APR 2024 12:05
  restricted system commands enabled.
 **intro.tex
 (./intro.tex
@@ -28762,33 +28762,46 @@ Caryāyoga
 @@2: line 1.2- t=100 -> @0
 
 @firstpass
-\TU/Vollkorn(0)/m/n/10 Caryāyoga be-setzt den drit-ten Platz in Rām-can-dra
-’s Liste, ist ab-we-send in 
-@ via @0 b=10 p=0 d=400
-@@1: line 1.2 t=400 -> @0
-der 
-@ via @0 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
-\TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , an zweiter Ste
-lle bei Nārāyaṇatīrtha und eben-falls ab-we-send 
-@ via @2 b=0 p=0 d=100
-@@3: line 2.2 t=200 -> @2
-bei 
-@ via @2 b=52 p=0 d=3844
-@@4: line 2.3 t=3944 -> @2
-Sun-dardās. Allerd-ings beschriebt Sun-dardās ein Yoga mit der na-hezu 
-@ via @3 b=40 p=0 d=2500
-@@5: line 3.1 t=2700 -> @3
-ho-mo-pho-nen Beze-ich-nung Car-cāyoga, welches hier dem Ver-gle-ich un-ter-zo-
-gen 
-@ via @5 b=40 p=0 d=12500
-@@6: line 4.3 t=15200 -> @5
-wird, um festzustellen, ob eine Verbindung zwis-chen den bei-den Konzepten 
-@ via @6 b=0 p=0 d=100
-@@7: line 5.2 t=15300 -> @6
-besteht. 
-@\par via @7 b=0 p=-10000 d=100
-@@8: line 6.2- t=15400 -> @7
+@secondpass
+\TU/Vollkorn(0)/m/n/10 Caryāyoga oc-cu-pies third place in Rām-can-dra’s lis
+t, is ab-sent in the \TU/Vollkorn(0)/m/it/10 Yo-gas-
+@\discretionary via @0 b=20 p=50 d=3400
+@@1: line 1.1- t=3400 -> @0
+var-
+@\discretionary via @0 b=0 p=50 d=2600
+@@2: line 1.2- t=2600 -> @0
+o-
+@\discretionary via @0 b=0 p=50 d=2600
+@@3: line 1.2- t=2600 -> @0
+daya\TU/Vollkorn(0)/m/n/10 , in sec-ond place in Nārāyaṇatīrtha, and also 
+ab-sent in Sun-dardās. 
+@ via @1 b=7 p=0 d=289
+@@4: line 2.2 t=3689 -> @1
+How-
+@\discretionary via @2 b=0 p=50 d=12600
+@\discretionary via @3 b=0 p=50 d=12600
+@@5: line 2.2- t=15200 -> @3
+ever, Sun-dardās de-scribes a Yoga with the al-most ho-mo-phonic name 
+@ via @4 b=45 p=0 d=3025
+@@6: line 3.1 t=6714 -> @4
+Car-
+@\discretionary via @4 b=0 p=50 d=2600
+@\discretionary via @5 b=42 p=50 d=15204
+@@7: line 3.2- t=6289 -> @4
+cāyoga, which will be com-pared in the fol-low-ing to de-ter-mine whether 
+@ via @6 b=4 p=0 d=196
+@@8: line 4.2 t=6910 -> @6
+there 
+@ via @7 b=0 p=0 d=100
+@@9: line 4.2 t=6389 -> @7
+is 
+@ via @7 b=6 p=0 d=256
+@@10: line 4.2 t=6545 -> @7
+a con-nec-tion be-tween the two con-cepts. 
+@\par via @8 b=0 p=-10000 d=100
+@\par via @9 b=0 p=-10000 d=100
+@\par via @10 b=0 p=-10000 d=100
+@@11: line 5.2- t=6489 -> @9
 
 @firstpass
 [][]\TU/Vollkorn(0)/b/n/10.95 Caryāyoga 
@@ -28823,483 +28836,810 @@ LaTeX Warning: Reference `caryayoga' on page 36 undefined on input line 537.
 
 @firstpass
 [][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Yo-gatattv-abindu \TU/Vo
-llkorn(0)/m/n/8 XVIII, p. [].| 
+llkorn(0)/m/n/8 XVIII, p. []| 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Ma
+\TU/Vollkorn(0)/m/n/8 On
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
 @secondpass
-[][][]\TU/Vollkorn(0)/m/n/8 Man kön-nte bei dieser Ver-mu-tung das Ar-gu-ment 
-an-brin-gen, dass Rā-macan-dra dies 
-@ via @0 b=1048 p=0 d=1129364
-@@1: line 1.0 t=1129364 -> @0
-möglicher-weise dezi-diert nicht getan hat, da sowieso nicht alle 󰀨ün-fzehn
- ein-gangs angekündigten 
-@ via @1 b=4 p=0 d=10196
-@@2: line 2.2 t=1139560 -> @1
-Yo-gas im Ver-lauf seines Textes beschrieben wer-den. Ich ver-mute, dass dies de
-n-noch 
-@ via @2 b=3746 p=0 d=14117536
-@@3: line 3.0 t=15257096 -> @2
-ur-
-@\discretionary via @2 b=949 p=50 d=932181
-@@4: line 3.0- t=2071741 -> @2
-sprünglich 
-@ via @2 b=0 p=0 d=100
-@@5: line 3.2 t=1139660 -> @2
-seine In-ten-tion gewe-sen sein dürfte, Rā-macan-dra je-doch im Laufe der Ab-
-@\discretionary via @3 b=1460 p=50 d=2163400
-@\discretionary via @4 b=3713 p=50 d=13873229
-@@6: line 4.0- t=15944970 -> @4
-fas-
-@\discretionary via @3 b=218 p=50 d=54484
-@\discretionary via @4 b=1043 p=50 d=1121309
-@@7: line 4.0- t=3193050 -> @4
-sung 
+[][][]\TU/Vollkorn(0)/m/n/8 One could ar-gue that Rā-macan-dra may not have don
+e so, since not all fif-teen 
+@ via @0 b=6380 p=0 d=40842100
+@@1: line 1.0 t=40842100 -> @0
+Yo-
+@\discretionary via @0 b=1917 p=50 d=3725829
+@@2: line 1.0- t=3725829 -> @0
+gas 
+@ via @0 b=584 p=0 d=362836
+@@3: line 1.0 t=362836 -> @0
+an-
+@\discretionary via @0 b=31 p=50 d=4181
+@@4: line 1.1- t=4181 -> @0
+nounced at the be-gin-ning are de-scribed in the course of his text any-way. I 
+@ via @1 b=3108 p=0 d=9721924
+@ via @2 b=5519 p=0 d=30569841
+@@5: line 2.0 t=34295670 -> @2
+sus-
+@\discretionary via @1 b=645 p=50 d=431525
+@\discretionary via @2 b=1540 p=50 d=2415000
+@\discretionary via @3 b=4995 p=50 d=25052525
+@@6: line 2.0- t=6140829 -> @2
+pect 
+@ via @1 b=69 p=0 d=6241
+@ via @2 b=343 p=0 d=124609
+@ via @3 b=1845 p=0 d=3441025
+@ via @4 b=3735 p=0 d=14025025
+@@7: line 2.0 t=3803861 -> @3
+that 
+@ via @1 b=0 p=0 d=10100
+@ via @2 b=3 p=0 d=10169
+@ via @3 b=221 p=0 d=53361
+@ via @4 b=752 p=0 d=580644
+@@8: line 2.0 t=416197 -> @3
+this 
+@ via @1 b=47 p=0 d=13249
+@ via @2 b=0 p=0 d=10100
 @ via @3 b=0 p=0 d=10100
-@ via @4 b=11 p=0 d=10441
-@@8: line 4.2 t=2082182 -> @4
-seines 
-@ via @5 b=1210 p=0 d=1498400
-@@9: line 4.0 t=2638060 -> @5
-Textes 
-@ via @5 b=0 p=0 d=100
-@@10: line 4.2 t=1139760 -> @5
-diesen Plan auf-grund von Inkon-sis-ten-zen in seiner Vor-lage ver-
-@\discretionary via @6 b=4193 p=50 d=17677709
-@@11: line 5.0- t=33622679 -> @6
-w-
-@\discretionary via @6 b=2158 p=50 d=4712724
-@\discretionary via @7 b=6204 p=50 d=38626296
-@@12: line 5.0- t=20657694 -> @6
-er-
-@\discretionary via @6 b=729 p=50 d=558621
-@\discretionary via @7 b=3019 p=50 d=9187341
-@@13: line 5.0- t=12380391 -> @7
-fen 
-@ via @6 b=56 p=0 d=4356
-@ via @7 b=804 p=0 d=662596
-@@14: line 5.0 t=3855646 -> @7
-musste.| 
-@\par via @7 b=0 p=-10000 d=15100
-@\par via @8 b=0 p=-10000 d=100
-@\par via @9 b=0 p=-10000 d=10100
-@\par via @10 b=0 p=-10000 d=100
-@\par via @11 b=0 p=-10000 d=15100
-@\par via @12 b=0 p=-10000 d=15100
-@\par via @13 b=0 p=-10000 d=15100
-@\par via @14 b=0 p=-10000 d=10100
-@@15: line 5.2- t=1139860 -> @10
-
-
-Underfull \hbox (badness 1048) in paragraph at lines 537--537
-[][][]\TU/Vollkorn(0)/m/n/8 Man kön-nte bei dieser Ver-mu-tung das Ar-gu-ment 
-an-brin-gen, dass Rā-macan-dra dies
- []
+@ via @4 b=49 p=0 d=3481
+@@9: line 2.1 t=7662 -> @4
+may 
+@ via @3 b=1 p=0 d=10121
+@ via @4 b=0 p=0 d=100
+@@10: line 2.2 t=4281 -> @4
+nev-
+@\discretionary via @4 b=86 p=50 d=31716
+@@11: line 2.3- t=35897 -> @4
+er-the-less have been his orig-i-nal in-ten-tion but that Rā-macan-
+@\discretionary via @5 b=2393 p=50 d=5776909
+@\discretionary via @6 b=6842 p=50 d=46962404
+@@12: line 3.0- t=40072579 -> @5
+dra 
+@ via @5 b=587 p=0 d=356409
+@ via @6 b=2735 p=0 d=7535025
+@@13: line 3.0 t=13675854 -> @6
+dis-
+@\discretionary via @5 b=4 p=50 d=12696
+@\discretionary via @6 b=301 p=50 d=109221
+@\discretionary via @7 b=3590 p=50 d=12962500
+@@14: line 3.0- t=6250050 -> @6
+carded 
+@ via @5 b=69 p=0 d=16241
+@ via @6 b=0 p=0 d=10100
+@ via @7 b=88 p=0 d=9604
+@ via @8 b=2393 p=0 d=5774409
+@@15: line 3.1 t=3813465 -> @7
+this 
+@ via @7 b=0 p=0 d=10100
+@ via @8 b=116 p=0 d=15876
+@ via @9 b=2393 p=0 d=5774409
+@@16: line 3.0 t=432073 -> @8
+in-
+@\discretionary via @7 b=14 p=50 d=13076
+@\discretionary via @8 b=0 p=50 d=12600
+@\discretionary via @9 b=357 p=50 d=137189
+@\discretionary via @10 b=4582 p=50 d=21098964
+@@17: line 3.0- t=144851 -> @9
+ten-
+@\discretionary via @8 b=0 p=50 d=12600
+@\discretionary via @9 b=4 p=50 d=2696
+@\discretionary via @10 b=1168 p=50 d=1400184
+@\discretionary via @11 b=5203 p=50 d=27197869
+@@18: line 3.2- t=10358 -> @9
+tion 
+@ via @9 b=0 p=0 d=100
+@ via @10 b=55 p=0 d=4225
+@ via @11 b=1189 p=0 d=1447601
+@@19: line 3.1 t=8506 -> @10
+@@20: line 3.2 t=7762 -> @9
+while 
+@ via @10 b=1 p=0 d=121
+@ via @11 b=0 p=0 d=100
+@@21: line 3.2 t=4402 -> @10
+writ-
+@\discretionary via @11 b=73 p=50 d=19389
+@@22: line 3.3- t=55286 -> @11
+ing his text, per-haps due to in-con-sis-ten-cies in 
+@ via @12 b=3815 p=0 d=14630625
+@@23: line 4.0 t=54703204 -> @12
+his 
+@ via @12 b=729 p=0 d=546121
+@ via @13 b=4266 p=0 d=18284176
+@@24: line 4.0 t=31960030 -> @13
+source 
+@ via @12 b=0 p=0 d=10100
+@ via @13 b=67 p=0 d=5929
+@ via @14 b=656 p=0 d=443556
+@@25: line 4.0 t=6693606 -> @14
+text| 
+@\par via @12 b=68 p=-10000 d=21084
+@\par via @13 b=0 p=-10000 d=10100
+@\par via @14 b=0 p=-10000 d=15100
+@\par via @15 b=0 p=-10000 d=100
+@\par via @16 b=0 p=-10000 d=10100
+@\par via @17 b=0 p=-10000 d=15100
+@\par via @18 b=0 p=-10000 d=5100
+@\par via @19 b=0 p=-10000 d=100
+@\par via @20 b=0 p=-10000 d=100
+@\par via @21 b=0 p=-10000 d=100
+@\par via @22 b=0 p=-10000 d=5100
+@\par via @23 b=0 p=-10000 d=10100
+@\par via @24 b=0 p=-10000 d=10100
+@\par via @25 b=0 p=-10000 d=10100
+@@26: line 4.2- t=4502 -> @21
 
 @firstpass
-\TU/Vollkorn(0)/m/n/10 Rā-macan-dra hält den Ab-schnitt über Caryāyoga (Sek-
-tion XVIII) mit nur acht 
+\TU/Vollkorn(0)/m/n/10 Rā-macan-dra keeps the sec-tion on Caryāyoga (sec-tion XVIII) ex-tremely short, 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-@secondpass
-\TU/Vollkorn(0)/m/n/10 Rā-macan-dra hält den Ab-schnitt über Caryāyoga (Sek-
-tion XVIII) mit nur acht 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-Prosasätzen äußerst kurz. Nach einer Charak-ter-isierung des Selbst als ‘fo
-rm-
-@\discretionary via @1 b=0 p=50 d=2600
-@@2: line 2.2- t=2700 -> @1
-los, per-ma-nent, un-be-weglich und un-teil-bar’, lässt Rā-macan-dra den Les
-er 
-@ via @2 b=105 p=0 d=23225
-@@3: line 3.0 t=25925 -> @2
-wis-
-@\discretionary via @2 b=0 p=50 d=12600
-@@4: line 3.2- t=15300 -> @2
-sen, dass durch Sta-bil-isierung des Geistes in einem solchen Selbst, das 
-@ via @3 b=14 p=0 d=576
-@@5: line 4.1 t=26501 -> @3
-Selbst 
+with only eight prose sen-tences. Af-ter char-ac-ter-is-ing the self as ’form-
+less, 
+@ via @1 b=10 p=0 d=400
+@@2: line 2.2 t=500 -> @1
+per-ma-nent, im-mov-able and in-di-vis-i-ble’, Rā-macan-dra lets the reader 
+know 
+@ via @2 b=3 p=0 d=169
+@@3: line 3.2 t=669 -> @2
+that 
+@ via @2 b=57 p=0 d=4489
+@@4: line 3.3 t=4989 -> @2
+by sta-bil-is-ing the mind in such a self, the self does not come into con-tact 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=55 p=0 d=14225
+@@5: line 4.2 t=769 -> @3
+with 
 @ via @4 b=0 p=0 d=100
-@@6: line 4.2 t=15400 -> @4
-nicht in Kon-takt mit Sünde und Ver-di-enst kommt. Wenn der Geist 
-@ via @5 b=35 p=0 d=2025
-@@7: line 5.1 t=28526 -> @5
-ins 
+@@6: line 4.2 t=5089 -> @4
+sin and merit. When the mind is ab-sorbed into the form-less [sel󰀨], this 
 @ via @5 b=0 p=0 d=100
-@@8: line 5.2 t=26601 -> @5
-form-
-@\discretionary via @6 b=0 p=50 d=2600
-@@9: line 5.2- t=18000 -> @6
-lose 
-@ via @6 b=63 p=0 d=5329
-@@10: line 5.3 t=20729 -> @6
-[Selbst] ab-sorbiert ist, dann ist dies Cāryayoga. Mehr sagt, Rā-
-@\discretionary via @7 b=0 p=50 d=2600
-@\discretionary via @8 b=195 p=50 d=54525
-@@11: line 6.2- t=31126 -> @7
-macan-
-@\discretionary via @8 b=1 p=50 d=2621
-@\discretionary via @9 b=26 p=50 d=13796
-@@12: line 6.1- t=31796 -> @9
-@@13: line 6.2- t=29222 -> @8
-dra 
+@@7: line 5.2 t=869 -> @5
+is 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=43 p=0 d=2809
+@@8: line 5.1 t=7898 -> @6
+@@9: line 5.2 t=869 -> @5
+Cāryayoga. This is all which Rā-macan-dra says on this sub-ject. The brevity 
+@ via @7 b=0 p=0 d=100
+@ via @8 b=4 p=0 d=196
+@ via @9 b=4 p=0 d=196
+@@10: line 6.2 t=969 -> @7
+of 
+@ via @7 b=3 p=0 d=169
+@ via @8 b=0 p=0 d=100
 @ via @9 b=0 p=0 d=100
-@@14: line 6.2 t=18100 -> @9
-zu 
-@ via @9 b=43 p=0 d=2809
+@@11: line 6.2 t=969 -> @9
+the pas-sage and the fact that Rā-macan-dra’s source text, the \TU/Vollkorn(
+0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , 
 @ via @10 b=0 p=0 d=100
-@@15: line 6.2 t=20829 -> @10
-@@16: line 6.3 t=20809 -> @9
-diesem Thema nicht. Die Kürze der Pas-sage und der Fakt, dass 
-@ via @11 b=0 p=0 d=100
-@@17: line 7.2 t=31226 -> @11
-Rā-
-@\discretionary via @11 b=91 p=50 d=22701
-@\discretionary via @12 b=22 p=50 d=13524
-@\discretionary via @13 b=22 p=50 d=13524
-@@18: line 7.1- t=42746 -> @13
-macan-
-@\discretionary via @12 b=91 p=50 d=32701
-@\discretionary via @13 b=91 p=50 d=22701
-@\discretionary via @14 b=0 p=50 d=2600
-@\discretionary via @15 b=34 p=50 d=4436
-@\discretionary via @16 b=34 p=50 d=14436
-@@19: line 7.1- t=25265 -> @15
-@@20: line 7.2- t=20700 -> @14
-dra’s 
+@ via @11 b=27 p=0 d=1369
+@@12: line 7.1 t=2338 -> @11
+@@13: line 7.2 t=1069 -> @10
+does 
+@ via @11 b=22 p=0 d=1024
+@@14: line 7.3 t=1993 -> @11
+not con-tain this type of Yoga, but Rā-macan-dra clearly con-structs it on 
+@ via @12 b=0 p=0 d=100
+@ via @13 b=0 p=0 d=100
+@@15: line 8.2 t=1169 -> @13
+the 
+@ via @12 b=11 p=0 d=441
+@ via @13 b=11 p=0 d=441
+@ via @14 b=10 p=0 d=400
+@@16: line 8.2 t=1510 -> @13
+ba-sis 
+@ via @14 b=36 p=0 d=2116
+@@17: line 8.3 t=4109 -> @14
+of a de-scrip-tion of Rā-jayoga of the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-day
+a\TU/Vollkorn(0)/m/n/10 ,[][][][] sug-gests that 
+@ via @15 b=9 p=0 d=361
+@@18: line 9.2 t=1530 -> @15
+Rā-macan-dra 
+@ via @17 b=0 p=0 d=100
+@@19: line 9.2 t=4209 -> @17
+merely wanted to do jus-tice to his list men-tioned at the be-gin-ning.[][][][]
+. It re-mains 
+@ via @19 b=75 p=0 d=7225
+@@20: line 10.3 t=11434 -> @19
+@secondpass
+\TU/Vollkorn(0)/m/n/10 Rā-macan-dra keeps the sec-tion on Caryāyoga (sec-tion XVIII) ex-tremely short, 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+with only eight prose sen-tences. Af-ter char-ac-ter-is-ing the self as ’form-
+less, 
+@ via @1 b=10 p=0 d=400
+@@2: line 2.2 t=500 -> @1
+per-
+@\discretionary via @1 b=3 p=50 d=2669
+@@3: line 2.2- t=2769 -> @1
+ma-nent, im-mov-able and in-di-vis-i-ble’, Rā-macan-dra lets the reader know 
+@ via @2 b=3 p=0 d=169
+@@4: line 3.2 t=669 -> @2
+that 
+@ via @2 b=57 p=0 d=4489
+@ via @3 b=0 p=0 d=100
+@@5: line 3.2 t=2869 -> @3
+@@6: line 3.3 t=4989 -> @2
+by 
+@ via @3 b=7 p=0 d=289
+@@7: line 3.2 t=3058 -> @3
+sta-bil-is-ing the mind in such a self, the self does not come into con-
+@\discretionary via @4 b=7 p=50 d=2789
+@@8: line 4.2- t=3458 -> @4
+tact 
+@ via @4 b=0 p=0 d=100
+@ via @5 b=55 p=0 d=4225
+@ via @6 b=55 p=0 d=14225
+@@9: line 4.1 t=7094 -> @5
+@@10: line 4.2 t=769 -> @4
+with 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@ via @7 b=0 p=0 d=100
+@@11: line 4.2 t=2969 -> @5
+sin 
+@ via @7 b=0 p=0 d=100
+@@12: line 4.2 t=3158 -> @7
+and merit. When the mind is ab-sorbed into the form-less [sel󰀨], 
+@ via @8 b=0 p=0 d=100
+@@13: line 5.2 t=3558 -> @8
+this 
+@ via @8 b=63 p=0 d=5329
+@ via @9 b=0 p=0 d=100
+@ via @10 b=0 p=0 d=100
+@@14: line 5.2 t=869 -> @10
+@@15: line 5.3 t=8787 -> @8
+is 
+@ via @9 b=0 p=0 d=100
+@ via @10 b=0 p=0 d=100
+@ via @11 b=43 p=0 d=2809
+@@16: line 5.1 t=5778 -> @11
+@@17: line 5.2 t=869 -> @10
+Cāryayoga. This is all which Rā-macan-dra says on this sub-ject. The 
+@ via @13 b=29 p=0 d=1521
+@@18: line 6.1 t=5079 -> @13
+brevity 
+@ via @14 b=0 p=0 d=100
 @ via @15 b=0 p=0 d=100
+@ via @16 b=4 p=0 d=196
+@ via @17 b=4 p=0 d=196
+@@19: line 6.2 t=969 -> @14
+of 
+@ via @14 b=3 p=0 d=169
+@ via @15 b=3 p=0 d=169
 @ via @16 b=0 p=0 d=100
-@@21: line 7.2 t=20909 -> @16
-Textvor-lage, das \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/
-10 , diesen Ty-pus des Yoga nicht 
-@ via @17 b=12 p=0 d=484
-@@22: line 8.2 t=31710 -> @17
-en-
-@\discretionary via @17 b=0 p=50 d=2600
-@\discretionary via @18 b=0 p=50 d=12600
-@@23: line 8.2- t=33826 -> @17
-thält, 
-@ via @19 b=133 p=0 d=20449
-@ via @20 b=133 p=0 d=30449
-@@24: line 8.0 t=45714 -> @19
-son-
-@\discretionary via @19 b=0 p=50 d=12600
-@\discretionary via @20 b=0 p=50 d=12600
-@@25: line 8.2- t=33300 -> @20
-dern 
-@ via @21 b=0 p=0 d=100
-@@26: line 8.2 t=21009 -> @21
-Rā-macan-dra ihn ein-deutig an-hand einer Beschrei-bung von 
-@ via @22 b=0 p=0 d=100
-@ via @23 b=13 p=0 d=529
-@@27: line 9.1 t=34355 -> @23
-@@28: line 9.2 t=31810 -> @22
-Rā-
-@\discretionary via @23 b=0 p=50 d=12600
-@@29: line 9.2- t=46426 -> @23
-jayoga 
-@ via @24 b=0 p=0 d=10100
-@ via @25 b=7 p=0 d=289
-@@30: line 9.2 t=33589 -> @25
-des 
-@ via @25 b=0 p=0 d=100
-@ via @26 b=153 p=0 d=36569
-@@31: line 9.2 t=33400 -> @25
-\TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @26 b=0 p=50 d=2600
-@@32: line 9.2- t=23609 -> @26
+@ via @17 b=0 p=0 d=100
+@@20: line 6.2 t=969 -> @17
+the pas-sage and the fact that Rā-macan-dra’s source text, the \TU/Vollkorn(
+0)/m/it/10 Yo-
+@\discretionary via @18 b=57 p=50 d=6989
+@@21: line 7.1- t=12068 -> @18
 gas-
-@\discretionary via @26 b=48 p=50 d=5864
-@@33: line 9.3- t=26873 -> @26
-var-o-daya \TU/Vollkorn(0)/m/n/10 kon-stru-iert,[][][][] lässt ver-muten, dass R
-ā-macan-dra 
-@ via @27 b=0 p=0 d=100
-@ via @28 b=0 p=0 d=100
-@@34: line 10.2 t=31910 -> @28
-an 
-@ via @27 b=21 p=0 d=10961
-@ via @28 b=21 p=0 d=961
-@ via @29 b=0 p=0 d=100
-@@35: line 10.3 t=32771 -> @28
-dieser 
-@ via @30 b=0 p=0 d=100
-@@36: line 10.2 t=33689 -> @30
-Stelle 
-@ via @31 b=0 p=0 d=100
+@\discretionary via @18 b=0 p=50 d=2600
+@@22: line 7.2- t=7679 -> @18
+var-
+@\discretionary via @18 b=9 p=50 d=2861
+@@23: line 7.2- t=7940 -> @18
+o-
+@\discretionary via @18 b=94 p=50 d=23316
+@\discretionary via @19 b=162 p=50 d=42084
+@@24: line 7.3- t=28395 -> @18
+daya\TU/Vollkorn(0)/m/n/10 , 
+@ via @19 b=0 p=0 d=100
+@ via @20 b=27 p=0 d=1369
+@@25: line 7.1 t=2338 -> @20
+@@26: line 7.2 t=1069 -> @19
+does 
+@ via @20 b=22 p=0 d=1024
+@@27: line 7.3 t=1993 -> @20
+not con-tain this type of Yoga, but Rā-macan-dra clearly con-
+@\discretionary via @21 b=0 p=50 d=12600
+@\discretionary via @22 b=46 p=50 d=15636
+@@28: line 8.1- t=23315 -> @22
+@@29: line 8.2- t=24668 -> @21
+structs 
+@ via @22 b=78 p=0 d=7744
+@ via @23 b=0 p=0 d=100
+@ via @24 b=0 p=0 d=100
+@@30: line 8.2 t=8040 -> @23
+@@31: line 8.3 t=15423 -> @22
+it 
+@ via @23 b=3 p=0 d=169
+@ via @24 b=0 p=0 d=100
+@ via @25 b=166 p=0 d=30976
+@ via @26 b=166 p=0 d=40976
+@@32: line 8.2 t=8109 -> @23
+on 
+@ via @25 b=0 p=0 d=100
+@ via @26 b=0 p=0 d=100
+@@33: line 8.2 t=1169 -> @26
+the 
+@ via @25 b=11 p=0 d=441
+@ via @26 b=11 p=0 d=441
+@ via @27 b=10 p=0 d=400
+@@34: line 8.2 t=1510 -> @26
+ba-
+@\discretionary via @27 b=0 p=50 d=2600
+@@35: line 8.2- t=4593 -> @27
+sis 
+@ via @27 b=36 p=0 d=2116
+@@36: line 8.3 t=4109 -> @27
+of a de-scrip-tion of Rā-jayoga of the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-day
+a\TU/Vollkorn(0)/m/n/10 ,[][][][] 
+@ via @28 b=61 p=0 d=5041
+@ via @29 b=61 p=0 d=5041
+@@37: line 9.1 t=28356 -> @28
+sug-
+@\discretionary via @28 b=0 p=50 d=12600
+@\discretionary via @29 b=0 p=50 d=12600
+@@38: line 9.2- t=35915 -> @28
+gests 
+@ via @30 b=1 p=0 d=121
+@ via @31 b=1 p=0 d=121
+@ via @32 b=110 p=0 d=24400
+@@39: line 9.2 t=8161 -> @30
+that 
+@ via @30 b=19 p=0 d=841
+@ via @31 b=19 p=0 d=841
 @ via @32 b=0 p=0 d=100
-@@37: line 10.2 t=23709 -> @32
-lediglich seiner ein-gangs er-wäh-n-ten Liste gerecht wer-den 
-@ via @34 b=37 p=0 d=2209
-@@38: line 11.1 t=34119 -> @34
-wollte.[][][][] 
-@ via @36 b=157 p=0 d=37889
-@@39: line 11.0 t=71578 -> @36
-Der 
-@ via @36 b=0 p=0 d=100
-@@40: line 11.2 t=33789 -> @36
-Grund 
-@ via @37 b=4 p=0 d=196
-@@41: line 11.2 t=23905 -> @37
-warum dieses Yoga den Na-men Caryāyoga trägt wird 
-@ via @38 b=20 p=0 d=900
-@@42: line 12.1 t=35019 -> @38
-an-
-@\discretionary via @38 b=0 p=50 d=2600
-@@43: line 12.2- t=36719 -> @38
-hand 
-@ via @39 b=130 p=0 d=19600
-@@44: line 12.0 t=91178 -> @39
-der 
-@ via @39 b=0 p=0 d=10100
-@@45: line 12.2 t=81678 -> @39
-In-
-@\discretionary via @39 b=64 p=50 d=17976
-@\discretionary via @40 b=0 p=50 d=2600
-@@46: line 12.2- t=36389 -> @40
-halte 
-@ via @41 b=94 p=0 d=10816
-@@47: line 12.1 t=34721 -> @41
-nicht 
-@ via @41 b=4 p=0 d=196
-@@48: line 12.2 t=24101 -> @41
-klar. Die vorder-gründige As-sozi-a-tion der er-sten 
-@ via @42 b=21 p=0 d=961
-@@49: line 13.1 t=35980 -> @42
-vier 
-@ via @42 b=0 p=0 d=100
-@ via @43 b=0 p=0 d=100
-@@50: line 13.2 t=35119 -> @42
-Yo-
-@\discretionary via @43 b=13 p=50 d=13029
-@\discretionary via @44 b=37 p=50 d=4709
-@@51: line 13.3- t=49748 -> @43
-gas 
-@ via @44 b=0 p=0 d=10100
-@ via @45 b=165 p=0 d=40625
-@@52: line 13.2 t=101278 -> @44
-in 
-@ via @44 b=4 p=0 d=10196
-@ via @45 b=0 p=0 d=100
-@ via @46 b=89 p=0 d=9801
-@@53: line 13.1 t=46190 -> @46
+@ via @33 b=9 p=0 d=361
+@@40: line 9.2 t=1530 -> @33
+@@41: line 9.3 t=8881 -> @30
 Rā-
-@\discretionary via @45 b=1 p=50 d=2621
-@\discretionary via @46 b=0 p=50 d=12600
-@@54: line 13.2- t=48989 -> @46
+@\discretionary via @33 b=0 p=50 d=2600
+@\discretionary via @34 b=10 p=50 d=2900
+@@42: line 9.2- t=3769 -> @33
 macan-
+@\discretionary via @35 b=1 p=50 d=12621
+@\discretionary via @36 b=0 p=50 d=2600
+@@43: line 9.2- t=6709 -> @36
+dra 
+@ via @36 b=0 p=0 d=100
+@@44: line 9.2 t=4209 -> @36
+merely wanted to do jus-tice to his list men-tioned 
+@ via @37 b=0 p=0 d=100
+@ via @38 b=132 p=0 d=30164
+@@45: line 10.2 t=28456 -> @37
+at 
+@ via @37 b=0 p=0 d=100
+@ via @38 b=0 p=0 d=100
+@@46: line 10.2 t=28456 -> @37
+the 
+@ via @38 b=2 p=0 d=144
+@ via @39 b=48 p=0 d=3364
+@@47: line 10.1 t=11525 -> @39
+be-
+@\discretionary via @39 b=0 p=50 d=2600
+@\discretionary via @40 b=195 p=50 d=54525
+@\discretionary via @41 b=195 p=50 d=54525
+@@48: line 10.2- t=10761 -> @39
+gin-
+@\discretionary via @39 b=46 p=50 d=5636
+@\discretionary via @40 b=0 p=50 d=2600
+@\discretionary via @41 b=0 p=50 d=2600
+@\discretionary via @42 b=118 p=50 d=38884
+@@49: line 10.2- t=4130 -> @40
+@@50: line 10.3- t=13797 -> @39
+ning.[][][][]. 
+@ via @42 b=14 p=0 d=576
+@ via @43 b=135 p=0 d=31025
+@@51: line 10.3 t=4345 -> @42
+It 
+@ via @43 b=0 p=0 d=100
+@@52: line 10.2 t=6809 -> @43
+re-
+@\discretionary via @43 b=0 p=50 d=12600
+@\discretionary via @44 b=5 p=50 d=2725
+@@53: line 10.2- t=6934 -> @44
+mains 
+@ via @44 b=75 p=0 d=7225
+@@54: line 10.3 t=11434 -> @44
+un-clear why this Yoga with this par-tic-u-lar 
+@ via @45 b=58 p=0 d=4624
+@@55: line 11.1 t=33080 -> @45
+de-
+@\discretionary via @45 b=0 p=50 d=2600
+@\discretionary via @46 b=12 p=50 d=2984
+@@56: line 11.2- t=31056 -> @45
+scrip-
+@\discretionary via @46 b=10 p=50 d=2900
 @\discretionary via @47 b=0 p=50 d=2600
-@@55: line 13.2- t=37321 -> @47
-dra’s 
+@\discretionary via @48 b=80 p=50 d=20600
+@@57: line 11.2- t=14125 -> @47
+tion 
+@ via @47 b=9 p=0 d=361
 @ via @48 b=0 p=0 d=100
-@@56: line 13.2 t=24201 -> @48
-und \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 ’s Liste 
-mit den vier \TU/Vollkorn(0)/m/it/10 pāda\TU/Vollkorn(0)/m/n/10 s der 
-@ via @49 b=0 p=0 d=100
-@@57: line 14.2 t=36080 -> @49
-Śaiva 
-@ via @50 b=0 p=0 d=100
-@ via @51 b=2 p=0 d=144
-@@58: line 14.2 t=35219 -> @50
-Āga-
-@\discretionary via @51 b=38 p=50 d=14804
-@\discretionary via @52 b=0 p=50 d=2600
-@\discretionary via @53 b=77 p=50 d=10069
-@@59: line 14.1- t=56259 -> @53
-@@60: line 14.3- t=64552 -> @51
-mas 
-@ via @52 b=41 p=0 d=2601
+@ via @49 b=50 p=0 d=3600
+@ via @50 b=50 p=0 d=13600
+@@58: line 11.1 t=7730 -> @49
+@@59: line 11.2 t=10861 -> @48
+bears 
+@ via @49 b=21 p=0 d=961
+@ via @50 b=21 p=0 d=961
+@@60: line 11.3 t=5091 -> @49
+the 
+@ via @51 b=1 p=0 d=121
+@ via @52 b=168 p=0 d=41684
+@@61: line 11.2 t=4466 -> @51
+name 
+@ via @52 b=4 p=0 d=196
 @ via @53 b=0 p=0 d=100
-@ via @54 b=12 p=0 d=484
-@@61: line 14.2 t=46290 -> @53
-(\TU/Vollkorn(0)/m/it/10 kriyā\TU/Vollkorn(0)/m/n/10 -
-@\discretionary via @55 b=24 p=50 d=13656
-@@62: line 14.1- t=50977 -> @55
-, 
-@ via @55 b=6 p=0 d=256
-@@63: line 14.2 t=37577 -> @55
-\TU/Vollkorn(0)/m/it/10 jñāna\TU/Vollkorn(0)/m/n/10 -
-@\discretionary via @56 b=0 p=50 d=2600
-@@64: line 14.2- t=26801 -> @56
-, 
-@ via @56 b=0 p=0 d=100
-@@65: line 14.2 t=24301 -> @56
-\TU/Vollkorn(0)/m/it/10 caryā\TU/Vollkorn(0)/m/n/10 - und \TU/Vollkorn(0)/m/it
-/10 yo-gapāda\TU/Vollkorn(0)/m/n/10 ) bi-etet auch keine überzeu-
-@\discretionary via @57 b=0 p=50 d=2600
-@@66: line 15.2- t=38680 -> @57
-gende 
-@ via @58 b=0 p=0 d=100
-@@67: line 15.2 t=35319 -> @58
-Lö-
-@\discretionary via @58 b=9 p=50 d=2861
-@\discretionary via @59 b=0 p=50 d=12600
-@\discretionary via @60 b=0 p=50 d=12600
-@@68: line 15.2- t=38080 -> @58
-sung, 
-@ via @59 b=76 p=0 d=17396
-@ via @60 b=76 p=0 d=7396
-@ via @61 b=1 p=0 d=121
-@@69: line 15.2 t=46411 -> @61
-da 
-@ via @61 b=0 p=0 d=100
-@@70: line 15.2 t=46390 -> @61
-\TU/Vollkorn(0)/m/it/10 caryā°
-@\kern via @62 b=0 p=0 d=100
-@\kern via @63 b=0 p=0 d=100
-@@71: line 15.2 t=37677 -> @63
- \TU/Vollkorn(0)/m/n/10 in 
-@ via @63 b=87 p=0 d=9409
-@ via @64 b=16 p=0 d=676
-@ via @65 b=119 p=0 d=26641
-@@72: line 15.1 t=27477 -> @64
-diesem Kon-text nichts mit dem ur-sprünglichen 
-@ via @66 b=4 p=0 d=196
-@@73: line 16.2 t=38876 -> @66
-rit-
-@\discretionary via @66 b=0 p=50 d=12600
-@@74: line 16.2- t=51280 -> @66
-uellen 
-@ via @67 b=0 p=0 d=100
-@ via @68 b=2 p=0 d=144
-@@75: line 16.2 t=35419 -> @67
-Diszi-
-@\discretionary via @69 b=0 p=50 d=2600
-@@76: line 16.2- t=49011 -> @69
-plin 
-@ via @69 b=1 p=0 d=121
-@ via @70 b=0 p=0 d=100
-@@77: line 16.2 t=46490 -> @70
-der 
-@ via @70 b=43 p=0 d=2809
-@ via @71 b=126 p=0 d=28496
-@@78: line 16.3 t=49199 -> @70
-śaivi-
-@\discretionary via @71 b=7 p=50 d=2789
-@\discretionary via @72 b=0 p=50 d=2600
-@@79: line 16.2- t=30077 -> @72
-tis-
-@\discretionary via @72 b=7 p=50 d=2789
-@@80: line 16.2- t=30266 -> @72
-chen Prak-tiken zu tun hat, wie es im \TU/Vollkorn(0)/m/it/10 caryā-
-@\discretionary via @73 b=137 p=50 d=34109
-@@81: line 17.0- t=72985 -> @73
-pada
-@\kern via @73 b=0 p=0 d=100
-@\kern via @74 b=15 p=0 d=625
-@@82: line 17.2 t=38976 -> @73
- \TU/Vollkorn(0)/m/n/10 eines 
-@ via @74 b=53 p=0 d=3969
-@ via @75 b=80 p=0 d=8100
-@@83: line 17.1 t=43519 -> @75
-Śaiva 
-@ via @75 b=6 p=0 d=256
-@ via @76 b=21 p=0 d=961
-@@84: line 17.2 t=35675 -> @75
-Āga-
-@\discretionary via @76 b=1 p=50 d=12621
-@\discretionary via @77 b=9 p=50 d=2861
-@@85: line 17.2- t=49351 -> @77
-mas 
-@ via @77 b=0 p=0 d=100
-@ via @78 b=16 p=0 d=10676
-@@86: line 17.2 t=46590 -> @77
-der 
-@ via @78 b=0 p=0 d=100
-@ via @79 b=62 p=0 d=5184
-@@87: line 17.1 t=35261 -> @79
-Fall 
-@ via @79 b=0 p=0 d=100
-@ via @80 b=1 p=0 d=121
-@@88: line 17.2 t=30177 -> @79
-wäre. 
-@ via @80 b=89 p=0 d=9801
-@@89: line 17.3 t=40067 -> @80
-Es ist da-her un-wahrschein-lich, dass 
-@ via @81 b=0 p=0 d=10100
-@@90: line 18.2 t=83085 -> @81
-es 
-@ via @81 b=0 p=0 d=10100
-@ via @82 b=37 p=0 d=2209
-@@91: line 18.1 t=41185 -> @82
-wirk-
-@\discretionary via @82 b=2 p=50 d=2644
-@\discretionary via @83 b=49 p=50 d=5981
-@@92: line 18.1- t=49500 -> @83
-@@93: line 18.2- t=41620 -> @82
-lich 
-@ via @83 b=0 p=0 d=100
-@@94: line 18.2 t=43619 -> @83
+@@62: line 11.2 t=7005 -> @52
+Caryāyoga. The ap-par-ent as-so-ci-a-tion of the first 
+@ via @55 b=0 p=0 d=100
+@ via @56 b=10 p=0 d=400
+@@63: line 12.2 t=31456 -> @56
+four 
+@ via @56 b=5 p=0 d=225
+@ via @57 b=15 p=0 d=625
+@@64: line 12.1 t=14750 -> @57
 Yo-
-@\discretionary via @83 b=58 p=50 d=17124
-@\discretionary via @84 b=16 p=50 d=3176
-@@95: line 18.1- t=38851 -> @84
-gaübende 
-@ via @85 b=14 p=0 d=576
-@ via @86 b=4 p=0 d=196
-@@96: line 18.2 t=46786 -> @86
-@@97: line 18.3 t=49927 -> @85
-gegeben 
-@ via @87 b=46 p=0 d=13136
-@ via @88 b=0 p=0 d=100
-@@98: line 18.2 t=30277 -> @88
-hat, 
-@ via @88 b=31 p=0 d=1681
-@ via @89 b=116 p=0 d=25876
-@@99: line 18.3 t=31858 -> @88
-die 
-@ via @89 b=0 p=0 d=100
-@@100: line 18.2 t=40167 -> @89
-ein Caryāyoga prak-tizierten, welches 
-@ via @90 b=0 p=0 d=100
-@ via @91 b=0 p=0 d=100
-@@101: line 19.2 t=41285 -> @91
-mit 
-@ via @92 b=0 p=0 d=100
-@ via @93 b=0 p=0 d=100
-@@102: line 19.2 t=41720 -> @93
-der 
-@ via @92 b=15 p=0 d=10625
-@ via @93 b=15 p=0 d=625
-@ via @94 b=1 p=0 d=121
-@@103: line 19.2 t=43740 -> @94
-@@104: line 19.3 t=42245 -> @93
-kurzen Beschrei-
-@\discretionary via @96 b=51 p=50 d=6221
-@\discretionary via @97 b=51 p=50 d=6221
-@@105: line 19.3- t=53007 -> @96
-bung 
-@ via @98 b=0 p=0 d=100
-@@106: line 19.2 t=30377 -> @98
-des 
-@ via @98 b=25 p=0 d=1225
-@ via @99 b=2 p=0 d=144
-@@107: line 19.2 t=32002 -> @99
-@@108: line 19.3 t=31502 -> @98
+@\discretionary via @57 b=0 p=50 d=12600
+@\discretionary via @58 b=80 p=50 d=10600
+@\discretionary via @59 b=80 p=50 d=10600
+@@65: line 12.1- t=18330 -> @58
+@@66: line 12.2- t=26725 -> @57
+gas 
+@ via @58 b=0 p=0 d=100
+@ via @59 b=0 p=0 d=100
+@@67: line 12.2 t=7830 -> @58
+in 
+@ via @58 b=0 p=0 d=100
+@ via @59 b=0 p=0 d=100
+@ via @60 b=141 p=0 d=32801
+@@68: line 12.2 t=7830 -> @58
 Rā-
-@\discretionary via @99 b=0 p=50 d=2600
-@\discretionary via @100 b=1 p=50 d=2621
-@@109: line 19.2- t=34458 -> @99
-macan-dra übere-in-stimmt. 
-@\par via @101 b=0 p=-10000 d=100
-@\par via @102 b=0 p=-10000 d=100
-@\par via @103 b=0 p=-10000 d=100
-@\par via @104 b=0 p=-10000 d=100
-@\par via @105 b=0 p=-10000 d=5100
-@\par via @106 b=0 p=-10000 d=100
-@\par via @107 b=0 p=-10000 d=100
-@\par via @108 b=0 p=-10000 d=100
-@\par via @109 b=0 p=-10000 d=5100
-@@110: line 20.2- t=30477 -> @106
+@\discretionary via @60 b=0 p=50 d=2600
+@\discretionary via @61 b=149 p=50 d=37781
+@@69: line 12.2- t=7691 -> @60
+macan-
+@\discretionary via @61 b=4 p=50 d=2696
+@\discretionary via @62 b=100 p=50 d=24600
+@@70: line 12.2- t=7162 -> @61
+dra’s 
+@ via @62 b=0 p=0 d=100
+@@71: line 12.2 t=7105 -> @62
+and \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 ’s list wi
+th the four \TU/Vollkorn(0)/m/it/10 pāda\TU/Vollkorn(0)/m/n/10 s of 
+@ via @63 b=32 p=0 d=1764
+@@72: line 13.1 t=33220 -> @63
+the 
+@ via @63 b=0 p=0 d=100
+@ via @64 b=100 p=0 d=12100
+@@73: line 13.0 t=26850 -> @64
+@@74: line 13.2 t=31556 -> @63
+Śaiva 
+@ via @64 b=3 p=0 d=169
+@ via @65 b=0 p=0 d=100
+@ via @66 b=0 p=0 d=100
+@ via @67 b=131 p=0 d=29881
+@@75: line 13.2 t=14919 -> @64
+Āga-
+@\discretionary via @67 b=0 p=50 d=2600
+@\discretionary via @68 b=0 p=50 d=2600
+@\discretionary via @69 b=189 p=50 d=62101
+@@76: line 13.2- t=10430 -> @68
+mas 
+@ via @68 b=2 p=0 d=144
+@ via @69 b=0 p=0 d=100
+@@77: line 13.2 t=7791 -> @69
+(\TU/Vollkorn(0)/m/it/10 kriyā\TU/Vollkorn(0)/m/n/10 -
+@\discretionary via @70 b=0 p=50 d=12600
+@@78: line 13.2- t=19762 -> @70
+, 
+@ via @70 b=0 p=0 d=100
+@@79: line 13.2 t=7262 -> @70
+\TU/Vollkorn(0)/m/it/10 jñāna\TU/Vollkorn(0)/m/n/10 -
+@\discretionary via @71 b=0 p=50 d=2600
+@@80: line 13.2- t=9705 -> @71
+, 
+@ via @71 b=0 p=0 d=100
+@@81: line 13.2 t=7205 -> @71
+\TU/Vollkorn(0)/m/it/10 caryā\TU/Vollkorn(0)/m/n/10 - and \TU/Vollkorn(0)/m/it
+/10 yo-gapāda\TU/Vollkorn(0)/m/n/10 ) does not of-fer a con-
+@\discretionary via @72 b=38 p=50 d=4804
+@@82: line 14.1- t=38024 -> @72
+vinc-
+@\discretionary via @72 b=0 p=50 d=2600
+@\discretionary via @73 b=21 p=50 d=3461
+@\discretionary via @74 b=21 p=50 d=3461
+@@83: line 14.1- t=30311 -> @73
+@@84: line 14.2- t=35820 -> @72
+ing 
+@ via @73 b=0 p=0 d=10100
+@ via @74 b=0 p=0 d=100
+@@85: line 14.2 t=31656 -> @74
+so-
+@\discretionary via @73 b=56 p=50 d=16856
+@\discretionary via @74 b=56 p=50 d=6856
+@\discretionary via @75 b=22 p=50 d=3524
+@@86: line 14.1- t=18443 -> @75
+lu-
+@\discretionary via @75 b=0 p=50 d=2600
+@@87: line 14.2- t=17519 -> @75
+tion 
+@ via @75 b=33 p=0 d=1849
+@ via @76 b=0 p=0 d=100
+@@88: line 14.2 t=10530 -> @76
+@@89: line 14.3 t=16768 -> @75
+in 
+@ via @76 b=0 p=0 d=100
+@ via @77 b=53 p=0 d=3969
+@@90: line 14.1 t=11760 -> @77
+@@91: line 14.2 t=10530 -> @76
+this 
+@ via @77 b=0 p=0 d=100
+@@92: line 14.2 t=7891 -> @77
+case, 
+@ via @78 b=0 p=0 d=100
+@ via @79 b=0 p=0 d=100
+@@93: line 14.2 t=7362 -> @79
+as 
+@ via @78 b=21 p=0 d=961
+@ via @79 b=0 p=0 d=100
+@ via @80 b=80 p=0 d=8100
+@@94: line 14.2 t=7362 -> @79
+\TU/Vollkorn(0)/m/it/10 caryā°
+@\kern via @80 b=2 p=0 d=144
+@\kern via @81 b=0 p=0 d=100
+@@95: line 14.2 t=7305 -> @81
+ \TU/Vollkorn(0)/m/n/10 in 
+@ via @81 b=90 p=0 d=10000
+@@96: line 14.3 t=17205 -> @81
+this con-text has noth-ing to do with 
+@ via @82 b=0 p=0 d=100
+@ via @83 b=172 p=0 d=33124
+@ via @84 b=172 p=0 d=43124
+@@97: line 15.2 t=38124 -> @82
+the 
+@ via @82 b=22 p=0 d=11024
+@ via @83 b=0 p=0 d=100
+@ via @84 b=0 p=0 d=100
+@ via @85 b=169 p=0 d=42041
+@@98: line 15.2 t=30411 -> @83
+orig-
+@\discretionary via @83 b=60 p=50 d=27400
+@\discretionary via @84 b=60 p=50 d=17400
+@\discretionary via @85 b=0 p=50 d=2600
+@\discretionary via @86 b=3 p=50 d=12669
+@\discretionary via @87 b=66 p=50 d=18276
+@@99: line 15.1- t=35795 -> @87
+@@100: line 15.2- t=31112 -> @86
+i-
+@\discretionary via @85 b=0 p=50 d=2600
+@\discretionary via @86 b=0 p=50 d=12600
+@\discretionary via @87 b=30 p=50 d=14100
+@@101: line 15.1- t=31619 -> @87
+@@102: line 15.2- t=31043 -> @86
+nal 
+@ via @85 b=48 p=0 d=3364
+@ via @86 b=0 p=0 d=100
+@ via @87 b=0 p=0 d=100
+@@103: line 15.2 t=17619 -> @87
+rit-
+@\discretionary via @87 b=6 p=50 d=12756
+@\discretionary via @88 b=1 p=50 d=2621
+@\discretionary via @89 b=1 p=50 d=2621
+@\discretionary via @90 b=108 p=50 d=16424
+@\discretionary via @91 b=108 p=50 d=26424
+@@104: line 15.2- t=13151 -> @88
+ual 
+@ via @88 b=0 p=0 d=100
+@ via @89 b=0 p=0 d=100
+@ via @90 b=1 p=0 d=121
+@ via @91 b=1 p=0 d=121
+@@105: line 15.2 t=10630 -> @88
+dis-
+@\discretionary via @90 b=1 p=50 d=2621
+@\discretionary via @91 b=1 p=50 d=2621
+@\discretionary via @92 b=3 p=50 d=2669
+@@106: line 15.2- t=10560 -> @92
+ci-
+@\discretionary via @90 b=89 p=50 d=22301
+@\discretionary via @91 b=89 p=50 d=12301
+@\discretionary via @92 b=0 p=50 d=2600
+@@107: line 15.2- t=10491 -> @92
+pline 
+@ via @93 b=0 p=0 d=100
+@ via @94 b=80 p=0 d=8100
+@@108: line 15.1 t=15462 -> @94
+@@109: line 15.2 t=7462 -> @93
+of 
+@ via @93 b=0 p=0 d=100
+@ via @94 b=0 p=0 d=100
+@@110: line 15.2 t=7462 -> @94
+the 
+@ via @94 b=13 p=0 d=529
+@ via @95 b=51 p=0 d=3721
+@@111: line 15.1 t=11026 -> @95
+@@112: line 15.3 t=7891 -> @94
+śaivite 
+@ via @95 b=69 p=0 d=6241
+@ via @96 b=0 p=0 d=100
+@@113: line 15.2 t=17305 -> @96
+@@114: line 15.3 t=13546 -> @95
+prac-tices, as would be the case 
+@ via @97 b=66 p=0 d=5776
+@@115: line 16.1 t=43900 -> @97
+in 
+@ via @97 b=0 p=0 d=100
+@@116: line 16.2 t=38224 -> @97
+the 
+@ via @97 b=12 p=0 d=484
+@ via @98 b=0 p=0 d=100
+@@117: line 16.2 t=30511 -> @98
+\TU/Vollkorn(0)/m/it/10 caryā-
+@\discretionary via @99 b=0 p=50 d=12600
+@\discretionary via @100 b=0 p=50 d=12600
+@\discretionary via @101 b=0 p=50 d=12600
+@\discretionary via @102 b=0 p=50 d=12600
+@\discretionary via @103 b=59 p=50 d=7261
+@@118: line 16.1- t=24880 -> @103
+pada
+@\kern via @103 b=0 p=0 d=100
+@\kern via @104 b=4 p=0 d=196
+@@119: line 16.2 t=13347 -> @104
+ \TU/Vollkorn(0)/m/n/10 of 
+@ via @103 b=13 p=0 d=529
+@ via @104 b=0 p=0 d=100
+@ via @105 b=38 p=0 d=2304
+@@120: line 16.1 t=12934 -> @105
+@@121: line 16.2 t=13251 -> @104
+@@122: line 16.3 t=18148 -> @103
+a 
+@ via @104 b=1 p=0 d=121
+@ via @105 b=0 p=0 d=100
+@ via @106 b=110 p=0 d=24400
+@@123: line 16.2 t=10730 -> @105
+Śaiva 
+@ via @106 b=0 p=0 d=100
+@ via @107 b=0 p=0 d=100
+@@124: line 16.2 t=10591 -> @107
+Āga-
+@\discretionary via @108 b=0 p=50 d=2600
+@\discretionary via @109 b=0 p=50 d=2600
+@\discretionary via @110 b=48 p=50 d=5864
+@@125: line 16.1- t=13326 -> @110
+@@126: line 16.2- t=10062 -> @109
+mas. 
+@ via @108 b=16 p=0 d=10676
+@ via @109 b=16 p=0 d=676
+@ via @110 b=0 p=0 d=100
+@ via @111 b=51 p=0 d=3721
+@ via @112 b=51 p=0 d=13721
+@@127: line 16.1 t=14747 -> @111
+@@128: line 16.2 t=7562 -> @110
+@@129: line 16.3 t=8138 -> @109
+It 
+@ via @110 b=15 p=0 d=625
+@ via @111 b=0 p=0 d=100
+@ via @112 b=0 p=0 d=100
+@@130: line 16.2 t=7991 -> @112
+@@131: line 16.3 t=8087 -> @110
+is, 
+@ via @111 b=0 p=0 d=100
+@ via @112 b=0 p=0 d=100
+@ via @113 b=175 p=0 d=44225
+@ via @114 b=175 p=0 d=44225
+@@132: line 16.2 t=7991 -> @112
+there-
+@\discretionary via @113 b=0 p=50 d=2600
+@\discretionary via @114 b=0 p=50 d=2600
+@@133: line 16.2- t=16146 -> @114
+fore, un-likely that any Yoga 
+@ via @115 b=13 p=0 d=529
+@@134: line 17.1 t=44429 -> @115
+prac-
+@\discretionary via @115 b=6 p=50 d=2756
+@\discretionary via @116 b=0 p=50 d=2600
+@\discretionary via @117 b=52 p=50 d=6344
+@@135: line 17.1- t=36855 -> @117
+@@136: line 17.2- t=40824 -> @116
+ti-
+@\discretionary via @116 b=0 p=50 d=2600
+@\discretionary via @117 b=4 p=50 d=2696
+@@137: line 17.2- t=33207 -> @117
+tion-
+@\discretionary via @117 b=0 p=50 d=2600
+@\discretionary via @118 b=20 p=50 d=13400
+@@138: line 17.1- t=38280 -> @118
+@@139: line 17.2- t=33111 -> @117
+ers 
+@ via @118 b=0 p=0 d=100
+@@140: line 17.2 t=24980 -> @118
+prac-
+@\discretionary via @119 b=0 p=50 d=2600
+@\discretionary via @120 b=12 p=50 d=2984
+@\discretionary via @121 b=12 p=50 d=2984
+@\discretionary via @122 b=12 p=50 d=2984
+@\discretionary via @123 b=130 p=50 d=32100
+@@141: line 17.2- t=15918 -> @120
+tised 
+@ via @120 b=0 p=0 d=100
+@ via @121 b=0 p=0 d=100
+@ via @122 b=0 p=0 d=100
+@ via @123 b=0 p=0 d=100
+@@142: line 17.2 t=10830 -> @123
+a 
+@ via @120 b=93 p=0 d=20609
+@ via @121 b=93 p=0 d=10609
+@ via @122 b=93 p=0 d=10609
+@ via @123 b=0 p=0 d=100
+@ via @124 b=123 p=0 d=27689
+@@143: line 17.2 t=10830 -> @123
+Caryāyoga 
+@ via @125 b=65 p=0 d=15625
+@ via @126 b=65 p=0 d=5625
+@ via @127 b=11 p=0 d=441
+@ via @128 b=11 p=0 d=441
+@ via @129 b=11 p=0 d=441
+@@144: line 17.2 t=8003 -> @128
+@@145: line 17.3 t=15687 -> @126
+that 
+@ via @127 b=4 p=0 d=196
+@ via @128 b=4 p=0 d=196
+@ via @129 b=4 p=0 d=196
+@ via @130 b=0 p=0 d=100
+@ via @131 b=0 p=0 d=100
+@ via @132 b=28 p=0 d=1444
+@@146: line 17.1 t=9435 -> @132
+@@147: line 17.2 t=7758 -> @128
+cor-
+@\discretionary via @132 b=0 p=50 d=2600
+@\discretionary via @133 b=132 p=50 d=42664
+@@148: line 17.2- t=10591 -> @132
+re-
+@\discretionary via @133 b=1 p=50 d=12621
+@@149: line 17.2- t=28767 -> @133
+sponds to the brief de-scrip-
+@\discretionary via @134 b=32 p=50 d=4264
+@@150: line 18.1- t=48693 -> @134
+tion 
+@ via @134 b=0 p=0 d=100
+@ via @135 b=133 p=0 d=20449
+@ via @136 b=133 p=0 d=30449
+@@151: line 18.2 t=44529 -> @134
+of 
+@ via @135 b=0 p=0 d=100
+@ via @136 b=0 p=0 d=100
+@ via @137 b=18 p=0 d=784
+@@152: line 18.1 t=33991 -> @137
+@@153: line 18.2 t=36955 -> @135
+Rā-
+@\discretionary via @135 b=40 p=50 d=25000
+@\discretionary via @136 b=40 p=50 d=15000
+@\discretionary via @137 b=0 p=50 d=12600
+@\discretionary via @138 b=22 p=50 d=13524
+@\discretionary via @139 b=22 p=50 d=13524
+@@154: line 18.1- t=46635 -> @139
+@@155: line 18.2- t=45807 -> @137
+macan-
+@\discretionary via @140 b=0 p=50 d=2600
+@\discretionary via @141 b=172 p=50 d=55624
+@@156: line 18.2- t=27580 -> @140
+dra. 
+@\par via @141 b=0 p=-10000 d=5100
+@\par via @142 b=0 p=-10000 d=100
+@\par via @143 b=0 p=-10000 d=100
+@\par via @144 b=0 p=-10000 d=100
+@\par via @145 b=0 p=-10000 d=100
+@\par via @146 b=0 p=-10000 d=100
+@\par via @147 b=0 p=-10000 d=100
+@\par via @148 b=0 p=-10000 d=5100
+@\par via @149 b=0 p=-10000 d=5100
+@\par via @150 b=0 p=-10000 d=5100
+@\par via @151 b=0 p=-10000 d=100
+@\par via @152 b=0 p=-10000 d=100
+@\par via @153 b=0 p=-10000 d=100
+@\par via @154 b=0 p=-10000 d=5100
+@\par via @155 b=0 p=-10000 d=5100
+@\par via @156 b=0 p=-10000 d=5100
+@@157: line 18.2- t=7858 -> @147
 
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 36| 
@@ -29375,7 +29715,7 @@ the
 @@4: line 1.2- t=100 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/it/8 Prāṇa-toṣiṇī \TU/Vollkorn(0)/m/n/8 Ed. p. 
+[][][]\TU/Vollkorn(0)/m/it/8 Prāṇa-toṣiṇī \TU/Vollkorn(0)/m/n/8 ed. p. 
 831.| 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
@@ -29395,23 +29735,18 @@ the
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Es
+\TU/Vollkorn(0)/m/n/8 It
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Es ist auf-󰀨äl-lig, dass sich Rā-macan-dra’s Pro-saisierung na-hezu auschlie
-ßlich auf den von 
-@ via @0 b=4 p=0 d=196
-@@1: line 1.2 t=196 -> @0
-der 
-@ via @0 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
-\TU/Vollkorn(0)/m/it/8 Prāṇa-toṣiṇī \TU/Vollkorn(0)/m/n/8 zi-tierten Ver
-sen basieren.| 
+[][][]\TU/Vollkorn(0)/m/n/8 It is strik-ing that Rā-macan-dra’s pro-sai-sa-ti
+on is based al-most ex-clu-sively on the verses quoted 
+@ via @0 b=14 p=0 d=576
+@@1: line 1.3 t=576 -> @0
+by the \TU/Vollkorn(0)/m/it/8 Prāṇa-toṣiṇī\TU/Vollkorn(0)/m/n/8 .| 
 @\par via @1 b=0 p=-10000 d=100
-@\par via @2 b=0 p=-10000 d=100
-@@3: line 2.2- t=200 -> @2
+@@2: line 2.2- t=676 -> @1
 
 @firstpass
 @secondpass
@@ -29433,947 +29768,2075 @@ ollkorn(0)/m/it/8 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/8 .|
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Di
+\TU/Vollkorn(0)/m/n/8 Th
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Die Verse von \TU/Vollkorn(0)/m/it/8 Yo-gakarṇik
-ā \TU/Vollkorn(0)/m/n/8 1.244-280 und 1.210-213 sind alle eben-falls in der der
- \TU/Vollkorn(0)/m/it/8 Prāṇa-toṣiṇī\TU/Vollkorn(0)/m/n/8 , 
+[][][]\TU/Vollkorn(0)/m/n/8 The verses of \TU/Vollkorn(0)/m/it/8 Yo-gakarṇik
+ā \TU/Vollkorn(0)/m/n/8 1.244-280 and 1.210-213 are all also found in the \TU/
+Vollkorn(0)/m/it/8 Prāṇa-toṣiṇī\TU/Vollkorn(0)/m/n/8 , ed. 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-Ed. 
-@ via @0 b=78 p=0 d=7744
-@@2: line 1.3 t=7744 -> @0
-pp. 832-833 und Ed. p. 831 über-liefert.| 
-@\par via @1 b=0 p=-10000 d=100
-@\par via @2 b=0 p=-10000 d=100
-@@3: line 2.2- t=200 -> @1
-
-@firstpass
-\TU/Vollkorn(0)/m/n/10 Der Be-griff Caryāyoga ist in den mir vor-liegen-den Que
-llen des \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-näm-lich \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣinī \TU/Vollkorn(0)/m/n/10 und \TU/Vollkorn(0)/m/it/10 Yo-gakar
-ṇikā \TU/Vollkorn(0)/m/n/10 nicht vorhan-den. Der Be-griff Caryāyoga 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=200 -> @1
-󰀨ällt in der Tax-onomie der Yo-gakat-e-gorien im \TU/Vollkorn(0)/m/it/10 Yo-
-gas-var-o-daya[][][][] \TU/Vollkorn(0)/m/n/10 nicht. Die Verse, 
-@ via @2 b=0 p=0 d=100
-@@3: line 3.2 t=300 -> @2
-welche die Yo-gatax-on-mie be-tr-e-f-fen pos-tulieren zwar eine Gesamtzahl von 
-@ via @3 b=9 p=0 d=361
-@@4: line 4.2 t=661 -> @3
-󰀨ün-fzehn Yo-gas, von diesen wer-den je-doch nur in-s-ge-samt acht genannt. Ob 
-@ via @4 b=0 p=0 d=100
-@@5: line 5.2 t=761 -> @4
-Caryāyoga ein-fach nur uner-wähnt blieb ist un-klar, aber dessen Vorhan-den-se
-in 
-@ via @5 b=33 p=0 d=1849
-@@6: line 6.3 t=2610 -> @5
-in den Tax-onomien des \TU/Vollkorn(0)/m/it/10 Yo-gatattv-abindu[][][][] \TU/Vo
-llkorn(0)/m/n/10 und der \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-drikā[]
-[][][] \TU/Vollkorn(0)/m/n/10 lässt 
-@ via @6 b=0 p=0 d=100
-@@7: line 7.2 t=2710 -> @6
-dessen Zuge-hörigkeit sicher als möglich, und dur-chaus als wahrschein-lich 
-@ via @7 b=3 p=0 d=169
-@@8: line 8.2 t=2879 -> @7
-er-scheinen. Wie das \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/
-m/n/10 urp-srünglich aus-ge-se-hen hat, kann nur 
-@ via @8 b=7 p=0 d=289
-@@9: line 9.2 t=3168 -> @8
-@secondpass
-\TU/Vollkorn(0)/m/n/10 Der Be-griff Caryāyoga ist in den mir vor-liegen-den Que
-llen des \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-
-@\discretionary via @0 b=105 p=50 d=25725
-@@1: line 1.0- t=25725 -> @0
-daya\TU/Vollkorn(0)/m/n/10 , 
+pp. 
 @ via @0 b=0 p=0 d=100
 @@2: line 1.2 t=100 -> @0
-näm-lich \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣinī \TU/Vollkorn(0)/m/n/10 und \TU/Vollkorn(0)/m/it/10 Yo-gakar
-ṇikā \TU/Vollkorn(0)/m/n/10 nicht vorhan-den. Der Be-griff Caryāyoga 
+832-833 and ed. p. 831| 
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 2.2- t=200 -> @2
+
+@firstpass
+\TU/Vollkorn(0)/m/n/10 The term Caryāyoga does not ex-ist in the \TU/Vollkorn(
+0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 sources avail-able to 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+me, 
+@ via @0 b=15 p=0 d=625
+@@2: line 1.3 t=625 -> @0
+namely \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣinī \TU/Vollkorn(0)/m/n/10 and \T
+U/Vollkorn(0)/m/it/10 Yo-gakarṇikā\TU/Vollkorn(0)/m/n/10 . The term Caryāyog
+a does not ap-pear 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=70 p=0 d=16400
+@@3: line 2.2 t=200 -> @1
+in 
 @ via @2 b=0 p=0 d=100
-@@3: line 2.2 t=200 -> @2
-󰀨ällt in der Tax-onomie der Yo-gakat-e-gorien im \TU/Vollkorn(0)/m/it/10 Yo-
-gas-var-o-daya[][][][] \TU/Vollkorn(0)/m/n/10 nicht. Die Verse, 
+@@4: line 2.2 t=725 -> @2
+the 
+@ via @2 b=45 p=0 d=3025
+@@5: line 2.3 t=3650 -> @2
+tax-on-omy of Yoga cat-e-gories in the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya
+[][][][] \TU/Vollkorn(0)/m/n/10 Al-though the verses 
 @ via @3 b=0 p=0 d=100
-@@4: line 3.2 t=300 -> @3
-welche die Yo-gatax-on-mie be-tr-e-f-fen pos-tulieren zwar eine Gesamtzahl von 
-@ via @4 b=9 p=0 d=361
-@@5: line 4.2 t=661 -> @4
-󰀨ün-
-@\discretionary via @4 b=13 p=50 d=3029
-@@6: line 4.3- t=3329 -> @4
-fzehn Yo-gas, von diesen wer-den je-doch nur in-s-ge-samt acht genannt. Ob 
+@ via @4 b=0 p=0 d=100
+@@6: line 3.2 t=300 -> @3
+con-cern-ing the yo-gic tax-on-omy pos-tu-late a to-tal of fif-teen Yo-gas, only
+ eight 
+@ via @6 b=0 p=0 d=100
+@@7: line 4.2 t=400 -> @6
+are 
+@ via @6 b=18 p=0 d=784
+@@8: line 4.3 t=1084 -> @6
+men-tioned. Whether Caryāyoga re-mained un-men-tioned is un-clear, but 
+@ via @7 b=0 p=0 d=100
+@@9: line 5.2 t=500 -> @7
+its 
+@ via @7 b=0 p=0 d=100
+@ via @8 b=2 p=0 d=144
+@@10: line 5.2 t=500 -> @7
+@secondpass
+\TU/Vollkorn(0)/m/n/10 The term Caryāyoga does not ex-ist in the \TU/Vollkorn(
+0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 sources avail-able 
+@ via @0 b=137 p=0 d=31609
+@@1: line 1.0 t=31609 -> @0
+to 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+me, 
+@ via @0 b=15 p=0 d=625
+@@3: line 1.3 t=625 -> @0
+namely \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣinī \TU/Vollkorn(0)/m/n/10 and \T
+U/Vollkorn(0)/m/it/10 Yo-gakarṇikā\TU/Vollkorn(0)/m/n/10 . The term Caryāyog
+a does not 
+@ via @1 b=123 p=0 d=17689
+@@4: line 2.0 t=49298 -> @1
+ap-
+@\discretionary via @1 b=0 p=50 d=12600
+@\discretionary via @2 b=38 p=50 d=4804
+@@5: line 2.1- t=4904 -> @2
+pear 
+@ via @2 b=0 p=0 d=100
+@ via @3 b=70 p=0 d=16400
+@@6: line 2.2 t=200 -> @2
+in 
+@ via @3 b=0 p=0 d=100
+@@7: line 2.2 t=725 -> @3
+the 
+@ via @3 b=45 p=0 d=3025
+@@8: line 2.3 t=3650 -> @3
+tax-on-omy of Yoga cat-e-gories in the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya
+[][][][] \TU/Vollkorn(0)/m/n/10 Al-though 
+@ via @4 b=0 p=0 d=10100
+@@9: line 3.2 t=59398 -> @4
+the 
+@ via @4 b=4 p=0 d=10196
 @ via @5 b=0 p=0 d=100
-@ via @6 b=168 p=0 d=41684
-@@7: line 5.2 t=761 -> @5
-Caryāyoga ein-fach nur uner-wähnt blieb ist un-klar, aber dessen Vorhan-den-
-@\discretionary via @7 b=0 p=50 d=2600
-@@8: line 6.2- t=3361 -> @7
-sein 
-@ via @7 b=33 p=0 d=1849
-@@9: line 6.3 t=2610 -> @7
-in den Tax-onomien des \TU/Vollkorn(0)/m/it/10 Yo-gatattv-abindu[][][][] \TU/Vo
-llkorn(0)/m/n/10 und der \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-drikā[]
-[][][] 
-@ via @8 b=0 p=0 d=100
-@@10: line 7.2 t=3461 -> @8
-\TU/Vollkorn(0)/m/n/10 lässt 
+@@10: line 3.2 t=5004 -> @5
+verses 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=0 p=0 d=100
+@@11: line 3.2 t=300 -> @6
+con-
+@\discretionary via @8 b=0 p=50 d=2600
+@@12: line 3.2- t=6250 -> @8
+cern-ing the yo-gic tax-on-omy pos-tu-late a to-tal of fif-teen Yo-gas, 
 @ via @9 b=0 p=0 d=100
-@@11: line 7.2 t=2710 -> @9
-dessen Zuge-hörigkeit sicher als möglich, und dur-chaus als wahrschein-
-@\discretionary via @10 b=0 p=50 d=2600
-@@12: line 8.2- t=6061 -> @10
-lich 
-@ via @11 b=3 p=0 d=169
-@@13: line 8.2 t=2879 -> @11
-er-
-@\discretionary via @11 b=0 p=50 d=2600
-@@14: line 8.2- t=5310 -> @11
-scheinen. Wie das \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n
-/10 urp-srünglich aus-ge-se-hen hat, kann 
-@ via @12 b=4 p=0 d=196
-@@15: line 9.2 t=6257 -> @12
-nur 
-@ via @12 b=2 p=0 d=144
-@ via @13 b=7 p=0 d=289
-@@16: line 9.2 t=3168 -> @13
-ver-
-@\discretionary via @13 b=2 p=50 d=2644
-@\discretionary via @14 b=0 p=50 d=12600
-@@17: line 9.2- t=5523 -> @13
-mutet wer-den. Ob-wohl es fast so er-scheint, als wäre das gesamte 
-@ via @15 b=109 p=0 d=24161
-@@18: line 10.0 t=30418 -> @15
+@@13: line 4.2 t=59498 -> @9
+only 
+@ via @10 b=0 p=0 d=100
+@@14: line 4.2 t=5104 -> @10
+eight 
+@ via @11 b=0 p=0 d=100
+@@15: line 4.2 t=400 -> @11
+are 
+@ via @11 b=18 p=0 d=784
+@ via @12 b=0 p=0 d=100
+@@16: line 4.2 t=6350 -> @12
+@@17: line 4.3 t=1084 -> @11
+men-tioned. Whether Caryāyoga re-mained un-men-tioned is 
+@ via @13 b=43 p=0 d=2809
+@@18: line 5.1 t=62307 -> @13
+un-
+@\discretionary via @13 b=0 p=50 d=2600
+@@19: line 5.2- t=62098 -> @13
+clear, 
+@ via @14 b=0 p=0 d=100
+@@20: line 5.2 t=5204 -> @14
+but 
+@ via @15 b=0 p=0 d=100
+@@21: line 5.2 t=500 -> @15
+its 
+@ via @15 b=0 p=0 d=100
+@ via @16 b=2 p=0 d=144
+@ via @17 b=2 p=0 d=144
+@@22: line 5.2 t=500 -> @15
+pres-ence in the tax-onomies of the \TU/Vollkorn(0)/m/it/10 Yo-gatattv-abindu[]
+[][][] \TU/Vollkorn(0)/m/n/10 and the 
+@ via @18 b=0 p=0 d=100
+@ via @19 b=169 p=0 d=42041
+@@23: line 6.2 t=62407 -> @18
 \TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @15 b=0 p=50 d=2600
-@@19: line 10.2- t=8857 -> @15
-gas-
-@\discretionary via @15 b=0 p=50 d=2600
-@\discretionary via @16 b=5 p=50 d=2725
-@@20: line 10.2- t=5893 -> @16
-var-
-@\discretionary via @16 b=0 p=50 d=2600
-@\discretionary via @17 b=8 p=50 d=12824
-@@21: line 10.2- t=5768 -> @16
-o-
-@\discretionary via @16 b=0 p=50 d=2600
-@\discretionary via @17 b=0 p=50 d=12600
-@@22: line 10.2- t=5768 -> @16
-daya
-@\kern via @17 b=10 p=0 d=400
-@@23: line 10.2 t=5923 -> @17
- \TU/Vollkorn(0)/m/n/10 in der \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣiṇī \TU
-/Vollkorn(0)/m/n/10 über-liefert, so bein-hal-tet die \TU/Vollkorn(0)/m/it/10 
-Yo-gakarṇikā \TU/Vollkorn(0)/m/n/10 einige 
-@ via @18 b=10 p=0 d=10400
-@ via @19 b=0 p=0 d=100
-@ via @20 b=46 p=0 d=3136
-@@24: line 11.1 t=9029 -> @20
-@@25: line 11.2 t=8957 -> @19
-Verse 
-@ via @20 b=78 p=0 d=7744
-@ via @21 b=0 p=0 d=100
-@ via @22 b=0 p=0 d=100
-@@26: line 11.2 t=5868 -> @22
-@@27: line 11.3 t=13637 -> @20
-des 
-@ via @22 b=43 p=0 d=2809
-@ via @23 b=2 p=0 d=144
-@@28: line 11.2 t=6067 -> @23
-@@29: line 11.3 t=8577 -> @22
-\TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @23 b=0 p=50 d=2600
-@@30: line 11.2- t=8523 -> @23
-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , welche in der \TU/Vollkorn(0)/m/it/10 Pr
-āṇa-toṣinī \TU/Vollkorn(0)/m/n/10 nicht über-liefert sind.[][][][] 
-@ via @24 b=98 p=0 d=11664
-@ via @25 b=98 p=0 d=11664
-@@31: line 12.1 t=20621 -> @25
-Aus 
+@\discretionary via @18 b=0 p=50 d=2600
+@\discretionary via @19 b=0 p=50 d=12600
+@@24: line 6.2- t=64907 -> @18
+gasid-
+@\discretionary via @20 b=9 p=50 d=2861
+@@25: line 6.2- t=8065 -> @20
+dhān-
+@\discretionary via @20 b=5 p=50 d=2725
+@\discretionary via @21 b=1 p=50 d=2621
+@@26: line 6.2- t=3121 -> @21
+ta-
+@\discretionary via @21 b=0 p=50 d=2600
+@\discretionary via @22 b=41 p=50 d=5101
+@@27: line 6.1- t=5601 -> @22
+@@28: line 6.2- t=3100 -> @21
+can-
+@\discretionary via @22 b=0 p=50 d=2600
+@@29: line 6.2- t=3100 -> @22
+drikā[][][][] \TU/Vollkorn(0)/m/n/10 cer-tainly makes its af-fil-i-a-tion seem pos-si-ble and quite 
+@ via @23 b=0 p=0 d=100
 @ via @24 b=0 p=0 d=100
-@ via @25 b=0 p=0 d=100
-@@32: line 12.2 t=9057 -> @25
-diesem 
-@ via @26 b=90 p=0 d=10000
-@ via @27 b=90 p=0 d=10000
-@ via @28 b=0 p=0 d=100
+@@30: line 7.2 t=62507 -> @23
+prob-
+@\discretionary via @25 b=0 p=50 d=12600
+@@31: line 7.2- t=20665 -> @25
+a-
+@\discretionary via @25 b=0 p=50 d=12600
+@\discretionary via @26 b=146 p=50 d=46836
+@@32: line 7.2- t=20665 -> @25
+ble. 
+@ via @26 b=0 p=0 d=100
+@ via @27 b=36 p=0 d=2116
+@ via @28 b=36 p=0 d=2116
+@@33: line 7.1 t=5216 -> @28
+@@34: line 7.2 t=3221 -> @26
+What 
 @ via @29 b=0 p=0 d=100
-@ via @30 b=42 p=0 d=2704
-@@33: line 12.1 t=11227 -> @30
-@@34: line 12.2 t=6167 -> @28
-@@35: line 12.3 t=15868 -> @26
-Grund dürfte der Text um-fan-gre-icher gewe-sen sein und kön-
-@\discretionary via @31 b=161 p=50 d=31741
-@@36: line 13.0- t=52362 -> @31
-nte 
-@ via @31 b=0 p=0 d=100
-@@37: line 13.2 t=20721 -> @31
-tat-
-@\discretionary via @31 b=13 p=50 d=13029
-@\discretionary via @32 b=1 p=50 d=2621
-@@38: line 13.2- t=11678 -> @32
-säch-
-@\discretionary via @32 b=40 p=50 d=5000
-@@39: line 13.3- t=14057 -> @32
-lich 
-@ via @33 b=1 p=0 d=121
-@ via @34 b=1 p=0 d=121
-@ via @35 b=1 p=0 d=121
-@@40: line 13.2 t=6288 -> @34
-ein 
-@ via @33 b=1 p=0 d=121
-@ via @34 b=1 p=0 d=121
-@ via @35 b=1 p=0 d=121
-@@41: line 13.2 t=6288 -> @34
-Caryāyoga über-liefert haben. Es ist wahrschein-lich, dass 
-@ via @36 b=0 p=0 d=10100
-@@42: line 14.2 t=62462 -> @36
-das 
+@@35: line 7.2 t=3200 -> @29
+the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 orig-i-nall
+y looked like can only be sur-mised. 
+@ via @30 b=0 p=0 d=100
+@ via @31 b=100 p=0 d=22100
+@@36: line 8.0 t=42765 -> @31
+Al-
+@\discretionary via @31 b=0 p=50 d=12600
+@\discretionary via @32 b=0 p=50 d=12600
+@@37: line 8.2- t=33265 -> @32
+though 
+@ via @33 b=0 p=0 d=100
+@ via @34 b=0 p=0 d=100
+@@38: line 8.2 t=3321 -> @34
+it 
+@ via @33 b=93 p=0 d=20609
+@ via @34 b=93 p=0 d=10609
+@ via @35 b=17 p=0 d=729
+@@39: line 8.1 t=3929 -> @35
+@@40: line 8.3 t=13830 -> @34
+al-
+@\discretionary via @35 b=0 p=50 d=2600
+@@41: line 8.2- t=5800 -> @35
+most seems as if the en-tire \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Voll
+korn(0)/m/n/10 has been handed 
+@ via @36 b=165 p=0 d=30625
+@@42: line 9.0 t=73390 -> @36
+down 
+@ via @36 b=1 p=0 d=10121
 @ via @37 b=0 p=0 d=100
-@ via @38 b=46 p=0 d=3136
-@@43: line 14.1 t=14814 -> @38
-@@44: line 14.2 t=20821 -> @37
-\TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @37 b=35 p=50 d=4525
-@\discretionary via @38 b=0 p=50 d=12600
-@\discretionary via @39 b=172 p=50 d=55624
-@@45: line 14.2- t=24278 -> @38
-@@46: line 14.3- t=25246 -> @37
-gas-
-@\discretionary via @38 b=66 p=50 d=18276
-@\discretionary via @39 b=0 p=50 d=12600
-@@47: line 14.2- t=26657 -> @39
-@@48: line 14.3- t=29954 -> @38
-var-
-@\discretionary via @39 b=0 p=50 d=12600
-@\discretionary via @40 b=22 p=50 d=3524
-@@49: line 14.1- t=9812 -> @40
-o-
+@@43: line 9.2 t=33365 -> @37
+in 
+@ via @37 b=3 p=0 d=169
+@@44: line 9.2 t=33434 -> @37
+the 
+@ via @38 b=1 p=0 d=121
+@ via @39 b=75 p=0 d=7225
+@ via @40 b=75 p=0 d=17225
+@@45: line 9.1 t=11154 -> @39
+@@46: line 9.2 t=3442 -> @38
+\TU/Vollkorn(0)/m/it/10 Prāṇa-
 @\discretionary via @39 b=14 p=50 d=13076
-@\discretionary via @40 b=1 p=50 d=2621
-@@50: line 14.2- t=8909 -> @40
+@\discretionary via @40 b=14 p=50 d=3076
+@\discretionary via @41 b=0 p=50 d=12600
+@@47: line 9.2- t=18400 -> @41
+@@48: line 9.3- t=16906 -> @40
+toṣiṇī\TU/Vollkorn(0)/m/n/10 , the \TU/Vollkorn(0)/m/it/10 Yo-gakarṇik
+ā \TU/Vollkorn(0)/m/n/10 con-tains sev-eral verses of the \TU/Vollkorn(0)/m/it
+/10 Yo-
+@\discretionary via @42 b=107 p=50 d=16189
+@@49: line 10.0- t=89579 -> @42
+gas-
+@\discretionary via @42 b=0 p=50 d=12600
+@@50: line 10.2- t=85990 -> @42
+var-
+@\discretionary via @42 b=3 p=50 d=12669
+@\discretionary via @43 b=168 p=50 d=44184
+@@51: line 10.0- t=77549 -> @43
+@@52: line 10.2- t=86059 -> @42
+o-
+@\discretionary via @42 b=68 p=50 d=18584
+@\discretionary via @43 b=45 p=50 d=5525
+@@53: line 10.1- t=38890 -> @43
 daya
-@\kern via @40 b=4 p=0 d=196
-@\kern via @41 b=0 p=0 d=100
-@@51: line 14.2 t=6388 -> @41
- \TU/Vollkorn(0)/m/n/10 der 
-@ via @41 b=10 p=0 d=400
-@@52: line 14.2 t=6688 -> @41
-er-ste Text gewe-sen ist, welche die Tax-onomie der 󰀨ün-
-@\discretionary via @42 b=0 p=50 d=2600
-@@53: line 15.2- t=65062 -> @42
-fzehn 
-@ via @43 b=0 p=0 d=100
-@ via @44 b=0 p=0 d=100
-@ via @45 b=6 p=0 d=256
-@ via @46 b=6 p=0 d=256
-@@54: line 15.2 t=14914 -> @43
-Yo-
-@\discretionary via @45 b=0 p=50 d=12600
-@\discretionary via @46 b=0 p=50 d=12600
-@\discretionary via @47 b=1 p=50 d=12621
-@\discretionary via @48 b=1 p=50 d=12621
-@@55: line 15.2- t=36878 -> @45
-gas 
+@\kern via @43 b=0 p=0 d=100
+@\kern via @44 b=1 p=0 d=121
+@@54: line 10.2 t=33465 -> @43
+ \TU/Vollkorn(0)/m/n/10 which 
+@ via @45 b=0 p=0 d=100
+@ via @46 b=0 p=0 d=100
+@@55: line 10.2 t=3542 -> @46
+have 
 @ via @47 b=0 p=0 d=100
 @ via @48 b=0 p=0 d=100
-@ via @49 b=2 p=0 d=144
-@ via @50 b=30 p=0 d=1600
-@@56: line 15.1 t=10509 -> @50
-@@57: line 15.2 t=9956 -> @49
-nennt.[][][][] 
-@ via @51 b=0 p=0 d=100
-@ via @52 b=31 p=0 d=1681
-@@58: line 15.1 t=8369 -> @52
-@@59: line 15.2 t=6488 -> @51
-Wenn die As-sozi-a-tion mit den vier \TU/Vollkorn(0)/m/it/10 pāda\TU/Vollkorn(
-0)/m/n/10 s der Śaiva 
-@ via @53 b=155 p=0 d=37225
-@@60: line 16.0 t=102287 -> @53
-Āga-
-@\discretionary via @53 b=0 p=50 d=12600
-@@61: line 16.2- t=77662 -> @53
-mas 
-@ via @54 b=5 p=0 d=225
-@ via @55 b=165 p=0 d=40625
-@@62: line 16.2 t=15139 -> @54
-von 
-@ via @54 b=1 p=0 d=121
+@@56: line 10.2 t=17006 -> @48
+not been handed down in the \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣinī\TU/Vollk
+orn(0)/m/n/10 . [][][][] For this 
+@ via @49 b=0 p=0 d=10100
+@ via @50 b=54 p=0 d=4096
+@@57: line 11.1 t=90086 -> @50
+@@58: line 11.2 t=99679 -> @49
+rea-
+@\discretionary via @49 b=46 p=50 d=25636
+@\discretionary via @50 b=0 p=50 d=12600
+@\discretionary via @51 b=9 p=50 d=22861
+@\discretionary via @52 b=9 p=50 d=12861
+@\discretionary via @53 b=38 p=50 d=14804
+@@59: line 11.1- t=53694 -> @53
+son, 
+@ via @51 b=0 p=0 d=10100
+@ via @52 b=0 p=0 d=100
+@ via @53 b=0 p=0 d=100
+@ via @54 b=153 p=0 d=36569
+@@60: line 11.2 t=38990 -> @53
+the 
+@ via @53 b=95 p=0 d=21025
+@ via @54 b=0 p=0 d=100
+@@61: line 11.2 t=33565 -> @54
+text 
+@ via @54 b=43 p=0 d=2809
+@ via @55 b=22 p=0 d=1024
+@@62: line 11.1 t=4566 -> @55
+may 
 @ via @55 b=0 p=0 d=100
-@ via @56 b=113 p=0 d=15129
-@ via @57 b=113 p=0 d=25129
-@@63: line 16.2 t=15035 -> @54
-Au-
-@\discretionary via @55 b=76 p=50 d=19896
-@\discretionary via @56 b=0 p=50 d=2600
-@\discretionary via @57 b=0 p=50 d=2600
-@@64: line 16.2- t=12556 -> @57
-tor 
-@ via @56 b=2 p=0 d=144
-@ via @57 b=2 p=0 d=144
-@@65: line 16.2 t=10100 -> @57
-des 
-@ via @58 b=30 p=0 d=1600
+@ via @56 b=37 p=0 d=2209
+@@63: line 11.2 t=3642 -> @55
+have 
+@ via @56 b=0 p=0 d=100
+@@64: line 11.2 t=17106 -> @56
+been more ex-ten-sive and could have trans-mit-
+@\discretionary via @57 b=158 p=50 d=30724
+@\discretionary via @58 b=158 p=50 d=40724
+@@65: line 12.0- t=120810 -> @57
+ted 
+@ via @57 b=0 p=0 d=100
+@ via @58 b=0 p=0 d=100
+@@66: line 12.2 t=90186 -> @57
+a 
+@ via @57 b=0 p=0 d=100
+@ via @58 b=0 p=0 d=100
 @ via @59 b=30 p=0 d=1600
-@@66: line 16.1 t=8088 -> @59
-\TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @58 b=0 p=50 d=2600
-@\discretionary via @59 b=0 p=50 d=2600
-@@67: line 16.2- t=9088 -> @59
-gas-
-@\discretionary via @58 b=34 p=50 d=14436
-@\discretionary via @59 b=34 p=50 d=4436
-@@68: line 16.3- t=10924 -> @59
-var-o-daya \TU/Vollkorn(0)/m/n/10 vorgenom-men wor-den wäre, dann wäre 
-@ via @60 b=0 p=0 d=10100
-@ via @61 b=67 p=0 d=5929
-@@69: line 17.1 t=83591 -> @61
-ein 
+@@67: line 12.1 t=55294 -> @59
+Caryāyoga. 
 @ via @61 b=0 p=0 d=100
-@@70: line 17.2 t=77762 -> @61
-Yoga, 
+@@68: line 12.2 t=33665 -> @61
+The 
 @ via @62 b=0 p=0 d=100
-@ via @63 b=46 p=0 d=3136
-@@71: line 17.1 t=18171 -> @63
-@@72: line 17.2 t=15239 -> @62
-welches 
-@ via @64 b=72 p=0 d=6724
-@ via @65 b=0 p=0 d=100
-@@73: line 17.2 t=10200 -> @65
-@@74: line 17.3 t=19280 -> @64
-in 
-@ via @65 b=3 p=0 d=169
-@ via @66 b=2 p=0 d=144
-@@75: line 17.2 t=8232 -> @66
-Verbindung mit rit-ueller Diszi-plin der śaivi-tis-chen Prak-
-@\discretionary via @69 b=0 p=50 d=2600
-@\discretionary via @70 b=59 p=50 d=7261
-@@76: line 18.1- t=85023 -> @70
-@@77: line 18.2- t=86191 -> @69
-tiken 
-@ via @70 b=0 p=0 d=100
-@@78: line 18.2 t=77862 -> @70
-in 
-@ via @71 b=0 p=0 d=100
+@ via @63 b=179 p=0 d=45721
+@@69: line 12.2 t=4666 -> @62
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @62 b=94 p=50 d=23316
+@\discretionary via @63 b=0 p=50 d=2600
+@@70: line 12.2- t=6242 -> @63
+gas-
+@\discretionary via @63 b=0 p=50 d=2600
+@\discretionary via @64 b=69 p=50 d=8741
+@@71: line 12.2- t=6242 -> @63
+var-
+@\discretionary via @64 b=0 p=50 d=2600
+@@72: line 12.2- t=19706 -> @64
+o-
+@\discretionary via @64 b=0 p=50 d=2600
+@@73: line 12.2- t=19706 -> @64
+daya \TU/Vollkorn(0)/m/n/10 was likely the first text to men-tion the 
+@ via @65 b=11 p=0 d=10441
+@@74: line 13.2 t=131251 -> @65
+tax-
+@\discretionary via @65 b=0 p=50 d=22600
+@\discretionary via @66 b=5 p=50 d=2725
+@\discretionary via @67 b=80 p=50 d=10600
+@@75: line 13.1- t=65894 -> @67
+on-
+@\discretionary via @66 b=0 p=50 d=2600
+@\discretionary via @67 b=0 p=50 d=2600
+@@76: line 13.2- t=57894 -> @67
+omy 
+@ via @67 b=17 p=0 d=10729
+@@77: line 13.3 t=66023 -> @67
+of the 
+@ via @68 b=24 p=0 d=1156
+@@78: line 13.1 t=34821 -> @68
+fif-t
+@\discretionary via @68 b=0 p=50 d=2600
+@\discretionary via @69 b=103 p=50 d=25269
+@@79: line 13.0- t=29935 -> @69
+@@80: line 13.2- t=36265 -> @68
+een 
+@ via @69 b=0 p=0 d=100
+@ via @70 b=6 p=0 d=256
+@@81: line 13.2 t=4766 -> @69
+yo-
+@\discretionary via @69 b=48 p=50 d=5864
+@\discretionary via @70 b=0 p=50 d=12600
+@\discretionary via @71 b=1 p=50 d=12621
+@\discretionary via @72 b=190 p=50 d=62500
+@@82: line 13.2- t=18842 -> @70
+@@83: line 13.3- t=10530 -> @69
+gas.[][][][] 
+@ via @71 b=48 p=0 d=3364
 @ via @72 b=0 p=0 d=100
-@@79: line 18.2 t=15339 -> @72
-Verbindung 
-@ via @73 b=21 p=0 d=961
-@ via @74 b=21 p=0 d=961
-@ via @75 b=0 p=0 d=100
-@@80: line 18.2 t=8332 -> @75
-@@81: line 18.3 t=11161 -> @73
-steht, die na-he-liegend-ste Ver-mu-tung, wie ein solches 
-@ via @76 b=32 p=0 d=1764
-@ via @77 b=32 p=0 d=1764
-@@82: line 19.1 t=86787 -> @76
-Caryāyoga 
-@ via @78 b=65 p=0 d=5625
-@ via @79 b=0 p=0 d=100
-@@83: line 19.2 t=15439 -> @79
-aus-ge-se-
-@\discretionary via @80 b=117 p=50 d=28629
-@\discretionary via @81 b=117 p=50 d=28629
-@@84: line 19.0- t=36961 -> @80
-hen 
+@ via @73 b=0 p=0 d=100
+@@84: line 13.3 t=9606 -> @71
+If 
+@ via @72 b=8 p=0 d=324
+@ via @73 b=0 p=0 d=100
+@@85: line 13.2 t=19806 -> @73
+the as-so-ci-a-tion with the four \TU/Vollkorn(0)/m/it/10 pāda\TU/Vollkorn(0)/
+m/n/10 s of 
+@ via @74 b=87 p=0 d=9409
+@@86: line 14.1 t=140660 -> @74
+the 
+@ via @74 b=0 p=0 d=100
+@ via @75 b=26 p=0 d=1296
+@@87: line 14.1 t=67190 -> @75
+Śaiva 
+@ via @75 b=13 p=0 d=10529
+@ via @76 b=0 p=0 d=100
+@ via @77 b=124 p=0 d=27956
+@@88: line 14.2 t=57994 -> @76
+Āga-
+@\discretionary via @77 b=0 p=50 d=2600
+@@89: line 14.2- t=68623 -> @77
+mas 
+@ via @78 b=10 p=0 d=400
+@ via @79 b=161 p=0 d=29241
+@ via @80 b=161 p=0 d=39241
+@@90: line 14.2 t=35221 -> @78
+had 
+@ via @78 b=0 p=0 d=100
+@ via @79 b=0 p=0 d=10100
 @ via @80 b=0 p=0 d=100
+@@91: line 14.2 t=34921 -> @78
+been 
 @ via @81 b=0 p=0 d=100
-@@85: line 19.2 t=8432 -> @80
-haben kön-nte. Tat-säch-lich finden sich in \TU/Vollkorn(0)/m/it/10 Yo-gakar
-ṇikā
-@\kern via @82 b=0 p=0 d=100
-@@86: line 20.2 t=86887 -> @82
- \TU/Vollkorn(0)/m/n/10 1.23-61 unter 
-@ via @83 b=0 p=0 d=100
-@@87: line 20.2 t=15539 -> @83
-der 
-@ via @84 b=5 p=0 d=10225
-@@88: line 20.2 t=47186 -> @84
-Über-
-@\discretionary via @85 b=0 p=50 d=2600
-@@89: line 20.2- t=11032 -> @85
-schrift \TU/Vollkorn(0)/m/it/10 di-nacaryā \TU/Vollkorn(0)/m/n/10 (‘Tages [Ri
-tual-] Ver-hal-ten’) aus-󰀨ührliche 
-@ via @86 b=59 p=0 d=4761
-@@90: line 21.3 t=91648 -> @86
-Beschrei-
-@\discretionary via @87 b=0 p=50 d=2600
-@@91: line 21.2- t=18139 -> @87
-bun-
-@\discretionary via @88 b=0 p=50 d=2600
-@@92: line 21.2- t=49786 -> @88
-gen 
-@ via @88 b=24 p=0 d=1156
-@ via @89 b=97 p=0 d=11449
-@@93: line 21.1 t=22481 -> @89
-von 
+@ via @82 b=6 p=0 d=256
+@ via @83 b=6 p=0 d=256
+@@92: line 14.2 t=4866 -> @81
+made 
+@ via @82 b=86 p=0 d=9216
+@ via @83 b=86 p=0 d=9216
+@ via @84 b=12 p=0 d=484
+@@93: line 14.2 t=10090 -> @84
+@@94: line 14.3 t=19746 -> @83
+by 
+@ via @84 b=0 p=0 d=100
+@ via @85 b=3 p=0 d=169
+@@95: line 14.2 t=9706 -> @84
+the 
+@ via @85 b=0 p=0 d=100
+@@96: line 14.2 t=19906 -> @85
+au-thor of the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 
+, then 
+@ via @86 b=9 p=0 d=361
+@@97: line 15.2 t=141021 -> @86
+a 
+@ via @86 b=0 p=0 d=100
+@ via @87 b=184 p=0 d=37636
+@@98: line 15.0 t=104826 -> @87
+yoga 
+@ via @87 b=0 p=0 d=100
+@@99: line 15.2 t=67290 -> @87
+re-
+@\discretionary via @87 b=74 p=50 d=19556
+@\discretionary via @88 b=6 p=50 d=2756
+@@100: line 15.2- t=60750 -> @88
+lated 
+@ via @88 b=2 p=0 d=144
+@ via @89 b=1 p=0 d=121
+@@101: line 15.2 t=58138 -> @88
+to 
 @ via @89 b=0 p=0 d=100
-@@94: line 21.2 t=11132 -> @89
-täglichem yo-gis-chen Rit-u-alver-hal-ten. Es ist über-raschend, dass 
+@ via @90 b=80 p=0 d=8100
+@@102: line 15.1 t=43321 -> @90
+the 
+@ via @90 b=0 p=0 d=100
+@ via @91 b=137 p=0 d=31609
+@@103: line 15.2 t=35321 -> @90
+rit-
+@\discretionary via @90 b=28 p=50 d=3944
+@\discretionary via @91 b=0 p=50 d=2600
+@@104: line 15.2- t=37521 -> @91
+@@105: line 15.3- t=39165 -> @90
+ual 
 @ via @91 b=0 p=0 d=100
-@@95: line 22.2 t=18239 -> @91
-ein 
-@ via @92 b=0 p=0 d=100
-@@96: line 22.2 t=49886 -> @92
-großer 
-@ via @93 b=14 p=0 d=10576
-@ via @94 b=2 p=0 d=144
-@@97: line 22.2 t=11276 -> @94
-Teil 
-@ via @94 b=9 p=0 d=361
-@@98: line 22.2 t=11493 -> @94
-des er-sten Kapi-tels (1.1-168) die Quell-texte der Verse nicht 
-@ via @95 b=136 p=0 d=31316
-@@99: line 23.0 t=49555 -> @95
-angegeben 
-@ via @97 b=117 p=0 d=26129
-@@100: line 23.0 t=37405 -> @97
-wer-
-@\discretionary via @97 b=0 p=50 d=2600
-@\discretionary via @98 b=45 p=50 d=5525
-@@101: line 23.1- t=17018 -> @98
-@@102: line 23.2- t=13876 -> @97
-den, 
-@ via @98 b=0 p=0 d=100
-@@103: line 23.2 t=11593 -> @98
-zu-mal der Rest des er-sten Kapi-tels und alle an-deren Kapi-
-@\discretionary via @99 b=0 p=50 d=12600
-@@104: line 24.2- t=62155 -> @99
-tel des 
-@ via @100 b=136 p=0 d=21316
-@@105: line 24.0 t=58721 -> @100
-Textes 
-@ via @100 b=20 p=0 d=10900
-@ via @101 b=0 p=0 d=100
+@ via @92 b=61 p=0 d=5041
+@@106: line 15.1 t=9907 -> @92
+dis-
+@\discretionary via @92 b=0 p=50 d=2600
+@@107: line 15.2- t=7466 -> @92
+ci-
+@\discretionary via @92 b=0 p=50 d=2600
+@\discretionary via @93 b=93 p=50 d=13109
+@\discretionary via @94 b=93 p=50 d=23109
+@@108: line 15.2- t=7466 -> @92
+pline 
+@ via @93 b=0 p=0 d=100
+@ via @94 b=0 p=0 d=100
+@ via @95 b=7 p=0 d=289
+@@109: line 15.2 t=9995 -> @95
+of 
+@ via @93 b=27 p=0 d=1369
+@ via @94 b=27 p=0 d=1369
+@ via @95 b=0 p=0 d=100
+@ via @96 b=65 p=0 d=5625
+@@110: line 15.2 t=9806 -> @95
+@@111: line 15.3 t=11459 -> @93
+śaivite prac-tices would be the most 
+@ via @97 b=0 p=0 d=100
+@ via @98 b=27 p=0 d=1369
+@@112: line 16.1 t=106195 -> @98
+ob-
+@\discretionary via @97 b=1 p=50 d=2621
+@\discretionary via @98 b=0 p=50 d=12600
+@@113: line 16.2- t=117426 -> @98
+vi-
+@\discretionary via @98 b=4 p=50 d=12696
+@\discretionary via @99 b=24 p=50 d=3656
+@@114: line 16.1- t=70946 -> @99
+ous 
+@ via @99 b=0 p=0 d=100
+@ via @100 b=2 p=0 d=144
+@@115: line 16.2 t=60894 -> @100
+sug-
+@\discretionary via @100 b=8 p=50 d=12824
+@\discretionary via @101 b=27 p=50 d=3869
+@@116: line 16.1- t=62007 -> @101
+ges-
+@\discretionary via @101 b=0 p=50 d=2600
+@\discretionary via @102 b=6 p=50 d=2756
+@@117: line 16.2- t=46077 -> @102
+tion 
 @ via @102 b=0 p=0 d=100
-@@106: line 24.2 t=13976 -> @102
-größ-
-@\discretionary via @103 b=0 p=50 d=2600
-@@107: line 24.2- t=14193 -> @103
-ten-
-@\discretionary via @103 b=46 p=50 d=5636
-@@108: line 24.3- t=17229 -> @103
-teils Kom-pi-la-tio-nen von Zi-taten beste-hend aus Versen 
-@ via @104 b=0 p=0 d=100
-@@109: line 25.2 t=62255 -> @104
-an-
-@\discretionary via @104 b=61 p=50 d=17541
-@@110: line 25.3- t=79696 -> @104
-derer 
-@ via @105 b=0 p=0 d=10100
-@@111: line 25.2 t=68821 -> @105
-Texte 
+@ via @103 b=10 p=0 d=400
+@@118: line 16.2 t=35721 -> @103
+of 
+@ via @103 b=0 p=0 d=100
+@ via @104 b=8 p=0 d=324
+@ via @105 b=8 p=0 d=324
+@@119: line 16.2 t=35421 -> @103
+what 
+@ via @104 b=88 p=0 d=9604
+@ via @105 b=88 p=0 d=9604
 @ via @106 b=0 p=0 d=100
-@@112: line 25.2 t=14076 -> @106
-zu 
-@ via @106 b=83 p=0 d=8649
-@ via @107 b=2 p=0 d=144
-@@113: line 25.2 t=14337 -> @107
-@@114: line 25.3 t=22625 -> @106
-typ-
-@\discretionary via @107 b=19 p=50 d=13341
-@\discretionary via @108 b=0 p=50 d=12600
-@@115: line 25.2- t=29829 -> @108
-@@116: line 25.3- t=27534 -> @107
-is-
-@\discretionary via @108 b=0 p=50 d=12600
-@@117: line 25.2- t=29829 -> @108
-chen yo-gis-chen The-men sind. Im der gesamten \TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @109 b=86 p=50 d=11716
-@@118: line 26.1- t=73971 -> @109
-gakarṇikā
-@\kern via @110 b=13 p=0 d=529
-@\kern via @111 b=75 p=0 d=7225
-@@119: line 26.1 t=76046 -> @111
-@@120: line 26.3 t=80225 -> @110
- \TU/Vollkorn(0)/m/n/10 wer-
-@\discretionary via @111 b=0 p=50 d=2600
-@@121: line 26.2- t=71421 -> @111
-den 
+@ via @107 b=48 p=0 d=3364
+@@120: line 16.1 t=10830 -> @107
+@@121: line 16.2 t=10007 -> @106
+such 
+@ via @107 b=1 p=0 d=121
+@ via @108 b=0 p=0 d=100
+@@122: line 16.2 t=7566 -> @108
+a 
+@ via @107 b=86 p=0 d=9216
+@ via @108 b=0 p=0 d=100
+@ via @109 b=86 p=0 d=9216
+@@123: line 16.2 t=7566 -> @108
+@@124: line 16.3 t=16682 -> @107
+Caryāyoga might have looked like. In-
+@\discretionary via @112 b=63 p=50 d=7829
+@@125: line 17.1- t=114024 -> @112
+deed, 
 @ via @112 b=0 p=0 d=100
-@@122: line 26.2 t=14176 -> @112
-im-
-@\discretionary via @112 b=19 p=50 d=3341
-@\discretionary via @113 b=0 p=50 d=2600
-@\discretionary via @114 b=0 p=50 d=2600
-@\discretionary via @115 b=108 p=50 d=36424
-@\discretionary via @116 b=108 p=50 d=36424
-@@123: line 26.2- t=16937 -> @113
-@@124: line 26.3- t=17417 -> @112
-mer 
-@ via @115 b=0 p=0 d=100
-@ via @116 b=0 p=0 d=100
-@ via @117 b=2 p=0 d=144
-@@125: line 26.2 t=27634 -> @116
-wieder größere Ab-schnitte des \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/
-Vollkorn(0)/m/n/10 und 
-@ via @118 b=9 p=0 d=361
-@@126: line 27.2 t=74332 -> @118
-an-
-@\discretionary via @118 b=0 p=50 d=12600
-@@127: line 27.2- t=86571 -> @118
-derer 
-@ via @119 b=171 p=0 d=32761
-@ via @120 b=171 p=0 d=42761
-@@128: line 27.0 t=108807 -> @119
-Texte 
-@ via @119 b=14 p=0 d=10576
-@ via @120 b=14 p=0 d=576
+@ via @113 b=0 p=0 d=100
+@ via @114 b=46 p=0 d=3136
+@@126: line 17.1 t=74082 -> @114
+in 
+@ via @113 b=0 p=0 d=100
+@ via @114 b=0 p=0 d=100
+@ via @115 b=149 p=0 d=35281
+@@127: line 17.2 t=71046 -> @114
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @114 b=9 p=50 d=12861
+@\discretionary via @115 b=0 p=50 d=2600
+@\discretionary via @116 b=158 p=50 d=40724
+@@128: line 17.2- t=63494 -> @115
+gakarṇikā
+@\kern via @117 b=0 p=0 d=100
+@\kern via @118 b=86 p=0 d=9216
+@@129: line 17.1 t=44937 -> @118
+@@130: line 17.2 t=46177 -> @117
+ \TU/Vollkorn(0)/m/n/10 1.23-
+@\discretionary via @118 b=0 p=50 d=2600
+@\discretionary via @119 b=1 p=50 d=2621
+@@131: line 17.2- t=38042 -> @119
+61 
+@ via @118 b=95 p=0 d=11025
+@ via @119 b=0 p=0 d=100
+@@132: line 17.2 t=35521 -> @119
+un-
+@\discretionary via @120 b=0 p=50 d=2600
+@\discretionary via @121 b=0 p=50 d=2600
+@@133: line 17.2- t=12607 -> @121
+der 
+@ via @120 b=0 p=0 d=100
 @ via @121 b=0 p=0 d=100
-@@129: line 27.2 t=71521 -> @121
-@@130: line 27.3 t=80801 -> @120
-mit-
-@\discretionary via @121 b=78 p=50 d=20244
-@\discretionary via @122 b=0 p=50 d=2600
-@@131: line 27.2- t=16776 -> @122
-samt 
+@ via @122 b=52 p=0 d=3844
+@@134: line 17.1 t=11410 -> @122
+@@135: line 17.2 t=10107 -> @121
+the 
+@ via @122 b=0 p=0 d=100
 @ via @123 b=0 p=0 d=100
 @ via @124 b=0 p=0 d=100
-@@132: line 27.2 t=17037 -> @123
-Ref-
-@\discretionary via @125 b=0 p=50 d=2600
-@@133: line 27.2- t=30234 -> @125
-erenz zi-tiert. Ist es möglich, dass Nāth Aghorā-
-@\discretionary via @126 b=13 p=50 d=3029
-@@134: line 28.1- t=77361 -> @126
-nanda, 
-@ via @127 b=0 p=0 d=100
-@@135: line 28.2 t=86671 -> @127
-der 
-@ via @128 b=0 p=0 d=10100
-@@136: line 28.2 t=118907 -> @128
-Au-
-@\discretionary via @128 b=78 p=50 d=20244
-@\discretionary via @129 b=13 p=50 d=3029
-@\discretionary via @130 b=13 p=50 d=13029
-@@137: line 28.1- t=74550 -> @129
-tor 
-@ via @129 b=0 p=0 d=100
-@ via @130 b=0 p=0 d=100
-@ via @131 b=73 p=0 d=6889
-@@138: line 28.1 t=23665 -> @131
-der 
+@@136: line 17.2 t=7666 -> @123
+head-ing \TU/Vollkorn(0)/m/it/10 di-nacaryā \TU/Vollkorn(0)/m/n/10 (‘daily [r
+it-ual] be-
+@\discretionary via @125 b=60 p=50 d=17400
+@@137: line 18.1- t=131424 -> @125
+haviour’), 
+@ via @126 b=0 p=0 d=100
+@ via @127 b=55 p=0 d=4225
+@@138: line 18.1 t=75271 -> @127
+@@139: line 18.2 t=74182 -> @126
+there 
+@ via @128 b=0 p=0 d=100
+@@140: line 18.2 t=63594 -> @128
+are de-
+@\discretionary via @129 b=0 p=50 d=2600
+@\discretionary via @130 b=0 p=50 d=2600
+@@141: line 18.2- t=47537 -> @129
+tailed 
 @ via @131 b=0 p=0 d=100
-@@139: line 28.2 t=16876 -> @131
-\TU/Vollkorn(0)/m/it/10 Yo-
-@\discretionary via @131 b=81 p=50 d=20781
-@\discretionary via @132 b=3 p=50 d=2669
-@@140: line 28.2- t=19706 -> @132
-gakarṇikā\TU/Vollkorn(0)/m/n/10 , auch hier auf Verse des \TU/Vollkorn(0)/m/
-it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 zuge-
-@\discretionary via @134 b=0 p=50 d=12600
-@@141: line 29.2- t=89961 -> @134
-grif-f
-@\discretionary via @135 b=60 p=50 d=7400
-@@142: line 29.1- t=94071 -> @135
-en 
-@ via @135 b=0 p=0 d=100
-@@143: line 29.2 t=86771 -> @135
-hat? 
+@ via @132 b=145 p=0 d=34025
+@@142: line 18.2 t=38142 -> @131
+de-
+@\discretionary via @131 b=5 p=50 d=12725
+@\discretionary via @132 b=0 p=50 d=2600
+@\discretionary via @133 b=40 p=50 d=15000
+@@143: line 18.1- t=27607 -> @133
+scrip-
+@\discretionary via @133 b=2 p=50 d=12644
+@\discretionary via @134 b=2 p=50 d=2644
+@\discretionary via @135 b=2 p=50 d=2644
+@@144: line 18.2- t=12751 -> @135
+tions 
+@ via @134 b=66 p=0 d=15776
+@ via @135 b=66 p=0 d=5776
 @ via @136 b=0 p=0 d=100
-@ via @137 b=9 p=0 d=361
-@@144: line 29.2 t=74911 -> @137
-Zu-
-@\discretionary via @137 b=0 p=50 d=12600
-@\discretionary via @138 b=1 p=50 d=2621
-@@145: line 29.2- t=26286 -> @138
-min-
-@\discretionary via @138 b=13 p=50 d=13029
+@@145: line 18.2 t=7766 -> @136
+@@146: line 18.3 t=15883 -> @135
+of 
+@ via @136 b=0 p=0 d=100
+@@147: line 18.2 t=7766 -> @136
+daily yo-gic rit-ual be-haviour. It 
+@ via @137 b=1 p=0 d=121
+@@148: line 19.2 t=131545 -> @137
+is 
+@ via @137 b=0 p=0 d=100
+@@149: line 19.2 t=131524 -> @137
+sur-pris-
+@\discretionary via @138 b=0 p=50 d=2600
 @\discretionary via @139 b=0 p=50 d=2600
-@\discretionary via @140 b=90 p=50 d=22500
-@@146: line 29.2- t=19476 -> @139
-d-
-@\discretionary via @139 b=0 p=50 d=2600
-@\discretionary via @140 b=9 p=50 d=12861
-@@147: line 29.2- t=19476 -> @139
-est 
-@ via @139 b=7 p=0 d=289
+@@150: line 19.2- t=76782 -> @139
+ing 
+@ via @138 b=0 p=0 d=100
+@ via @139 b=0 p=0 d=100
+@@151: line 19.2 t=74282 -> @139
+that 
 @ via @140 b=0 p=0 d=100
-@@148: line 29.2 t=17165 -> @139
-im zweiten Teil des er-sten Kapi-tels (1.169-280) sind 
+@@152: line 19.2 t=63694 -> @140
+for 
+@ via @140 b=74 p=0 d=7056
+@ via @141 b=17 p=0 d=729
+@@153: line 19.1 t=48266 -> @141
+a 
 @ via @141 b=0 p=0 d=100
-@@149: line 30.2 t=90061 -> @141
-im-
-@\discretionary via @141 b=12 p=50 d=12984
-@\discretionary via @142 b=0 p=50 d=12600
-@@150: line 30.2- t=102945 -> @141
-mer-
-@\discretionary via @142 b=55 p=50 d=26725
-@\discretionary via @143 b=0 p=50 d=2600
-@@151: line 30.2- t=89371 -> @143
-hin 
-@ via @143 b=6 p=0 d=256
-@ via @144 b=60 p=0 d=4900
-@@152: line 30.1 t=79811 -> @144
-@@153: line 30.2 t=87027 -> @143
-37 
+@@154: line 19.2 t=47637 -> @141
+large 
+@ via @142 b=1 p=0 d=121
+@ via @143 b=87 p=0 d=9409
+@@155: line 19.1 t=37016 -> @143
+@@156: line 19.2 t=38263 -> @142
+part 
+@ via @142 b=28 p=0 d=1444
+@ via @143 b=0 p=0 d=100
+@ via @144 b=94 p=0 d=10816
+@@157: line 19.1 t=23567 -> @144
+@@158: line 19.2 t=27707 -> @143
+of 
+@ via @143 b=27 p=0 d=11369
+@ via @144 b=1 p=0 d=121
+@@159: line 19.2 t=12872 -> @144
+the 
 @ via @144 b=0 p=0 d=100
-@ via @145 b=48 p=0 d=3364
-@@154: line 30.1 t=29650 -> @145
-verse 
-@ via @145 b=30 p=0 d=1600
+@ via @145 b=31 p=0 d=1681
+@ via @146 b=31 p=0 d=11681
+@@160: line 19.1 t=9447 -> @145
+@@161: line 19.2 t=12851 -> @144
+first 
+@ via @145 b=0 p=0 d=100
 @ via @146 b=0 p=0 d=100
-@ via @147 b=18 p=0 d=784
-@@155: line 30.1 t=20260 -> @147
-@@156: line 30.2 t=19576 -> @146
-@@157: line 30.3 t=27886 -> @145
-(1.244-
-@\discretionary via @148 b=0 p=50 d=2600
-@@158: line 30.2- t=19765 -> @148
-280) mit Ref-erenz aus dem \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollko
-rn(0)/m/n/10 über-
-@\discretionary via @149 b=123 p=50 d=30189
-@@159: line 31.0- t=120250 -> @149
-nom-
-@\discretionary via @149 b=0 p=50 d=2600
-@\discretionary via @150 b=0 p=50 d=12600
-@@160: line 31.2- t=92661 -> @149
-men 
-@ via @150 b=22 p=0 d=1024
-@ via @151 b=1 p=0 d=121
-@@161: line 31.2 t=89492 -> @151
-wor-
-@\discretionary via @152 b=0 p=50 d=2600
-@\discretionary via @153 b=0 p=50 d=2600
-@\discretionary via @154 b=171 p=50 d=35261
-@@162: line 31.0- t=64911 -> @154
-den 
-@ via @152 b=32 p=0 d=11764
-@ via @153 b=32 p=0 d=1764
+@ via @147 b=0 p=0 d=100
+@@162: line 19.2 t=7866 -> @147
+chap-ter (1.1-168), the source 
+@ via @148 b=138 p=0 d=31904
+@@163: line 20.0 t=163449 -> @148
+texts 
+@ via @148 b=0 p=0 d=100
+@ via @149 b=0 p=0 d=100
+@@164: line 20.2 t=131624 -> @149
+of 
+@ via @148 b=38 p=0 d=2304
+@ via @149 b=0 p=0 d=100
+@@165: line 20.2 t=131624 -> @149
+@@166: line 20.3 t=133849 -> @148
+the 
+@ via @150 b=2 p=0 d=144
+@@167: line 20.2 t=76926 -> @150
+verses 
+@ via @151 b=0 p=0 d=100
+@ via @152 b=46 p=0 d=3136
+@@168: line 20.1 t=66830 -> @152
+@@169: line 20.2 t=74382 -> @151
+are 
+@ via @152 b=0 p=0 d=100
+@ via @153 b=35 p=0 d=2025
+@@170: line 20.1 t=50291 -> @153
+not 
+@ via @152 b=78 p=0 d=7744
+@ via @153 b=0 p=0 d=100
 @ via @154 b=0 p=0 d=100
-@@163: line 31.2 t=29750 -> @154
-und 
+@@171: line 20.2 t=47737 -> @154
+given, 
 @ via @155 b=0 p=0 d=100
 @ via @156 b=0 p=0 d=100
-@ via @157 b=0 p=0 d=100
-@@164: line 31.2 t=19676 -> @156
-nach-
-@\discretionary via @158 b=25 p=50 d=13725
-@@165: line 31.1- t=33490 -> @158
-weis-
-@\discretionary via @158 b=1 p=50 d=12621
-@@166: line 31.2- t=32386 -> @158
-bar min-destens vier Verse ohne Ref-erenz (1.210-
-@\discretionary via @160 b=0 p=50 d=12600
-@@167: line 32.2- t=105261 -> @160
-213).[][][][] 
+@@172: line 20.2 t=37116 -> @155
+es-
+@\discretionary via @155 b=18 p=50 d=13284
+@\discretionary via @156 b=18 p=50 d=3284
+@\discretionary via @157 b=1 p=50 d=2621
+@\discretionary via @158 b=1 p=50 d=2621
+@\discretionary via @159 b=129 p=50 d=31821
+@@173: line 20.2- t=26188 -> @157
+pe-
+@\discretionary via @157 b=0 p=50 d=2600
+@\discretionary via @158 b=0 p=50 d=2600
+@\discretionary via @159 b=3 p=50 d=2669
+@@174: line 20.2- t=15541 -> @159
+cially 
+@ via @159 b=25 p=0 d=1225
+@ via @160 b=0 p=0 d=100
 @ via @161 b=0 p=0 d=100
-@@168: line 32.2 t=89592 -> @161
-Diese 
-@ via @162 b=36 p=0 d=12116
-@ via @163 b=1 p=0 d=121
-@@169: line 32.2 t=29871 -> @163
-Frage 
+@@175: line 20.2 t=9547 -> @160
+@@176: line 20.3 t=14097 -> @159
+since 
+@ via @162 b=0 p=0 d=100
+@@177: line 20.2 t=7966 -> @162
+the rest of the first chap-
+@\discretionary via @163 b=12 p=50 d=12984
+@@178: line 21.2- t=176433 -> @163
+ter 
+@ via @163 b=0 p=0 d=10100
+@@179: line 21.2 t=173549 -> @163
+and 
+@ via @163 b=94 p=0 d=20816
 @ via @164 b=0 p=0 d=100
-@@170: line 32.2 t=19776 -> @164
-wird 
+@ via @165 b=99 p=0 d=11881
+@ via @166 b=99 p=0 d=21881
+@@180: line 21.2 t=131724 -> @164
+all 
+@ via @164 b=0 p=0 d=100
 @ via @165 b=0 p=0 d=100
-@ via @166 b=181 p=0 d=46481
-@@171: line 32.2 t=33590 -> @165
-sich 
 @ via @166 b=0 p=0 d=100
-@@172: line 32.2 t=32486 -> @166
-ohne Hand-schriften des \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(
-0)/m/n/10 zwar 
-@ via @167 b=132 p=0 d=30164
-@@173: line 33.0 t=135425 -> @167
-nicht 
+@ via @167 b=192 p=0 d=50804
+@@181: line 21.0 t=127730 -> @167
+@@182: line 21.2 t=131724 -> @165
+other 
 @ via @167 b=0 p=0 d=100
-@@174: line 33.2 t=105361 -> @167
-beant-
+@@183: line 21.2 t=77026 -> @167
+chap-
 @\discretionary via @168 b=0 p=50 d=2600
-@@175: line 33.2- t=92192 -> @168
-worten 
-@ via @169 b=8 p=0 d=324
-@@176: line 33.2 t=30195 -> @169
-lassen, 
-@ via @171 b=5 p=0 d=225
-@@177: line 33.2 t=33815 -> @171
-aber 
+@\discretionary via @169 b=0 p=50 d=2600
+@\discretionary via @170 b=52 p=50 d=6344
+@@184: line 21.1- t=56635 -> @170
+ters 
+@ via @168 b=57 p=0 d=14489
+@ via @169 b=57 p=0 d=4489
+@ via @170 b=0 p=0 d=100
+@ via @171 b=119 p=0 d=26641
+@@185: line 21.2 t=50391 -> @170
+of 
+@ via @170 b=2 p=0 d=144
+@ via @171 b=0 p=0 d=100
+@@186: line 21.2 t=47837 -> @171
+the 
+@ via @171 b=3 p=0 d=169
+@ via @172 b=117 p=0 d=26129
+@@187: line 21.2 t=47906 -> @171
+text 
 @ via @172 b=0 p=0 d=100
-@@178: line 33.2 t=32586 -> @172
-es 
-@ via @172 b=0 p=0 d=100
-@@179: line 33.2 t=32586 -> @172
-ist dur-chaus möglich, dass sich in-ner-halb 
-@ via @173 b=0 p=0 d=10100
-@@180: line 34.2 t=145525 -> @173
-der 
-@ via @173 b=65 p=0 d=15625
-@ via @174 b=20 p=0 d=900
-@@181: line 34.1 t=106261 -> @174
-er-
-@\discretionary via @174 b=0 p=50 d=2600
-@@182: line 34.2- t=107961 -> @174
-sten 
+@ via @173 b=2 p=0 d=144
+@ via @174 b=108 p=0 d=23924
+@@188: line 21.2 t=26332 -> @173
+are 
+@ via @172 b=75 p=0 d=7225
+@ via @173 b=0 p=0 d=100
+@ via @174 b=0 p=0 d=100
+@@189: line 21.2 t=15641 -> @174
+largely 
 @ via @175 b=0 p=0 d=100
-@@183: line 34.2 t=92292 -> @175
-168 
-@ via @175 b=3 p=0 d=169
-@@184: line 34.2 t=92361 -> @175
-Verse 
 @ via @176 b=0 p=0 d=100
-@@185: line 34.2 t=30295 -> @176
-der 
-@ via @177 b=34 p=0 d=1936
-@@186: line 34.1 t=35751 -> @177
-\TU/Vollkorn(0)/m/it/10 Yo-
+@ via @177 b=161 p=0 d=39241
+@@190: line 21.2 t=9647 -> @175
+com-
 @\discretionary via @177 b=0 p=50 d=2600
-@@187: line 34.2- t=36415 -> @177
-gakarṇikā
-@\kern via @179 b=0 p=0 d=100
-@@188: line 34.2 t=32686 -> @179
- \TU/Vollkorn(0)/m/n/10 weit-ere Verse des \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-
-daya \TU/Vollkorn(0)/m/n/10 befinden. 
-@ via @180 b=0 p=0 d=100
-@ via @181 b=76 p=0 d=7396
-@@189: line 35.1 t=113657 -> @181
-Nichts-
-@\discretionary via @182 b=57 p=50 d=16989
-@\discretionary via @183 b=2 p=50 d=2644
-@@190: line 35.2- t=94936 -> @183
-destotrotz, 
+@@191: line 21.2- t=10566 -> @177
+pi-
+@\discretionary via @177 b=3 p=50 d=2669
+@@192: line 21.2- t=10635 -> @177
+la-tions of quo-ta-tions 
+@ via @178 b=0 p=0 d=100
+@@193: line 22.2 t=176533 -> @178
+con-
+@\discretionary via @178 b=60 p=50 d=17400
+@\discretionary via @179 b=0 p=50 d=2600
+@\discretionary via @180 b=182 p=50 d=49364
+@@194: line 22.0- t=181088 -> @180
+@@195: line 22.2- t=176149 -> @179
+sist-
+@\discretionary via @179 b=92 p=50 d=12904
+@\discretionary via @180 b=0 p=50 d=2600
+@\discretionary via @181 b=150 p=50 d=28100
+@\discretionary via @182 b=150 p=50 d=38100
+@@196: line 22.2- t=134324 -> @180
+ing 
+@ via @180 b=1 p=0 d=121
+@ via @181 b=0 p=0 d=10100
+@ via @182 b=0 p=0 d=100
+@@197: line 22.2 t=131824 -> @182
+of 
+@ via @181 b=0 p=0 d=10100
+@ via @182 b=0 p=0 d=100
+@@198: line 22.2 t=131824 -> @182
+verses 
+@ via @183 b=13 p=0 d=529
+@ via @184 b=9 p=0 d=361
+@@199: line 22.2 t=56996 -> @184
+from 
+@ via @184 b=55 p=0 d=14225
 @ via @185 b=0 p=0 d=100
-@@191: line 35.2 t=30395 -> @185
-ist 
-@ via @185 b=3 p=0 d=169
-@ via @186 b=3 p=0 d=169
-@@192: line 35.2 t=30464 -> @185
-bis 
-@ via @186 b=0 p=0 d=100
-@ via @187 b=0 p=0 d=100
-@@193: line 35.2 t=35851 -> @186
-auf Weit-
-@\discretionary via @188 b=0 p=50 d=2600
-@@194: line 35.2- t=35286 -> @188
-eres 
-@ via @188 b=69 p=0 d=6241
-@@195: line 35.3 t=38927 -> @188
-eines der plau-si-bel-sten Szenar-ios, dass 
+@ via @186 b=157 p=0 d=37889
+@@200: line 22.2 t=50491 -> @185
+other 
+@ via @186 b=1 p=0 d=121
+@ via @187 b=1 p=0 d=121
+@@201: line 22.2 t=47958 -> @186
+texts 
+@ via @188 b=0 p=0 d=100
+@@202: line 22.2 t=26432 -> @188
+on 
+@ via @188 b=9 p=0 d=361
 @ via @189 b=0 p=0 d=100
-@@196: line 36.2 t=113757 -> @189
-das 
-@ via @190 b=9 p=0 d=361
-@@197: line 36.2 t=95297 -> @190
-ur-
-@\discretionary via @190 b=0 p=50 d=12600
-@@198: line 36.2- t=107536 -> @190
-sprüngliche 
+@@203: line 22.2 t=15741 -> @189
+typ-
+@\discretionary via @189 b=55 p=50 d=6725
+@@204: line 22.3- t=22366 -> @189
+i-
+@\discretionary via @190 b=124 p=50 d=30456
+@@205: line 22.0- t=40103 -> @190
+cal 
+@ via @190 b=0 p=0 d=100
+@@206: line 22.2 t=9747 -> @190
+yo-
+@\discretionary via @190 b=1 p=50 d=2621
+@\discretionary via @191 b=7 p=50 d=12789
+@\discretionary via @192 b=182 p=50 d=59364
+@@207: line 22.2- t=12268 -> @190
+gic 
 @ via @191 b=0 p=0 d=100
-@ via @192 b=5 p=0 d=225
-@@199: line 36.2 t=30495 -> @191
-Caryāyoga 
-@ via @194 b=53 p=0 d=3969
-@@200: line 36.1 t=39255 -> @194
-in 
-@ via @194 b=0 p=0 d=100
-@@201: line 36.2 t=35386 -> @194
-der 
-@ via @195 b=0 p=0 d=100
-@@202: line 36.2 t=39027 -> @195
-Tax-onomie der 󰀨ün-fzehn Yo-gas den In-
-@\discretionary via @196 b=0 p=50 d=2600
-@@203: line 37.2- t=116357 -> @196
-hal-
-@\discretionary via @196 b=0 p=50 d=2600
-@\discretionary via @197 b=13 p=50 d=3029
-@@204: line 37.1- t=98326 -> @197
-ten 
+@ via @192 b=2 p=0 d=144
+@@208: line 22.2 t=10666 -> @191
+top-
+@\discretionary via @192 b=8 p=50 d=12824
+@@209: line 22.2- t=23459 -> @192
+ics. Through-out 
+@ via @193 b=60 p=0 d=4900
+@@210: line 23.1 t=181433 -> @193
+the 
+@ via @193 b=0 p=0 d=100
+@ via @194 b=42 p=0 d=2704
+@ via @195 b=42 p=0 d=2704
+@@211: line 23.1 t=178853 -> @195
+@@212: line 23.2 t=176633 -> @193
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @193 b=92 p=50 d=12904
+@\discretionary via @194 b=0 p=50 d=22600
+@\discretionary via @195 b=0 p=50 d=12600
+@\discretionary via @196 b=51 p=50 d=16221
+@@213: line 23.1- t=150545 -> @196
+gakarṇikā\TU/Vollkorn(0)/m/n/10 , 
 @ via @197 b=0 p=0 d=100
-@ via @198 b=2 p=0 d=144
-@@205: line 37.2 t=95397 -> @197
-des 
-@ via @198 b=2 p=0 d=144
-@@206: line 37.2 t=107680 -> @198
-\TU/Vollkorn(0)/m/it/10 di-nacaryā\TU/Vollkorn(0)/m/n/10 -
-@\discretionary via @199 b=0 p=50 d=2600
-@@207: line 37.2- t=33095 -> @199
-Abschnittes 
-@ via @200 b=0 p=0 d=100
-@ via @201 b=4 p=0 d=196
-@@208: line 37.2 t=35582 -> @201
-der 
-@ via @201 b=1 p=0 d=121
-@ via @202 b=5 p=0 d=225
-@@209: line 37.2 t=35507 -> @201
+@ via @198 b=0 p=0 d=100
+@@214: line 23.2 t=131924 -> @198
+larger 
+@ via @199 b=0 p=0 d=100
+@@215: line 23.2 t=57096 -> @199
+sec-
+@\discretionary via @199 b=61 p=50 d=7541
+@\discretionary via @200 b=9 p=50 d=2861
+@@216: line 23.2- t=53352 -> @200
+tions 
+@ via @200 b=4 p=0 d=196
+@ via @201 b=104 p=0 d=22996
+@@217: line 23.2 t=50687 -> @200
+of 
+@ via @201 b=0 p=0 d=100
+@@218: line 23.2 t=48058 -> @201
+the 
+@ via @201 b=25 p=0 d=1225
+@ via @202 b=15 p=0 d=625
+@@219: line 23.1 t=27057 -> @202
 \TU/Vollkorn(0)/m/it/10 Yo-
 @\discretionary via @202 b=0 p=50 d=2600
-@@210: line 37.2- t=41627 -> @202
-gakarṇikā \TU/Vollkorn(0)/m/n/10 äh-nelte. In diesem Ab-schn-
-@\discretionary via @203 b=0 p=50 d=12600
-@\discretionary via @204 b=72 p=50 d=19224
-@@211: line 38.1- t=117550 -> @204
-tit 
-@ via @203 b=0 p=0 d=100
-@ via @204 b=0 p=0 d=100
-@@212: line 38.2 t=98426 -> @204
-geht 
-@ via @205 b=0 p=0 d=100
-@@213: line 38.2 t=95497 -> @205
-es 
-@ via @205 b=13 p=0 d=529
-@ via @206 b=0 p=0 d=100
-@@214: line 38.3 t=95926 -> @205
-um 
-@ via @206 b=10 p=0 d=400
-@@215: line 38.2 t=108080 -> @206
-tägliche 
-@ via @207 b=0 p=0 d=100
-@@216: line 38.2 t=33195 -> @207
-rit-uelle 
-@ via @208 b=78 p=0 d=7744
-@@217: line 38.1 t=43326 -> @208
-Waschun-
-@\discretionary via @209 b=26 p=50 d=3796
-@\discretionary via @210 b=0 p=50 d=12600
-@@218: line 38.3- t=39303 -> @209
-gen mit Mantrarez-i-ta-tion, Vi-su-al-
-@\discretionary via @211 b=60 p=50 d=17400
-@@219: line 39.1- t=134950 -> @211
-isierung 
-@ via @212 b=2 p=0 d=144
-@ via @213 b=101 p=0 d=22321
-@@220: line 39.2 t=98570 -> @212
-und 
+@\discretionary via @203 b=13 p=50 d=3029
+@@220: line 23.1- t=18770 -> @203
+gas-
+@\discretionary via @203 b=0 p=50 d=2600
+@\discretionary via @204 b=28 p=50 d=23944
+@\discretionary via @205 b=75 p=50 d=19725
+@@221: line 23.2- t=18341 -> @203
+var-
+@\discretionary via @204 b=0 p=50 d=12600
+@\discretionary via @205 b=0 p=50 d=22600
+@\discretionary via @206 b=129 p=50 d=31821
+@@222: line 23.0- t=41568 -> @206
+@@223: line 23.2- t=34966 -> @204
+o-
+@\discretionary via @204 b=0 p=50 d=12600
+@\discretionary via @205 b=0 p=50 d=22600
+@\discretionary via @206 b=34 p=50 d=4436
+@@224: line 23.1- t=14183 -> @206
+daya
+@\kern via @206 b=0 p=0 d=100
+@\kern via @207 b=0 p=0 d=100
+@@225: line 23.2 t=9847 -> @206
+ \TU/Vollkorn(0)/m/n/10 and 
+@ via @207 b=41 p=0 d=2601
+@ via @208 b=0 p=0 d=100
+@ via @209 b=129 p=0 d=29321
+@@226: line 23.2 t=10766 -> @208
+@@227: line 23.3 t=14869 -> @207
+other 
+@ via @209 b=1 p=0 d=121
+@@228: line 23.2 t=23580 -> @209
+texts are re-
+@\discretionary via @210 b=9 p=50 d=2861
+@@229: line 24.2- t=184294 -> @210
+peat-
+@\discretionary via @210 b=0 p=50 d=2600
+@\discretionary via @211 b=2 p=50 d=2644
+@\discretionary via @212 b=2 p=50 d=2644
+@\discretionary via @213 b=182 p=50 d=49364
+@@230: line 24.2- t=179277 -> @212
+edly 
+@ via @211 b=1 p=0 d=121
+@ via @212 b=1 p=0 d=121
 @ via @213 b=0 p=0 d=100
-@ via @214 b=0 p=0 d=100
-@@221: line 39.2 t=95597 -> @213
-Med-
+@@231: line 24.2 t=150645 -> @213
+quoted 
+@ via @214 b=53 p=0 d=3969
+@@232: line 24.1 t=135893 -> @214
+with 
+@ via @214 b=1 p=0 d=121
+@@233: line 24.2 t=132045 -> @214
+ref-
 @\discretionary via @215 b=0 p=50 d=2600
-@@222: line 39.2- t=110680 -> @215
-i-
+@\discretionary via @216 b=113 p=50 d=37629
+@@234: line 24.2- t=59696 -> @215
+er-
 @\discretionary via @215 b=0 p=50 d=2600
-@@223: line 39.2- t=110680 -> @215
-ta-tion 
-@ via @216 b=1 p=0 d=121
-@@224: line 39.2 t=33316 -> @216
-(1.23-36) 
+@\discretionary via @216 b=1 p=50 d=12621
+@@235: line 24.2- t=59696 -> @215
+ence. 
+@ via @216 b=13 p=0 d=529
+@ via @217 b=51 p=0 d=3721
+@@236: line 24.1 t=54408 -> @217
+@@237: line 24.3 t=53881 -> @216
+Is 
 @ via @217 b=0 p=0 d=100
-@@225: line 39.2 t=43426 -> @217
-und weit-
-@\discretionary via @218 b=0 p=50 d=12600
-@@226: line 39.2- t=51903 -> @218
-ere 
-@ via @218 b=51 p=0 d=3721
-@@227: line 39.3 t=43024 -> @218
-rit-uelle Hand-lun-gen, wie rit-
-@\discretionary via @219 b=0 p=50 d=12600
-@@228: line 40.2- t=147550 -> @219
-uelles An-
-@\discretionary via @220 b=0 p=50 d=2600
-@@229: line 40.2- t=101170 -> @220
-klei-
-@\discretionary via @220 b=60 p=50 d=7400
-@\discretionary via @221 b=1 p=50 d=2621
-@@230: line 40.2- t=98218 -> @221
-@@231: line 40.3- t=105970 -> @220
-den, 
-@ via @221 b=2 p=0 d=144
-@ via @222 b=31 p=0 d=1681
-@ via @223 b=116 p=0 d=25876
-@@232: line 40.2 t=95741 -> @221
-das 
-@ via @222 b=0 p=0 d=100
+@ via @218 b=25 p=0 d=1225
+@@238: line 24.1 t=49283 -> @218
+@@239: line 24.2 t=50787 -> @217
+it 
+@ via @217 b=0 p=0 d=100
+@ via @218 b=0 p=0 d=100
+@@240: line 24.2 t=48158 -> @218
+pos-
+@\discretionary via @219 b=0 p=50 d=2600
+@\discretionary via @220 b=8 p=50 d=12824
+@@241: line 24.2- t=29657 -> @219
+si-
+@\discretionary via @219 b=0 p=50 d=2600
+@\discretionary via @220 b=0 p=50 d=12600
+@\discretionary via @221 b=64 p=50 d=17976
+@@242: line 24.1- t=36317 -> @221
+@@243: line 24.2- t=29657 -> @219
+ble 
+@ via @220 b=0 p=0 d=100
+@ via @221 b=0 p=0 d=100
+@ via @222 b=101 p=0 d=12321
+@ via @223 b=101 p=0 d=22321
+@@244: line 24.2 t=18441 -> @221
+that 
+@ via @221 b=90 p=0 d=10000
+@ via @222 b=0 p=0 d=10100
 @ via @223 b=0 p=0 d=100
-@@233: line 40.2 t=110780 -> @223
-Auf-t
-@\discretionary via @224 b=0 p=50 d=2600
-@@234: line 40.2- t=35916 -> @224
-ra-
-@\discretionary via @224 b=1 p=50 d=2621
-@@235: line 40.2- t=35937 -> @224
-gen des 
+@ via @224 b=0 p=0 d=100
+@@245: line 24.2 t=14283 -> @224
+Nāth 
 @ via @225 b=0 p=0 d=100
-@@236: line 40.2 t=43526 -> @225
-sek-tarischen 
-@ via @227 b=0 p=0 d=100
-@@237: line 40.2 t=43124 -> @227
-Ze-ichens (\TU/Vollkorn(0)/m/it/10 tilaka\TU/Vollkorn(0)/m/n/10 ) samt Zusam-
-@\discretionary via @228 b=93 p=50 d=23109
-@@238: line 41.3- t=170659 -> @228
-men-
-@\discretionary via @229 b=2 p=50 d=12644
-@@239: line 41.2- t=113814 -> @229
-󰀨ührung 
-@ via @230 b=15 p=0 d=625
-@ via @231 b=15 p=0 d=625
-@ via @232 b=51 p=0 d=3721
-@@240: line 41.1 t=99462 -> @232
-@@241: line 41.3 t=98843 -> @230
-der 
-@ via @232 b=0 p=0 d=100
-@ via @233 b=79 p=0 d=7921
-@@242: line 41.2 t=95841 -> @232
-Haare 
+@ via @226 b=108 p=0 d=23924
+@ via @227 b=108 p=0 d=23924
+@@246: line 24.2 t=9947 -> @225
+Aghorā-
+@\discretionary via @228 b=0 p=50 d=2600
+@@247: line 24.2- t=26180 -> @228
+nanda, the 
+@ via @229 b=11 p=0 d=441
+@@248: line 25.2 t=184735 -> @229
+au-
+@\discretionary via @229 b=0 p=50 d=12600
+@\discretionary via @230 b=43 p=50 d=15309
+@@249: line 25.1- t=194586 -> @230
+@@250: line 25.2- t=196894 -> @229
+thor 
+@ via @230 b=0 p=0 d=100
+@ via @231 b=146 p=0 d=34336
+@@251: line 25.0 t=184981 -> @231
+@@252: line 25.2 t=179377 -> @230
+of 
+@ via @230 b=37 p=0 d=2209
+@ via @231 b=1 p=0 d=121
+@@253: line 25.2 t=150766 -> @231
+the 
+@ via @231 b=3 p=0 d=169
+@@254: line 25.2 t=150814 -> @231
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @232 b=3 p=50 d=2669
+@@255: line 25.2- t=138562 -> @232
+gakarṇikā\TU/Vollkorn(0)/m/n/10 , 
+@ via @233 b=0 p=0 d=100
 @ via @234 b=0 p=0 d=100
-@ via @235 b=44 p=0 d=2916
-@@243: line 41.1 t=38853 -> @235
-@@244: line 41.2 t=36016 -> @234
-zu 
+@ via @235 b=25 p=0 d=1225
+@@256: line 25.1 t=60921 -> @235
+@@257: line 25.2 t=59796 -> @234
+also 
 @ via @235 b=0 p=0 d=100
-@@245: line 41.2 t=36037 -> @235
-einem 
+@ via @236 b=130 p=0 d=19600
+@ via @237 b=130 p=0 d=29600
+@@258: line 25.2 t=59796 -> @235
+drew 
 @ via @236 b=0 p=0 d=100
-@@246: line 41.2 t=43626 -> @236
-Knoten (1.38), 
 @ via @237 b=0 p=0 d=100
-@@247: line 41.2 t=43224 -> @237
-Opfer-gaben, und das hinge-
-@\discretionary via @238 b=0 p=50 d=12600
-@@248: line 42.2- t=183259 -> @238
-bungsvolle 
-@ via @240 b=198 p=0 d=43264
-@ via @241 b=198 p=0 d=53264
-@@249: line 42.0 t=142726 -> @240
-Aus-
-@\discretionary via @240 b=0 p=50 d=2600
-@\discretionary via @241 b=0 p=50 d=2600
-@\discretionary via @242 b=50 p=50 d=6100
-@@250: line 42.1- t=101941 -> @242
-@@251: line 42.2- t=101443 -> @241
-󰀨ühren 
-@ via @243 b=82 p=0 d=8464
-@ via @244 b=82 p=0 d=8464
-@@252: line 42.1 t=44480 -> @244
-von 
+@ via @238 b=0 p=0 d=100
+@ via @239 b=0 p=0 d=100
+@ via @240 b=29 p=0 d=1521
+@@259: line 25.1 t=49679 -> @240
+@@260: line 25.2 t=49383 -> @238
+on 
+@ via @238 b=4 p=0 d=196
+@ via @239 b=4 p=0 d=196
+@ via @240 b=0 p=0 d=100
+@ via @241 b=47 p=0 d=3249
+@@261: line 25.1 t=32906 -> @241
+verses 
+@ via @242 b=0 p=0 d=100
 @ via @243 b=0 p=0 d=100
-@ via @244 b=0 p=0 d=100
-@ via @245 b=2 p=0 d=144
-@@253: line 42.2 t=36116 -> @244
-Pros-
-@\discretionary via @246 b=83 p=50 d=11149
-@@254: line 42.1- t=54775 -> @246
-tra-
+@ via @244 b=1 p=0 d=121
+@@262: line 25.2 t=18562 -> @244
+from 
+@ via @245 b=0 p=0 d=100
+@@263: line 25.2 t=14383 -> @245
+the 
+@ via @245 b=40 p=0 d=2500
+@ via @246 b=14 p=0 d=576
+@@264: line 25.1 t=10523 -> @246
+@@265: line 25.3 t=16783 -> @245
+\TU/Vollkorn(0)/m/it/10 Yo-
 @\discretionary via @246 b=0 p=50 d=2600
-@@255: line 42.2- t=46226 -> @246
-tio-
-@\discretionary via @246 b=41 p=50 d=5101
-@@256: line 42.3- t=48727 -> @246
-nen vor der 
-@ via @247 b=0 p=0 d=100
-@@257: line 42.2 t=43324 -> @247
-eige-nen \TU/Vollkorn(0)/m/it/10 iṣṭade-vatā \TU/Vollkorn(0)/m/n/10 usw. (1
-.39-
-@\discretionary via @248 b=0 p=50 d=12600
-@@258: line 43.2- t=195859 -> @248
+@@266: line 25.2- t=12547 -> @246
+gas-
+@\discretionary via @247 b=88 p=50 d=22104
+@@267: line 25.1- t=48284 -> @247
+var-
+@\discretionary via @247 b=0 p=50 d=12600
+@@268: line 25.2- t=38780 -> @247
+o-
+@\discretionary via @247 b=0 p=50 d=12600
+@@269: line 25.2- t=38780 -> @247
+daya \TU/Vollkorn(0)/m/n/10 here? 
+@ via @248 b=0 p=0 d=100
+@ via @249 b=77 p=0 d=7569
+@ via @250 b=77 p=0 d=7569
+@@270: line 26.2 t=184835 -> @248
+At 
+@ via @248 b=1 p=0 d=121
+@ via @249 b=0 p=0 d=100
+@ via @250 b=0 p=0 d=100
+@@271: line 26.2 t=184856 -> @248
+least 
+@ via @251 b=0 p=0 d=10100
+@ via @252 b=0 p=0 d=100
+@ via @253 b=14 p=0 d=576
+@@272: line 26.1 t=151342 -> @253
+in 
+@ via @251 b=9 p=0 d=10361
+@ via @252 b=9 p=0 d=361
+@ via @253 b=0 p=0 d=100
+@ via @254 b=84 p=0 d=8836
+@@273: line 26.1 t=159650 -> @254
+@@274: line 26.2 t=150866 -> @253
+the 
+@ via @253 b=97 p=0 d=11449
+@ via @254 b=0 p=0 d=100
+@ via @255 b=6 p=0 d=256
+@@275: line 26.2 t=138818 -> @255
+sec-
+@\discretionary via @255 b=0 p=50 d=12600
+@@276: line 26.2- t=151162 -> @255
+ond part 
+@ via @256 b=0 p=0 d=100
+@ via @257 b=0 p=0 d=100
+@ via @258 b=174 p=0 d=43856
+@@277: line 26.2 t=59896 -> @257
+of 
+@ via @256 b=1 p=0 d=121
+@ via @257 b=1 p=0 d=121
+@ via @258 b=6 p=0 d=256
+@@278: line 26.2 t=59917 -> @257
+the 
+@ via @258 b=0 p=0 d=100
+@ via @259 b=62 p=0 d=5184
+@ via @260 b=62 p=0 d=5184
+@@279: line 26.1 t=54567 -> @260
+@@280: line 26.2 t=59896 -> @258
+first 
+@ via @259 b=0 p=0 d=100
+@ via @260 b=0 p=0 d=100
+@ via @261 b=5 p=0 d=225
+@@281: line 26.2 t=33131 -> @261
+chap-
+@\discretionary via @261 b=51 p=50 d=16221
+@\discretionary via @262 b=28 p=50 d=3944
+@@282: line 26.1- t=22506 -> @262
+ter 
+@ via @262 b=0 p=0 d=100
+@@283: line 26.2 t=18662 -> @262
+(1.169-
+@\discretionary via @263 b=0 p=50 d=2600
+@\discretionary via @264 b=67 p=50 d=8429
+@\discretionary via @265 b=67 p=50 d=18429
+@@284: line 26.1- t=18952 -> @264
+@@285: line 26.2- t=16983 -> @263
+280), 
+@ via @264 b=0 p=0 d=100
+@ via @265 b=0 p=0 d=100
+@ via @266 b=0 p=0 d=100
+@ via @267 b=59 p=0 d=4761
+@@286: line 26.2 t=10623 -> @264
+37 
+@ via @266 b=2 p=0 d=144
+@ via @267 b=0 p=0 d=100
+@ via @268 b=43 p=0 d=2809
+@ via @269 b=119 p=0 d=26641
+@@287: line 26.2 t=12691 -> @266
+verses 
+@ via @268 b=30 p=0 d=1600
+@ via @269 b=0 p=0 d=100
+@@288: line 26.2 t=38880 -> @269
+@@289: line 26.3 t=40380 -> @268
+(1.244-
+@\discretionary via @270 b=7 p=50 d=2789
+@@290: line 27.2- t=187624 -> @270
+280) 
+@ via @270 b=6 p=0 d=256
+@ via @271 b=0 p=0 d=100
+@@291: line 27.2 t=184956 -> @271
+have 
+@ via @272 b=0 p=0 d=100
+@ via @273 b=23 p=0 d=1089
+@ via @274 b=23 p=0 d=1089
+@@292: line 27.1 t=151955 -> @274
+@@293: line 27.2 t=151442 -> @272
+been 
+@ via @273 b=11 p=0 d=441
+@ via @274 b=11 p=0 d=441
+@ via @275 b=0 p=0 d=100
+@ via @276 b=185 p=0 d=48025
+@@294: line 27.2 t=138918 -> @275
+taken 
+@ via @276 b=0 p=0 d=100
+@@295: line 27.2 t=151262 -> @276
+from 
+@ via @277 b=1 p=0 d=121
+@@296: line 27.2 t=60017 -> @277
+the 
+@ via @277 b=0 p=0 d=100
+@ via @278 b=0 p=0 d=100
+@@297: line 27.2 t=59996 -> @277
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @278 b=6 p=50 d=2756
+@\discretionary via @279 b=0 p=50 d=2600
+@\discretionary via @280 b=0 p=50 d=2600
+@@298: line 27.2- t=57167 -> @279
+gas-
+@\discretionary via @279 b=0 p=50 d=2600
+@\discretionary via @280 b=0 p=50 d=2600
+@\discretionary via @281 b=52 p=50 d=6344
+@@299: line 27.1- t=39475 -> @281
+var-
+@\discretionary via @281 b=0 p=50 d=2600
+@@300: line 27.2- t=35731 -> @281
+o-
+@\discretionary via @281 b=0 p=50 d=2600
+@\discretionary via @282 b=157 p=50 d=40389
+@@301: line 27.2- t=35731 -> @281
+daya
+@\kern via @282 b=0 p=0 d=100
+@\kern via @283 b=114 p=0 d=25376
+@@302: line 27.2 t=22606 -> @282
+ \TU/Vollkorn(0)/m/n/10 with 
+@ via @283 b=0 p=0 d=100
+@@303: line 27.2 t=18762 -> @283
+ref-
+@\discretionary via @284 b=0 p=50 d=12600
+@\discretionary via @285 b=0 p=50 d=12600
+@@304: line 27.2- t=29583 -> @285
+er-
+@\discretionary via @284 b=0 p=50 d=12600
+@\discretionary via @285 b=0 p=50 d=12600
+@@305: line 27.2- t=29583 -> @285
+ence 
+@ via @286 b=0 p=0 d=100
+@ via @287 b=67 p=0 d=5929
+@@306: line 27.1 t=18620 -> @287
+@@307: line 27.2 t=10723 -> @286
+and 
+@ via @287 b=0 p=0 d=100
+@@308: line 27.2 t=12791 -> @287
+demon-
+@\discretionary via @288 b=13 p=50 d=3029
+@\discretionary via @289 b=13 p=50 d=3029
+@@309: line 27.3- t=41909 -> @288
+stra-
+@\discretionary via @290 b=0 p=50 d=12600
+@@310: line 28.2- t=200224 -> @290
+bly 
+@ via @290 b=4 p=0 d=196
+@ via @291 b=42 p=0 d=2704
+@@311: line 28.1 t=187660 -> @291
+@@312: line 28.2 t=187820 -> @290
+at 
+@ via @291 b=0 p=0 d=100
+@@313: line 28.2 t=185056 -> @291
+least 
+@ via @292 b=0 p=0 d=100
+@ via @293 b=0 p=0 d=100
+@@314: line 28.2 t=151542 -> @293
+four 
+@ via @294 b=0 p=0 d=100
+@@315: line 28.2 t=139018 -> @294
+verses 
+@ via @295 b=0 p=0 d=100
+@@316: line 28.2 t=151362 -> @295
+with-
+@\discretionary via @296 b=0 p=50 d=2600
+@@317: line 28.2- t=62617 -> @296
+out 
+@ via @296 b=20 p=0 d=900
+@ via @297 b=0 p=0 d=100
+@ via @298 b=122 p=0 d=27424
+@@318: line 28.2 t=60096 -> @297
+@@319: line 28.3 t=60917 -> @296
+ref-
+@\discretionary via @297 b=18 p=50 d=3284
+@\discretionary via @298 b=0 p=50 d=12600
+@\discretionary via @299 b=21 p=50 d=13461
+@@320: line 28.1- t=52936 -> @299
+er-
+@\discretionary via @298 b=12 p=50 d=12984
+@\discretionary via @299 b=0 p=50 d=12600
+@\discretionary via @300 b=95 p=50 d=23525
+@@321: line 28.1- t=59256 -> @300
+@@322: line 28.2- t=52075 -> @299
+ence 
+@ via @300 b=0 p=0 d=100
+@ via @301 b=0 p=0 d=100
+@@323: line 28.2 t=35831 -> @301
+(1.210-
+@\discretionary via @302 b=0 p=50 d=2600
+@\discretionary via @303 b=153 p=50 d=39069
+@@324: line 28.2- t=25206 -> @302
+213).[][][][]. 
+@ via @304 b=0 p=0 d=100
+@ via @305 b=1 p=0 d=121
+@@325: line 28.2 t=29683 -> @304
+This 
+@ via @306 b=0 p=0 d=100
+@ via @307 b=0 p=0 d=100
+@@326: line 28.2 t=10823 -> @307
+ques-
+@\discretionary via @308 b=0 p=50 d=2600
+@@327: line 28.2- t=15391 -> @308
+tion 
+@ via @309 b=74 p=0 d=17056
+@@328: line 28.1 t=58965 -> @309
+can-
+@\discretionary via @309 b=0 p=50 d=12600
+@\discretionary via @310 b=23 p=50 d=13589
+@@329: line 28.2- t=54509 -> @309
+not 
+@ via @310 b=0 p=0 d=100
+@ via @311 b=78 p=0 d=7744
+@ via @312 b=78 p=0 d=7744
+@@330: line 29.1 t=195404 -> @311
+@@331: line 29.2 t=200324 -> @310
+be 
+@ via @310 b=50 p=0 d=3600
+@ via @311 b=0 p=0 d=100
+@ via @312 b=0 p=0 d=100
+@ via @313 b=42 p=0 d=2704
+@@332: line 29.1 t=187760 -> @313
+@@333: line 29.2 t=187760 -> @311
+an-
+@\discretionary via @311 b=38 p=50 d=14804
+@\discretionary via @312 b=38 p=50 d=4804
+@\discretionary via @313 b=0 p=50 d=2600
+@@334: line 29.2- t=187656 -> @313
+@@335: line 29.3- t=192624 -> @312
+swered 
+@ via @314 b=1 p=0 d=121
+@ via @315 b=38 p=0 d=2304
+@@336: line 29.1 t=141322 -> @315
+with-
+@\discretionary via @315 b=54 p=50 d=6596
+@\discretionary via @316 b=196 p=50 d=54936
+@@337: line 29.3- t=145614 -> @315
+out 
+@ via @316 b=0 p=0 d=100
+@@338: line 29.2 t=151462 -> @316
+manuscripts 
+@ via @320 b=0 p=0 d=100
+@ via @321 b=0 p=0 d=100
+@ via @322 b=0 p=0 d=100
+@@339: line 29.2 t=52175 -> @322
+of 
+@ via @321 b=0 p=0 d=100
+@ via @322 b=0 p=0 d=100
+@ via @323 b=189 p=0 d=49601
+@@340: line 29.2 t=52175 -> @322
+the 
+@ via @323 b=0 p=0 d=100
+@@341: line 29.2 t=35931 -> @323
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @324 b=61 p=50 d=17541
+@@342: line 29.1- t=42747 -> @324
+gas-
+@\discretionary via @324 b=0 p=50 d=12600
+@@343: line 29.2- t=37806 -> @324
+var-
+@\discretionary via @324 b=20 p=50 d=13400
+@@344: line 29.3- t=38606 -> @324
+o-daya\TU/Vollkorn(0)/m/n/10 . 
+@ via @325 b=0 p=0 d=100
+@@345: line 29.2 t=29783 -> @325
+How-
+@\discretionary via @326 b=0 p=50 d=2600
+@\discretionary via @327 b=49 p=50 d=15981
+@@346: line 29.2- t=13423 -> @326
+ever, 
+@ via @327 b=0 p=0 d=100
+@ via @328 b=124 p=0 d=17956
+@@347: line 29.2 t=15491 -> @327
+there 
+@ via @328 b=23 p=0 d=11089
+@ via @329 b=0 p=0 d=100
+@@348: line 29.2 t=54609 -> @329
+may 
+@ via @330 b=0 p=0 d=100
+@ via @331 b=0 p=0 d=100
+@ via @332 b=48 p=0 d=3364
+@ via @333 b=48 p=0 d=3364
+@@349: line 30.1 t=191124 -> @333
+@@350: line 30.2 t=195504 -> @330
+be 
+@ via @330 b=27 p=0 d=11369
+@ via @331 b=27 p=0 d=1369
+@ via @332 b=0 p=0 d=100
+@ via @333 b=0 p=0 d=100
+@ via @334 b=22 p=0 d=1024
+@ via @335 b=22 p=0 d=11024
+@@351: line 30.1 t=188680 -> @334
+@@352: line 30.2 t=187860 -> @333
+fur-
+@\discretionary via @334 b=0 p=50 d=12600
+@\discretionary via @335 b=0 p=50 d=12600
+@@353: line 30.2- t=200256 -> @334
+ther 
+@ via @336 b=19 p=0 d=841
+@@354: line 30.1 t=142163 -> @336
+verses 
+@ via @337 b=0 p=0 d=100
+@ via @338 b=176 p=0 d=44596
+@@355: line 30.2 t=145714 -> @337
+of 
+@ via @337 b=1 p=0 d=121
+@ via @338 b=1 p=0 d=121
+@@356: line 30.2 t=145735 -> @337
+the 
+@ via @338 b=3 p=0 d=169
+@@357: line 30.2 t=151631 -> @338
+\TU/Vollkorn(0)/m/it/10 Yo-gas-
+@\discretionary via @339 b=184 p=50 d=50136
+@@358: line 30.0- t=102311 -> @339
+var-
+@\discretionary via @339 b=1 p=50 d=2621
+@\discretionary via @340 b=178 p=50 d=47844
+@@359: line 30.2- t=54796 -> @339
+o-
+@\discretionary via @339 b=0 p=50 d=2600
+@\discretionary via @340 b=63 p=50 d=7829
+@@360: line 30.1- t=60004 -> @340
+@@361: line 30.2- t=54775 -> @339
+daya
+@\kern via @339 b=62 p=0 d=5184
+@\kern via @340 b=0 p=0 d=100
+@\kern via @341 b=73 p=0 d=6889
+@@362: line 30.1 t=42820 -> @341
+@@363: line 30.2 t=52275 -> @340
+ \TU/Vollkorn(0)/m/n/10 within 
+@ via @342 b=0 p=0 d=100
+@ via @343 b=0 p=0 d=100
+@ via @344 b=162 p=0 d=39584
+@@364: line 30.2 t=37906 -> @343
+the 
+@ via @343 b=4 p=0 d=196
+@ via @344 b=0 p=0 d=100
+@@365: line 30.2 t=38002 -> @343
+first 
+@ via @345 b=16 p=0 d=676
+@@366: line 30.1 t=30459 -> @345
+168 
+@ via @345 b=0 p=0 d=100
+@ via @346 b=65 p=0 d=5625
+@@367: line 30.1 t=19048 -> @346
+verses 
+@ via @346 b=41 p=0 d=2601
+@ via @347 b=5 p=0 d=225
+@@368: line 30.2 t=15716 -> @347
+@@369: line 30.3 t=16024 -> @346
+of 
+@ via @347 b=0 p=0 d=100
+@@370: line 30.2 t=15591 -> @347
+the 
+@ via @348 b=0 p=0 d=100
+@@371: line 30.2 t=54709 -> @348
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @348 b=0 p=50 d=2600
+@\discretionary via @349 b=30 p=50 d=4100
+@\discretionary via @350 b=30 p=50 d=4100
+@@372: line 30.2- t=57209 -> @348
+gakarṇikā\TU/Vollkorn(0)/m/n/10 . 
+@ via @351 b=31 p=0 d=11681
+@ via @352 b=31 p=0 d=1681
+@ via @353 b=0 p=0 d=100
+@@373: line 31.3 t=189541 -> @352
+Nonethe-
+@\discretionary via @355 b=0 p=50 d=2600
+@\discretionary via @356 b=119 p=50 d=29141
+@@374: line 31.2- t=148314 -> @355
+less, 
+@ via @355 b=4 p=0 d=196
+@ via @356 b=0 p=0 d=100
+@ via @357 b=193 p=0 d=51209
+@@375: line 31.2 t=145835 -> @356
+for 
+@ via @356 b=89 p=0 d=9801
+@ via @357 b=0 p=0 d=100
+@@376: line 31.2 t=151731 -> @357
+@@377: line 31.3 t=155536 -> @356
+the 
+@ via @357 b=86 p=0 d=9216
+@ via @358 b=2 p=0 d=10144
+@ via @359 b=192 p=0 d=50804
+@@378: line 31.0 t=105600 -> @359
+@@379: line 31.2 t=112455 -> @358
+time 
+@ via @358 b=61 p=0 d=15041
+@ via @359 b=0 p=0 d=100
+@ via @360 b=0 p=0 d=100
+@ via @361 b=0 p=0 d=100
+@@380: line 31.2 t=54875 -> @361
+be-
+@\discretionary via @359 b=90 p=50 d=22500
+@\discretionary via @360 b=7 p=50 d=12789
+@\discretionary via @361 b=7 p=50 d=12789
+@\discretionary via @362 b=5 p=50 d=2725
+@\discretionary via @363 b=5 p=50 d=2725
+@@381: line 31.2- t=45545 -> @362
+ing, 
+@ via @362 b=0 p=0 d=100
+@ via @363 b=0 p=0 d=100
+@@382: line 31.2 t=42920 -> @362
+one 
+@ via @364 b=1 p=0 d=121
+@@383: line 31.2 t=38027 -> @364
+of 
+@ via @364 b=0 p=0 d=100
+@ via @365 b=24 p=0 d=1156
+@@384: line 31.1 t=39158 -> @365
+@@385: line 31.2 t=38006 -> @364
+the 
+@ via @365 b=0 p=0 d=100
+@ via @366 b=60 p=0 d=4900
+@@386: line 31.1 t=35359 -> @366
+@@387: line 31.2 t=38102 -> @365
+most 
+@ via @366 b=0 p=0 d=100
+@ via @367 b=2 p=0 d=144
+@@388: line 31.2 t=19192 -> @367
+plau-
+@\discretionary via @367 b=72 p=50 d=19224
+@\discretionary via @368 b=31 p=50 d=4181
+@\discretionary via @369 b=31 p=50 d=14181
+@@389: line 31.1- t=19897 -> @368
+si-
+@\discretionary via @368 b=0 p=50 d=2600
+@\discretionary via @369 b=0 p=50 d=2600
+@\discretionary via @370 b=119 p=50 d=29141
+@@390: line 31.2- t=18316 -> @368
+ble 
+@ via @368 b=0 p=0 d=100
+@ via @369 b=0 p=0 d=100
+@ via @370 b=1 p=0 d=121
+@@391: line 31.2 t=15712 -> @370
+sce-
+@\discretionary via @370 b=3 p=50 d=2669
+@\discretionary via @371 b=0 p=50 d=2600
+@\discretionary via @372 b=63 p=50 d=17829
+@@392: line 31.2- t=18260 -> @370
+nar-
+@\discretionary via @371 b=0 p=50 d=2600
+@\discretionary via @372 b=0 p=50 d=12600
+@@393: line 31.2- t=57309 -> @371
+ios 
+@ via @372 b=2 p=0 d=144
+@@394: line 31.2 t=57353 -> @372
+is that 
+@ via @373 b=0 p=0 d=100
+@@395: line 32.2 t=189641 -> @373
+the 
+@ via @373 b=3 p=0 d=169
+@@396: line 32.2 t=189710 -> @373
+orig-
+@\discretionary via @374 b=0 p=50 d=12600
+@@397: line 32.2- t=160914 -> @374
+i-
+@\discretionary via @374 b=0 p=50 d=12600
+@@398: line 32.2- t=160914 -> @374
+nal 
+@ via @374 b=0 p=0 d=100
+@ via @375 b=17 p=0 d=729
+@@399: line 32.1 t=146564 -> @375
+@@400: line 32.2 t=148414 -> @374
+Caryāyoga 
+@ via @378 b=0 p=0 d=10100
+@ via @379 b=0 p=0 d=100
+@ via @380 b=124 p=0 d=27956
+@@401: line 32.0 t=82831 -> @380
+in 
+@ via @380 b=0 p=0 d=100
+@ via @381 b=79 p=0 d=7921
+@@402: line 32.1 t=53466 -> @381
+@@403: line 32.2 t=54975 -> @380
+the 
+@ via @380 b=4 p=0 d=196
+@ via @381 b=0 p=0 d=100
+@ via @382 b=154 p=0 d=36896
+@@404: line 32.2 t=45645 -> @381
+tax-
+@\discretionary via @382 b=0 p=50 d=2600
+@\discretionary via @383 b=175 p=50 d=46725
+@@405: line 32.2- t=45520 -> @382
+on-
+@\discretionary via @382 b=4 p=50 d=2696
+@\discretionary via @383 b=1 p=50 d=2621
+@@406: line 32.2- t=40648 -> @383
+omy 
+@ via @383 b=1 p=0 d=121
+@ via @384 b=0 p=0 d=100
+@ via @385 b=0 p=0 d=100
+@@407: line 32.2 t=38106 -> @385
+of 
+@ via @384 b=0 p=0 d=100
+@ via @385 b=0 p=0 d=100
+@ via @386 b=3 p=0 d=169
+@ via @387 b=3 p=0 d=169
+@@408: line 32.2 t=35528 -> @386
+the 
+@ via @386 b=1 p=0 d=121
+@ via @387 b=1 p=0 d=121
+@ via @388 b=79 p=0 d=7921
+@@409: line 32.1 t=27113 -> @388
+@@410: line 32.2 t=35480 -> @386
+fif-t
+@\discretionary via @388 b=0 p=50 d=2600
+@@411: line 32.2- t=21792 -> @388
+een 
+@ via @389 b=0 p=0 d=100
+@ via @390 b=13 p=0 d=529
+@@412: line 32.1 t=18845 -> @390
+@@413: line 32.2 t=19997 -> @389
+Yo-
+@\discretionary via @389 b=6 p=50 d=12756
+@\discretionary via @390 b=0 p=50 d=12600
+@\discretionary via @391 b=17 p=50 d=3229
+@@414: line 32.1- t=18941 -> @391
+gas 
+@ via @390 b=90 p=0 d=10000
+@ via @391 b=0 p=0 d=100
+@ via @392 b=29 p=0 d=1521
+@@415: line 32.1 t=19781 -> @392
+@@416: line 32.2 t=15812 -> @391
+was 
+@ via @392 b=0 p=0 d=100
+@ via @393 b=4 p=0 d=196
+@@417: line 32.2 t=18360 -> @392
+sim-
+@\discretionary via @393 b=6 p=50 d=12756
+@\discretionary via @394 b=0 p=50 d=2600
+@@418: line 32.2- t=59953 -> @394
+i-
+@\discretionary via @393 b=35 p=50 d=14525
+@\discretionary via @394 b=0 p=50 d=2600
+@@419: line 32.2- t=59953 -> @394
+lar 
+@ via @394 b=1 p=0 d=121
+@@420: line 32.2 t=57474 -> @394
+to 
+@ via @395 b=4 p=0 d=196
+@@421: line 33.2 t=189837 -> @395
+the 
+@ via @395 b=0 p=0 d=100
+@ via @396 b=4 p=0 d=196
+@@422: line 33.2 t=189741 -> @395
+con-
+@\discretionary via @396 b=7 p=50 d=2789
+@\discretionary via @397 b=0 p=50 d=12600
+@\discretionary via @398 b=5 p=50 d=12725
+@@423: line 33.2- t=173514 -> @397
+tents 
+@ via @397 b=29 p=0 d=1521
+@ via @398 b=3 p=0 d=169
+@ via @399 b=0 p=0 d=100
+@ via @400 b=0 p=0 d=100
+@@424: line 33.2 t=146664 -> @399
+of 
+@ via @399 b=0 p=0 d=100
+@ via @400 b=0 p=0 d=100
+@@425: line 33.2 t=146664 -> @399
+the \TU/Vollkorn(0)/m/it/10 di-
+@\discretionary via @401 b=42 p=50 d=5204
+@@426: line 33.1- t=88035 -> @401
+nacaryā
+@\kern via @401 b=38 p=0 d=12304
+@\kern via @402 b=0 p=0 d=100
+@\kern via @403 b=0 p=0 d=100
+@\kern via @404 b=33 p=0 d=1849
+@@427: line 33.1 t=47494 -> @404
+@@428: line 33.2 t=53566 -> @402
+ \TU/Vollkorn(0)/m/n/10 sec-
+@\discretionary via @404 b=0 p=50 d=2600
+@\discretionary via @405 b=2 p=50 d=12644
+@\discretionary via @406 b=158 p=50 d=50724
+@@429: line 33.2- t=48245 -> @404
+tion 
+@ via @405 b=0 p=0 d=100
+@ via @406 b=0 p=0 d=100
+@@430: line 33.2 t=40748 -> @406
+of 
+@ via @406 b=0 p=0 d=100
+@ via @407 b=39 p=0 d=2401
+@@431: line 33.1 t=40507 -> @407
+@@432: line 33.2 t=40748 -> @406
+the 
+@ via @407 b=0 p=0 d=100
+@ via @408 b=3 p=0 d=169
+@@433: line 33.2 t=35697 -> @408
+\TU/Vollkorn(0)/m/it/10 Yo-
+@\discretionary via @407 b=78 p=50 d=10244
+@\discretionary via @408 b=0 p=50 d=2600
+@\discretionary via @409 b=13 p=50 d=3029
+@\discretionary via @410 b=13 p=50 d=3029
+@@434: line 33.1- t=30142 -> @409
+@@435: line 33.2- t=38128 -> @408
+gakarṇikā\TU/Vollkorn(0)/m/n/10 . 
+@ via @412 b=0 p=0 d=100
+@ via @413 b=0 p=0 d=100
+@ via @414 b=42 p=0 d=2704
+@@436: line 33.1 t=21645 -> @414
+@@437: line 33.2 t=18945 -> @412
+This 
+@ via @414 b=1 p=0 d=121
+@ via @415 b=1 p=0 d=121
+@ via @416 b=1 p=0 d=121
+@@438: line 33.2 t=15933 -> @416
+sec-
+@\discretionary via @415 b=5 p=50 d=2725
+@\discretionary via @416 b=5 p=50 d=2725
+@\discretionary via @417 b=1 p=50 d=2621
+@@439: line 33.2- t=18537 -> @416
+tion 
+@ via @417 b=0 p=0 d=100
+@ via @418 b=2 p=0 d=144
+@ via @419 b=12 p=0 d=484
+@@440: line 33.2 t=18460 -> @417
+deals 
+@ via @419 b=31 p=0 d=1681
+@ via @420 b=0 p=0 d=100
+@ via @421 b=17 p=0 d=729
+@@441: line 33.2 t=57574 -> @420
+@@442: line 33.3 t=61634 -> @419
+with 
+@ via @421 b=4 p=0 d=196
+@ via @422 b=0 p=0 d=100
+@@443: line 34.2 t=189841 -> @422
+daily 
+@ via @423 b=0 p=0 d=100
+@@444: line 34.2 t=173614 -> @423
+rit-
+@\discretionary via @424 b=1 p=50 d=2621
+@\discretionary via @425 b=143 p=50 d=35909
+@@445: line 34.2- t=149285 -> @424
+ual 
+@ via @424 b=0 p=0 d=100
+@ via @425 b=1 p=0 d=121
+@@446: line 34.2 t=146764 -> @424
+ablu-
+@\discretionary via @426 b=1 p=50 d=12621
+@@447: line 34.2- t=100656 -> @426
+tions 
+@ via @426 b=27 p=0 d=11369
+@@448: line 34.3 t=99404 -> @426
+with 
+@ via @427 b=0 p=0 d=100
+@ via @428 b=0 p=0 d=100
+@ via @429 b=27 p=0 d=1369
+@@449: line 34.1 t=49614 -> @429
+@@450: line 34.2 t=47594 -> @427
+mantra 
+@ via @430 b=0 p=0 d=100
+@ via @431 b=9 p=0 d=361
+@ via @432 b=9 p=0 d=361
+@@451: line 34.2 t=40848 -> @430
+recita-
+@\discretionary via @433 b=0 p=50 d=2600
+@\discretionary via @434 b=1 p=50 d=12621
+@\discretionary via @435 b=1 p=50 d=12621
+@@452: line 34.2- t=38297 -> @433
+tion, 
+@ via @434 b=4 p=0 d=196
+@ via @435 b=4 p=0 d=196
+@@453: line 34.2 t=30338 -> @434
+vi-su-
+@\discretionary via @436 b=30 p=50 d=4100
+@\discretionary via @437 b=30 p=50 d=4100
+@@454: line 34.1- t=23045 -> @437
+al-
+@\discretionary via @436 b=0 p=50 d=2600
+@\discretionary via @437 b=0 p=50 d=2600
+@@455: line 34.2- t=21545 -> @437
+i-
+@\discretionary via @436 b=0 p=50 d=2600
+@\discretionary via @437 b=0 p=50 d=2600
+@@456: line 34.2- t=21545 -> @437
+sa-
+@\discretionary via @436 b=0 p=50 d=2600
+@\discretionary via @437 b=0 p=50 d=2600
+@\discretionary via @438 b=47 p=50 d=5749
+@@457: line 34.1- t=21682 -> @438
+@@458: line 34.2- t=21545 -> @437
+tion 
+@ via @438 b=0 p=0 d=100
+@ via @439 b=17 p=0 d=729
+@@459: line 34.1 t=19266 -> @439
+@@460: line 34.2 t=16033 -> @438
+and 
+@ via @439 b=0 p=0 d=100
+@ via @440 b=32 p=0 d=1764
+@@461: line 34.1 t=20224 -> @440
+@@462: line 34.2 t=18637 -> @439
+med-
+@\discretionary via @440 b=31 p=50 d=4181
+@\discretionary via @441 b=58 p=50 d=7124
+@\discretionary via @442 b=58 p=50 d=17124
+@@463: line 34.3- t=22641 -> @440
+i-
+@\discretionary via @441 b=13 p=50 d=3029
+@\discretionary via @442 b=13 p=50 d=13029
+@@464: line 34.1- t=60603 -> @441
+ta-
+@\discretionary via @441 b=0 p=50 d=2600
+@\discretionary via @442 b=0 p=50 d=2600
+@@465: line 34.2- t=60174 -> @441
+tion 
+@ via @443 b=2 p=0 d=144
+@@466: line 35.2 t=189985 -> @443
+(1.23-
+@\discretionary via @444 b=3 p=50 d=2669
+@@467: line 35.2- t=176283 -> @444
+36) 
+@ via @444 b=0 p=0 d=100
+@ via @445 b=0 p=0 d=100
+@@468: line 35.2 t=149385 -> @445
+and 
+@ via @446 b=0 p=0 d=100
+@@469: line 35.2 t=146864 -> @446
+other 
+@ via @447 b=0 p=0 d=100
+@@470: line 35.2 t=100756 -> @447
+rit-
+@\discretionary via @448 b=0 p=50 d=2600
+@@471: line 35.2- t=102004 -> @448
+ual 
+@ via @448 b=1 p=0 d=121
+@ via @449 b=101 p=0 d=12321
+@ via @450 b=101 p=0 d=22321
+@@472: line 35.0 t=61935 -> @449
+acts 
+@ via @449 b=0 p=0 d=100
+@ via @450 b=0 p=0 d=100
+@@473: line 35.2 t=47694 -> @450
+such 
+@ via @451 b=0 p=0 d=100
+@@474: line 35.2 t=40948 -> @451
+as 
+@ via @451 b=0 p=0 d=100
+@@475: line 35.2 t=40948 -> @451
+rit-
+@\discretionary via @452 b=0 p=50 d=12600
+@@476: line 35.2- t=50897 -> @452
+ual 
+@ via @452 b=0 p=0 d=100
+@ via @453 b=136 p=0 d=31316
+@@477: line 35.2 t=38397 -> @452
+dress-
+@\discretionary via @453 b=14 p=50 d=3076
+@\discretionary via @454 b=0 p=50 d=12600
+@\discretionary via @455 b=70 p=50 d=18900
+@\discretionary via @456 b=159 p=50 d=51061
+@@478: line 35.1- t=40445 -> @455
+@@479: line 35.2- t=35645 -> @454
+@@480: line 35.3- t=33414 -> @453
+ing, 
+@ via @454 b=0 p=0 d=100
+@ via @455 b=0 p=0 d=100
+@ via @456 b=0 p=0 d=100
+@ via @457 b=48 p=0 d=3364
+@ via @458 b=48 p=0 d=3364
+@@481: line 35.1 t=24909 -> @458
+@@482: line 35.2 t=21645 -> @456
+the 
+@ via @456 b=38 p=0 d=2304
+@ via @457 b=0 p=0 d=100
+@ via @458 b=0 p=0 d=100
+@ via @459 b=92 p=0 d=10404
+@ via @460 b=92 p=0 d=10404
+@@483: line 35.1 t=26437 -> @460
+@@484: line 35.2 t=21645 -> @458
+@@485: line 35.3 t=23849 -> @456
+ap-
+@\discretionary via @459 b=0 p=50 d=2600
+@\discretionary via @460 b=0 p=50 d=2600
+@@486: line 35.2- t=18633 -> @460
+pli-
+@\discretionary via @459 b=7 p=50 d=2789
+@\discretionary via @460 b=7 p=50 d=2789
+@\discretionary via @461 b=2 p=50 d=2644
+@\discretionary via @462 b=2 p=50 d=2644
+@@487: line 35.2- t=18822 -> @460
+ca-
+@\discretionary via @461 b=0 p=50 d=2600
+@\discretionary via @462 b=0 p=50 d=2600
+@\discretionary via @463 b=151 p=50 d=48421
+@@488: line 35.2- t=21237 -> @462
+tion 
+@ via @463 b=0 p=0 d=100
+@ via @464 b=0 p=0 d=100
+@ via @465 b=45 p=0 d=3025
+@@489: line 35.2 t=22741 -> @463
+of 
+@ via @463 b=0 p=0 d=100
+@ via @464 b=0 p=0 d=100
+@ via @465 b=0 p=0 d=100
+@@490: line 35.2 t=22741 -> @463
+the 
+@ via @465 b=57 p=0 d=4489
+@ via @466 b=0 p=0 d=100
+@@491: line 35.3 t=64663 -> @465
+sec-
+@\discretionary via @466 b=15 p=50 d=3125
+@\discretionary via @467 b=12 p=50 d=12984
+@@492: line 36.2- t=189267 -> @467
+@@493: line 36.3- t=193110 -> @466
+tar-
+@\discretionary via @467 b=0 p=50 d=12600
+@\discretionary via @468 b=38 p=50 d=4804
+@@494: line 36.1- t=154189 -> @468
+ian 
+@ via @467 b=33 p=0 d=1849
+@ via @468 b=0 p=0 d=100
+@@495: line 36.2 t=149485 -> @468
+sign 
+@ via @469 b=0 p=0 d=100
+@@496: line 36.2 t=146964 -> @469
+(\TU/Vollkorn(0)/m/it/10 tilaka\TU/Vollkorn(0)/m/n/10 ) 
+@ via @470 b=0 p=0 d=100
+@ via @471 b=0 p=0 d=100
+@@497: line 36.2 t=100856 -> @470
+in-
+@\discretionary via @471 b=0 p=50 d=12600
+@\discretionary via @472 b=3 p=50 d=12669
+@@498: line 36.2- t=74604 -> @472
+clud-
+@\discretionary via @472 b=3 p=50 d=12669
+@\discretionary via @473 b=6 p=50 d=2756
+@@499: line 36.2- t=50450 -> @473
+ing 
+@ via @473 b=0 p=0 d=100
+@@500: line 36.2 t=47794 -> @473
+ty-
+@\discretionary via @474 b=0 p=50 d=2600
+@@501: line 36.2- t=43548 -> @474
+ing 
+@ via @474 b=0 p=0 d=100
+@ via @475 b=0 p=0 d=100
+@ via @476 b=143 p=0 d=33409
+@@502: line 36.2 t=41048 -> @475
+the 
+@ via @475 b=9 p=0 d=361
+@ via @476 b=0 p=0 d=100
+@ via @477 b=122 p=0 d=27424
+@@503: line 36.2 t=41309 -> @475
+hair 
+@ via @477 b=0 p=0 d=100
+@@504: line 36.2 t=38497 -> @477
+into 
+@ via @478 b=0 p=0 d=100
+@ via @479 b=0 p=0 d=100
+@ via @480 b=0 p=0 d=100
+@ via @481 b=164 p=0 d=30276
+@ via @482 b=164 p=0 d=40276
+@@505: line 36.2 t=33514 -> @480
+a 
+@ via @478 b=0 p=0 d=100
+@ via @479 b=0 p=0 d=100
+@ via @480 b=0 p=0 d=100
+@ via @481 b=12 p=0 d=484
+@ via @482 b=12 p=0 d=484
+@@506: line 36.2 t=22129 -> @482
+knot 
+@ via @481 b=11 p=0 d=441
+@ via @482 b=11 p=0 d=441
+@ via @483 b=0 p=0 d=100
+@ via @484 b=0 p=0 d=100
+@ via @485 b=0 p=0 d=100
+@ via @486 b=70 p=0 d=6400
+@@507: line 36.1 t=25033 -> @486
+@@508: line 36.2 t=21745 -> @484
+(1.38), 
+@ via @486 b=2 p=0 d=144
+@ via @487 b=0 p=0 d=100
+@ via @488 b=12 p=0 d=484
+@@509: line 36.2 t=18777 -> @486
+of-f
+@\discretionary via @487 b=15 p=50 d=13125
+@\discretionary via @488 b=0 p=50 d=12600
+@\discretionary via @489 b=77 p=50 d=10069
+@@510: line 36.1- t=32810 -> @489
+@@511: line 36.2- t=33837 -> @488
+@@512: line 36.3- t=31947 -> @487
+er-
+@\discretionary via @488 b=59 p=50 d=17261
+@\discretionary via @489 b=0 p=50 d=2600
+@\discretionary via @490 b=86 p=50 d=11716
+@@513: line 36.1- t=34457 -> @490
+@@514: line 36.2- t=25341 -> @489
+ings, 
+@ via @489 b=27 p=0 d=1369
+@ via @490 b=0 p=0 d=100
+@ via @491 b=75 p=0 d=17225
+@@515: line 36.2 t=22841 -> @490
+@@516: line 36.3 t=24110 -> @489
+and 
+@ via @491 b=0 p=0 d=100
+@ via @492 b=3 p=0 d=169
+@ via @493 b=3 p=0 d=169
+@@517: line 36.2 t=64763 -> @491
+the 
+@ via @492 b=0 p=0 d=100
+@ via @493 b=0 p=0 d=100
+@ via @494 b=0 p=0 d=100
+@@518: line 37.2 t=154289 -> @494
+de-
+@\discretionary via @494 b=1 p=50 d=12621
+@\discretionary via @495 b=0 p=50 d=2600
+@@519: line 37.2- t=152085 -> @495
+vo-
+@\discretionary via @495 b=0 p=50 d=2600
+@\discretionary via @496 b=91 p=50 d=12701
+@@520: line 37.1- t=159665 -> @496
+@@521: line 37.2- t=152085 -> @495
+tional 
+@ via @496 b=0 p=0 d=100
+@@522: line 37.2 t=147064 -> @496
+per-
+@\discretionary via @497 b=0 p=50 d=2600
+@\discretionary via @498 b=35 p=50 d=14525
+@@523: line 37.1- t=89129 -> @498
+for-
+@\discretionary via @497 b=0 p=50 d=2600
+@\discretionary via @498 b=0 p=50 d=12600
+@\discretionary via @499 b=155 p=50 d=49725
+@@524: line 37.2- t=87204 -> @498
+mance 
+@ via @499 b=0 p=0 d=100
+@ via @500 b=3 p=0 d=169
+@ via @501 b=129 p=0 d=29321
+@@525: line 37.2 t=47963 -> @500
+of 
+@ via @500 b=0 p=0 d=100
+@ via @501 b=0 p=0 d=100
+@@526: line 37.2 t=43648 -> @501
+pros-
+@\discretionary via @502 b=0 p=50 d=2600
+@\discretionary via @503 b=55 p=50 d=6725
+@@527: line 37.1- t=48034 -> @503
+@@528: line 37.2- t=43648 -> @502
+tra-
+@\discretionary via @502 b=79 p=50 d=10421
+@\discretionary via @503 b=0 p=50 d=2600
+@@529: line 37.2- t=43909 -> @503
+@@530: line 37.3- t=51469 -> @502
+tions 
+@ via @504 b=0 p=0 d=100
+@@531: line 37.2 t=38597 -> @504
+in 
+@ via @504 b=2 p=0 d=144
+@ via @505 b=16 p=0 d=676
+@@532: line 37.1 t=34190 -> @505
+@@533: line 37.2 t=38641 -> @504
+front 
+@ via @505 b=73 p=0 d=6889
+@ via @506 b=0 p=0 d=100
+@ via @507 b=149 p=0 d=25281
+@ via @508 b=149 p=0 d=35281
+@@534: line 37.2 t=22229 -> @506
+of 
+@ via @507 b=0 p=0 d=100
+@ via @508 b=0 p=0 d=100
+@@535: line 37.2 t=21845 -> @508
+one’s 
+@ via @509 b=0 p=0 d=100
+@ via @510 b=75 p=0 d=7225
+@ via @511 b=75 p=0 d=7225
+@ via @512 b=75 p=0 d=17225
+@@536: line 37.2 t=18877 -> @509
+own 
+@ via @510 b=0 p=0 d=100
+@ via @511 b=0 p=0 d=100
+@ via @512 b=0 p=0 d=100
+@ via @513 b=0 p=0 d=100
+@ via @514 b=0 p=0 d=100
+@@537: line 37.2 t=25441 -> @514
+\TU/Vollkorn(0)/m/it/10 iṣṭade-
+@\discretionary via @515 b=0 p=50 d=2600
+@\discretionary via @516 b=0 p=50 d=2600
+@@538: line 37.2- t=25441 -> @515
+vatā
+@\kern via @515 b=51 p=0 d=3721
+@\kern via @516 b=51 p=0 d=3721
+@\kern via @517 b=0 p=0 d=100
+@@539: line 37.3 t=26562 -> @515
+ \TU/Vollkorn(0)/m/n/10 etc. 
+@ via @517 b=7 p=0 d=289
+@ via @518 b=0 p=0 d=100
+@ via @519 b=142 p=0 d=33104
+@@540: line 37.2 t=65052 -> @517
+(1.39-
+@\discretionary via @519 b=3 p=50 d=12669
+@\discretionary via @520 b=0 p=50 d=12600
+@\discretionary via @521 b=0 p=50 d=12600
+@@541: line 38.2- t=164685 -> @521
 61). 
-@\par via @249 b=0 p=-10000 d=10100
-@\par via @250 b=0 p=-10000 d=5100
-@\par via @251 b=0 p=-10000 d=5100
-@\par via @252 b=0 p=-10000 d=100
-@\par via @253 b=0 p=-10000 d=100
-@\par via @254 b=0 p=-10000 d=5100
-@\par via @255 b=0 p=-10000 d=5100
-@\par via @256 b=0 p=-10000 d=5100
-@\par via @257 b=0 p=-10000 d=100
-@\par via @258 b=0 p=-10000 d=5100
-@@259: line 43.2- t=36216 -> @253
+@\par via @522 b=0 p=-10000 d=100
+@\par via @523 b=0 p=-10000 d=5100
+@\par via @524 b=0 p=-10000 d=5100
+@\par via @525 b=0 p=-10000 d=100
+@\par via @526 b=0 p=-10000 d=100
+@\par via @527 b=0 p=-10000 d=5100
+@\par via @528 b=0 p=-10000 d=5100
+@\par via @529 b=0 p=-10000 d=5100
+@\par via @530 b=0 p=-10000 d=5100
+@\par via @531 b=0 p=-10000 d=100
+@\par via @532 b=0 p=-10000 d=100
+@\par via @533 b=0 p=-10000 d=100
+@\par via @534 b=0 p=-10000 d=100
+@\par via @535 b=0 p=-10000 d=100
+@\par via @536 b=0 p=-10000 d=100
+@\par via @537 b=0 p=-10000 d=100
+@\par via @538 b=0 p=-10000 d=5100
+@\par via @539 b=0 p=-10000 d=100
+@\par via @540 b=0 p=-10000 d=100
+@\par via @541 b=0 p=-10000 d=5100
+@@542: line 38.2- t=18977 -> @536
 
 @firstpass
 []|\TU/Vollkorn(0)/m/sl/10 3. 
@@ -30410,6 +31873,121 @@ Caryāyoga|
 @@1: line 1.2- t=100 -> @0
 
 [37]
+@firstpass
+[][]\TU/Vollkorn(0)/b/n/10.95 Caryāyoga 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+in 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+\TU/Vollkorn(0)/b/it/10.95 Yo-gasid-dhān-ta-can-drikā 
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 1.2- t=100 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/8 
+, ed. pp. 2, 52-53, 100-101, 150.| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Fo
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 For an ear-lier brief dis-cus-sion of Caryāyoga in N
+ārāyaṇatīrtha’s \TU/Vollkorn(0)/m/it/8 yo-ga-can-drika \TU/Vollkorn(0)/m
+/n/8 see \TU/Vollkorn(0)/m/sc/8 P󰂸󰄑󰄑󰂋\TU/Vollkorn(0)/m/n/8 , 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+2004: 66-67.| 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=200 -> @1
+
+@firstpass
+\TU/Vollkorn(0)/m/n/10 In his \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-drik
+ā[][][][] \TU/Vollkorn(0)/m/n/10 Nārāyaṇatīrtha presents Caryāyoga[][][]
+[] in the 
+@ via @0 b=26 p=0 d=1296
+@@1: line 1.1 t=1296 -> @0
+con-text of Yo-gasū-tra 1.33: 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=1396 -> @1
+
+@firstpass
+@secondpass
+\TU/Vollkorn(0)/m/n/10 Du
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/8 
+, Ed. p. 52 (\TU/Vollkorn(0)/m/it/8 ta-sya cit-ta-syāsūyādi-malavato yo-gāsa
+mb-havāt tan-nirā-sopāyaṃ 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+@secondpass
+[][][]\TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/8 
+, Ed. p. 52 (\TU/Vollkorn(0)/m/it/8 ta-sya cit-ta-syāsūyādi-malavato yo-gāsa
+mb-havāt tan-nirā-
+@\discretionary via @0 b=3058 p=50 d=9425124
+@@1: line 1.0- t=9425124 -> @0
+sopāyaṃ 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+caryāyo-gam āha- maitrīkaruṇā-mu-di-topekṣāṇāṃ sukhaduḥkha-pu
+ṇyāpuṇyav-iṣayāṇāṃ bhā-
+@\discretionary via @1 b=6741 p=50 d=45588501
+@@3: line 2.0- t=55013625 -> @1
+vanā-
+@\discretionary via @1 b=0 p=50 d=22600
+@@4: line 2.2- t=9447724 -> @1
+taścit-
+@\discretionary via @2 b=6592 p=50 d=43598904
+@@5: line 2.0- t=43599004 -> @2
+taprasā-
+@\discretionary via @2 b=0 p=50 d=2600
+@@6: line 2.2- t=2700 -> @2
+danam \TU/Vollkorn(0)/m/n/8 || 33 ||)| 
+@\par via @3 b=0 p=-10000 d=15100
+@\par via @4 b=0 p=-10000 d=5100
+@\par via @5 b=0 p=-10000 d=15100
+@\par via @6 b=0 p=-10000 d=5100
+@@7: line 3.2- t=7800 -> @6
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 Due to im-pu-ri-ties of the mind like jeal-ousy, etc., pre-vent-ing the 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+at-tain-ment of Yoga, the method of re-mov-ing them is Caryāyoga 
+@ via @1 b=0 p=0 d=100
+@@2: line 2.2 t=200 -> @1
+- 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=200 -> @1
+Pu-rity of the mind arises through the cul-ti-va-tion of friend-li-ness, 
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 3.2 t=300 -> @3
+com-pas-sion, joy and equa-nim-ity in cir-cum-stances of hap-pi-ness, 
+@ via @4 b=0 p=0 d=100
+@@5: line 4.2 t=400 -> @4
+suf-fer-ing, virtue and vice. [][][][] 
+@\par via @5 b=0 p=-10000 d=100
+@@6: line 5.2- t=500 -> @5
+
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 38| 
 @\par via @0 b=0 p=-10000 d=100
@@ -30464,7 +32042,169 @@ tax-onomies|
 
  [38]
 @firstpass
-[][]\TU/Vollkorn(0)/b/n/10.95 Caryāyoga 
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Cf
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+@secondpass
+[][][]\TU/Vollkorn(0)/m/n/8 Cf. Ibid. (\TU/Vollkorn(0)/m/it/8 tathā ca sukhite
+ṣu maitrīṃ sauhār-dam īrṣyākāluṣyani-vart-takaṃ, duḥkhiṣu kar
+uṇāṃ 
+@ via @0 b=248 p=0 d=76564
+@@1: line 1.0 t=76564 -> @0
+dayā-
+@\discretionary via @0 b=0 p=50 d=2600
+@@2: line 1.2- t=2600 -> @0
+masūyākāluṣyani-vart-tikāṃ, puṇyavṛt-tiṣu harṣaṃ dveṣani-var
+t-takam, apuṇyaśab-di-tapāpiṣu up-ekṣām 
+@ via @1 b=0 p=0 d=10100
+@ via @2 b=4913 p=0 d=24245929
+@@3: line 2.2 t=86664 -> @1
+amarṣakāluṣyani-vart-tikāṃ bhā-vayet \TU/Vollkorn(0)/m/n/8 |)| 
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 3.2- t=86764 -> @3
+
+@firstpass
+@secondpass
+[]\TU/Vollkorn(0)/m/n/10 Caryāyoga is to cul-ti-vate kind-ness to-wards those 
+in for-tu-nate cir-cum-
+@\discretionary via @0 b=119 p=50 d=29141
+@@1: line 1.0- t=29141 -> @0
+stances to pre-vent jeal-ousy. To-wards those who are in sor-row-ful cir-cum-
+@\discretionary via @1 b=129 p=50 d=31821
+@@2: line 2.0- t=60962 -> @1
+stances, 
+@ via @1 b=90 p=0 d=20000
+@@3: line 2.3 t=49141 -> @1
+com-pas-sion is sup-posed to be cul-ti-vated to pre-vent ill-will. To-wards 
+@ via @2 b=0 p=0 d=10100
+@@4: line 3.2 t=71062 -> @2
+those 
+@ via @3 b=6 p=0 d=256
+@@5: line 3.2 t=49397 -> @3
+who 
+@ via @3 b=15 p=0 d=625
+@@6: line 3.3 t=49766 -> @3
+act vir-tu-ously, one is sup-posed to cul-ti-vate joy to pre-vent aver-
+@\discretionary via @4 b=53 p=50 d=6469
+@@7: line 4.1- t=77531 -> @4
+sion; 
+@ via @4 b=0 p=0 d=100
+@@8: line 4.2 t=71162 -> @4
+and 
+@ via @5 b=0 p=0 d=100
+@@9: line 4.2 t=49497 -> @5
+to-
+@\discretionary via @5 b=3 p=50 d=2669
+@\discretionary via @6 b=10 p=50 d=2900
+@@10: line 4.2- t=52066 -> @5
+wards 
+@ via @6 b=57 p=0 d=4489
+@@11: line 4.3 t=54255 -> @6
+those who act un-vir-tu-ously, one is sup-posed to cul-ti-vate 
+@ via @7 b=3 p=0 d=169
+@@12: line 5.2 t=77700 -> @7
+equa-
+@\discretionary via @8 b=1 p=50 d=2621
+@@13: line 5.2- t=73783 -> @8
+nim-
+@\discretionary via @8 b=10 p=50 d=2900
+@\discretionary via @9 b=2 p=50 d=2644
+@\discretionary via @10 b=143 p=50 d=45909
+@@14: line 5.2- t=52141 -> @9
+ity 
+@ via @9 b=0 p=0 d=100
+@ via @10 b=1 p=0 d=121
+@@15: line 5.2 t=49597 -> @9
+to 
+@ via @9 b=33 p=0 d=1849
+@ via @10 b=0 p=0 d=100
+@@16: line 5.2 t=52166 -> @10
+@@17: line 5.3 t=51346 -> @9
+pre-
+@\discretionary via @11 b=0 p=50 d=2600
+@@18: line 5.2- t=56855 -> @11
+vent 
+@ via @11 b=12 p=0 d=484
+@@19: line 5.2 t=54739 -> @11
+anger.[][][][] 
+@\par via @12 b=0 p=-10000 d=100
+@\par via @13 b=0 p=-10000 d=5100
+@\par via @14 b=0 p=-10000 d=5100
+@\par via @15 b=0 p=-10000 d=100
+@\par via @16 b=0 p=-10000 d=100
+@\par via @17 b=0 p=-10000 d=100
+@\par via @18 b=0 p=-10000 d=5100
+@\par via @19 b=0 p=-10000 d=100
+@@20: line 6.2- t=49697 -> @15
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Cf
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-dri
+kā\TU/Vollkorn(0)/m/n/8 , ed. pp. 52- 53 (\TU/Vollkorn(0)/m/it/8 tad evaṃ car
+yāyo-gena cit-ta-malanirāsak-ena mukhyādiṣu 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+yathākra-ma-muk-tab-hā-vanārūpeṇa sāttviko dharmo jāy-ate \TU/Vollkorn(
+0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 tena ca śuk-lena dharmeṇa cit-taṃ prasan-
+naṃ 
+@ via @1 b=5 p=0 d=225
+@@2: line 2.2 t=325 -> @1
+bha-vati \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 prasāde ca sthi-ti-pada
+ṃ lab-hate \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 etac ca puṣkala
+ṃ vi-rak-ta-syaiva samb-ha-vatīti mukhy-acaryāyogo 
+@ via @2 b=0 p=0 d=100
+@@3: line 3.2 t=425 -> @2
+vairā-gyameveti saṃkṣepaḥ \TU/Vollkorn(0)/m/n/8 || 33 ||)| 
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 4.2- t=525 -> @3
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 With this prac-tice of Caryāyoga, which grad-u-ally pu
+-ri-fies the mind, the 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+sattvic na-ture of the mind is brought forth. This leads to a clear and serene 
+@ via @1 b=0 p=0 d=100
+@@2: line 2.2 t=200 -> @1
+mind.[][][][] 
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 3.2- t=300 -> @2
+
+@firstpass
+@secondpass
+[]\TU/Vollkorn(0)/m/n/10 Since the word \TU/Vollkorn(0)/m/it/10 caryā° \TU/Vo
+llkorn(0)/m/n/10 in this con-text refers to pur-pose-ful be-haviour de-
+@\discretionary via @0 b=7 p=50 d=2789
+@@1: line 1.2- t=2789 -> @0
+signed to give rise to the sattvic na-ture, the Caryāyoga of the \TU/Vollkorn(
+0)/m/it/10 Yo-gasid-dhān-
+@\discretionary via @1 b=44 p=50 d=15416
+@@2: line 2.1- t=18205 -> @1
+ta-
+@\discretionary via @1 b=0 p=50 d=12600
+@@3: line 2.2- t=15389 -> @1
+can-
+@\discretionary via @1 b=0 p=50 d=12600
+@@4: line 2.2- t=15389 -> @1
+drikā \TU/Vollkorn(0)/m/n/10 can be mean-ing-fully trans-lated as ’Yoga of be
+-haviour’. 
+@\par via @2 b=0 p=-10000 d=5100
+@\par via @3 b=0 p=-10000 d=5100
+@\par via @4 b=0 p=-10000 d=5100
+@@5: line 3.2- t=20489 -> @4
+
+@firstpass
+[][]\TU/Vollkorn(0)/b/n/10.95 Car-cāyoga 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
 in 
@@ -30476,7 +32216,7 @@ the
 @ via @1 b=0 p=0 d=100
 @ via @2 b=0 p=0 d=100
 @@3: line 1.2 t=100 -> @0
-\TU/Vollkorn(0)/b/it/10.95 Yo-gasid-dhān-ta-can-drikā 
+\TU/Vollkorn(0)/b/it/10.95 Sarvāṅ-gayo-gapradīpikā 
 @\par via @0 b=0 p=-10000 d=100
 @\par via @1 b=0 p=-10000 d=100
 @\par via @2 b=0 p=-10000 d=100
@@ -30484,265 +32224,142 @@ the
 @@4: line 1.2- t=100 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/8 
-, Ed. pp. 2, 52-53, 100-101, 150.| 
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Fo
+\TU/Vollkorn(0)/m/n/8 Se
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 For an ear-lier brief dis-cus-sion of Caryāyoga in N
-ārāyaṇatīrtha’s \TU/Vollkorn(0)/m/it/8 yo-ga-can-drika \TU/Vollkorn(0)/m
-/n/8 see \TU/Vollkorn(0)/m/sc/8 P󰂸󰄑󰄑󰂋\TU/Vollkorn(0)/m/n/8 , 
+[][][]\TU/Vollkorn(0)/m/n/8 See \TU/Vollkorn(0)/m/sc/8 B󰅡󰅄󰃖󰂸󰂃 \T
+U/Vollkorn(0)/m/n/8 (2014: 694-695) for an ear-lier brief dis-cus-sion of Sun-da
+rdās’s Car-cāyoga in 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-2004: 66-67.| 
+French| 
 @\par via @1 b=0 p=-10000 d=100
 @@2: line 2.2- t=200 -> @1
 
 @firstpass
-\TU/Vollkorn(0)/m/n/10 In seiner \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-d
-rikā[][][][] \TU/Vollkorn(0)/m/n/10 präsen-tiert Nārāyaṇatīrtha Caryāyog
-a[][][][] im 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-Kon-text von Yo-gasū-tra 1.33: 
-@\par via @1 b=0 p=-10000 d=100
-@@2: line 2.2- t=200 -> @1
-
-@firstpass
-@secondpass
-\TU/Vollkorn(0)/m/n/10 Du
-@\par via @0 b=10000 p=-10000 d=*
-@@1: line 1.0- t=0 -> @0
-
-@firstpass
-[][][]\TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/8 
-, Ed. p. 52 (\TU/Vollkorn(0)/m/it/8 ta-sya cit-ta-syāsūyādi-malavato yo-gāsa
-mb-havāt tan-nirā-sopāyaṃ 
+\TU/Vollkorn(0)/m/n/10 Within \TU/Vollkorn(0)/m/it/10 Sarvāṅ-gayo-gapradīpik
+ā \TU/Vollkorn(0)/m/n/10 (2.40-51, Ed. pp. 96-98), Sun-dardās de-scribes 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
 @secondpass
-[][][]\TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/8 
-, Ed. p. 52 (\TU/Vollkorn(0)/m/it/8 ta-sya cit-ta-syāsūyādi-malavato yo-gāsa
-mb-havāt tan-nirā-
-@\discretionary via @0 b=3058 p=50 d=9425124
-@@1: line 1.0- t=9425124 -> @0
-sopāyaṃ 
+\TU/Vollkorn(0)/m/n/10 Within \TU/Vollkorn(0)/m/it/10 Sarvāṅ-gayo-gapradīpik
+ā \TU/Vollkorn(0)/m/n/10 (2.40-51, Ed. pp. 96-98), Sun-dardās de-scribes 
 @ via @0 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
-caryāyo-gam āha- maitrīkaruṇā-mu-di-topekṣāṇāṃ sukhaduḥkha-pu
-ṇyāpuṇyav-iṣayāṇāṃ bhā-
-@\discretionary via @1 b=6741 p=50 d=45588501
-@@3: line 2.0- t=55013625 -> @1
-vanā-
-@\discretionary via @1 b=0 p=50 d=22600
-@@4: line 2.2- t=9447724 -> @1
-taścit-
-@\discretionary via @2 b=6592 p=50 d=43598904
-@@5: line 2.0- t=43599004 -> @2
-taprasā-
-@\discretionary via @2 b=0 p=50 d=2600
-@@6: line 2.2- t=2700 -> @2
-danam \TU/Vollkorn(0)/m/n/8 || 33 ||)| 
-@\par via @3 b=0 p=-10000 d=15100
-@\par via @4 b=0 p=-10000 d=5100
-@\par via @5 b=0 p=-10000 d=15100
-@\par via @6 b=0 p=-10000 d=5100
-@@7: line 3.2- t=7800 -> @6
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Due to im-pu-ri-ties of the mind like jeal-ousy etc. pr
-e-vent-ing the 
-@ via @0 b=10 p=0 d=400
-@@1: line 1.2 t=400 -> @0
-at-tain-ment of yoga, the method of re-mov-ing them is Caryāyoga 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=500 -> @1
-- 
-@ via @1 b=0 p=0 d=100
-@@3: line 2.2 t=500 -> @1
-Pu-rity of the mind arises through the cul-ti-va-tion of friend-li-ness, 
+@@1: line 1.2 t=100 -> @0
+Cār-cāyoga as a type of Bhak-tiyoga which is \TU/Vollkorn(0)/m/it/10 bhakti \
+TU/Vollkorn(0)/m/n/10 to-wards un-man-i-fest con-
+@\discretionary via @1 b=0 p=50 d=2600
+@@2: line 2.2- t=2700 -> @1
+scious-ness (\TU/Vollkorn(0)/m/it/10 avyakta pu-ruṣa\TU/Vollkorn(0)/m/n/10 ) 
+in de-light-ful de-vo-tion. [][][][]. He ex-ten-sively de-scribes 
 @ via @2 b=0 p=0 d=100
+@@3: line 3.2 t=2800 -> @2
+the un-man-i-fest con-scious-ness (\TU/Vollkorn(0)/m/it/10 avyakta pu-ruṣa\TU
+/Vollkorn(0)/m/n/10 ) as be-ing form-less and eter-
+@\discretionary via @3 b=83 p=50 d=11149
+@@4: line 4.1- t=13949 -> @3
+nal 
 @ via @3 b=0 p=0 d=100
-@@4: line 3.2 t=600 -> @3
-com-pas-sion, joy and equa-nim-ity in cir-cum-stances of hap-pi-ness, 
-@ via @4 b=0 p=0 d=100
-@@5: line 4.2 t=700 -> @4
-suf-fer-ing, virtue and vice.[][][][] 
-@\par via @5 b=0 p=-10000 d=100
-@@6: line 5.2- t=800 -> @5
-
-@firstpass
-@secondpass
-@emergencypass
-\TU/Vollkorn(0)/m/n/8 Cf
-@\par via @0 b=10000 p=-10000 d=*
-@@1: line 1.0- t=0 -> @0
-
-@firstpass
-@secondpass
-[][][]\TU/Vollkorn(0)/m/n/8 Cf. ibid. (\TU/Vollkorn(0)/m/it/8 tathā ca sukhite
-ṣu maitrīṃ sauhār-dam īrṣyākāluṣyani-vart-takaṃ, duḥkhiṣu kar
-uṇāṃ 
-@ via @0 b=273 p=0 d=90089
-@@1: line 1.0 t=90089 -> @0
-dayā-
-@\discretionary via @0 b=0 p=50 d=2600
-@@2: line 1.2- t=2600 -> @0
-masūyākāluṣyani-vart-tikāṃ, puṇyavṛt-tiṣu harṣaṃ dveṣani-var
-t-takam, apuṇyaśab-di-tapāpiṣu up-ekṣām 
-@ via @1 b=0 p=0 d=10100
-@ via @2 b=4913 p=0 d=24245929
-@@3: line 2.2 t=100189 -> @1
-amarṣakāluṣyani-vart-tikāṃ bhā-vayet \TU/Vollkorn(0)/m/n/8 |)| 
-@\par via @3 b=0 p=-10000 d=100
-@@4: line 3.2- t=100289 -> @3
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Caryāyoga besteht darin gegenüber den-jeni-gen in gl
-ück-lichen Um-stän-den 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-sind Fre-undlichkeit zu kul-tivieren, um Eifer-sucht zu ver-hin-dern. Gegenüber
- 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=200 -> @1
-den-jeni-gen, die sich in lei-d-vollen Um-stän-den sich befinden soll Mit-ge-
-󰀨ühl 
-@ via @2 b=16 p=0 d=676
-@@3: line 3.1 t=876 -> @2
-@secondpass
-[]\TU/Vollkorn(0)/m/n/10 Caryāyoga besteht darin gegenüber den-jeni-gen in gl
-ück-lichen Um-stän-
-@\discretionary via @0 b=5 p=50 d=2725
-@@1: line 1.2- t=2725 -> @0
-den 
-@ via @0 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
-sind Fre-undlichkeit zu kul-tivieren, um Eifer-sucht zu ver-hin-dern. Gegenüber
- 
-@ via @2 b=0 p=0 d=100
-@@3: line 2.2 t=200 -> @2
-den-jeni-gen, die sich in lei-d-vollen Um-stän-den sich befinden soll Mit-ge-
-󰀨ühl 
-@ via @3 b=16 p=0 d=676
-@@4: line 3.1 t=876 -> @3
-kul-
-@\discretionary via @3 b=0 p=50 d=2600
-@@5: line 3.2- t=2800 -> @3
-tiviert wer-den, um groll zu ver-hin-dern. Gegenüber den-jeni-gen, die tu-
-@\discretionary via @4 b=29 p=50 d=4021
-@@6: line 4.1- t=4897 -> @4
-gend-
-@\discretionary via @4 b=2 p=50 d=2644
-@\discretionary via @5 b=0 p=50 d=12600
-@@7: line 4.2- t=3520 -> @4
-haft 
-@ via @5 b=19 p=0 d=841
-@@8: line 4.3 t=3641 -> @5
-han-deln, soll man Freude kul-tivieren, um Ab-nei-gung zu ver-hin-
-@\discretionary via @6 b=42 p=50 d=15204
-@@9: line 5.1- t=20101 -> @6
-dern; 
-@ via @6 b=0 p=0 d=100
-@ via @7 b=69 p=0 d=6241
-@@10: line 5.1 t=9761 -> @7
-@@11: line 5.2 t=4997 -> @6
-und 
+@@5: line 4.2 t=2900 -> @3
+and so on (40), as be-gin-ning-less and end-less, and so on (41). Next, Sun-
+@\discretionary via @4 b=1 p=50 d=12621
+@@6: line 5.2- t=26570 -> @4
+dardās 
+@ via @5 b=0 p=0 d=100
+@@7: line 5.2 t=3000 -> @5
+de-scribes the var-i-ous lay-ers of cre-ation em-a-nat-ing from \TU/Vollkorn(0)
+/m/it/10 oṃ \TU/Vollkorn(0)/m/n/10 (42-45). 
+@ via @6 b=1 p=0 d=121
+@@8: line 6.2 t=26691 -> @6
+He 
+@ via @6 b=4 p=0 d=196
+@@9: line 6.2 t=26766 -> @6
+says 
 @ via @7 b=0 p=0 d=100
-@ via @8 b=55 p=0 d=14225
-@@12: line 5.2 t=3620 -> @7
-gegenüber den-jeni-gen, die un-tu-gend-haft han-deln, soll man Gle-
-@\discretionary via @9 b=6 p=50 d=12756
-@@13: line 6.2- t=32857 -> @9
-ich-
-@\discretionary via @9 b=0 p=50 d=12600
-@@14: line 6.2- t=32701 -> @9
-mut 
-@ via @10 b=0 p=0 d=100
+@@10: line 6.2 t=3100 -> @7
+the 
+@ via @7 b=97 p=0 d=11449
+@@11: line 6.3 t=14449 -> @7
+un-man-i-fest con-scious-ness il-lu-mi-nates ev-ery cor-ner of ex-is-tence 
+@ via @8 b=0 p=0 d=100
+@ via @9 b=196 p=0 d=52436
+@@12: line 7.2 t=26791 -> @8
+(46), 
+@ via @9 b=0 p=0 d=100
+@@13: line 7.2 t=26866 -> @9
+be-
+@\discretionary via @10 b=0 p=50 d=2600
+@@14: line 7.2- t=5700 -> @10
+ing 
+@ via @10 b=47 p=0 d=3249
 @ via @11 b=0 p=0 d=100
-@@15: line 6.2 t=5097 -> @11
-kul-
-@\discretionary via @10 b=98 p=50 d=24164
-@\discretionary via @11 b=98 p=50 d=14164
+@@15: line 7.2 t=14549 -> @11
+@@16: line 7.3 t=6349 -> @10
+the 
+@ via @11 b=47 p=0 d=3249
+@@17: line 7.3 t=17698 -> @11
+in-ner knower of all (47). Then, Sun-dardās ex-presses the im-
+@\discretionary via @12 b=1 p=50 d=2621
+@@18: line 8.2- t=29412 -> @12
+por-
 @\discretionary via @12 b=0 p=50 d=2600
-@@16: line 6.2- t=6220 -> @12
-tivieren, um Verärgerung zu ver-hin-dern.[][][][] 
-@\par via @13 b=0 p=-10000 d=5100
-@\par via @14 b=0 p=-10000 d=5100
-@\par via @15 b=0 p=-10000 d=100
-@\par via @16 b=0 p=-10000 d=5100
-@@17: line 7.2- t=5197 -> @15
-
-@firstpass
-@secondpass
-@emergencypass
-\TU/Vollkorn(0)/m/n/8 Cf
-@\par via @0 b=10000 p=-10000 d=*
-@@1: line 1.0- t=0 -> @0
-
-@firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-dri
-kā\TU/Vollkorn(0)/m/n/8 , Ed. pp. 52-53 (\TU/Vollkorn(0)/m/it/8 tad evaṃ cary
-āyo-gena cit-ta-malanirāsak-ena mukhyādiṣu 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-yathākra-ma-muk-tab-hā-vanārūpeṇa sāttviko dharmo jāy-ate \TU/Vollkorn(
-0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 tena ca śuk-lena dharmeṇa cit-taṃ prasan-
-naṃ 
-@ via @1 b=5 p=0 d=225
-@@2: line 2.2 t=325 -> @1
-bha-vati \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 prasāde ca sthi-ti-pada
-ṃ lab-hate \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 etacca puṣkala
-ṃ vi-rak-ta-syaiva samb-ha-vatīti mukhy-acaryāyogo 
-@ via @2 b=3 p=0 d=169
-@@3: line 3.2 t=494 -> @2
-vairā-gyameveti saṃkṣepaḥ \TU/Vollkorn(0)/m/n/8 || 33 ||)| 
-@\par via @3 b=0 p=-10000 d=100
-@@4: line 4.2- t=594 -> @3
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Mit-tles dieser Praxis des Caryāyoga, welche gradu-ell
- den Geist reinigt, 
-@ via @0 b=27 p=0 d=1369
-@@1: line 1.1 t=1369 -> @0
-wird 
-@ via @0 b=71 p=0 d=6561
-@@2: line 1.3 t=6561 -> @0
-die sattvis-che Natur des Geistes her-vorge-bracht. Dies 󰀨ührt zu einem 
-@ via @1 b=3 p=0 d=169
-@@3: line 2.2 t=1538 -> @1
-klaren 
-@ via @2 b=0 p=0 d=100
-@@4: line 2.2 t=6661 -> @2
-und gelasse-nen Geist.[][][][] 
-@\par via @3 b=0 p=-10000 d=100
-@\par via @4 b=0 p=-10000 d=100
-@@5: line 3.2- t=1638 -> @3
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Da das Wort \TU/Vollkorn(0)/m/it/10 caryā° \TU/Vollk
-orn(0)/m/n/10 in diesem Kon-text auf ein ziel-gerichtetes Ver-hal-ten 
-@ via @0 b=15 p=0 d=625
-@@1: line 1.1 t=625 -> @0
-ver-weist, welches da-rauf aus-gelegt ist, die sattvis-che Natur entste-hen zu 
-lassen 
-@ via @1 b=63 p=0 d=15329
-@@2: line 2.3 t=15954 -> @1
-kann das Caryāyoga der \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-drikā \T
-U/Vollkorn(0)/m/n/10 sin-nvoll als ‘Yoga des Ver-hal-tens’ 
-@ via @2 b=88 p=0 d=9604
-@@3: line 3.3 t=25558 -> @2
-über-setzt wer-den. 
-@\par via @3 b=0 p=-10000 d=100
-@@4: line 4.2- t=25658 -> @3
+@\discretionary via @13 b=32 p=50 d=4264
+@@19: line 8.1- t=31130 -> @13
+@@20: line 8.2- t=29391 -> @12
+tance 
+@ via @13 b=0 p=0 d=100
+@ via @14 b=0 p=0 d=100
+@ via @15 b=146 p=0 d=34336
+@ via @16 b=146 p=0 d=34336
+@@21: line 8.2 t=5800 -> @14
+of 
+@ via @14 b=0 p=0 d=100
+@ via @15 b=1 p=0 d=121
+@ via @16 b=1 p=0 d=121
+@@22: line 8.2 t=5800 -> @14
+deep 
+@ via @17 b=0 p=0 d=100
+@@23: line 8.2 t=17798 -> @17
+awe to-wards the in-fi-nite, di-vine, all-knowing and in-com-
+@\discretionary via @18 b=2 p=50 d=12644
+@@24: line 9.2- t=42056 -> @18
+pre-
+@\discretionary via @18 b=0 p=50 d=12600
+@\discretionary via @19 b=4 p=50 d=12696
+@\discretionary via @20 b=4 p=50 d=12696
+@@25: line 9.2- t=42012 -> @18
+hen-
+@\discretionary via @19 b=0 p=50 d=12600
+@\discretionary via @20 b=0 p=50 d=12600
+@@26: line 9.2- t=41991 -> @20
+si-
+@\discretionary via @21 b=16 p=50 d=3176
+@@27: line 9.1- t=8976 -> @21
+ble 
+@ via @21 b=0 p=0 d=100
+@ via @22 b=33 p=0 d=1849
+@@28: line 9.1 t=7649 -> @22
+@@29: line 9.2 t=5900 -> @21
+(48-
+@\discretionary via @22 b=0 p=50 d=2600
+@@30: line 9.2- t=8400 -> @22
+49) 
+@ via @23 b=0 p=0 d=100
+@@31: line 9.2 t=17898 -> @23
+un-man-i-fest con-scious-ness. 
+@\par via @24 b=0 p=-10000 d=5100
+@\par via @25 b=0 p=-10000 d=5100
+@\par via @26 b=0 p=-10000 d=5100
+@\par via @27 b=0 p=-10000 d=5100
+@\par via @28 b=0 p=-10000 d=100
+@\par via @29 b=0 p=-10000 d=100
+@\par via @30 b=0 p=-10000 d=5100
+@\par via @31 b=0 p=-10000 d=100
+@@32: line 10.2- t=6000 -> @29
 
 @firstpass
 []|\TU/Vollkorn(0)/m/sl/10 3. 
@@ -30780,242 +32397,6 @@ Caryāyoga|
 
  [39]
 @firstpass
-[][]\TU/Vollkorn(0)/b/n/10.95 Car-cāyoga 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-in 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
-the 
-@ via @0 b=0 p=0 d=100
-@ via @1 b=0 p=0 d=100
-@ via @2 b=0 p=0 d=100
-@@3: line 1.2 t=100 -> @0
-\TU/Vollkorn(0)/b/it/10.95 Sarvāṅ-gayo-gapradīpikā 
-@\par via @0 b=0 p=-10000 d=100
-@\par via @1 b=0 p=-10000 d=100
-@\par via @2 b=0 p=-10000 d=100
-@\par via @3 b=0 p=-10000 d=100
-@@4: line 1.2- t=100 -> @0
-
-@firstpass
-@secondpass
-@emergencypass
-\TU/Vollkorn(0)/m/n/8 Se
-@\par via @0 b=10000 p=-10000 d=*
-@@1: line 1.0- t=0 -> @0
-
-@firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 See \TU/Vollkorn(0)/m/sc/8 B󰅡󰅄󰃖󰂸󰂃 \T
-U/Vollkorn(0)/m/n/8 (2014: 694-695) for an ear-lier brief dis-cus-sion of Sun-da
-rdās’s Car-cāyoga in 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-French.| 
-@\par via @1 b=0 p=-10000 d=100
-@@2: line 2.2- t=200 -> @1
-
-@firstpass
-\TU/Vollkorn(0)/m/n/10 Within \TU/Vollkorn(0)/m/it/10 Sarvāṅ-gayo-gapradīpik
-ā \TU/Vollkorn(0)/m/n/10 (2.40-51, Ed. pp. 96-98) Sun-dardās de-scribes 
-@ via @0 b=3 p=0 d=169
-@@1: line 1.2 t=169 -> @0
-@secondpass
-\TU/Vollkorn(0)/m/n/10 Within \TU/Vollkorn(0)/m/it/10 Sarvāṅ-gayo-gapradīpik
-ā \TU/Vollkorn(0)/m/n/10 (2.40-51, Ed. pp. 96-98) Sun-dardās de-scribes 
-@ via @0 b=3 p=0 d=169
-@@1: line 1.2 t=169 -> @0
-Cār-
-@\discretionary via @0 b=55 p=50 d=6725
-@@2: line 1.3- t=6725 -> @0
-cāyoga as a type of Bhak-tiyoga which is \TU/Vollkorn(0)/m/it/10 bhakti \TU/Vo
-llkorn(0)/m/n/10 to-wards un-man-i-fest con-
-@\discretionary via @1 b=0 p=50 d=2600
-@@3: line 2.2- t=2769 -> @1
-scious-
-@\discretionary via @2 b=0 p=50 d=12600
-@@4: line 2.2- t=19325 -> @2
-ness (\TU/Vollkorn(0)/m/it/10 avyakta pu-ruṣa\TU/Vollkorn(0)/m/n/10 ) in de-li
-ght-ful de-vo-tion.[][][][] He ex-ten-sively de-scribes 
-@ via @3 b=0 p=0 d=100
-@@5: line 3.2 t=2869 -> @3
-the 
-@ via @4 b=8 p=0 d=324
-@@6: line 3.2 t=19649 -> @4
-un-
-@\discretionary via @4 b=0 p=50 d=12600
-@@7: line 3.2- t=31925 -> @4
-man-i-fest con-scious-ness (\TU/Vollkorn(0)/m/it/10 avyakta pu-ruṣa\TU/Vollko
-rn(0)/m/n/10 ) as be-ing form-less and eter-
-@\discretionary via @5 b=83 p=50 d=11149
-@@8: line 4.1- t=14018 -> @5
-nal 
-@ via @5 b=0 p=0 d=100
-@@9: line 4.2 t=2969 -> @5
-and 
-@ via @6 b=0 p=0 d=100
-@ via @7 b=27 p=0 d=1369
-@@10: line 4.2 t=19749 -> @6
-so 
-@ via @6 b=44 p=0 d=2916
-@ via @7 b=0 p=0 d=100
-@@11: line 4.2 t=32025 -> @7
-@@12: line 4.3 t=22565 -> @6
-on 
-@ via @7 b=78 p=0 d=7744
-@@13: line 4.3 t=39669 -> @7
-(40), as be-gin-ning-less and end-less, and so on (41). Next, Sun-
-@\discretionary via @8 b=1 p=50 d=12621
-@@14: line 5.2- t=26639 -> @8
-dardās 
-@ via @9 b=0 p=0 d=100
-@ via @10 b=41 p=0 d=2601
-@@15: line 5.2 t=3069 -> @9
-de-
-@\discretionary via @10 b=0 p=50 d=2600
-@\discretionary via @11 b=16 p=50 d=3176
-@\discretionary via @12 b=16 p=50 d=13176
-@@16: line 5.2- t=22349 -> @10
-scribes 
-@ via @13 b=0 p=0 d=100
-@@17: line 5.2 t=39769 -> @13
-the var-i-ous lay-ers of cre-ation em-a-nat-ing from \TU/Vollkorn(0)/m/it/10 o
-ṃ \TU/Vollkorn(0)/m/n/10 (42-45). 
-@ via @14 b=1 p=0 d=121
-@@18: line 6.2 t=26760 -> @14
-He 
-@ via @14 b=4 p=0 d=196
-@@19: line 6.2 t=26835 -> @14
-says 
-@ via @15 b=0 p=0 d=100
-@ via @16 b=14 p=0 d=576
-@@20: line 6.2 t=3169 -> @15
-the 
-@ via @15 b=97 p=0 d=11449
-@ via @16 b=0 p=0 d=100
-@@21: line 6.2 t=22449 -> @16
-@@22: line 6.3 t=14518 -> @15
-un-
-@\discretionary via @17 b=14 p=50 d=3076
-@@23: line 6.1- t=42845 -> @17
-man-
-@\discretionary via @17 b=0 p=50 d=2600
-@@24: line 6.2- t=42369 -> @17
-i-
-@\discretionary via @17 b=8 p=50 d=2824
-@@25: line 6.2- t=42593 -> @17
-fest con-scious-ness il-lu-mi-nates ev-ery cor-ner of ex-is-tence 
-@ via @18 b=0 p=0 d=100
-@ via @19 b=196 p=0 d=52436
-@@26: line 7.2 t=26860 -> @18
-(46), 
-@ via @19 b=0 p=0 d=100
-@@27: line 7.2 t=26935 -> @19
-be-
-@\discretionary via @20 b=0 p=50 d=2600
-@@28: line 7.2- t=5769 -> @20
-ing 
-@ via @20 b=47 p=0 d=3249
-@ via @21 b=0 p=0 d=100
-@ via @22 b=0 p=0 d=100
-@@29: line 7.2 t=14618 -> @22
-@@30: line 7.3 t=6418 -> @20
-the 
-@ via @21 b=47 p=0 d=3249
-@ via @22 b=47 p=0 d=3249
-@ via @23 b=0 p=0 d=100
-@@31: line 7.3 t=17767 -> @22
-in-
-@\discretionary via @23 b=77 p=50 d=30069
-@\discretionary via @24 b=0 p=50 d=12600
-@\discretionary via @25 b=7 p=50 d=12789
-@@32: line 7.2- t=54969 -> @24
-ner 
-@ via @24 b=0 p=0 d=100
-@ via @25 b=0 p=0 d=100
-@@33: line 7.2 t=42469 -> @24
-knower of all (47). Then, Sun-dardās ex-presses the im-
-@\discretionary via @26 b=1 p=50 d=2621
-@@34: line 8.2- t=29481 -> @26
-por-
-@\discretionary via @26 b=0 p=50 d=2600
-@\discretionary via @27 b=32 p=50 d=4264
-@@35: line 8.1- t=31199 -> @27
-@@36: line 8.2- t=29460 -> @26
-tance 
-@ via @27 b=0 p=0 d=100
-@ via @28 b=0 p=0 d=100
-@ via @29 b=146 p=0 d=34336
-@ via @30 b=146 p=0 d=34336
-@@37: line 8.2 t=5869 -> @28
-of 
-@ via @28 b=0 p=0 d=100
-@ via @29 b=1 p=0 d=121
-@ via @30 b=1 p=0 d=121
-@@38: line 8.2 t=5869 -> @28
-deep 
-@ via @31 b=0 p=0 d=100
-@ via @32 b=4 p=0 d=196
-@@39: line 8.2 t=17867 -> @31
-awe 
-@ via @32 b=4 p=0 d=196
-@ via @33 b=0 p=0 d=100
-@@40: line 8.2 t=42569 -> @33
-to-
-@\discretionary via @33 b=0 p=50 d=2600
-@@41: line 8.2- t=45069 -> @33
-wards the in-fi-nite, di-vine, all-knowing and in-com-
-@\discretionary via @34 b=2 p=50 d=12644
-@@42: line 9.2- t=42125 -> @34
-pre-
-@\discretionary via @34 b=0 p=50 d=12600
-@\discretionary via @35 b=4 p=50 d=12696
-@\discretionary via @36 b=4 p=50 d=12696
-@@43: line 9.2- t=42081 -> @34
-hen-
-@\discretionary via @35 b=0 p=50 d=12600
-@\discretionary via @36 b=0 p=50 d=12600
-@@44: line 9.2- t=42060 -> @36
-si-
-@\discretionary via @37 b=16 p=50 d=3176
-@@45: line 9.1- t=9045 -> @37
-ble 
-@ via @37 b=0 p=0 d=100
-@ via @38 b=33 p=0 d=1849
-@@46: line 9.1 t=7718 -> @38
-@@47: line 9.2 t=5969 -> @37
-(48-
-@\discretionary via @38 b=0 p=50 d=2600
-@@48: line 9.2- t=8469 -> @38
-49) 
-@ via @39 b=0 p=0 d=100
-@@49: line 9.2 t=17967 -> @39
-un-
-@\discretionary via @40 b=0 p=50 d=2600
-@\discretionary via @41 b=69 p=50 d=18741
-@@50: line 9.2- t=45169 -> @40
-man-
-@\discretionary via @41 b=0 p=50 d=12600
-@@51: line 9.2- t=57669 -> @41
-i-
-@\discretionary via @41 b=15 p=50 d=13125
-@@52: line 9.3- t=58194 -> @41
-fest con-scious-ness. 
-@\par via @42 b=0 p=-10000 d=5100
-@\par via @43 b=0 p=-10000 d=5100
-@\par via @44 b=0 p=-10000 d=5100
-@\par via @45 b=0 p=-10000 d=5100
-@\par via @46 b=0 p=-10000 d=100
-@\par via @47 b=0 p=-10000 d=100
-@\par via @48 b=0 p=-10000 d=5100
-@\par via @49 b=0 p=-10000 d=100
-@\par via @50 b=0 p=-10000 d=5100
-@\par via @51 b=0 p=-10000 d=5100
-@\par via @52 b=0 p=-10000 d=5100
-@@53: line 10.2- t=6069 -> @47
-
-@firstpass
 @secondpass
 @emergencypass
 \TU/Vollkorn(0)/m/n/8 Cf
@@ -31025,126 +32406,169 @@ fest con-scious-ness.
 @firstpass
 [][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Sarvāṅ-gayo-gapradīpi
 kā \TU/Vollkorn(0)/m/n/8 2.41ab (\TU/Vollkorn(0)/m/it/8 avyakta pu-ruṣa agama
- apārā \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8 kai-saiṃ kai kariye ni
-rd-dhārā \TU/Vollkorn(0)/m/n/8 || 
+ apārā kai-saiṃ kai kariye nird-dhārā \TU/Vollkorn(0)/m/n/8 || 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-[]\TU/Vollkorn(0)/m/n/10 Die gesamte Pas-sage über Car-cāyoga ist vor allem du
-rch Diskus-sion und 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
 @secondpass
-[]\TU/Vollkorn(0)/m/n/10 Die gesamte Pas-sage über Car-cāyoga ist vor allem du
-rch Diskus-sion und 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-Beschrei-bung vom un-man-i-festierten Be-wusst-sein (\TU/Vollkorn(0)/m/it/10 avy
-akta pu-ruṣa\TU/Vollkorn(0)/m/n/10 ) gekennze-
-@\discretionary via @1 b=0 p=50 d=2600
-@@2: line 2.2- t=2700 -> @1
-ich-net. Und genau dieser As-pekt ist der Kern dieser Art des Yoga. Das un-
-@\discretionary via @2 b=16 p=50 d=13176
-@@3: line 3.1- t=15876 -> @2
-lim-
-@\discretionary via @2 b=0 p=50 d=12600
-@@4: line 3.2- t=15300 -> @2
-i-
-@\discretionary via @2 b=0 p=50 d=12600
-@@5: line 3.2- t=15300 -> @2
-tierte un-man-i-festierten Be-wusst-sein ist eigentlich in lim-i-tierende Worte 
+[]\TU/Vollkorn(0)/m/n/10 The en-tire pas-sage on Car-cāyoga is char-ac-terised by a dis-cus-sion and 
+@ via @0 b=169 p=0 d=42041
+@@1: line 1.0 t=42041 -> @0
+de-
+@\discretionary via @0 b=0 p=50 d=2600
+@@2: line 1.2- t=2600 -> @0
+scrip-tion of the un-man-i-fest con-scious-ness (\TU/Vollkorn(0)/m/it/10 avyakta
+ pu-ruṣa\TU/Vollkorn(0)/m/n/10 ). This as-pect 
+@ via @1 b=71 p=0 d=6561
+@@3: line 2.1 t=48602 -> @1
+is 
+@ via @1 b=0 p=0 d=10100
+@ via @2 b=77 p=0 d=7569
+@@4: line 2.1 t=10169 -> @2
+the 
+@ via @1 b=34 p=0 d=11936
+@ via @2 b=0 p=0 d=100
+@@5: line 2.2 t=2700 -> @2
+core of this type of Yoga. Un-lim-ited un-man-i-fested con-scious-ness can 
 @ via @3 b=0 p=0 d=100
-@ via @4 b=182 p=0 d=46864
-@@6: line 4.2 t=15976 -> @3
-zu 
+@ via @4 b=51 p=0 d=3721
+@@6: line 3.1 t=13890 -> @4
+be 
+@ via @3 b=0 p=0 d=100
 @ via @4 b=0 p=0 d=100
+@ via @5 b=147 p=0 d=34649
+@@7: line 3.2 t=10269 -> @4
+put 
+@ via @4 b=90 p=0 d=20000
 @ via @5 b=0 p=0 d=100
-@@7: line 4.2 t=15400 -> @5
-fassen und den-noch ist der Übende mit der Frage kon-fron-tiert, wie es 
-@ via @6 b=109 p=0 d=24161
-@@8: line 5.0 t=40137 -> @6
-definiert 
-@ via @7 b=4 p=0 d=196
-@@9: line 5.2 t=15596 -> @7
-und bes-timmt wer-den soll.[][][][] Und genau dies ist die Praxis des \TU/Vollk
-orn(0)/m/it/10 car-
-@\discretionary via @8 b=0 p=50 d=12600
-@@10: line 6.2- t=52737 -> @8
-cāyoga\TU/Vollkorn(0)/m/n/10 . Der 
+@@8: line 3.2 t=2800 -> @5
+into lim-it-ing words only, and yet the prac-ti-tioner is con-fronted with 
+@ via @6 b=0 p=0 d=100
+@ via @7 b=178 p=0 d=45344
+@@9: line 4.2 t=13990 -> @6
+the 
+@ via @6 b=3 p=0 d=169
+@ via @7 b=0 p=0 d=100
+@@10: line 4.2 t=10369 -> @7
+ques-
+@\discretionary via @8 b=0 p=50 d=2600
+@@11: line 4.2- t=5400 -> @8
+tion of how it is sup-posed to be de-fined and de-ter-mined.[][][][] And 
+@ via @9 b=155 p=0 d=37225
+@@12: line 5.0 t=51215 -> @9
+this 
 @ via @9 b=0 p=0 d=100
-@@11: line 6.2 t=15696 -> @9
-Be-
-@\discretionary via @9 b=78 p=50 d=10244
-@@12: line 6.3- t=25840 -> @9
-griff \TU/Vollkorn(0)/m/it/10 carcā° \TU/Vollkorn(0)/m/n/10 bezieht sich hier auf das disku-tieren, auf das in 
-@ via @10 b=35 p=0 d=2025
-@@13: line 7.1 t=54762 -> @10
-Worte 
-@ via @10 b=52 p=0 d=3844
-@@14: line 7.3 t=56581 -> @10
-fassen, 
-@ via @11 b=0 p=0 d=100
-@ via @12 b=77 p=0 d=17569
-@@15: line 7.2 t=15796 -> @11
-und 
-@ via @11 b=93 p=0 d=10609
-@ via @12 b=0 p=0 d=100
-@@16: line 7.2 t=25940 -> @12
-@@17: line 7.3 t=26305 -> @11
-auf das her-vorheben einzel-ner De-tails des un-man-i-festierten 
-@ via @13 b=66 p=0 d=15776
-@@18: line 8.3 t=70538 -> @13
-Be-
-@\discretionary via @14 b=0 p=50 d=2600
-@@19: line 8.2- t=59181 -> @14
-wusst-
-@\discretionary via @15 b=4 p=50 d=2696
-@@20: line 8.2- t=18492 -> @15
-seins 
-@ via @15 b=83 p=0 d=8649
-@ via @16 b=1 p=0 d=121
-@ via @17 b=1 p=0 d=121
-@@21: line 8.2 t=26061 -> @16
-@@22: line 8.3 t=24445 -> @15
-zur 
-@ via @16 b=10 p=0 d=400
-@ via @17 b=10 p=0 d=400
-@@23: line 8.2 t=26340 -> @16
-Erzeu-gung von tiefer Ehrfurcht zur Kul-tivierung von Bhak-
-@\discretionary via @18 b=0 p=50 d=2600
-@\discretionary via @19 b=1 p=50 d=12621
-@@24: line 9.2- t=71802 -> @19
-tiyoga, 
-@ via @20 b=0 p=0 d=100
-@@25: line 9.2 t=18592 -> @20
-dem 
-@ via @21 b=1 p=0 d=121
-@ via @22 b=1 p=0 d=121
-@@26: line 9.2 t=24566 -> @22
-Yoga 
+@ via @10 b=92 p=0 d=10404
+@@13: line 5.1 t=20773 -> @10
+@@14: line 5.2 t=14090 -> @9
+is 
+@ via @9 b=0 p=0 d=100
+@ via @10 b=2 p=0 d=144
+@@15: line 5.2 t=10513 -> @10
+pre-
+@\discretionary via @10 b=3 p=50 d=2669
+@\discretionary via @11 b=4 p=50 d=12696
+@@16: line 5.2- t=13038 -> @10
+cisely 
+@ via @11 b=19 p=0 d=841
+@@17: line 5.3 t=6241 -> @11
+the prac-tice of Car-cāyoga. The term \TU/Vollkorn(0)/m/it/10 carcā° \TU/Vol
+lkorn(0)/m/n/10 here refers to 
+@ via @12 b=102 p=0 d=12544
+@@18: line 6.0 t=63759 -> @12
+dis-
+@\discretionary via @12 b=0 p=50 d=12600
+@\discretionary via @13 b=145 p=50 d=26525
+@\discretionary via @14 b=145 p=50 d=36525
+@@19: line 6.0- t=47298 -> @13
+cussing, 
+@ via @13 b=16 p=0 d=10676
+@ via @14 b=16 p=0 d=676
+@ via @15 b=0 p=0 d=100
+@ via @16 b=20 p=0 d=900
+@@20: line 6.1 t=13938 -> @16
+@@21: line 6.2 t=10613 -> @15
+@@22: line 6.3 t=14766 -> @14
+putting 
+@ via @17 b=0 p=0 d=100
+@@23: line 6.2 t=6341 -> @17
+into words, and em-pha-sis-ing in-di-vid-ual de-tails of un-
+@\discretionary via @18 b=62 p=50 d=7684
+@@24: line 7.1- t=71443 -> @18
+man-
+@\discretionary via @18 b=0 p=50 d=12600
+@\discretionary via @19 b=0 p=50 d=22600
+@@25: line 7.2- t=69898 -> @19
+i-
+@\discretionary via @18 b=6 p=50 d=12756
+@\discretionary via @19 b=0 p=50 d=22600
+@@26: line 7.2- t=69898 -> @19
+fest 
+@ via @19 b=17 p=0 d=10729
+@@27: line 7.3 t=58027 -> @19
+con-
+@\discretionary via @20 b=1 p=50 d=2621
+@\discretionary via @21 b=1 p=50 d=2621
+@\discretionary via @22 b=1 p=50 d=2621
+@@28: line 7.2- t=13234 -> @21
+scious-
+@\discretionary via @23 b=140 p=50 d=35000
+@@29: line 7.0- t=41341 -> @23
+ness 
 @ via @23 b=0 p=0 d=100
-@@27: line 9.2 t=26440 -> @23
-durch hinge-bungsvolle Verehrung von \TU/Vollkorn(0)/m/it/10 avyakta pu-ruṣa\
-TU/Vollkorn(0)/m/n/10 . Dies 
-@ via @24 b=0 p=0 d=100
-@@28: line 10.2 t=71902 -> @24
-verdeut-
-@\discretionary via @25 b=0 p=50 d=2600
-@\discretionary via @26 b=176 p=50 d=47096
-@@29: line 10.2- t=21192 -> @25
-lich 
-@ via @26 b=0 p=0 d=100
-@@30: line 10.2 t=24666 -> @26
-vor 
-@ via @27 b=6 p=0 d=256
-@@31: line 10.2 t=26696 -> @27
-allem der fol-gende Vers: 
-@\par via @28 b=0 p=-10000 d=100
-@\par via @29 b=0 p=-10000 d=5100
-@\par via @30 b=0 p=-10000 d=100
-@\par via @31 b=0 p=-10000 d=100
-@@32: line 11.2- t=24766 -> @30
+@@30: line 7.2 t=6441 -> @23
+to gen-er-ate deep rev-er-ence for the cul-ti-va-tion of Bhak-
+@\discretionary via @24 b=12 p=50 d=12984
+@\discretionary via @25 b=7 p=50 d=12789
+@\discretionary via @26 b=36 p=50 d=14616
+@@31: line 8.1- t=84514 -> @26
+@@32: line 8.2- t=82687 -> @25
+tiyoga, 
+@ via @27 b=0 p=0 d=100
+@@33: line 8.2 t=58127 -> @27
+the 
+@ via @28 b=0 p=0 d=100
+@@34: line 8.2 t=13334 -> @28
+Yoga 
+@ via @29 b=0 p=0 d=10100
+@@35: line 8.2 t=51441 -> @29
+of 
+@ via @29 b=0 p=0 d=10100
+@ via @30 b=111 p=0 d=24641
+@@36: line 8.0 t=31082 -> @30
+de-
+@\discretionary via @30 b=0 p=50 d=2600
+@@37: line 8.2- t=9041 -> @30
+vo-
+@\discretionary via @30 b=2 p=50 d=2644
+@@38: line 8.2- t=9085 -> @30
+tional wor-ship of \TU/Vollkorn(0)/m/it/10 avyakta pu-ruṣa\TU/Vollkorn(0)/m/n
+/10 . The fol-low-ing verse 
+@ via @31 b=0 p=0 d=100
+@ via @32 b=0 p=0 d=100
+@@39: line 9.2 t=82787 -> @32
+il-
+@\discretionary via @31 b=11 p=50 d=12941
+@\discretionary via @32 b=11 p=50 d=12941
+@\discretionary via @33 b=196 p=50 d=54936
+@@40: line 9.2- t=95628 -> @32
+lus-
+@\discretionary via @33 b=1 p=50 d=2621
+@@41: line 9.2- t=60748 -> @33
+trates 
+@ via @34 b=0 p=0 d=100
+@@42: line 9.2 t=13434 -> @34
+this: 
+@\par via @35 b=0 p=-10000 d=100
+@\par via @36 b=0 p=-10000 d=10100
+@\par via @37 b=0 p=-10000 d=5100
+@\par via @38 b=0 p=-10000 d=5100
+@\par via @39 b=0 p=-10000 d=100
+@\par via @40 b=0 p=-10000 d=5100
+@\par via @41 b=0 p=-10000 d=5100
+@\par via @42 b=0 p=-10000 d=100
+@@43: line 10.2- t=13534 -> @42
 
 @firstpass
 @secondpass
@@ -31180,36 +32604,32 @@ kaiṃna dhaiṃ pā-vai \TU/Vollkorn(0)/m/n/8 || 47 |||
  in-ner 
 @ via @0 b=88 p=0 d=9604
 @@1: line 1.1 t=9604 -> @0
-knower of ev-ery-thing. There is no end de-scrib-ing cre-ation. Your 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=9704 -> @1
+knower of ev-ery-thing. There is no end to de-scrib-ing cre-ation. Your 
+@ via @1 b=4 p=0 d=196
+@@2: line 2.2 t=9800 -> @1
 limit can-not be reached by any means.[][][][] 
 @\par via @2 b=0 p=-10000 d=100
-@@3: line 3.2- t=9804 -> @2
+@@3: line 3.2- t=9900 -> @2
 
 @firstpass
-[]\TU/Vollkorn(0)/m/n/10 Somit wird klar, dass keine di-rekte konzep-tionelle Ve
-rbindung zwis-chen 
+[]\TU/Vollkorn(0)/m/n/10 Thus, it is clear that no di-rect con-cep-tual con-nec-
+tion ex-ists be-tween the 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-@secondpass
-[]\TU/Vollkorn(0)/m/n/10 Somit wird klar, dass keine di-rekte konzep-tionelle Ve
-rbindung zwis-chen 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-den zu-vor beschriebe-nen Caryāyo-gas und dem Car-cāyoga besteht. Eine sin-
-@\discretionary via @1 b=0 p=50 d=2600
-@@2: line 2.2- t=2700 -> @1
-nvolle Erk-lärung 󰀨ür die auf-󰀨äl-lige Ho-mo-phonie bei-der Be-griffe, kann bis 
-@ via @2 b=89 p=0 d=9801
-@@3: line 3.1 t=12501 -> @2
-auf 
-@ via @2 b=0 p=0 d=100
-@@4: line 3.2 t=2800 -> @2
-Weit-eres nicht geboten wer-den. 
+Caryāyo-gas de-scribed above and Car-cāyoga. A mean-ing-ful ex-pla-na-tion for
+ 
+@ via @1 b=0 p=0 d=100
+@@2: line 2.2 t=200 -> @1
+the 
+@ via @1 b=8 p=0 d=324
+@@3: line 2.2 t=424 -> @1
+con-spic-u-ous ho-mophony of both terms can-not be of-fered for the time 
+@ via @2 b=18 p=0 d=784
+@@4: line 3.1 t=984 -> @2
+be-ing. 
 @\par via @3 b=0 p=-10000 d=100
 @\par via @4 b=0 p=-10000 d=100
-@@5: line 4.2- t=2900 -> @4
+@@5: line 3.2- t=524 -> @3
 
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 40| 
@@ -31264,41 +32684,6 @@ tax-onomies|
 @@1: line 1.2- t=100 -> @0
 
  [40]
-@firstpass
-[]|\TU/Vollkorn(0)/m/sl/10 3. 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-Caryāyoga| 
-@\par via @0 b=0 p=-10000 d=100
-@\par via @1 b=0 p=-10000 d=100
-@@2: line 1.2- t=100 -> @0
-
-@firstpass
-[]||
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
-[]|\TU/Vollkorn(0)/m/n/10 41|
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
-[]|| 
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
-[]||
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
-[]||
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
- [41]
 \tf@toc=\write9
 
 \openout9 = intro.toc
@@ -31320,27 +32705,27 @@ Package logreq Info: Writing requests to 'intro.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 47546 strings out of 477352
+ 47545 strings out of 477352
  100000,1977958 words of node,token memory allocated
  2915 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 1 local_par, 101 glue, 3 kern, 1 penalty, 25 glyph,
  231 attribute, 224 glue_spec, 116 attribute_list, 2 shape, 3 write, 9 pdf_actio
 n nodes
-   avail lists: 1:1,2:3007,3:415,4:112,5:946,6:203,7:8644,8:108,9:1298,10:24,11:
-622
+   avail lists: 1:1,2:3007,3:415,4:112,5:907,6:203,7:8359,8:108,9:1298,10:24,11:
+599
  66847 multiletter control sequences out of 65536+600000
  100 fonts using 20428807 bytes
- 95i,12n,98p,4172b,2269s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,12n,98p,4046b,2269s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf
 ></home/enjotel/.local/share/fonts/Vollkorn-BoldItalic.ttf></home/enjotel/.local
 /share/fonts/Vollkorn-Bold.ttf></home/enjotel/.local/share/fonts/Vollkorn-Regula
 r.ttf></home/enjotel/.local/share/fonts/Sanskrit_2003.ttf></home/enjotel/.local/
 share/fonts/Vollkorn-Italic.ttf></usr/local/texlive/2022/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy8.pfb>
-Output written on intro.pdf (48 pages, 253460 bytes).
+Output written on intro.pdf (47 pages, 251202 bytes).
 
-PDF statistics: 661 PDF objects out of 1000 (max. 8388607)
- 585 compressed objects within 6 object streams
- 179 named destinations out of 1000 (max. 131072)
+PDF statistics: 657 PDF objects out of 1000 (max. 8388607)
+ 582 compressed objects within 6 object streams
+ 178 named destinations out of 1000 (max. 131072)
  248 words of extra memory for PDF output out of 10000 (max. 100000000)
 
