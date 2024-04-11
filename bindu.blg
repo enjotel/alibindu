@@ -1,26 +1,28 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
-[0] Config.pm:309> INFO - Logfile is 'bindu.blg'
-[106] biber:340> INFO - === Di Apr  2, 2024, 22:13:20
-[125] Biber.pm:418> INFO - Reading 'bindu.bcf'
-[267] Biber.pm:978> INFO - Found 13 citekeys in bib section 0
-[303] Biber.pm:4401> INFO - Processing section 0
-[323] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[338] bibtex.pm:1713> INFO - LaTeX decoding ...
-[804] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
-[961] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[961] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[961] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[961] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[976] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[982] bbl.pm:757> INFO - Output to bindu.bbl
-[983] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
-[983] Biber.pm:130> WARN - Duplicate entry key: 'kaviraj' in file 'bindu.bib', skipping ...
-[983] Biber.pm:130> WARN - Duplicate entry key: 'birch2014' in file 'bindu.bib', skipping ...
-[983] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[983] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
-[983] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
-[983] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_GWpr/a411a05437c082f0cf4f7e71b7c360c2_24636.utf8, line 138, warning: 3 characters of junk seen at toplevel
-[983] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_GWpr/a411a05437c082f0cf4f7e71b7c360c2_24636.utf8, line 2360, warning: entry started with "(", but ends with "}"
-[983] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_GWpr/a411a05437c082f0cf4f7e71b7c360c2_24636.utf8, line 2841, warning: 121 characters of junk seen at toplevel
-[983] Biber.pm:130> WARN - I didn't find a database entry for 'bhagavadgita' (section 0)
-[983] Biber.pm:132> INFO - WARNINGS: 10
+[1] Config.pm:309> INFO - Logfile is 'bindu.blg'
+[109] biber:340> INFO - === Do Apr 11, 2024, 13:31:03
+[132] Biber.pm:418> INFO - Reading 'bindu.bcf'
+[248] Biber.pm:978> INFO - Found 27 citekeys in bib section 0
+[271] Biber.pm:4401> INFO - Processing section 0
+[287] Biber.pm:4592> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[301] bibtex.pm:1713> INFO - LaTeX decoding ...
+[734] bibtex.pm:1518> INFO - Found BibTeX data source 'bindu.bib'
+[990] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[991] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[991] Biber.pm:4221> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[991] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1026] bbl.pm:654> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[1040] bbl.pm:757> INFO - Output to bindu.bbl
+[1040] Biber.pm:130> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
+[1040] Biber.pm:130> WARN - Duplicate entry key: 'kaviraj' in file 'bindu.bib', skipping ...
+[1040] Biber.pm:130> WARN - Duplicate entry key: 'birch2014' in file 'bindu.bib', skipping ...
+[1040] Biber.pm:130> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
+[1040] Biber.pm:130> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
+[1040] Biber.pm:130> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
+[1041] Biber.pm:130> WARN - legacy year field '11th or 12th century' in entry 'ratirahasya' is not an integer - this will probably not sort properly.
+[1041] Biber.pm:130> WARN - legacy year field 'no date of publication' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
+[1041] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_tc2u/a411a05437c082f0cf4f7e71b7c360c2_40421.utf8, line 147, warning: 3 characters of junk seen at toplevel
+[1041] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_tc2u/a411a05437c082f0cf4f7e71b7c360c2_40421.utf8, line 2369, warning: entry started with "(", but ends with "}"
+[1041] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_tc2u/a411a05437c082f0cf4f7e71b7c360c2_40421.utf8, line 2850, warning: 121 characters of junk seen at toplevel
+[1041] Biber.pm:130> WARN - I didn't find a database entry for 'bhagavadgita' (section 0)
+[1041] Biber.pm:132> INFO - WARNINGS: 12

@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "alibindulager"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -58,7 +58,6 @@
     "jnanayogastart"
     "jnanayogatrans1"
     "jnanayogaend"
-    "antaralaksya"
     "divisionofchannels"
     "vitalwinds"
     "madhyalaksya"
@@ -83,6 +82,9 @@
     "knowledgetrans"
     "gapn1n2end"
     "generationofbody"
-    "fivegreatelements"))
+    "fivegreatelements"
+    "greatelements"
+    "greatelements2"
+    "kulpentad"))
  :latex)
 
