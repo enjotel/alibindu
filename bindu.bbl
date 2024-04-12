@@ -27,6 +27,33 @@
       \field{title}{Advayatārakopaniṣat}
       \keyw{printsource}
     \endentry
+    \entry{apte1890practical}{book}{}
+      \name{author}{1}{}{%
+        {{hash=394bc5d611de96956880f3c893587abd}{%
+           family={Apte},
+           familyi={A\bibinitperiod},
+           given={Vaman\bibnamedelima Shivaram},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Poona}%
+      }
+      \list{publisher}{1}{%
+        {Shiralkar}%
+      }
+      \strng{namehash}{394bc5d611de96956880f3c893587abd}
+      \strng{fullhash}{394bc5d611de96956880f3c893587abd}
+      \strng{bibnamehash}{394bc5d611de96956880f3c893587abd}
+      \strng{authorbibnamehash}{394bc5d611de96956880f3c893587abd}
+      \strng{authornamehash}{394bc5d611de96956880f3c893587abd}
+      \strng{authorfullhash}{394bc5d611de96956880f3c893587abd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Practical Sanskrit-English Dictionary}
+      \field{year}{1890}
+    \endentry
     \entry{balcerowicz2011dharmakirti}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=ee5f87c74b70d9b6145573733778c14d}{%
@@ -116,6 +143,36 @@
       \field{year}{2013}
       \keyw{printsource}
     \endentry
+    \entry{birch2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
+           family={Birch},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {University of Oxford Library}%
+      }
+      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
+      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction: Ph.D. Dissertation}
+      \field{title}{Amanaska}
+      \field{year}{2013}
+      \keyw{printsource}
+    \endentry
     \entry{birch2019saiva}{article}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -130,6 +187,7 @@
       \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
       \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
       \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
@@ -418,6 +476,35 @@
       \field{title}{Ratirahasya}
       \field{year}{11th or 12th century}
       \keyw{printed}
+    \endentry
+    \entry{sivasvarodaya}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=1deff1557276388b0bf970ef2027bab7}{%
+           family={Maheshananda},
+           familyi={M\bibinitperiod},
+           given={Swami},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lonavla}%
+      }
+      \list{publisher}{1}{%
+        {Kaivalyadhama S.M.Y.M. Samiti}%
+      }
+      \strng{namehash}{1deff1557276388b0bf970ef2027bab7}
+      \strng{fullhash}{1deff1557276388b0bf970ef2027bab7}
+      \strng{bibnamehash}{1deff1557276388b0bf970ef2027bab7}
+      \strng{editorbibnamehash}{1deff1557276388b0bf970ef2027bab7}
+      \strng{editornamehash}{1deff1557276388b0bf970ef2027bab7}
+      \strng{editorfullhash}{1deff1557276388b0bf970ef2027bab7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Śivasvarodaya: A Critical Edition - English Version}
+      \field{title}{Śivasvarodaya}
+      \field{year}{2015}
+      \keyw{printsource}
     \endentry
     \entry{mallinson2012sataka}{article}{}
       \name{author}{1}{}{%

@@ -55,9 +55,6 @@
     "secondtypehatha"
     "hathayogatrans"
     "secondhathatrans"
-    "jnanayogastart"
-    "jnanayogatrans1"
-    "jnanayogaend"
     "divisionofchannels"
     "vitalwinds"
     "madhyalaksya"
@@ -85,6 +82,9 @@
     "fivegreatelements"
     "greatelements"
     "greatelements2"
-    "kulpentad"))
+    "kulpentad"
+    "kulpentadtrans"
+    "uniqueknowledge"
+    "karmapentad"))
  :latex)
 
