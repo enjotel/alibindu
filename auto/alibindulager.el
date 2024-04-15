@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "alibindulager"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -51,10 +51,6 @@
     "anjacihnatrans"
     "caryayoga"
     "caryayogatrans"
-    "hathayoga"
-    "secondtypehatha"
-    "hathayogatrans"
-    "secondhathatrans"
     "jnanayogastart"
     "jnanayogatrans1"
     "jnanayogaend"
@@ -62,6 +58,10 @@
     "svabhava2"
     "eightenjoyments"
     "endsvabhava"
+    "bahya"
+    "bahyatrans"
+    "continuebahya"
+    "antaralaksya"
     "divisionofchannels"
     "vitalwinds"
     "madhyalaksya"
@@ -81,10 +81,6 @@
     "avadhuta"
     "lotusofsupport"
     "heartlotus"
-    "heartlotustrans"
-    "knowledge"
-    "knowledgetrans"
-    "gapn1n2end"
-    "generationofbody"))
+    "heartlotustrans"))
  :latex)
 
