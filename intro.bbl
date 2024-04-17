@@ -1348,6 +1348,45 @@
       \field{year}{1938}
       \keyw{printed}
     \endentry
+    \entry{ramatosana}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=dc716fc745d9c8460fad8d270823fd11}{%
+           family={Rāmatoṣaṇa},
+           familyi={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1bffbea7d86a57af82498f8e0ba5a636}{%
+           family={Vidyāsāgara},
+           familyi={V\bibinitperiod},
+           given={Jīvānanda},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{fullhash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{fullhashraw}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{bibnamehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authorbibnamehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authornamehash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authorfullhash}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{authorfullhashraw}{dc716fc745d9c8460fad8d270823fd11}
+      \strng{editorbibnamehash}{1bffbea7d86a57af82498f8e0ba5a636}
+      \strng{editornamehash}{1bffbea7d86a57af82498f8e0ba5a636}
+      \strng{editorfullhash}{1bffbea7d86a57af82498f8e0ba5a636}
+      \strng{editorfullhashraw}{1bffbea7d86a57af82498f8e0ba5a636}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prāṇatoṣinī}
+      \field{year}{1898}
+      \verb{urlraw}
+      \verb https://archive.org/details/PranatoshiniTantraJibanandaVidyasagara1898LR
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/PranatoshiniTantraJibanandaVidyasagara1898LR
+      \endverb
+      \keyw{printsource}
+    \endentry
     \entry{yogaupaniṣaded}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=0cb6672c06776b8443c01ae2b2da6df2}{%
