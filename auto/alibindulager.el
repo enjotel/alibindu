@@ -51,6 +51,10 @@
     "anjacihnatrans"
     "caryayoga"
     "caryayogatrans"
+    "hathayoga"
+    "hathayogatrans"
+    "secondtypehatha"
+    "secondhathatrans"
     "jnanayogastart"
     "jnanayogatrans1"
     "jnanayogaend"
@@ -80,7 +84,6 @@
     "attributesrajabody"
     "avadhuta"
     "lotusofsupport"
-    "heartlotus"
-    "heartlotustrans"))
+    "heartlotus"))
  :latex)
 
