@@ -13,6 +13,11 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
+    "antaralaksya"
+    "divisionofchannels"
+    "vitalwinds"
+    "madhyalaksya"
+    "cakranukrama"
     "fig1"
     "fig2"
     "sec:bibli"))

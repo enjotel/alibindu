@@ -20,6 +20,9 @@
     "jnanayogaintro"
     "Jnanayogaintro2"
     "caryayogaintro"
-    "hathayogaintro"))
+    "hathayogaintro"
+    "karmayogaintro"
+    "layayogaintro"
+    "dhyānayogaintro"))
  :latex)
 
