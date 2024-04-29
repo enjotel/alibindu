@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  26 APR 2024 00:39
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  28 APR 2024 16:54
  restricted system commands enabled.
 **intro.tex
 (./intro.tex
@@ -2244,6 +2244,13 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load language 'iast'...
+Package biblatex Info: ... file 'iast.lbx' not found.
+
+
+Package biblatex Warning: Language 'iast' not supported.
+(biblatex)                Using dummy definitions on input line 48.
+
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -2252,7 +2259,6 @@ Package biblatex Info: Automatic encoding selection.
 \openout6 = intro.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'intro.bbl' found.
-
 (./intro.bbl
 
 Package biblatex Warning: The following entry could not be found
@@ -2320,12 +2326,6 @@ Yo-gatattv-abindu
 @\par via @0 b=0 p=-10000 d=100
 @\par via @1 b=0 p=-10000 d=100
 @@2: line 1.2- t=100 -> @0
-
-
-
-Package biblatex Warning: No localisation for language 'iast' loaded.
-(biblatex)                Please rerun LaTeX to ensure languages can
-(biblatex)                be requested properly.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Sanskrit2003' (encoding: TU).
@@ -2460,7 +2460,7 @@ Ver-lag
 @\par via @1 b=0 p=-10000 d=100
 @@2: line 1.2- t=100 -> @0
 
-[3]
+ [3]
 @firstpass
 []   
 @\par via @0 b=0 p=-10000 d=100
@@ -2888,6 +2888,18 @@ abindu \TU/Vollkorn(0)/m/n/10 and \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya[] [
 [][] []\TU/Vollkorn(0)/m/n/10 Mantrayoga in the \TU/Vollkorn(0)/m/it/10 Yo-gatat
 tv-abindu \TU/Vollkorn(0)/m/n/10 and \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya[
 ] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/m/n/10 Mantrayoga in the \TU/Vollkorn(0)/m/it/10 Yo-gasid
+-dhān-ta-can-drikā[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/m/n/10 Mantrayoga in the \TU/Vollkorn(0)/m/it/10 Sarvā
+ṅ-gayo-gapradīpikā[] [] 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
@@ -21884,16 +21896,12 @@ rn(0)/m/n/10 ’s words, this is the ``tur-bo-jet'' of self-realisation.
 This 
 @ via @1 b=3 p=0 d=169
 @@3: line 2.2 t=269 -> @1
-type of Kriyāyoga in-cludes de-vo-tional love, chant-ing, rit-ual wor-ship 
-@ via @2 b=66 p=0 d=5776
-@@4: line 3.1 t=9240 -> @2
-and 
+type of Kriyāyoga in-cludes de-vo-tion-allove, chant-ing, rit-ual wor-ship and 
 @ via @2 b=0 p=0 d=100
-@@5: line 3.2 t=3564 -> @2
+@@4: line 3.2 t=3564 -> @2
 pil-grim-ages to holy places. 
 @\par via @4 b=0 p=-10000 d=100
-@\par via @5 b=0 p=-10000 d=100
-@@6: line 4.2- t=3664 -> @5
+@@5: line 4.2- t=3664 -> @4
 
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 26| 
@@ -28794,95 +28802,95 @@ the high-est state of Yoga, which is called \TU/Vollkorn(0)/m/it/10 asaṃpra-j
 @firstpass
 @secondpass
 [][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-dri
-kā \TU/Vollkorn(0)/m/n/8 Ed. p. 46: ’Fur-ther-more, by the term \TU/Vollkorn
-(0)/m/it/8 japa\TU/Vollkorn(0)/m/n/8 , the prac-
-@\discretionary via @0 b=2990 p=50 d=9012500
-@@1: line 1.0- t=9012500 -> @0
+kā \TU/Vollkorn(0)/m/n/8 Ed. p. 46: ’Fur-ther-more, by the term ‘\TU/Vollk
+orn(0)/m/it/8 japa\TU/Vollkorn(0)/m/n/8 ’, the prac-
+@\discretionary via @0 b=2418 p=50 d=5907684
+@@1: line 1.0- t=5907684 -> @0
 tice 
-@ via @0 b=1303 p=0 d=1733969
-@@2: line 1.0 t=1733969 -> @0
+@ via @0 b=981 p=0 d=992081
+@@2: line 1.0 t=992081 -> @0
 of 
-@ via @0 b=468 p=0 d=238484
-@@3: line 1.0 t=238484 -> @0
+@ via @0 b=318 p=0 d=117584
+@@3: line 1.0 t=117584 -> @0
 Mantrayoga is in-di-cated; by ’\TU/Vollkorn(0)/m/it/8 arthab-ha-vana\TU/Vollk
 orn(0)/m/n/8 ,’ the knowl-edge of dis-crim-i-na-tion, the 
 @ via @1 b=1400 p=0 d=1988100
 @ via @2 b=7796 p=0 d=60933636
-@@4: line 2.0 t=11000600 -> @1
+@@4: line 2.0 t=7895784 -> @1
 form 
 @ via @1 b=5 p=0 d=10225
 @ via @2 b=684 p=0 d=481636
 @ via @3 b=3138 p=0 d=9909904
-@@5: line 2.0 t=2215605 -> @2
+@@5: line 2.0 t=1473717 -> @2
 of 
 @ via @1 b=0 p=0 d=10100
 @ via @2 b=76 p=0 d=7396
 @ via @3 b=776 p=0 d=617796
-@@6: line 2.0 t=856280 -> @3
+@@6: line 2.0 t=735380 -> @3
 prac-
 @\discretionary via @2 b=0 p=50 d=12600
 @\discretionary via @3 b=0 p=50 d=12600
-@@7: line 2.2- t=251084 -> @3
+@@7: line 2.2- t=130184 -> @3
 tice 
 @ via @3 b=0 p=0 d=10100
-@@8: line 2.2 t=248584 -> @3
+@@8: line 2.2 t=127684 -> @3
 [called] Jñā-nayoga, and Ad-vaitayoga is the form of cul-ti-vat-ing non-
 @\discretionary via @4 b=4859 p=50 d=23709661
-@@9: line 3.0- t=34710261 -> @4
+@@9: line 3.0- t=31605445 -> @4
 differentiation. 
 @ via @4 b=81 p=0 d=18281
 @ via @5 b=0 p=0 d=10100
 @ via @6 b=185 p=0 d=38025
 @ via @7 b=3148 p=0 d=9982964
-@@10: line 3.0 t=894305 -> @6
+@@10: line 3.0 t=773405 -> @6
 (\TU/Vollkorn(0)/m/it/8 kiñca 
 @ via @6 b=0 p=0 d=10100
 @ via @7 b=3 p=0 d=169
 @ via @8 b=584 p=0 d=362836
-@@11: line 3.2 t=251253 -> @7
+@@11: line 3.2 t=130353 -> @7
 japa 
 @ via @7 b=0 p=0 d=100
 @ via @8 b=2 p=0 d=144
-@@12: line 3.2 t=248728 -> @8
+@@12: line 3.2 t=127828 -> @8
 ity 
 @ via @8 b=0 p=0 d=100
-@@13: line 3.2 t=248684 -> @8
+@@13: line 3.2 t=127784 -> @8
 anena mantrayo-gaḥ arthab-hā-vanam ity anena viveka-jñānā ’bhyāsarūpo 
 @ via @9 b=3 p=0 d=10169
-@@14: line 4.2 t=34720430 -> @9
+@@14: line 4.2 t=31615614 -> @9
 jñā-
 @\discretionary via @9 b=0 p=50 d=22600
-@@15: line 4.2- t=34732861 -> @9
+@@15: line 4.2- t=31628045 -> @9
 nayo-
 @\discretionary via @10 b=7981 p=50 d=63858581
-@@16: line 4.0- t=64752886 -> @10
+@@16: line 4.0- t=64631986 -> @10
 gaḥ 
 @ via @10 b=2486 p=0 d=6230016
-@@17: line 4.0 t=7124321 -> @10
+@@17: line 4.0 t=7003421 -> @10
 ab-
 @\discretionary via @10 b=237 p=50 d=63509
 @\discretionary via @11 b=7963 p=50 d=63581229
-@@18: line 4.0- t=957814 -> @10
+@@18: line 4.0- t=836914 -> @10
 hed-
 @\discretionary via @10 b=0 p=50 d=12600
 @\discretionary via @11 b=2150 p=50 d=4678100
-@@19: line 4.2- t=906905 -> @10
+@@19: line 4.2- t=786005 -> @10
 ab-
 @\discretionary via @10 b=0 p=50 d=12600
 @\discretionary via @11 b=530 p=50 d=304100
 @\discretionary via @12 b=7576 p=50 d=57559896
-@@20: line 4.0- t=555353 -> @11
+@@20: line 4.0- t=434453 -> @11
 hā-
 @\discretionary via @10 b=14 p=50 d=13076
 @\discretionary via @11 b=27 p=50 d=3869
 @\discretionary via @12 b=2726 p=50 d=7498196
-@@21: line 4.1- t=255122 -> @11
+@@21: line 4.1- t=134222 -> @11
 varūpo 
 @ via @11 b=27 p=0 d=1369
 @ via @12 b=0 p=0 d=100
 @ via @13 b=325 p=0 d=122225
-@@22: line 4.2 t=248828 -> @12
-@@23: line 4.3 t=252622 -> @11
+@@22: line 4.2 t=127928 -> @12
+@@23: line 4.3 t=131722 -> @11
 ’dvaitayo-gaś ca saṃgṛhī-taḥ \TU/Vollkorn(0)/m/n/8 |).| 
 @\par via @14 b=0 p=-10000 d=100
 @\par via @15 b=0 p=-10000 d=5100
@@ -28894,7 +28902,7 @@ varūpo
 @\par via @21 b=0 p=-10000 d=5100
 @\par via @22 b=0 p=-10000 d=100
 @\par via @23 b=0 p=-10000 d=100
-@@24: line 5.2- t=248928 -> @22
+@@24: line 5.2- t=128028 -> @22
 
 @firstpass
 []\TU/Vollkorn(0)/m/n/10 In this con-text, Nārāyaṇatīrtha ex-plains that in
@@ -28995,48 +29003,30 @@ hā-nam\TU/Vollkorn(0)/m/n/8 ).|
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Cf
+\TU/Vollkorn(0)/m/n/8 Ib
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Cf. ibid.: ‘Al-ter-na-tively, its mean-ing is the re-peated im-print-ing in the mind of the non-
-@\discretionary via @0 b=27 p=50 d=3869
-@@1: line 1.1- t=3869 -> @0
-@secondpass
-[][][]\TU/Vollkorn(0)/m/n/8 Cf. ibid.: ‘Al-ter-na-tively, its mean-ing is the re-peated im-print-ing in the mind 
-@ via @0 b=8000 p=0 d=64170100
-@@1: line 1.0 t=64170100 -> @0
+[][][]\TU/Vollkorn(0)/m/n/8 Ibid. (Ed. p. 45): ‘Al-ter-na-tively, its mean-ing
+ is the re-peated mem-o-riza-tion in the mind 
+@ via @0 b=36 p=0 d=2116
+@@1: line 1.1 t=2116 -> @0
 of 
-@ via @0 b=3623 p=0 d=13208689
-@@2: line 1.0 t=13208689 -> @0
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
 the 
-@ via @0 b=836 p=0 d=725716
-@@3: line 1.0 t=725716 -> @0
-non-
-@\discretionary via @0 b=27 p=50 d=3869
-@@4: line 1.1- t=3869 -> @0
-distinction be-tween the in-di-vid-ual self and the to-tal supreme self.’ (\T
-U/Vollkorn(0)/m/it/8 athavā 
-@ via @1 b=1845 p=0 d=3441025
-@ via @2 b=5331 p=0 d=28526281
-@@5: line 2.0 t=41734970 -> @2
-tadarthasya 
-@ via @1 b=0 p=0 d=10100
-@ via @2 b=0 p=0 d=10100
-@ via @3 b=179 p=0 d=35721
-@ via @4 b=2469 p=0 d=6145441
-@@6: line 2.0 t=761437 -> @3
-paramāt-
-@\discretionary via @3 b=43 p=50 d=15309
-@\discretionary via @4 b=0 p=50 d=12600
-@@7: line 2.2- t=16469 -> @4
-manaḥ pūrṇasya bhā-vanaṃ jīvāb-he-dena punaḥ punaś cetasi niveśana
-m |\TU/Vollkorn(0)/m/n/8 ).| 
-@\par via @5 b=0 p=-10000 d=10100
-@\par via @6 b=0 p=-10000 d=10100
-@\par via @7 b=0 p=-10000 d=5100
-@@8: line 3.2- t=21569 -> @7
+@ via @0 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+non-distinction be-tween the in-di-vid-ual self and the to-tal supreme self.
+’ (\TU/Vollkorn(0)/m/it/8 athavā tadarthasya 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@4: line 2.2 t=200 -> @2
+paramāt-manaḥ pūrṇasya bhā-vanaṃ jīvāb-he-dena punaḥ punaś cetasi nive
+śanam |\TU/Vollkorn(0)/m/n/8 ).| 
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 3.2- t=300 -> @4
 
 @firstpass
 @secondpass
@@ -46049,24 +46039,34 @@ atā bha-vatīty arthaḥ \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 ayam 
 @\penalty via @3 b=0 p=-10000 d=100
 @\penalty via @4 b=0 p=-10000 d=100
 @@5: line 4.2 t=37601 -> @4
-\TU/Vollkorn(0)/m/it/10 vinā deśādiband-hena vṛt-tir yā ’bhi-mate sthir
-ā \TU/Vollkorn(0)/m/n/10 | 
-@\penalty via @5 b=0 p=-10000 d=*
-@@6: line 5.2 t=37601 -> @5
-\TU/Vollkorn(0)/m/it/10 dhyānayogo bhaved eva cit-tacāñ-calyanāśakaḥ \TU
-/Vollkorn(0)/m/n/10 || 
-@\penalty via @6 b=0 p=-10000 d=*
-@@7: line 6.2 t=37601 -> @6
-\TU/Vollkorn(0)/m/it/10 ity ād-inā \TU/Vollkorn(0)/m/n/10 | 
-@\par via @7 b=0 p=-10000 d=*
-@@8: line 7.2- t=37601 -> @7
+ 
+@\par via @5 b=10000 p=-10000 d=*
+@@6: line 5.0- t=37601 -> @5
 
 
-Overfull \hbox (13.43669pt too wide) in paragraph at lines 782--786
+Overfull \hbox (13.43669pt too wide) in paragraph at lines 782--783
 []\TU/Vollkorn(0)/m/it/10 ya-theti \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/i
 t/10 kim bahunā, harirāmādirū-paṃ parameś-varaṃ bāhyaṃ can-drasūry
 ādi-
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+
+ []
+
+@firstpass
+[]\TU/Vollkorn(0)/m/it/10 vinā deśādiband-hena vṛt-tir yā ’bhi-mate sthi
+rā \TU/Vollkorn(0)/m/n/10 | 
+@\penalty via @0 b=0 p=-10000 d=100
+@@1: line 1.2 t=100 -> @0
+\TU/Vollkorn(0)/m/it/10 dhyānayogo bhaved eva cit-tacāñ-calyanāśakaḥ \TU
+/Vollkorn(0)/m/n/10 || 
+@\penalty via @1 b=0 p=-10000 d=100
+@@2: line 2.2 t=200 -> @1
+\TU/Vollkorn(0)/m/it/10 ity ād-inā \TU/Vollkorn(0)/m/n/10 | 
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 3.2- t=300 -> @2
 
 @firstpass
 @secondpass
@@ -46197,7 +46197,7 @@ such as:
 @@28: line 9.0- t=5886 -> @27
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--790
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
 
  []
 
@@ -46255,7 +46255,7 @@ de-stroyer of the fick-le-ness of the mind.[][][][]
 @@5: line 4.0- t=344 -> @4
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 791--792
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
 
  []
 
@@ -46315,13 +46315,13 @@ prathamatas tīrthādikam avaśyaṃ bhā-vanīyam \TU/Vollkorn(0)/m/n/10 |
 @@6: line 5.2- t=50904 -> @5
 
 
-Overfull \hbox (4.32652pt too wide) in paragraph at lines 799--800
+Overfull \hbox (4.32652pt too wide) in paragraph at lines 800--801
 []\TU/Vollkorn(0)/m/it/10 yad vā yathāb-hi-matānāṃ tīrthade-val-okavar
 ṇatattvādīnāṃ yathāb-hi-mateṣu
  []
 
 
-Overfull \hbox (8.97758pt too wide) in paragraph at lines 799--800
+Overfull \hbox (8.97758pt too wide) in paragraph at lines 800--801
 \TU/Vollkorn(0)/m/it/10 pratilo-makū-paṃ ca tīrthāni bha-van-tīti tathāpi
  yuñjā-nena cit-taśud-dhy arthaṃ
  []
@@ -46639,7 +46639,7 @@ kā \TU/Vollkorn(0)/m/n/8 Ed. p. 57-59|
 
 
 
-LaTeX Warning: Citation 'penna' on page 59 undefined on input line 805.
+LaTeX Warning: Citation 'penna' on page 59 undefined on input line 806.
 
 @firstpass
 []\TU/Vollkorn(0)/m/n/10 Nārāyaṇatīrtha dif-fer-en-ti-ates an al-ter-na-tiv
@@ -47628,49 +47628,32 @@ Mantrayoga
 @@2: line 1.2- t=100 -> @0
 
 @firstpass
-\TU/Vollkorn(0)/m/n/10 Mantrayoga nimmt in der Tax-onomie des \TU/Vollkorn(0)/m
-/it/10 Yo-gatattv-abindu \TU/Vollkorn(0)/m/n/10 die achte Po-si-tion 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-ein, 
-@ via @0 b=60 p=0 d=4900
-@@2: line 1.3 t=4900 -> @0
 @secondpass
-\TU/Vollkorn(0)/m/n/10 Mantrayoga nimmt in der Tax-onomie des \TU/Vollkorn(0)/m
-/it/10 Yo-gatattv-abindu \TU/Vollkorn(0)/m/n/10 die achte Po-si-tion 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-ein, 
-@ via @0 b=60 p=0 d=4900
-@@2: line 1.3 t=4900 -> @0
-die sech-ste Po-si-tion im \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollkor
-n(0)/m/n/10 , die 󰀨ün-fte Po-si-tion in der \TU/Vollkorn(0)/m/it/10 Yo-gasid
--
-@\discretionary via @1 b=0 p=50 d=2600
-@@3: line 2.2- t=2700 -> @1
-dhān-
-@\discretionary via @1 b=90 p=50 d=12500
-@\discretionary via @2 b=0 p=50 d=2600
-@@4: line 2.2- t=7500 -> @2
-@@5: line 2.3- t=12600 -> @1
-ta-
-@\discretionary via @2 b=0 p=50 d=2600
-@@6: line 2.2- t=7500 -> @2
-can-drikā \TU/Vollkorn(0)/m/n/10 und steht an zweiter Stelle der zwölf Yo-gas der \TU/Vollkorn(0)/m/it/10 sarv
-āṅ-gayo-
-@\discretionary via @3 b=66 p=50 d=18276
-@@7: line 3.1- t=20976 -> @3
-gapradīpikā\TU/Vollkorn(0)/m/n/10 . 
-@ via @4 b=27 p=0 d=1369
-@ via @5 b=27 p=0 d=1369
-@ via @6 b=0 p=0 d=100
-@@8: line 3.2 t=7600 -> @6
-@@9: line 3.3 t=8869 -> @4
-Mantrayoga wird von Sun-dardās dem Bhak-tiyoga zugerod-net. 
-@\par via @7 b=0 p=-10000 d=5100
-@\par via @8 b=0 p=-10000 d=100
-@\par via @9 b=0 p=-10000 d=100
-@@10: line 4.2- t=7700 -> @8
+\TU/Vollkorn(0)/m/n/10 Mantrayoga oc-cu-pies the eighth po-si-tion in the tax-on
+-omy of the \TU/Vollkorn(0)/m/it/10 Yo-gatattv-
+@\discretionary via @0 b=5 p=50 d=2725
+@@1: line 1.2- t=2725 -> @0
+abindu\TU/Vollkorn(0)/m/n/10 , the sixth po-si-tion in the \TU/Vollkorn(0)/m/it
+/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , the fifth po-si-tion in the \TU/V
+ollkorn(0)/m/it/10 Yo-
+@\discretionary via @1 b=50 p=50 d=16100
+@@2: line 2.1- t=18825 -> @1
+gasid-
+@\discretionary via @1 b=0 p=50 d=12600
+@@3: line 2.2- t=15325 -> @1
+dhān-ta-can-drikā \TU/Vollkorn(0)/m/n/10 and is in the sec-ond place of the tw
+elve yo-gas of the \TU/Vollkorn(0)/m/it/10 sarvāṅ-
+@\discretionary via @2 b=2 p=50 d=12644
+@\discretionary via @3 b=8 p=50 d=12824
+@@4: line 3.2- t=28149 -> @3
+gayo-
+@\discretionary via @3 b=0 p=50 d=12600
+@@5: line 3.2- t=27925 -> @3
+gapradīpikā\TU/Vollkorn(0)/m/n/10 . Mantrayoga is at-tributed to Bhak-tiyoga 
+by Sun-dardās. 
+@\par via @4 b=0 p=-10000 d=5100
+@\par via @5 b=0 p=-10000 d=5100
+@@6: line 4.2- t=33025 -> @5
 
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 60| 
@@ -47777,35 +47760,77 @@ the
 
 @firstpass
 [][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Prāṇa-toṣinī \TU/V
-ollkorn(0)/m/n/8 Ed. p. 831 quoted with ref-er-ence \TU/Vollkorn(0)/m/it/8 yo-ga
+ollkorn(0)/m/n/8 ed. p. 831 quoted with ref-er-ence \TU/Vollkorn(0)/m/it/8 yo-ga
 s-var-o-daye\TU/Vollkorn(0)/m/n/8 .| 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-\TU/Vollkorn(0)/m/n/10 Abge-se-hen von der Er-wäh-nung von Mantrayoga in den er
--sten Versen der 
-@ via @0 b=50 p=0 d=3600
-@@1: line 1.1 t=3600 -> @0
-Zi-tate des \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 in der \TU/Vollkorn(0)/m/it/10 Pr
-āṇa-toṣinī[][][][] \TU/Vollkorn(0)/m/n/10 bein-hal-ten die uns er-hal-te-n
-en 
-@ via @1 b=8 p=0 d=324
-@@2: line 2.2 t=3924 -> @1
-und 
-@ via @1 b=12 p=0 d=484
-@@3: line 2.2 t=4084 -> @1
-vor-liegen-den Zi-tate weder eine Beschrei-bung von Mantrayoga noch die 
+\TU/Vollkorn(0)/m/n/10 Apart from the men-tion of Mantrayoga in the first verses
+ of the quo-ta-tions 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+of 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 in the \TU
+/Vollkorn(0)/m/it/10 Prāṇa-toṣinī[][][][] \TU/Vollkorn(0)/m/n/10 the quo-t
+a-tions we have at hand con-tain 
+@ via @1 b=61 p=0 d=5041
 @ via @2 b=0 p=0 d=100
-@@4: line 3.2 t=4024 -> @2
-Beschrei-bung einer Yo-gapraxie die \TU/Vollkorn(0)/m/it/10 mantra\TU/Vollkorn(
-0)/m/n/10 s bein-hal-tet. Im \TU/Vollkorn(0)/m/it/10 Yo-gatattv-abindu
-@\kern via @4 b=72 p=0 d=6724
-@@5: line 4.1 t=10748 -> @4
- \TU/Vollkorn(0)/m/n/10 hinge-gen, 󰀨ällt der Be-griff Mantrayoga in Sek-tion
- III erneut: 
-@\par via @5 b=0 p=-10000 d=100
-@@6: line 5.2- t=10848 -> @5
+@@3: line 2.2 t=200 -> @2
+@@4: line 2.3 t=5141 -> @1
+nei-ther a de-scrip-tion of Mantrayoga nor a de-scrip-tion of a Yoga prac-tice 
+that 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=0 p=0 d=100
+@@5: line 3.2 t=300 -> @3
+@secondpass
+\TU/Vollkorn(0)/m/n/10 Apart from the men-tion of Mantrayoga in the first verses
+ of the quo-ta-tions 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+of 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Vollkorn(0)/m/n/10 in the \TU
+/Vollkorn(0)/m/it/10 Prāṇa-toṣinī[][][][] \TU/Vollkorn(0)/m/n/10 the quo-t
+a-tions we have at hand con-
+@\discretionary via @1 b=0 p=50 d=2600
+@\discretionary via @2 b=45 p=50 d=5525
+@@3: line 2.1- t=5625 -> @2
+@@4: line 2.2- t=2700 -> @1
+tain 
+@ via @1 b=61 p=0 d=5041
+@ via @2 b=0 p=0 d=100
+@@5: line 2.2 t=200 -> @2
+@@6: line 2.3 t=5141 -> @1
+nei-ther a de-scrip-tion of Mantrayoga nor a de-scrip-tion of a Yoga prac-
+@\discretionary via @3 b=10 p=50 d=12900
+@\discretionary via @4 b=10 p=50 d=12900
+@@7: line 3.2- t=15600 -> @4
+tice 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=0 p=0 d=100
+@ via @5 b=114 p=0 d=25376
+@ via @6 b=114 p=0 d=25376
+@@8: line 3.2 t=2800 -> @4
+that 
+@ via @5 b=0 p=0 d=100
+@ via @6 b=0 p=0 d=100
+@@9: line 3.2 t=300 -> @5
+in-cludes \TU/Vollkorn(0)/m/it/10 mantra\TU/Vollkorn(0)/m/n/10 s. In the \TU/Vo
+llkorn(0)/m/it/10 Yo-gatattv-abindu\TU/Vollkorn(0)/m/n/10 , how-ever, the term 
+Mantrayoga 
+@ via @8 b=0 p=0 d=100
+@@10: line 4.2 t=2900 -> @8
+ap-
+@\discretionary via @9 b=0 p=50 d=2600
+@@11: line 4.2- t=2900 -> @9
+pears again in sec-tion III: 
+@\par via @10 b=0 p=-10000 d=100
+@\par via @11 b=0 p=-10000 d=5100
+@@12: line 5.2- t=3000 -> @10
 
 @firstpass
 @secondpass
@@ -47858,176 +47883,170 @@ gas are de-scribed [in the fol-low-ing].
 @@5: line 3.2- t=7800 -> @4
 
 @firstpass
+[]\TU/Vollkorn(0)/m/n/10 This is fol-lowed by an ex-pla-na-tion of the three pri
+-mary chan-nels of the 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
 @secondpass
-[]\TU/Vollkorn(0)/m/n/10 Hi-er-auf folgt eine Erk-lärung der drei primären Kan
-äle des yo-gis-chen 
-@ via @0 b=189 p=0 d=49601
-@@1: line 1.0 t=49601 -> @0
-Kör-
+[]\TU/Vollkorn(0)/m/n/10 This is fol-lowed by an ex-pla-na-tion of the three pri
+-mary chan-nels of the 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+yo-
 @\discretionary via @0 b=0 p=50 d=2600
 @@2: line 1.2- t=2600 -> @0
-pers: Iḍā, Piṅ-galā und Suṣumnā. Die Sek-tion schließt mit der Erk-l
-ärung, 
-@ via @1 b=0 p=0 d=10100
-@ via @2 b=82 p=0 d=8464
-@@3: line 2.1 t=11064 -> @2
-dass 
+gic body: Iḍā, Piṅ-galā and Suṣumnā. The sec-tion con-cludes with the 
+as-
+@\discretionary via @1 b=16 p=50 d=3176
+@@3: line 2.1- t=3276 -> @1
+ser-
+@\discretionary via @1 b=0 p=50 d=2600
+@\discretionary via @2 b=5 p=50 d=12725
+@@4: line 2.2- t=2700 -> @1
+tion 
 @ via @2 b=0 p=0 d=100
-@@4: line 2.2 t=2700 -> @2
-die [übende] Per-son all-wis-send wird, sobald das Wis-sen über den zen-
-@\discretionary via @3 b=1 p=50 d=2621
-@@5: line 3.2- t=13685 -> @3
-tralen 
-@ via @4 b=0 p=0 d=100
-@@6: line 3.2 t=2800 -> @4
-Kanal her-vorge-bracht wurde. In den da-rauf-fol-gen-den Sek-tio-nen IV-
-@\discretionary via @5 b=4 p=50 d=12696
-@@7: line 4.2- t=26381 -> @5
-XII 
+@@5: line 2.2 t=2700 -> @2
+that the prac-ti-tioner be-comes om-ni-scient once knowl-edge about the 
+@ via @3 b=0 p=0 d=100
+@ via @4 b=113 p=0 d=25129
+@@6: line 3.2 t=3376 -> @3
+cen-
+@\discretionary via @4 b=0 p=50 d=12600
+@\discretionary via @5 b=132 p=50 d=32664
+@@7: line 3.2- t=15300 -> @4
+tral 
 @ via @5 b=0 p=0 d=100
-@@8: line 4.2 t=13785 -> @5
-wird 
-@ via @6 b=0 p=0 d=100
-@@9: line 4.2 t=2900 -> @6
-dann ein Sys-tem beste-hend aus in-s-ge-samt neun \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/n/10 s beschrieben. 
-@\par via @7 b=0 p=-10000 d=5100
-@\par via @8 b=0 p=-10000 d=100
-@\par via @9 b=0 p=-10000 d=100
-@@10: line 5.2- t=3000 -> @9
+@@8: line 3.2 t=2800 -> @5
+chan-nel is gen-er-ated. In the fol-low-ing sec-tions (IV-XII), a sys-tem 
+@ via @6 b=133 p=0 d=30449
+@@9: line 4.0 t=33825 -> @6
+con-
+@\discretionary via @6 b=0 p=50 d=2600
+@\discretionary via @7 b=27 p=50 d=13869
+@@10: line 4.2- t=5976 -> @6
+sist-
+@\discretionary via @7 b=0 p=50 d=12600
+@\discretionary via @8 b=82 p=50 d=10964
+@@11: line 4.1- t=13764 -> @8
+ing 
+@ via @7 b=74 p=0 d=7056
+@ via @8 b=0 p=0 d=100
+@@12: line 4.2 t=2900 -> @8
+of 
+@ via @8 b=0 p=0 d=100
+@@13: line 4.2 t=2900 -> @8
+a 
+@ via @8 b=91 p=0 d=10201
+@@14: line 4.3 t=13001 -> @8
+to-tal of nine \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/n/10 s is then de-
+scribed. 
+@\par via @9 b=0 p=-10000 d=10100
+@\par via @10 b=0 p=-10000 d=5100
+@\par via @11 b=0 p=-10000 d=5100
+@\par via @12 b=0 p=-10000 d=100
+@\par via @13 b=0 p=-10000 d=100
+@\par via @14 b=0 p=-10000 d=100
+@@15: line 5.2- t=3000 -> @13
 
 @firstpass
-@secondpass
-[]\TU/Vollkorn(0)/m/n/10 Aus tex-tkri-tis-cher Per-spek-tive ist diese Pas-sage auf-
-󰀨äl-lig und prob-lema-
-@\discretionary via @0 b=0 p=50 d=2600
-@@1: line 1.2- t=2600 -> @0
-tisch. Ein Grund da󰀨ür ist, dass Rā-man-can-dra sich in der er-sten Hälfte
- seines 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=2700 -> @1
-Textes und auch weitest-ge-hend in der zweiten Hälfte struk-turell und in-haltl
-ich 
-@ via @2 b=24 p=0 d=1156
-@@3: line 3.3 t=3856 -> @2
-sehr an seiner Vor-lage, der \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/Voll
-korn(0)/m/n/10 ori-en-tiert. Das \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/
-Vollkorn(0)/m/n/10 nennt 
+[]\TU/Vollkorn(0)/m/n/10 This pas-sage is prob-lem-atic from a text-critical per
+-spec-tive. Rā-man-can-dra 
+@ via @0 b=3 p=0 d=169
+@@1: line 1.2 t=169 -> @0
+is very much ori-en-tated to-wards his tex-tual source, the \TU/Vollkorn(0)/m/i
+t/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , in terms 
+@ via @1 b=3 p=0 d=169
+@@2: line 2.2 t=338 -> @1
+of struc-ture and con-tent, par-tic-u-larly in the first half of his text and ma
+inly 
+@ via @2 b=0 p=0 d=100
+@@3: line 3.2 t=438 -> @2
+in 
+@ via @2 b=1 p=0 d=121
+@@4: line 3.2 t=459 -> @2
+the sec-ond half. How-ever, the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya \TU/V
+ollkorn(0)/m/n/10 spec-i-fies \TU/Vollkorn(0)/m/it/10 jñā-nayoga \TU/Vollkorn
+(0)/m/n/10 in-stead 
+@ via @3 b=37 p=0 d=2209
+@@5: line 4.1 t=2647 -> @3
+of 
 @ via @3 b=0 p=0 d=100
-@@4: line 4.2 t=3956 -> @3
-hier je-doch \TU/Vollkorn(0)/m/it/10 jñā-nayoga \TU/Vollkorn(0)/m/n/10 anstatt
- \TU/Vollkorn(0)/m/it/10 sid-dhakuṇḍal-inīyo-gaḥ mantrayo-gaḥ \TU/Voll
-korn(0)/m/n/10 li-est. In-haltlich 
-@ via @4 b=0 p=0 d=100
-@@5: line 5.2 t=4056 -> @4
-äh-nelt der Rest des Ab-schnittes wie gewohnt sehr stark der \TU/Vollkorn(0)/m
-/it/10 Yo-gas-var-o-daya\TU/Vollkorn(0)/m/n/10 . 
-@ via @5 b=34 p=0 d=1936
-@@6: line 6.1 t=5992 -> @5
-Die 
+@ via @4 b=41 p=0 d=2601
+@@6: line 4.1 t=3060 -> @4
+@@7: line 4.2 t=538 -> @3
+\TU/Vollkorn(0)/m/it/10 sid-dhakuṇḍal-inīyoga mantrayo-gaḥ\TU/Vollkorn(0
+)/m/n/10 . As usual, the re-main-der of the sec-tion 
+@ via @5 b=32 p=0 d=1764
+@@8: line 5.1 t=4411 -> @5
+is 
 @ via @5 b=0 p=0 d=100
-@@7: line 6.2 t=4156 -> @5
-Hand-schriften bi-eten 󰀨ür die auf-󰀨äl-lige Pas-sage allerd-ings keine 
-Al-ter-
-@\discretionary via @6 b=28 p=50 d=3944
-@@8: line 7.1- t=9936 -> @6
-na-
-@\discretionary via @6 b=0 p=50 d=2600
-@@9: line 7.2- t=8592 -> @6
-tiven, 
+@ via @6 b=75 p=0 d=7225
+@ via @7 b=75 p=0 d=7225
+@@9: line 5.1 t=7763 -> @7
+@@10: line 5.2 t=2747 -> @5
+very 
+@ via @6 b=0 p=0 d=100
 @ via @7 b=0 p=0 d=100
-@@10: line 7.2 t=4256 -> @7
-so-dass bis auf Weit-eres der Text akzep-tiert wer-den muss. Ein weit-
-@\discretionary via @8 b=0 p=50 d=12600
-@\discretionary via @9 b=51 p=50 d=16221
-@@11: line 8.1- t=24813 -> @9
-@@12: line 8.2- t=22536 -> @8
-erer 
-@ via @8 b=16 p=0 d=10676
+@@11: line 5.2 t=638 -> @7
+sim-i-lar in con-tent to the \TU/Vollkorn(0)/m/it/10 Yo-gas-var-o-daya\TU/Vollk
+orn(0)/m/n/10 . How-ever, the manuscripts 
+@ via @8 b=42 p=0 d=2704
+@@12: line 6.1 t=7115 -> @8
+of-fer 
+@ via @8 b=1 p=0 d=121
 @ via @9 b=0 p=0 d=100
-@@13: line 8.2 t=8692 -> @9
-Grund 
 @ via @10 b=0 p=0 d=100
-@@14: line 8.2 t=4356 -> @10
-ist die selt-sam an-mu-tende Satzkon-struk-tion, welche je-doch, kennt 
+@@13: line 6.2 t=2847 -> @10
+no 
+@ via @9 b=51 p=0 d=13721
+@ via @10 b=51 p=0 d=3721
 @ via @11 b=2 p=0 d=144
-@ via @12 b=2 p=0 d=144
-@ via @13 b=31 p=0 d=1681
-@@15: line 9.1 t=10373 -> @13
-man 
-@ via @13 b=24 p=0 d=1156
-@@16: line 9.3 t=9848 -> @13
-den 
+@@14: line 6.2 t=782 -> @11
+@@15: line 6.3 t=6468 -> @10
+al-ter-na-tives for the con-spic-u-ous pas-sage, so the text must be ac-cepted 
+@ via @12 b=0 p=0 d=100
+@ via @13 b=64 p=0 d=5476
+@@16: line 7.1 t=8323 -> @13
+@@17: line 7.2 t=7215 -> @12
+for 
+@ via @13 b=0 p=0 d=100
+@ via @14 b=39 p=0 d=2401
+@ via @15 b=39 p=0 d=12401
+@@18: line 7.1 t=3183 -> @14
+@@19: line 7.2 t=2947 -> @13
+now. 
 @ via @14 b=0 p=0 d=100
-@@17: line 9.2 t=4456 -> @14
-Rest des Textes, schlussendlich doch nicht über-rascht und da-her 
-@ via @15 b=25 p=0 d=1225
-@@18: line 10.1 t=11598 -> @15
-akzep-
-@\discretionary via @16 b=0 p=50 d=2600
-@@19: line 10.2- t=12448 -> @16
-tiert 
-@ via @16 b=91 p=0 d=10201
-@ via @17 b=0 p=0 d=100
-@@20: line 10.2 t=4556 -> @17
-wer-den kann. Der Leser hätte sich hier im An-schluss zu-min-d-
-@\discretionary via @18 b=76 p=50 d=9896
-@@21: line 11.1- t=21494 -> @18
-est 
+@ via @15 b=0 p=0 d=100
+@@20: line 7.2 t=882 -> @14
+An-other rea-son is the seem-ingly strange sen-tence con-struc-tion, which 
+@ via @16 b=95 p=0 d=21025
+@ via @17 b=95 p=0 d=11025
 @ via @18 b=0 p=0 d=100
-@@22: line 11.2 t=11698 -> @18
-ein 
-@ via @18 b=8 p=0 d=324
-@ via @19 b=57 p=0 d=4489
-@@23: line 11.1 t=16937 -> @19
-@@24: line 11.2 t=11922 -> @18
-\TU/Vollkorn(0)/m/it/10 ca
-@\kern via @19 b=0 p=0 d=100
-@@25: line 11.2 t=12548 -> @19
- \TU/Vollkorn(0)/m/n/10 (``und'') 
-@ via @20 b=0 p=0 d=100
-@@26: line 11.2 t=4656 -> @20
-gewün-scht. Allein Hand-schrift []L lässt den Be-griff \TU/Vollkorn(0)/m/it/1
-0 mantrayo-
-@\discretionary via @21 b=0 p=50 d=12600
-@\discretionary via @22 b=44 p=50 d=5416
-@@27: line 12.1- t=17114 -> @22
-gaḥ
-@\kern via @21 b=48 p=0 d=13364
-@\kern via @22 b=0 p=0 d=100
-@\kern via @23 b=151 p=0 d=25921
-@\kern via @24 b=151 p=0 d=35921
-@@28: line 12.2 t=11798 -> @22
- \TU/Vollkorn(0)/m/n/10 aus, 
-@ via @23 b=0 p=0 d=100
-@ via @24 b=0 p=0 d=100
-@ via @25 b=9 p=0 d=361
-@@29: line 12.2 t=12022 -> @24
-be-
-@\discretionary via @25 b=0 p=50 d=2600
-@@30: line 12.2- t=15148 -> @25
-wahrt 
-@ via @26 b=0 p=0 d=100
-@@31: line 12.2 t=4756 -> @26
-aber die nach-fol-gen-den Du-al-for-men, so-dass dies auch keine 
-@ via @27 b=0 p=0 d=100
-@ via @28 b=46 p=0 d=3136
-@@32: line 13.1 t=14934 -> @28
-@@33: line 13.2 t=17214 -> @27
-Lö-
-@\discretionary via @28 b=0 p=50 d=2600
-@@34: line 13.2- t=14398 -> @28
-sung 
-@ via @29 b=0 p=0 d=100
-@ via @30 b=3 p=0 d=169
-@@35: line 13.2 t=12122 -> @29
-ist. 
-@\par via @30 b=0 p=-10000 d=5100
-@\par via @31 b=0 p=-10000 d=100
-@\par via @32 b=0 p=-10000 d=100
-@\par via @33 b=0 p=-10000 d=100
-@\par via @34 b=0 p=-10000 d=5100
-@\par via @35 b=0 p=-10000 d=100
-@@36: line 13.2- t=4856 -> @31
+@ via @19 b=0 p=0 d=100
+@@21: line 8.2 t=3047 -> @19
+is 
+@ via @18 b=0 p=0 d=100
+@ via @19 b=0 p=0 d=100
+@@22: line 8.2 t=3047 -> @19
+ul-ti-mately un-sur-pris-ing if one knows the rest of the text and can be ac-cep
+ted. 
+@ via @21 b=27 p=0 d=1369
+@ via @22 b=0 p=0 d=100
+@@23: line 9.2 t=3147 -> @22
+@@24: line 9.3 t=4416 -> @21
+Right af-ter the term \TU/Vollkorn(0)/m/it/10 mantrayo-gaḥ\TU/Vollkorn(0)/m/n
+/10 , the reader would have wished for a \TU/Vollkorn(0)/m/it/10 ca \TU/Vollkor
+n(0)/m/n/10 (``and''). 
+@ via @23 b=6 p=0 d=256
+@ via @24 b=6 p=0 d=256
+@@25: line 10.2 t=3403 -> @23
+Only the manuscript []L omits the term \TU/Vollkorn(0)/m/it/10 mantrayo-gaḥ \
+TU/Vollkorn(0)/m/n/10 but pre-serves the fol-low-ing 
+@ via @25 b=4 p=0 d=196
+@@26: line 11.2 t=3599 -> @25
+dual forms, so this is not a so-lu-tion ei-ther. 
+@\par via @26 b=0 p=-10000 d=100
+@@27: line 12.2- t=3699 -> @26
 
 @firstpass
 []|\TU/Vollkorn(0)/m/sl/10 8. 
@@ -48065,14 +48084,11 @@ Mantrayoga|
 
  [61]
 @firstpass
-[]\TU/Vollkorn(0)/m/n/10 Das er-st-ge-nan-nte \TU/Vollkorn(0)/m/it/10 cakra \TU
-/Vollkorn(0)/m/n/10 na-mens \TU/Vollkorn(0)/m/it/10 mūla-cakra \TU/Vollkorn(0)
-/m/n/10 wird mit fol-gen-der Ein-leitung 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-verse-hen: 
-@\par via @1 b=0 p=-10000 d=100
-@@2: line 2.2- t=200 -> @1
+[]\TU/Vollkorn(0)/m/n/10 The first \TU/Vollkorn(0)/m/it/10 cakra \TU/Vollkorn(0
+)/m/n/10 named \TU/Vollkorn(0)/m/it/10 mūla-cakra \TU/Vollkorn(0)/m/n/10 is pro
+-vided with the fol-low-ing in-tro-duc-tion: 
+@\par via @0 b=90 p=-10000 d=10000
+@@1: line 1.3- t=10000 -> @0
 
 @firstpass
 @secondpass
@@ -48118,114 +48134,158 @@ four-petalled root-cakra.
 @@5: line 3.2- t=2800 -> @3
 
 @firstpass
-[]\TU/Vollkorn(0)/m/n/10 An-hand dieser Beschrei-bung kann nur davon aus-ge-gan-
-gen wer-den, dass 
+[]\TU/Vollkorn(0)/m/n/10 On the ba-sis of this de-scrip-tion, it can only be as-
+sumed that the sec-tions 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-die Sek-tio-nen IV-XII, welche die neun \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollko
-rn(0)/m/n/10 s beschreiben, von Rā-macan-dra 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=200 -> @1
-dem Sid-dhakuṇḍal-inīyoga und Mantrayoga zu-ge-ord-net wer-den. Fast alle 
-@ via @2 b=45 p=0 d=3025
-@@3: line 3.1 t=3225 -> @2
+IV-
+@\discretionary via @0 b=11 p=50 d=2941
+@@2: line 1.2- t=2941 -> @0
 @secondpass
-[]\TU/Vollkorn(0)/m/n/10 An-hand dieser Beschrei-bung kann nur davon aus-ge-gan-
-gen wer-den, dass 
+[]\TU/Vollkorn(0)/m/n/10 On the ba-sis of this de-scrip-tion, it can only be as-
+sumed that the sec-tions 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-die Sek-tio-nen IV-XII, welche die neun \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollko
-rn(0)/m/n/10 s beschreiben, von Rā-macan-dra 
-@ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=200 -> @1
-dem Sid-dhakuṇḍal-inīyoga und Mantrayoga zu-ge-ord-net wer-den. Fast alle 
-@ via @2 b=45 p=0 d=3025
-@@3: line 3.1 t=3225 -> @2
-Hand-schriften, abge-se-hen von Hand-schrift []U$[][]$, lassen je-doch in diesem
- Kon-
-@\discretionary via @3 b=0 p=50 d=2600
-@@4: line 4.2- t=5825 -> @3
-text keinen 󰀂ückschluss auf eine Praxis zu, die als Mantrayoga beze-ich-net 
-@ via @4 b=3 p=0 d=169
-@@5: line 5.2 t=5994 -> @4
-wer-
-@\discretionary via @4 b=30 p=50 d=14100
-@@6: line 5.3- t=19925 -> @4
-den kön-nte zu. 
-@\par via @5 b=0 p=-10000 d=100
-@\par via @6 b=0 p=-10000 d=5100
-@@7: line 6.2- t=6094 -> @5
+IV-
+@\discretionary via @0 b=11 p=50 d=2941
+@@2: line 1.2- t=2941 -> @0
+XII de-scrib-ing the nine \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/n/10 s are as-signed by R
+ā-macan-dra to Sid-dhakuṇḍal-
+@\discretionary via @1 b=62 p=50 d=7684
+@\discretionary via @2 b=0 p=50 d=12600
+@@3: line 2.2- t=15541 -> @2
+@@4: line 2.3- t=7784 -> @1
+inīyoga and Mantrayoga. How-ever, al-most all manuscripts, with the ex-cep-
+@\discretionary via @3 b=0 p=50 d=12600
+@\discretionary via @4 b=0 p=50 d=12600
+@@5: line 3.2- t=20384 -> @4
+tion 
+@ via @3 b=31 p=0 d=1681
+@ via @4 b=31 p=0 d=1681
+@@6: line 3.3 t=9465 -> @4
+of the []U$[][]$ manuscript, do not al-low any con-clu-sions to be drawn in this
+ 
+@ via @5 b=0 p=0 d=100
+@@7: line 4.2 t=20484 -> @5
+con-
+@\discretionary via @5 b=36 p=50 d=14616
+@\discretionary via @6 b=0 p=50 d=2600
+@@8: line 4.2- t=12065 -> @6
+text 
+@ via @6 b=1 p=0 d=121
+@@9: line 4.2 t=9586 -> @6
+about a prac-tice that could be de-scribed as Mantrayoga. 
+@\par via @7 b=0 p=-10000 d=100
+@\par via @8 b=0 p=-10000 d=5100
+@\par via @9 b=0 p=-10000 d=100
+@@10: line 5.2- t=9686 -> @9
 
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Di
+\TU/Vollkorn(0)/m/n/8 Th
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Die \TU/Vollkorn(0)/m/it/8 cakra\TU/Vollkorn(0)/m/n
-/8 s er-hal-ten zusät-zlich, die gle-iche Zei-tangabe gemessen in \TU/Vollkorn
-(0)/m/it/8 ghaṭi\TU/Vollkorn(0)/m/n/8 s, \TU/Vollkorn(0)/m/it/8 pala\TU/Vollk
-orn(0)/m/n/8 s und \TU/Vollkorn(0)/m/it/8 akṣara\TU/Vollkorn(0)/m/n/8 s. 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-Siehe \TU/Vollkorn(0)/m/sc/8 B󰃦󰅄󰂨󰃟 \TU/Vollkorn(0)/m/n/8 2013: 265, n. 46.| 
+[][][]\TU/Vollkorn(0)/m/n/8 The \TU/Vollkorn(0)/m/it/8 cakra\TU/Vollkorn(0)/m/n
+/8 s ad-di-tion-ally re-ceive the same time in-di-ca-tion mea-sured in \TU/Voll
+korn(0)/m/it/8 ghaṭi\TU/Vollkorn(0)/m/n/8 s, \TU/Vollkorn(0)/m/it/8 pala\TU/V
+ollkorn(0)/m/n/8 s and \TU/Vollkorn(0)/m/it/8 akṣara\TU/Vollkorn(0)/m/n/8 s. 
+@ via @0 b=7 p=0 d=289
+@@1: line 1.2 t=289 -> @0
+See \TU/Vollkorn(0)/m/sc/8 B󰃦󰅄󰂨󰃟 \TU/Vollkorn(0)/m/n/8 2013: 265, n.
+ 46| 
 @\par via @1 b=0 p=-10000 d=100
-@@2: line 2.2- t=200 -> @1
+@@2: line 2.2- t=389 -> @1
 
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Wa
+\TU/Vollkorn(0)/m/n/8 Pr
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Wahrschein-lich er-st-mals in der Yo-galit-er-atur 
-gelehrt in \TU/Vollkorn(0)/m/it/8 Vivekamār-taṇḍa \TU/Vollkorn(0)/m/n/8 28-
-30.| 
+[][][]\TU/Vollkorn(0)/m/n/8 Prob-a-bly first taught in the Yoga lit-er-a-ture in
+ \TU/Vollkorn(0)/m/it/8 Vivekamār-taṇḍa \TU/Vollkorn(0)/m/n/8 28-30| 
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
 @firstpass
-[]\TU/Vollkorn(0)/m/n/10 Die Hand-schrift []U$[][]$ en-thält allerd-ings aus-
-󰀨ührliche zusät-zliche Pas-sagen, 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-welche das Prob-lem lösen und eine Praxis, die als Mantrayoga beze-ich-net 
-@ via @1 b=28 p=0 d=1444
-@@2: line 2.1 t=1544 -> @1
-wer-den kann, ergänzt. Für jedes \TU/Vollkorn(0)/m/it/10 cakra \TU/Vollkorn(0
-)/m/n/10 in-stru-ieren alle Hand-schriften \TU/Vollkorn(0)/m/it/10 dhyāna
-@\kern via @2 b=0 p=0 d=100
-@@3: line 3.2 t=1644 -> @2
- \TU/Vollkorn(0)/m/n/10 auf das jew-eile \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollk
-orn(0)/m/n/10 . Hand-schrift []U$[][]$, en-thält neben di-versen zusät-zlichen
- 
+[]\TU/Vollkorn(0)/m/n/10 How-ever, the manuscript []U$[][]$ con-tains de-tailed ad-di-tional pas-sages that 
+@ via @0 b=2 p=0 d=144
+@@1: line 1.2 t=144 -> @0
+@secondpass
+[]\TU/Vollkorn(0)/m/n/10 How-ever, the manuscript []U$[][]$ con-tains de-tailed ad-di-tional pas-sages that 
+@ via @0 b=2 p=0 d=144
+@@1: line 1.2 t=144 -> @0
+solve the prob-lem and sup-ple-ment a prac-tice that can be de-scribed as Mantra
+yoga. 
+@ via @1 b=* p=0 d=*
+@@2: line 2.3 t=144 -> @1
+For each \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/n/10 , all manuscripts 
+in-struct \TU/Vollkorn(0)/m/it/10 dhyāna \TU/Vollkorn(0)/m/n/10 on the re-spec-
+tive \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/n/10 . Manuscript 
+@ via @2 b=* p=0 d=*
+@@3: line 3.3 t=144 -> @2
+[]U$[][]$, in ad-di-tion to var-i-ous ad-di-tional de-tails, al-ways con-tains 
+an in-di-ca-tion 
 @ via @3 b=3 p=0 d=169
-@@4: line 4.2 t=1813 -> @3
-De-tails, im-mer jew-eils eine Angabe 󰀨ür die Dauer der Med-i-ta-tion, die 
-unter 
-@ via @4 b=0 p=0 d=100
-@@5: line 5.2 t=1913 -> @4
-an-derem[][][][] in \TU/Vollkorn(0)/m/it/10 ajapā-japa\TU/Vollkorn(0)/m/n/10 s (``Die Rez-i-ta-tio-nen des Nichtrez-i-tierten.'') gemessen 
-@ via @5 b=0 p=0 d=100
-@@6: line 6.2 t=2013 -> @5
-wird. Schließlich wird dann an-hand des zusät-zlichen Ma-te-ri-als zu Sek-tion
- 
-@ via @6 b=1 p=0 d=121
-@@7: line 7.2 t=2134 -> @6
+@@4: line 4.2 t=313 -> @3
+of 
+@ via @3 b=0 p=0 d=100
+@@5: line 4.2 t=244 -> @3
+the du-ra-tion of the med-i-ta-tion, which is mea-sured in \TU/Vollkorn(0)/m/it
+/10 ajapā-japa\TU/Vollkorn(0)/m/n/10 s (``The 
+@ via @4 b=192 p=0 d=50804
+@@6: line 5.0 t=51117 -> @4
+recita-
+@\discretionary via @4 b=5 p=50 d=2725
+@\discretionary via @5 b=0 p=50 d=2600
+@@7: line 5.2- t=2844 -> @5
+tions of the non-recited.'').[][][][]. Fi-nally, the ad-di-tional ma-te-rial in sec-
+@\discretionary via @6 b=19 p=50 d=3341
+@@8: line 6.1- t=54458 -> @6
+tion 
+@ via @6 b=0 p=0 d=10100
+@@9: line 6.2 t=61217 -> @6
 XI 
-@ via @6 b=0 p=0 d=100
-@@8: line 7.2 t=2113 -> @6
-von Hand-schrift []U$[][]$ klar, dass hi-er-mit das sog. \TU/Vollkorn(0)/m/it/1
-0 ajapā mantra \TU/Vollkorn(0)/m/n/10 bzw. \TU/Vollkorn(0)/m/it/10 haṃsa 
-@ via @7 b=21 p=0 d=961
-@@9: line 8.1 t=3095 -> @7
-mantra[][][][] \TU/Vollkorn(0)/m/n/10 gemeint sein muss: 
-@\par via @9 b=0 p=-10000 d=100
-@@10: line 9.2- t=3195 -> @9
+@ via @7 b=2 p=0 d=144
+@@10: line 6.2 t=2988 -> @7
+of 
+@ via @7 b=0 p=0 d=100
+@@11: line 6.2 t=2944 -> @7
+manuscript []U$[][]$ makes it clear that the so-called \TU/Vollkorn(0)/m/it/10 
+ajapā mantra \TU/Vollkorn(0)/m/n/10 or 
+@ via @8 b=86 p=0 d=9216
+@@12: line 7.1 t=63674 -> @8
+\TU/Vollkorn(0)/m/it/10 haṃsa 
+@ via @8 b=7 p=0 d=289
+@ via @9 b=4 p=0 d=196
+@@13: line 7.2 t=54747 -> @8
+mantra
+@\kern via @10 b=3 p=0 d=169
+@\kern via @11 b=0 p=0 d=100
+@@14: line 7.2 t=3044 -> @11
+ \TU/Vollkorn(0)/m/n/10 must be meant here:[][][][]. 
+@\par via @12 b=0 p=-10000 d=100
+@\par via @13 b=0 p=-10000 d=100
+@\par via @14 b=0 p=-10000 d=100
+@@15: line 8.2- t=3144 -> @14
+
+
+Overfull \hbox (10.70876pt too wide) in paragraph at lines 844--845
+\TU/Vollkorn(0)/m/n/10 solve the prob-lem and sup-ple-ment a prac-tice that can be de-scribed as Mantrayoga.
+ []
+
+
+Overfull \hbox (11.36961pt too wide) in paragraph at lines 844--845
+\TU/Vollkorn(0)/m/n/10 For each \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/
+n/10 , all manuscripts in-struct \TU/Vollkorn(0)/m/it/10 dhyāna \TU/Vollkorn(0
+)/m/n/10 on the re-spec-tive \TU/Vollkorn(0)/m/it/10 cakra\TU/Vollkorn(0)/m/n/1
+0 . Manuscript
+ []
 
 @firstpass
 @secondpass
@@ -48265,6 +48325,118 @@ again: ``I am he, he is I''. Be-cause of that, the em-bod-ied soul con-
 stantly ut-ters the Mantra. 
 @\par via @2 b=0 p=-10000 d=*
 @@3: line 3.2- t=2700 -> @2
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Se
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 See \TU/Vollkorn(0)/m/it/8 Śvetāś-vatara Up-ani
+ṣad \TU/Vollkorn(0)/m/n/8 1.6 and 3.18.| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Th
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 The \TU/Vollkorn(0)/m/it/8 ajapā \TU/Vollkorn(0)/m
+/n/8 can be seen as a yo-gic ap-pro-pri-a-tion of the Vedic \TU/Vollkorn(0)/m/i
+t/8 gāy-a-trī-mantra \TU/Vollkorn(0)/m/n/8 (\TU/Vollkorn(0)/m/it/8 Roots of Yo
+ga \TU/Vollkorn(0)/m/n/8 2017, 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+134).| 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=200 -> @1
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 The \TU/Vollkorn(0)/m/it/10 ajapā mantra \TU/Vollkorn
+(0)/m/n/10 (``un-mut-tered mantra'') con-sists of the two syl-la-bles \TU/Vollk
+orn(0)/m/it/10 haṃ
+@\kern via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+ \TU/Vollkorn(0)/m/n/10 and \TU/Vollkorn(0)/m/it/10 saḥ \TU/Vollkorn(0)/m/n/1
+0 ac-cord-ing to the phono-log-i-cal as-so-ci-a-tion with the sound of in-hala-t
+ion 
+@ via @1 b=14 p=0 d=576
+@@2: line 2.3 t=676 -> @1
+and ex-ha-la-tion. Be-cause all liv-ing be-ings in-hale and ex-hale, they re-cit
+e the 
+@ via @2 b=1 p=0 d=121
+@@3: line 3.2 t=797 -> @2
+@secondpass
+[]\TU/Vollkorn(0)/m/n/10 The \TU/Vollkorn(0)/m/it/10 ajapā mantra \TU/Vollkorn
+(0)/m/n/10 (``un-mut-tered mantra'') con-sists of the two syl-la-bles \TU/Vollk
+orn(0)/m/it/10 haṃ
+@\kern via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+ \TU/Vollkorn(0)/m/n/10 and \TU/Vollkorn(0)/m/it/10 saḥ \TU/Vollkorn(0)/m/n/1
+0 ac-cord-ing to the phono-log-i-cal as-so-ci-a-tion with the sound of in-hala-
+@\discretionary via @1 b=0 p=50 d=2600
+@@2: line 2.2- t=2700 -> @1
+tion 
+@ via @1 b=14 p=0 d=576
+@@3: line 2.3 t=676 -> @1
+and ex-ha-la-tion. Be-cause all liv-ing be-ings in-hale and ex-hale, they re-
+@\discretionary via @2 b=85 p=50 d=21525
+@@4: line 3.1- t=24225 -> @2
+cite 
+@ via @2 b=0 p=0 d=100
+@@5: line 3.2 t=2800 -> @2
+the 
+@ via @2 b=31 p=0 d=1681
+@ via @3 b=1 p=0 d=121
+@@6: line 3.2 t=797 -> @3
+@@7: line 3.3 t=4381 -> @2
+\TU/Vollkorn(0)/m/it/10 ajapā mantra \TU/Vollkorn(0)/m/n/10 con-tin-u-ously day
+ and night. At the same time, \TU/Vollkorn(0)/m/it/10 haṃsa\TU/Vollkorn(0)/m/
+n/10 , 
+@ via @4 b=13 p=0 d=529
+@@8: line 4.1 t=24754 -> @4
+best 
+@ via @4 b=1 p=0 d=121
+@ via @5 b=1 p=0 d=121
+@@9: line 4.2 t=2921 -> @5
+trans-
+@\discretionary via @6 b=0 p=50 d=2600
+@\discretionary via @7 b=0 p=50 d=2600
+@@10: line 4.2- t=3397 -> @6
+lated as ”swan” or ”goose” in En-glish, is a fa-mous and an-cient metaph
+or 
+@ via @9 b=0 p=0 d=100
+@@11: line 5.2 t=3021 -> @9
+for 
+@ via @10 b=0 p=0 d=100
+@@12: line 5.2 t=3497 -> @10
+the 
+@ via @10 b=6 p=0 d=256
+@@13: line 5.2 t=3653 -> @10
+soul trav-el-ling through the wheel of Brah-man or Saṃsāra.[][][][] Some-
+@\discretionary via @11 b=0 p=50 d=2600
+@@14: line 6.2- t=5621 -> @11
+times 
+@ via @12 b=0 p=0 d=100
+@ via @13 b=57 p=0 d=4489
+@@15: line 6.1 t=8142 -> @13
+@@16: line 6.2 t=3597 -> @12
+this 
+@ via @13 b=0 p=0 d=100
+@@17: line 6.2 t=3753 -> @13
+mantra is also spec-i-fied as \TU/Vollkorn(0)/m/it/10 ajapā gāy-a-trī\TU/Vol
+lkorn(0)/m/n/10 .[][][][] 
+@\par via @14 b=0 p=-10000 d=5100
+@\par via @15 b=0 p=-10000 d=100
+@\par via @16 b=0 p=-10000 d=100
+@\par via @17 b=0 p=-10000 d=100
+@@18: line 7.2- t=3697 -> @16
 
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 62| 
@@ -48326,763 +48498,632 @@ tax-onomies|
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
- [62]
+[62]
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Si
-@\par via @0 b=10000 p=-10000 d=*
-@@1: line 1.0- t=0 -> @0
-
-@firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Siehe \TU/Vollkorn(0)/m/it/8 Śvetāś-vatara Up-ani
-ṣad \TU/Vollkorn(0)/m/n/8 1.6 und 3.18.| 
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Das \TU/Vollkorn(0)/m/it/10 ajapā mantra \TU/Vollkorn
-(0)/m/n/10 (``un-mut-tered Mantra'') besteht aus dem bei-den Sil-ben 
-@ via @0 b=5 p=0 d=225
-@@1: line 1.2 t=225 -> @0
-\TU/Vollkorn(0)/m/it/10 haṃ
-@\kern via @0 b=25 p=0 d=1225
-@@2: line 1.3 t=1225 -> @0
- \TU/Vollkorn(0)/m/n/10 und \TU/Vollkorn(0)/m/it/10 saḥ \TU/Vollkorn(0)/m/n/1
-0 entsprechend der pho-nol-o-gis-chen As-sozi-a-tion mit dem Klang 
-@ via @1 b=1 p=0 d=121
-@@3: line 2.2 t=346 -> @1
-der 
-@ via @1 b=2 p=0 d=144
-@ via @2 b=18 p=0 d=10784
-@@4: line 2.2 t=369 -> @1
-Ein- 
-@ via @2 b=2 p=0 d=144
-@@5: line 2.2 t=1369 -> @2
-und Ausat-mung. Weil alle Lebe-we-sen ein- und ausat-men, heißt es, 
-@ via @3 b=0 p=0 d=100
-@@6: line 3.2 t=446 -> @3
-rez-i-tieren 
-@ via @5 b=0 p=0 d=100
-@@7: line 3.2 t=1469 -> @5
-die das \TU/Vollkorn(0)/m/it/10 ajapā mantra \TU/Vollkorn(0)/m/n/10 un-un-ter-b
-rochen Tag und Nacht. Gle-ichzeitig 
-@ via @6 b=0 p=0 d=100
-@@8: line 4.2 t=546 -> @6
-ist 
-@ via @6 b=1 p=0 d=121
-@@9: line 4.2 t=567 -> @6
-\TU/Vollkorn(0)/m/it/10 haṃsaḥ
-@\kern via @7 b=0 p=0 d=100
-@@10: line 4.2 t=1569 -> @7
- \TU/Vollkorn(0)/m/n/10 eine berühmte und uralte Meta-pher 󰀨ür die Seele, 
-welche druch 
-@ via @8 b=10 p=0 d=400
-@@11: line 5.2 t=946 -> @8
-das 
-@ via @8 b=0 p=0 d=100
-@ via @9 b=0 p=0 d=100
-@@12: line 5.2 t=646 -> @8
-Rad 
-@ via @9 b=43 p=0 d=2809
-@@13: line 5.3 t=3376 -> @9
-des 
-@ via @10 b=0 p=0 d=100
-@@14: line 5.2 t=1669 -> @10
-Brah-man oder Saṃsāra wan-dert.[][][][] 
-@\par via @11 b=0 p=-10000 d=100
-@\par via @12 b=0 p=-10000 d=100
-@\par via @13 b=0 p=-10000 d=100
-@\par via @14 b=0 p=-10000 d=100
-@@15: line 6.2- t=746 -> @12
-
-@firstpass
-@secondpass
-@emergencypass
-\TU/Vollkorn(0)/m/n/8 Da
-@\par via @0 b=10000 p=-10000 d=*
-@@1: line 1.0- t=0 -> @0
-
-@firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Das \TU/Vollkorn(0)/m/it/8 ajapā \TU/Vollkorn(0)/m
-/n/8 als eine yo-gis-che Aneig-nung des vedis-chen \TU/Vollkorn(0)/m/it/8 gāy-a
--trī-mantra\TU/Vollkorn(0)/m/n/8 s gese-hen wer-den (\TU/Vollkorn(0)/m/it/8 Roo
-ts 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-of 
-@ via @0 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @0
-Yoga \TU/Vollkorn(0)/m/n/8 2017, 134).| 
-@\par via @1 b=0 p=-10000 d=100
-@\par via @2 b=0 p=-10000 d=100
-@@3: line 2.2- t=200 -> @2
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Manch-mal wird dieses Mantra auch \TU/Vollkorn(0)/m/it
-/10 ajapā gāy-a-trī \TU/Vollkorn(0)/m/n/10 genannt.[][][][] 
-@\par via @0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @0
-
-@firstpass
-@secondpass
-@emergencypass
-\TU/Vollkorn(0)/m/n/8 Di
+\TU/Vollkorn(0)/m/n/8 Th
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 
 
 LaTeX Warning: Citation 'amaraughaprabodha' on page 63 undefined on input line 
-857.
+856.
 
 @firstpass
-@secondpass
-[][][]\TU/Vollkorn(0)/m/n/8 Die An-zahl der Gesam-tatemzüge basiert auf der An-
-nahme einer durschnit-tlichen 
-@ via @0 b=3354 p=0 d=11326496
-@@1: line 1.0 t=11326496 -> @0
-Atemzug-
-@\discretionary via @0 b=0 p=50 d=2600
-@@2: line 1.2- t=2600 -> @0
-dauer von vier Sekun-den. Jeder Tag hat 86400 Sekun-den. Teilt man diese 
-@ via @1 b=4108 p=0 d=16957924
-@@3: line 2.0 t=28284420 -> @1
-Gesamtzahl 
-@ via @1 b=0 p=0 d=10100
-@ via @2 b=1158 p=0 d=1374224
-@@4: line 2.0 t=1376824 -> @2
-durch 
-@ via @2 b=10 p=0 d=400
-@@5: line 2.2 t=3000 -> @2
-vier 
+[][][]\TU/Vollkorn(0)/m/n/8 The num-ber of to-tal breaths is based on the as-sum
+p-tion of an av-er-age breath du-ra-tion 
+@ via @0 b=44 p=0 d=2916
+@@1: line 1.1 t=2916 -> @0
+of 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+four 
+@ via @0 b=30 p=0 d=1600
+@@3: line 1.3 t=1600 -> @0
+sec-onds. Each day has 86400 sec-onds. If one di-vides this to-tal num-ber by fo
+ur, one 
+@ via @1 b=43 p=0 d=2809
+@@4: line 2.1 t=5725 -> @1
+gets 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=4 p=0 d=196
+@@5: line 2.2 t=296 -> @2
+the 
+@ via @1 b=14 p=0 d=10576
 @ via @2 b=0 p=0 d=100
-@@6: line 2.2 t=2700 -> @2
-er-
-@\discretionary via @2 b=78 p=50 d=20244
-@@7: line 2.3- t=22844 -> @2
-hält man die be-sagten 21600 Atemzüge des \TU/Vollkorn(0)/m/it/8 ajapā mantra
-\TU/Vollkorn(0)/m/n/8 . \TU/Vollkorn(0)/m/sc/8 B󰃦󰅄󰂨󰃟 
-@ via @3 b=273 p=0 d=80089
-@@8: line 3.0 t=28364509 -> @3
-\TU/Vollkorn(0)/m/n/8 (2013, 
-@ via @3 b=0 p=0 d=10100
-@ via @4 b=4144 p=0 d=17255716
-@@9: line 3.0 t=18632540 -> @4
-265, 
-@ via @4 b=624 p=0 d=401956
-@ via @5 b=6204 p=0 d=38623796
-@@10: line 3.0 t=1778780 -> @4
-n. 
-@ via @4 b=127 p=0 d=18769
-@ via @5 b=2644 p=0 d=7053716
-@@11: line 3.0 t=1395593 -> @4
-46) 
-@ via @4 b=0 p=0 d=10100
-@ via @5 b=352 p=0 d=141044
-@ via @6 b=2012 p=0 d=4098484
-@ via @7 b=3407 p=0 d=11685889
-@@12: line 3.0 t=144044 -> @5
-ar-
-@\discretionary via @4 b=0 p=50 d=12600
-@\discretionary via @5 b=37 p=50 d=4709
-@\discretionary via @6 b=587 p=50 d=368909
-@\discretionary via @7 b=1215 p=50 d=1523125
-@@13: line 3.1- t=7709 -> @5
-gu-
-@\discretionary via @4 b=91 p=50 d=22701
-@\discretionary via @5 b=0 p=50 d=2600
-@\discretionary via @6 b=176 p=50 d=47096
-@\discretionary via @7 b=494 p=50 d=276516
-@@14: line 3.2- t=5600 -> @5
-men-
-@\discretionary via @5 b=0 p=50 d=2600
-@\discretionary via @6 b=0 p=50 d=2600
-@\discretionary via @7 b=24 p=50 d=23656
-@@15: line 3.2- t=5300 -> @6
-tiert, 
+@ via @3 b=19 p=0 d=10841
+@@6: line 2.2 t=200 -> @2
+21600 
+@ via @3 b=1 p=0 d=121
+@@7: line 2.2 t=1721 -> @3
+breaths of the \TU/Vollkorn(0)/m/it/8 ajapā mantra\TU/Vollkorn(0)/m/n/8 . \TU/
+Vollkorn(0)/m/sc/8 B󰃦󰅄󰂨󰃟 \TU/Vollkorn(0)/m/n/8 (2013, 265, n. 46) ar
+-gues that this as-sump-tion 
+@ via @4 b=0 p=0 d=100
+@ via @5 b=32 p=0 d=1764
+@@8: line 3.1 t=2060 -> @5
+@@9: line 3.2 t=5825 -> @4
+comes 
+@ via @5 b=0 p=0 d=100
 @ via @6 b=0 p=0 d=100
-@ via @7 b=0 p=0 d=100
-@@16: line 3.2 t=2800 -> @6
-dass diese An-nahme aus \TU/Vollkorn(0)/m/it/8 Svac-cha-n-datantra \TU/Vollkorn
-(0)/m/n/8 7.54-55 stammt. 
-@ via @8 b=359 p=0 d=136161
-@ via @9 b=6063 p=0 d=36881329
-@@17: line 4.0 t=28500670 -> @8
-Neben 
-@ via @8 b=0 p=0 d=10100
-@ via @9 b=107 p=0 d=13689
-@ via @10 b=1622 p=0 d=2663424
-@ via @11 b=7540 p=0 d=57002500
-@@18: line 4.0 t=4442204 -> @10
-der 
-@ via @9 b=0 p=0 d=10100
-@ via @10 b=206 p=0 d=46656
-@ via @11 b=1603 p=0 d=2601769
-@ via @12 b=7151 p=0 d=51279921
-@@19: line 4.0 t=1825436 -> @10
-Hand-
-@\discretionary via @10 b=0 p=50 d=12600
-@\discretionary via @11 b=0 p=50 d=12600
-@\discretionary via @12 b=301 p=50 d=99221
-@\discretionary via @13 b=1077 p=50 d=1194069
-@\discretionary via @14 b=2990 p=50 d=9022500
-@@20: line 4.0- t=243265 -> @12
-schrit 
-@ via @11 b=51 p=0 d=13721
-@ via @12 b=0 p=0 d=10100
-@ via @13 b=2 p=0 d=144
-@ via @14 b=166 p=0 d=40976
-@ via @15 b=2229 p=0 d=5023121
-@@21: line 4.2 t=7853 -> @13
-[]U$[][]$
-@\math via @12 b=13 p=0 d=10529
-@\math via @13 b=0 p=0 d=100
-@\math via @14 b=0 p=0 d=100
-@\math via @15 b=394 p=0 d=173216
-@\math via @16 b=5245 p=0 d=27625025
-@@22: line 4.2 t=5700 -> @14
- des 
-@ via @14 b=0 p=0 d=100
-@ via @15 b=2 p=0 d=144
-@ via @16 b=995 p=0 d=1020025
-@@23: line 4.2 t=5444 -> @15
-\TU/Vollkorn(0)/m/it/8 Yo-
-@\discretionary via @15 b=0 p=50 d=12600
-@\discretionary via @16 b=102 p=50 d=25044
-@@24: line 4.0- t=27844 -> @16
-@@25: line 4.2- t=17900 -> @15
-gatattv-
-@\discretionary via @16 b=0 p=50 d=2600
-@@26: line 4.2- t=5400 -> @16
-abindu \TU/Vollkorn(0)/m/n/8 ist dieses yo-gis-che Ax-iom in der San-skrit 
-@ via @17 b=2229 p=0 d=5013121
-@@27: line 5.0 t=33513791 -> @17
-Yo-
-@\discretionary via @17 b=310 p=50 d=104900
-@\discretionary via @18 b=7168 p=50 d=51526184
-@@28: line 5.0- t=28605570 -> @17
-galit-
-@\discretionary via @17 b=0 p=50 d=12600
-@\discretionary via @18 b=1577 p=50 d=2521069
-@\discretionary via @19 b=7777 p=50 d=60639869
-@@29: line 5.0- t=6963273 -> @18
-er-
-@\discretionary via @17 b=0 p=50 d=12600
-@\discretionary via @18 b=527 p=50 d=290869
-@\discretionary via @19 b=4036 p=50 d=16372616
-@@30: line 5.0- t=4733073 -> @18
-atur 
-@ via @18 b=6 p=0 d=10256
-@ via @19 b=756 p=0 d=586756
-@ via @20 b=7397 p=0 d=54863649
-@@31: line 5.0 t=2412192 -> @19
-weit 
-@ via @18 b=0 p=0 d=10100
-@ via @19 b=0 p=0 d=10100
-@ via @20 b=905 p=0 d=837225
-@@32: line 5.0 t=1080490 -> @20
-ver-
-@\discretionary via @19 b=1 p=50 d=12621
-@\discretionary via @20 b=14 p=50 d=13076
-@\discretionary via @21 b=2359 p=50 d=5624661
-@@33: line 5.1- t=256341 -> @20
-bre-
-@\discretionary via @20 b=0 p=50 d=22600
-@\discretionary via @21 b=443 p=50 d=217709
-@\discretionary via @22 b=2762 p=50 d=7696484
-@@34: line 5.0- t=225562 -> @21
-itet. 
-@ via @20 b=26 p=0 d=11296
-@ via @21 b=14 p=0 d=576
-@ via @22 b=574 p=0 d=351056
-@ via @23 b=5050 p=0 d=25613600
-@@35: line 5.1 t=8429 -> @21
-Siehe 
-@ via @21 b=53 p=0 d=3969
-@ via @22 b=0 p=0 d=100
-@ via @23 b=25 p=0 d=1225
-@ via @24 b=257 p=0 d=71289
-@ via @25 b=257 p=0 d=81289
-@ via @26 b=4569 p=0 d=20977241
-@@36: line 5.1 t=6669 -> @23
-@@37: line 5.2 t=5800 -> @22
-@@38: line 5.3 t=11822 -> @21
-z.B. 
-@ via @23 b=0 p=0 d=100
-@ via @24 b=0 p=0 d=10100
-@ via @25 b=0 p=0 d=100
-@ via @26 b=972 p=0 d=974324
-@@39: line 5.2 t=5544 -> @23
-[] 58, Hemacan-dra’s \TU/Vollkorn(0)/m/it/8 Yo-gaśās-
-@\discretionary via @27 b=1418 p=50 d=2041684
-@\discretionary via @28 b=4132 p=50 d=17168664
-@@40: line 6.0- t=35555475 -> @27
-tra
-@\kern via @27 b=321 p=0 d=109561
-@\kern via @28 b=1584 p=0 d=2540836
-@@41: line 6.0 t=31146406 -> @28
- \TU/Vollkorn(0)/m/n/8 5.232, 
-@ via @27 b=0 p=0 d=10100
-@ via @28 b=0 p=0 d=10100
-@ via @29 b=488 p=0 d=248004
-@ via @30 b=1577 p=0 d=2518569
-@@42: line 6.0 t=7211277 -> @29
-\TU/Vollkorn(0)/m/it/8 Vivekamār-
-@\discretionary via @31 b=0 p=50 d=12600
-@\discretionary via @32 b=804 p=50 d=665096
-@\discretionary via @33 b=3746 p=50 d=14120036
-@@43: line 6.0- t=1745586 -> @32
-taṇḍa
-@\kern via @32 b=0 p=0 d=10100
-@\kern via @33 b=235 p=0 d=60025
-@\kern via @34 b=2027 p=0 d=4149369
-@@44: line 6.0 t=316366 -> @33
- \TU/Vollkorn(0)/m/n/8 46, 
-@ via @32 b=9 p=0 d=10361
-@ via @33 b=0 p=0 d=100
-@ via @34 b=185 p=0 d=38025
-@ via @35 b=6510 p=0 d=42510400
-@@45: line 6.0 t=263587 -> @34
-@@46: line 6.2 t=256441 -> @33
-\TU/Vollkorn(0)/m/it/8 Gher-
-@\discretionary via @34 b=0 p=50 d=22600
-@\discretionary via @35 b=86 p=50 d=11716
-@\discretionary via @36 b=6792 p=50 d=46269704
-@\discretionary via @37 b=6792 p=50 d=46279704
-@\discretionary via @38 b=6792 p=50 d=46279704
-@@47: line 6.1- t=20145 -> @35
-aṇḍasaṃhitā
-@\kern via @36 b=3 p=0 d=169
-@\kern via @37 b=3 p=0 d=169
-@\kern via @38 b=3 p=0 d=169
-@\kern via @39 b=18 p=0 d=784
-@@48: line 6.1 t=6328 -> @39
-@@49: line 6.2 t=5969 -> @37
- \TU/Vollkorn(0)/m/n/8 5.79, 
-@ via @39 b=60 p=0 d=4900
-@@50: line 6.3 t=10444 -> @39
-\TU/Vollkorn(0)/m/it/8 Dhyān-abindū-paniṣad \TU/Vollkorn(0)/m/n/8 62ab-63ab oder 
-@ via @40 b=6510 p=0 d=42510400
-@@51: line 7.0 t=78065875 -> @40
-\TU/Vollkorn(0)/m/it/8 Jog-
-@\discretionary via @40 b=710 p=50 d=530900
-@\discretionary via @41 b=5064 p=50 d=25747976
-@@52: line 7.0- t=36086375 -> @40
-pradīpyakā
-@\kern via @41 b=0 p=0 d=10100
-@\kern via @42 b=1412 p=0 d=2022084
-@@53: line 7.0 t=9233361 -> @42
- \TU/Vollkorn(0)/m/n/8 913.| 
-@\par via @42 b=0 p=-10000 d=10100
-@\par via @43 b=0 p=-10000 d=15100
-@\par via @44 b=0 p=-10000 d=10100
-@\par via @45 b=0 p=-10000 d=10100
-@\par via @46 b=0 p=-10000 d=100
-@\par via @47 b=0 p=-10000 d=5100
-@\par via @48 b=0 p=-10000 d=100
-@\par via @49 b=0 p=-10000 d=100
-@\par via @50 b=0 p=-10000 d=100
-@\par via @51 b=0 p=-10000 d=10100
-@\par via @52 b=0 p=-10000 d=15100
-@\par via @53 b=0 p=-10000 d=10100
-@@54: line 7.2- t=6069 -> @49
+@@10: line 3.2 t=300 -> @6
+from 
+@ via @6 b=81 p=0 d=8281
+@ via @7 b=1 p=0 d=121
+@@11: line 3.2 t=1842 -> @7
+@@12: line 3.3 t=8481 -> @6
+\TU/Vollkorn(0)/m/it/8 Svac-cha-n-datantra \TU/Vollkorn(0)/m/n/8 7.54-55. In ad-
+di-tion to the []U$[][]$ manuscript of \TU/Vollkorn(0)/m/it/8 Yo-gatattv-abindu\TU/Vollkorn(0)/m/n/8 , this 
+@ via @8 b=1 p=0 d=121
+@ via @9 b=1 p=0 d=121
+@@13: line 4.2 t=2181 -> @8
+yo-gic 
+@ via @8 b=50 p=0 d=13600
+@ via @9 b=50 p=0 d=3600
+@ via @10 b=17 p=0 d=729
+@@14: line 4.1 t=1029 -> @10
+@@15: line 4.3 t=9425 -> @9
+ax-iom 
+@ via @10 b=41 p=0 d=2601
+@ via @11 b=0 p=0 d=100
+@ via @12 b=0 p=0 d=100
+@@16: line 4.2 t=1942 -> @11
+@@17: line 4.3 t=2901 -> @10
+is 
+@ via @11 b=0 p=0 d=100
+@ via @12 b=0 p=0 d=100
+@@18: line 4.2 t=1942 -> @11
+widely used in San-skrit Yoga lit-er-a-ture. See for ex-am-ple [] 
+@ via @13 b=1 p=0 d=121
+@@19: line 5.2 t=2302 -> @13
+58, 
+@ via @13 b=0 p=0 d=100
+@@20: line 5.2 t=2281 -> @13
+Hemacan-dra’s 
+@ via @18 b=0 p=0 d=100
+@@21: line 5.2 t=2042 -> @18
+\TU/Vollkorn(0)/m/it/8 Yo-gaśās-tra \TU/Vollkorn(0)/m/n/8 5.232, \TU/Vollkorn
+(0)/m/it/8 Vivekamār-taṇḍa \TU/Vollkorn(0)/m/n/8 46, \TU/Vollkorn(0)/m/it/
+8 Gher-aṇḍasaṃhitā \TU/Vollkorn(0)/m/n/8 5.79, \TU/Vollkorn(0)/m/it/8 Dhy
+ān-abindū-paniṣad
+@\kern via @19 b=0 p=0 d=100
+@@22: line 6.2 t=2402 -> @19
+ \TU/Vollkorn(0)/m/n/8 62ab-
+@\discretionary via @20 b=0 p=50 d=2600
+@@23: line 6.2- t=4881 -> @20
+63ab or \TU/Vollkorn(0)/m/it/8 Jog-pradīpyakā \TU/Vollkorn(0)/m/n/8 913.| 
+@\par via @22 b=0 p=-10000 d=100
+@\par via @23 b=0 p=-10000 d=5100
+@@24: line 7.2- t=2502 -> @22
 
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 Si
+\TU/Vollkorn(0)/m/n/8 Se
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Siehe z.B. \TU/Vollkorn(0)/m/it/8 Yo-gabīja \TU/Vo
-llkorn(0)/m/n/8 147; \TU/Vollkorn(0)/m/it/8 Śi-vayo-gapradīpikā \TU/Vollkorn
-(0)/m/n/8 2.26-27 and 2.29-32 (\TU/Vollkorn(0)/m/sc/8 P󰄝󰅾󰂸󰄀󰄀 \TU
-/Vollkorn(0)/m/n/8 (2023: 205), ex-plains 
+[][][]\TU/Vollkorn(0)/m/n/8 See e.g. \TU/Vollkorn(0)/m/it/8 Yo-gabīja \TU/Voll
+korn(0)/m/n/8 147; \TU/Vollkorn(0)/m/it/8 Śi-vayo-gapradīpikā \TU/Vollkorn(0
+)/m/n/8 2.26-27 and 2. 29-32 (\TU/Vollkorn(0)/m/sc/8 P󰄝󰅾󰂸󰄀󰄀 \TU/
+Vollkorn(0)/m/n/8 (2023: 205), ex-plains 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
 @secondpass
-[][][]\TU/Vollkorn(0)/m/n/8 Siehe z.B. \TU/Vollkorn(0)/m/it/8 Yo-gabīja \TU/Vo
-llkorn(0)/m/n/8 147; \TU/Vollkorn(0)/m/it/8 Śi-vayo-gapradīpikā \TU/Vollkorn
-(0)/m/n/8 2.26-27 and 2.29-32 (\TU/Vollkorn(0)/m/sc/8 P󰄝󰅾󰂸󰄀󰄀 \TU
-/Vollkorn(0)/m/n/8 (2023: 205), 
-@ via @0 b=1688 p=0 d=2893204
-@@1: line 1.0 t=2893204 -> @0
+[][][]\TU/Vollkorn(0)/m/n/8 See e.g. \TU/Vollkorn(0)/m/it/8 Yo-gabīja \TU/Voll
+korn(0)/m/n/8 147; \TU/Vollkorn(0)/m/it/8 Śi-vayo-gapradīpikā \TU/Vollkorn(0
+)/m/n/8 2.26-27 and 2. 29-32 (\TU/Vollkorn(0)/m/sc/8 P󰄝󰅾󰂸󰄀󰄀 \TU/
+Vollkorn(0)/m/n/8 (2023: 
+@ via @0 b=7522 p=0 d=56741024
+@@1: line 1.0 t=56741024 -> @0
+205), 
+@ via @0 b=1102 p=0 d=1246544
+@@2: line 1.0 t=1246544 -> @0
 ex-
-@\discretionary via @0 b=138 p=50 d=34404
-@@2: line 1.0- t=34404 -> @0
+@\discretionary via @0 b=175 p=50 d=46725
+@@3: line 1.0- t=46725 -> @0
 plains 
 @ via @0 b=0 p=0 d=100
-@@3: line 1.2 t=100 -> @0
-that here, how-ever ``mantra is re-framed and in-te-ri-or-ized within a \TU/Vol
-lkorn(0)/m/it/8 prāṇāyāma
-@\kern via @1 b=3792 p=0 d=14455204
-@\kern via @2 b=7740 p=0 d=60062500
-@@4: line 2.0 t=17348408 -> @1
+@@4: line 1.2 t=100 -> @0
+that here, how-ever ``mantra is re-framed and in-te-ri-orised within a \TU/Voll
+korn(0)/m/it/8 prāṇāyāma
+@\kern via @1 b=161 p=0 d=29241
+@\kern via @2 b=4024 p=0 d=16273156
+@\kern via @3 b=8113 p=0 d=65983129
+@@5: line 2.0 t=17519700 -> @2
  \TU/Vollkorn(0)/m/n/8 en-
-@\discretionary via @1 b=638 p=50 d=422404
-@\discretionary via @2 b=1931 p=50 d=3779981
-@@5: line 2.0- t=3315608 -> @1
-vi-
-@\discretionary via @1 b=171 p=50 d=35261
-@\discretionary via @2 b=828 p=50 d=714744
-@@6: line 2.0- t=749148 -> @2
-ron-
 @\discretionary via @1 b=0 p=50 d=12600
-@\discretionary via @2 b=40 p=50 d=15000
-@\discretionary via @3 b=3977 p=50 d=15908669
-@@7: line 2.1- t=49404 -> @2
+@\discretionary via @2 b=703 p=50 d=510869
+@\discretionary via @3 b=2065 p=50 d=4318125
+@@6: line 2.0- t=1757413 -> @2
+vi-
+@\discretionary via @1 b=0 p=50 d=12600
+@\discretionary via @2 b=198 p=50 d=45764
+@\discretionary via @3 b=905 p=50 d=849725
+@@7: line 2.0- t=896450 -> @3
+ron-
+@\discretionary via @1 b=88 p=50 d=22104
+@\discretionary via @2 b=0 p=50 d=12600
+@\discretionary via @3 b=51 p=50 d=16221
+@\discretionary via @4 b=4217 p=50 d=17880029
+@@8: line 2.1- t=62946 -> @3
 ment, 
-@ via @1 b=88 p=0 d=19604
-@ via @2 b=0 p=0 d=10100
-@ via @3 b=273 p=0 d=90089
-@@8: line 2.2 t=44504 -> @2
+@ via @2 b=66 p=0 d=15776
+@ via @3 b=0 p=0 d=10100
+@ via @4 b=312 p=0 d=113684
+@@9: line 2.2 t=56825 -> @3
 specif-i
-@\discretionary via @3 b=0 p=50 d=2600
-@@9: line 2.2- t=2700 -> @3
+@\discretionary via @4 b=0 p=50 d=2600
+@@10: line 2.2- t=2700 -> @4
 -
-@\discretionary via @3 b=4 p=50 d=2696
-@@10: line 2.2- t=2796 -> @3
+@\discretionary via @4 b=2 p=50 d=2644
+@@11: line 2.2- t=2744 -> @4
 cally in the form of the \TU/Vollkorn(0)/m/it/8 ajapā\TU/Vollkorn(0)/m/n/8 , th
-e “un-ut-tered” mantra''); \TU/Vollkorn(0)/m/it/8 yo-gac-in-
-@\discretionary via @4 b=5147 p=50 d=26597149
-@@11: line 3.0- t=43945557 -> @4
+e ”un-ut-tered” mantra''); \TU/Vollkorn(0)/m/it/8 yo-gac-in-
+@\discretionary via @5 b=5147 p=50 d=26597149
+@@12: line 3.0- t=44116849 -> @5
 ta-
-@\discretionary via @4 b=2818 p=50 d=8000084
-@\discretionary via @5 b=6032 p=50 d=36518264
-@@12: line 3.0- t=25348492 -> @4
+@\discretionary via @5 b=2818 p=50 d=8000084
+@\discretionary via @6 b=6032 p=50 d=36518264
+@@13: line 3.0- t=25519784 -> @5
 mani
-@\kern via @4 b=336 p=0 d=119716
-@\kern via @5 b=1337 p=0 d=1814409
-@\kern via @6 b=2922 p=0 d=8596624
-@@13: line 3.0 t=5130017 -> @5
+@\kern via @5 b=336 p=0 d=119716
+@\kern via @6 b=1337 p=0 d=1814409
+@\kern via @7 b=2922 p=0 d=8596624
+@@14: line 3.0 t=3571822 -> @6
  \TU/Vollkorn(0)/m/n/8 (Ed. 
-@ via @4 b=0 p=0 d=10100
-@ via @5 b=54 p=0 d=4096
-@ via @6 b=314 p=0 d=104976
-@ via @7 b=1917 p=0 d=3713329
-@@14: line 3.0 t=854124 -> @6
-p. 
-@ via @4 b=0 p=0 d=10100
 @ via @5 b=0 p=0 d=10100
-@ via @6 b=13 p=0 d=529
-@ via @7 b=336 p=0 d=119716
-@ via @8 b=4429 p=0 d=19714721
-@@15: line 3.0 t=169120 -> @7
-12); 
-@ via @5 b=6 p=0 d=10256
+@ via @6 b=54 p=0 d=4096
+@ via @7 b=314 p=0 d=104976
+@ via @8 b=1917 p=0 d=3713329
+@@15: line 3.0 t=1001426 -> @7
+p. 
+@ via @5 b=0 p=0 d=10100
 @ via @6 b=0 p=0 d=10100
-@ via @7 b=2 p=0 d=144
-@ via @8 b=677 p=0 d=481969
-@ via @9 b=3780 p=0 d=14374100
-@ via @10 b=4391 p=0 d=19378801
-@@16: line 3.2 t=49548 -> @7
+@ via @7 b=13 p=0 d=529
+@ via @8 b=336 p=0 d=119716
+@ via @9 b=4429 p=0 d=19714721
+@@16: line 3.0 t=182662 -> @8
+12); 
+@ via @6 b=6 p=0 d=10256
+@ via @7 b=0 p=0 d=10100
+@ via @8 b=2 p=0 d=144
+@ via @9 b=677 p=0 d=481969
+@ via @10 b=3780 p=0 d=14374100
+@ via @11 b=4391 p=0 d=19378801
+@@17: line 3.2 t=63090 -> @8
 \TU/Vollkorn(0)/m/it/8 Haṭhatattvakau-
-@\discretionary via @9 b=0 p=50 d=12600
 @\discretionary via @10 b=0 p=50 d=12600
-@@17: line 3.2- t=15300 -> @9
+@\discretionary via @11 b=0 p=50 d=12600
+@@18: line 3.2- t=15300 -> @10
 mudī \TU/Vollkorn(0)/m/n/8 55.28; and \TU/Vollkorn(0)/m/it/8 Yo-gaśikhopani
 ṣad \TU/Vollkorn(0)/m/n/8 132.| 
-@\par via @11 b=0 p=-10000 d=15100
 @\par via @12 b=0 p=-10000 d=15100
-@\par via @13 b=0 p=-10000 d=10100
+@\par via @13 b=0 p=-10000 d=15100
 @\par via @14 b=0 p=-10000 d=10100
 @\par via @15 b=0 p=-10000 d=10100
-@\par via @16 b=0 p=-10000 d=100
-@\par via @17 b=0 p=-10000 d=5100
-@@18: line 4.2- t=20400 -> @17
+@\par via @16 b=0 p=-10000 d=10100
+@\par via @17 b=0 p=-10000 d=100
+@\par via @18 b=0 p=-10000 d=5100
+@@19: line 4.2- t=20400 -> @18
 
 @firstpass
-@secondpass
-[]\TU/Vollkorn(0)/m/n/10 Hand-schrift []U$[][]$ erk-lärt, dass die tägliche Ge
-samtzahl aller stillen Rez-
-@\discretionary via @0 b=108 p=50 d=26424
-@@1: line 1.0- t=26424 -> @0
-i-
-@\discretionary via @0 b=34 p=50 d=4436
-@@2: line 1.1- t=4436 -> @0
-ta-
-@\discretionary via @0 b=0 p=50 d=2600
-@@3: line 1.2- t=2600 -> @0
-to-
-@\discretionary via @0 b=0 p=50 d=2600
-@@4: line 1.2- t=2600 -> @0
-nen des \TU/Vollkorn(0)/m/it/10 haṃsa mantra\TU/Vollkorn(0)/m/n/10 s 21600 be-
-trägt[][][][] Die As-sozi-a-tion des Be-griffes 
-@ via @1 b=57 p=0 d=4489
-@ via @2 b=162 p=0 d=29584
-@@5: line 2.0 t=34020 -> @2
-@@6: line 2.1 t=30913 -> @1
-Mantrayoga mit der Praxis des \TU/Vollkorn(0)/m/it/10 haṃsa mantra \TU/Vollko
-rn(0)/m/n/10 ist in der San-skrit Yo-galit-er-
-@\discretionary via @5 b=78 p=50 d=10244
-@\discretionary via @6 b=78 p=50 d=10244
-@@7: line 3.1- t=41157 -> @6
-atur 
-@ via @5 b=0 p=0 d=10100
-@ via @6 b=0 p=0 d=100
-@@8: line 3.2 t=31013 -> @6
-weit ver-bre-itet.[][][][] 
-@\par via @7 b=0 p=-10000 d=5100
-@\par via @8 b=0 p=-10000 d=100
-@@9: line 4.2- t=31113 -> @8
+[]\TU/Vollkorn(0)/m/n/10 Manuscript []U$[][]$ ex-plains that the to-tal daily nu
+m-ber of all silent recita-tions 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+of the \TU/Vollkorn(0)/m/it/10 haṃsa mantra \TU/Vollkorn(0)/m/n/10 is 21600.[
+][][][] The as-so-ci-a-tion of the term Mantrayoga with 
+@ via @1 b=0 p=0 d=100
+@@2: line 2.2 t=200 -> @1
+the prac-tice of \TU/Vollkorn(0)/m/it/10 haṃsa mantra \TU/Vollkorn(0)/m/n/10 
+is widespread in San-skrit Yoga lit-er-a-ture.[][][][] 
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 3.2- t=300 -> @2
 
 @firstpass
 @secondpass
 @emergencypass
-\TU/Vollkorn(0)/m/n/8 De
+\TU/Vollkorn(0)/m/n/8 Th
 @\par via @0 b=10000 p=-10000 d=*
 @@1: line 1.0- t=0 -> @0
 
 
-LaTeX Warning: Citation 'sarada' on page 63 undefined on input line 859.
+LaTeX Warning: Citation 'sarada' on page 63 undefined on input line 858.
 
 
 LaTeX Warning: Citation 'saradatilakafull' on page 63 undefined on input line 8
-59.
+58.
 
 @firstpass
-[][][]\TU/Vollkorn(0)/m/n/8 Der in []U$[][]$ hergestellte Zusam-men-hang zwis-ch
-en Sid-dhakuṇḍal-inīyoga und Mantrayoga 
-@ via @0 b=1 p=0 d=121
-@@1: line 1.2 t=121 -> @0
-findet sich in ähn-licher Form in [] 25.37ab: ‘The \TU/Vollkorn(0)/m/it/8 ku
-ṇḍalī \TU/Vollkorn(0)/m/n/8 Śakti abides in the \TU/Vollkorn(0)/m/it/8 ha
-ṃsaḥ \TU/Vollkorn(0)/m/n/8 [and] 
-@ via @1 b=7 p=0 d=289
-@@2: line 2.2 t=410 -> @1
-sup-ports the [in-di-vid-ual] Self.’ (\TU/Vollkorn(0)/m/it/8 bib-harti kuṇ
-ḍalī śak-tir āt-mā-naṃ haṃsaṃ āśritā \TU/Vollkorn(0)/m/n/8 |), se
-e [].| 
-@\par via @2 b=39 p=-10000 d=2401
-@@3: line 3.3- t=2811 -> @2
-
-@firstpass
-[]\TU/Vollkorn(0)/m/n/10 Aus tex-tkri-tis-cher Per-spek-tive gibt es hin-sichtli
-ch der Au-then-tiz-ität der 
+[][][]\TU/Vollkorn(0)/m/n/8 The con-nec-tion be-tween Sid-dhakuṇḍal-inīyoga
+ and Mantrayoga es-tab-lished in []U$[][]$ is found 
 @ via @0 b=0 p=0 d=100
 @@1: line 1.2 t=100 -> @0
-be-sproch-enen Pas-sagen am-biva-lente Ev-i-denz. Alle Hand-schriften er-wäh-ne
-n 
+in 
+@ via @0 b=3 p=0 d=169
+@@2: line 1.2 t=169 -> @0
+a sim-i-lar form in [] 25.37ab: ‘The \TU/Vollkorn(0)/m/it/8 kuṇḍalī \TU/
+Vollkorn(0)/m/n/8 Śakti abides in the \TU/Vollkorn(0)/m/it/8 haṃsaḥ \TU/Vo
+llkorn(0)/m/n/8 [and] sup-ports the 
 @ via @1 b=0 p=0 d=100
-@@2: line 2.2 t=200 -> @1
-Mantrayoga in der oben ange-󰀨ührten Pas-sage. Wir müssen dem-nach davon 
-@ via @2 b=0 p=0 d=100
-@@3: line 3.2 t=300 -> @2
-aus-ge-hen, dass Mantrayoga hier ur-sprünglich und vielle-icht sogar be-wusst 
-@ via @3 b=0 p=0 d=100
-@@4: line 4.2 t=400 -> @3
-@secondpass
-[]\TU/Vollkorn(0)/m/n/10 Aus tex-tkri-tis-cher Per-spek-tive gibt es hin-sichtli
-ch der Au-then-tiz-ität der 
-@ via @0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @0
-be-
-@\discretionary via @0 b=11 p=50 d=2941
-@@2: line 1.2- t=2941 -> @0
-sproch-enen Pas-sagen am-biva-lente Ev-i-denz. Alle Hand-schriften er-wäh-
-@\discretionary via @1 b=54 p=50 d=6596
-@@3: line 2.1- t=6696 -> @1
-nen 
-@ via @1 b=0 p=0 d=100
-@ via @2 b=2 p=0 d=144
+@ via @2 b=64 p=0 d=5476
+@@3: line 2.1 t=5645 -> @2
 @@4: line 2.2 t=200 -> @1
-Mantrayoga in der oben ange-󰀨ührten Pas-sage. Wir müssen dem-nach 
-@ via @3 b=51 p=0 d=3721
-@@5: line 3.1 t=10417 -> @3
-davon 
-@ via @4 b=0 p=0 d=100
-@@6: line 3.2 t=300 -> @4
-aus-ge-hen, dass Mantrayoga hier ur-sprünglich und vielle-icht sogar 
-@ via @5 b=119 p=0 d=16641
-@@7: line 4.0 t=27058 -> @5
-be-
-@\discretionary via @5 b=0 p=50 d=2600
-@@8: line 4.2- t=13017 -> @5
-wusst 
+[in-di-vid-ual] Self.’ (\TU/Vollkorn(0)/m/it/8 bib-harti kuṇḍalī śak-tir
+ āt-mā-naṃ haṃsaṃ āśritā \TU/Vollkorn(0)/m/n/8 |), see [].| 
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 3.2- t=300 -> @4
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 From a text-critical per-spec-tive, there is am-biva-le
+nt ev-i-dence re-gard-ing 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+the 
+@ via @0 b=92 p=0 d=10404
+@@2: line 1.3 t=10404 -> @0
+au-then-tic-ity of the pas-sages un-der dis-cus-sion. All manuscripts men-tion 
+@ via @1 b=0 p=0 d=100
+@@3: line 2.2 t=200 -> @1
+@secondpass
+[]\TU/Vollkorn(0)/m/n/10 From a text-critical per-spec-tive, there is am-biva-le
+nt ev-i-dence re-gard-ing 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+the 
+@ via @0 b=92 p=0 d=10404
+@@2: line 1.3 t=10404 -> @0
+au-then-tic-ity of the pas-sages un-der dis-cus-sion. All manuscripts men-
+@\discretionary via @1 b=113 p=50 d=27629
+@@3: line 2.0- t=27729 -> @1
+tion 
+@ via @1 b=0 p=0 d=100
+@ via @2 b=169 p=0 d=42041
+@@4: line 2.2 t=200 -> @1
+Mantrayoga in the above pas-sage. We must, there-fore, as-sume that 
+@ via @3 b=159 p=0 d=28561
+@@5: line 3.0 t=56290 -> @3
+Mantrayoga was orig-i-nally and per-haps even de-lib-er-ately spec-i-fied here 
+by 
+@ via @5 b=0 p=0 d=10100
+@@6: line 4.2 t=66390 -> @5
+Rā-
+@\discretionary via @5 b=18 p=50 d=13284
+@@7: line 4.3- t=69574 -> @5
+macan-dra, even if, or pre-cisely be-cause, he reads the source text dif-fer-
+@\discretionary via @6 b=29 p=50 d=4021
+@@8: line 5.1- t=70411 -> @6
+ently. 
 @ via @6 b=0 p=0 d=100
-@@9: line 4.2 t=400 -> @6
-von Rā-macan-dra genannt wurde, auch wenn, oder ger-ade weil, der 
-@ via @7 b=0 p=0 d=10100
-@ via @8 b=46 p=0 d=3136
-@@10: line 5.1 t=16153 -> @8
-die 
-@ via @7 b=37 p=0 d=12209
+@ via @7 b=0 p=0 d=100
+@@9: line 5.2 t=66490 -> @6
+The fact that only the manuscript []U$[][]$ ex-plic-itly teaches a Mantrayoga 
 @ via @8 b=0 p=0 d=100
-@@11: line 5.2 t=13117 -> @8
-Quell-
-@\discretionary via @9 b=0 p=50 d=2600
-@@12: line 5.2- t=3000 -> @9
-textvor-lage hier an-ders li-est. Stutzig muss einen der Fakt machen, 
-@ via @10 b=0 p=0 d=100
-@@13: line 6.2 t=16253 -> @10
-dass 
-@ via @11 b=0 p=0 d=100
-@@14: line 6.2 t=13217 -> @11
-nur 
-@ via @12 b=0 p=0 d=100
-@@15: line 6.2 t=3100 -> @12
-die 
-@ via @12 b=21 p=0 d=961
-@@16: line 6.3 t=3961 -> @12
-Hand-schrift []U$[][]$ ex-plizit ein Mantrayoga lehrt. Zusät-zliches Ma-
-@\discretionary via @13 b=0 p=50 d=2600
-@@17: line 7.2- t=18853 -> @13
+@@10: line 6.2 t=70511 -> @8
+must 
+@ via @9 b=2 p=0 d=144
+@@11: line 6.2 t=66634 -> @9
+make one sus-pi-cious. This manuscript only con-tains ad-di-tional ma-
+@\discretionary via @10 b=38 p=50 d=4804
+@@12: line 7.1- t=75315 -> @10
 te-
-@\discretionary via @13 b=0 p=50 d=2600
-@\discretionary via @14 b=64 p=50 d=7976
-@@18: line 7.1- t=21193 -> @14
-@@19: line 7.2- t=18853 -> @13
+@\discretionary via @10 b=0 p=50 d=2600
+@@13: line 7.2- t=73111 -> @10
 rial 
-@ via @14 b=0 p=0 d=100
-@@20: line 7.2 t=13317 -> @14
-findet 
-@ via @15 b=3 p=0 d=169
+@ via @10 b=0 p=0 d=100
+@ via @11 b=143 p=0 d=33409
+@@14: line 7.2 t=70611 -> @10
+in 
+@ via @11 b=0 p=0 d=100
+@@15: line 7.2 t=66734 -> @11
+the 
+@ via @11 b=18 p=0 d=784
+@@16: line 7.3 t=67418 -> @11
+sec-tions IV-XII. The most likely sce-nario is that the scribe of 
+@ via @12 b=126 p=0 d=18496
+@@17: line 8.0 t=93811 -> @12
+the 
+@ via @12 b=0 p=0 d=100
+@ via @13 b=4 p=0 d=196
+@@18: line 8.2 t=73307 -> @13
+manuscript 
+@ via @15 b=61 p=0 d=5041
 @ via @16 b=0 p=0 d=100
-@@21: line 7.2 t=3269 -> @15
-sich in dieser Hand-schrift nur in den Sek-tio-nen IV-XII. Das wahrschein-
-@\discretionary via @20 b=0 p=50 d=2600
-@@22: line 8.2- t=15917 -> @20
-lich-
-@\discretionary via @21 b=0 p=50 d=2600
-@@23: line 8.2- t=5869 -> @21
-ste 
-@ via @21 b=0 p=0 d=100
-@@24: line 8.2 t=3369 -> @21
-Szenario ist, dass der Schreiber der Hand-schrift []U$[][]$ diese Ergänzun-
-@\discretionary via @22 b=1 p=50 d=12621
-@@25: line 9.2- t=28538 -> @22
-gen 
-@ via @22 b=0 p=0 d=100
-@ via @23 b=8 p=0 d=324
-@@26: line 9.2 t=6193 -> @23
-vorgenom-men hat, um die fehlen-den Aus-󰀨ührun-gen über Mantrayoga 
-@ via @25 b=2 p=0 d=144
-@@27: line 10.2 t=28682 -> @25
-bere-
-@\discretionary via @26 b=0 p=50 d=2600
-@@28: line 10.2- t=8793 -> @26
-itzustellen.[][][][] Hand-schrift []U$[][]$ gehört zu der \OML/cmm/m/it/10 \T
-U/Vollkorn(0)/m/n/10 -Gruppe der Hand-schriften, 
-@ via @27 b=0 p=0 d=100
-@ via @28 b=61 p=0 d=5041
-@@29: line 11.1 t=13834 -> @28
-welche in einem Großteils des Textes häu-fig schlechtere Lesarten bere-i-th
-ält 
-@ via @29 b=0 p=0 d=100
-@@30: line 12.2 t=13934 -> @29
-als 
-@ via @29 b=15 p=0 d=10625
-@@31: line 12.3 t=24459 -> @29
-die \OML/cmm/m/it/10 \TU/Vollkorn(0)/m/n/10 -Gruppe mit der äl-testen Hand-sch
-rift []N$[][]$. Dies lässt auch das an-
-@\discretionary via @30 b=58 p=50 d=7124
-@@32: line 13.1- t=21058 -> @30
-dere 
-@ via @30 b=0 p=0 d=100
-@ via @31 b=30 p=0 d=11600
-@@33: line 13.2 t=14034 -> @30
-Szenario zunächst weitaus un-wahrschein-licher er-scheinen, näm-lich, 
-@ via @32 b=73 p=0 d=6889
-@@34: line 14.1 t=27947 -> @32
-dass 
-@ via @32 b=80 p=0 d=18100
-@ via @33 b=33 p=0 d=1849
-@@35: line 14.1 t=15883 -> @33
+@@19: line 8.2 t=67518 -> @16
+@@20: line 8.3 t=71775 -> @15
 []U$[][]$
-@\math via @33 b=0 p=0 d=100
-@@36: line 14.2 t=14134 -> @33
- trotz der jün-geren Datierung einen ur-sprünglicheren Text über-liefert 
-@ via @34 b=0 p=0 d=100
-@@37: line 15.2 t=28047 -> @34
-als 
-@ via @35 b=0 p=0 d=100
-@@38: line 15.2 t=15983 -> @35
-alle 
-@ via @36 b=0 p=0 d=100
-@@39: line 15.2 t=14234 -> @36
-an-deren Textzeu-gen. Allerd-ings weist die äl-teste Hand-schrift []N$[][]$ zu-
-@\discretionary via @37 b=0 p=50 d=2600
-@@40: line 16.2- t=30647 -> @37
-min-
-@\discretionary via @37 b=51 p=50 d=6221
-@\discretionary via @38 b=0 p=50 d=2600
-@@41: line 16.2- t=18583 -> @38
-d-
-@\discretionary via @38 b=0 p=50 d=2600
-@\discretionary via @39 b=72 p=50 d=9224
-@@42: line 16.1- t=23458 -> @39
-@@43: line 16.2- t=18583 -> @38
+@\math via @16 b=12 p=0 d=484
+@@21: line 8.2 t=67902 -> @16
+ made these ad-di-tions to pro-vide the miss-ing ex-pla-na-
+@\discretionary via @17 b=159 p=50 d=31061
+@@22: line 9.0- t=124872 -> @17
+tions 
+@ via @17 b=0 p=0 d=10100
+@ via @18 b=69 p=0 d=6241
+@@23: line 9.1 t=79548 -> @18
+on 
+@ via @18 b=0 p=0 d=100
+@@24: line 9.2 t=73407 -> @18
+Mantrayoga.[][][][] 
+@ via @21 b=0 p=0 d=100
+@@25: line 9.2 t=68002 -> @21
+Manuscript []U$[][]$ be-longs to the \OML/cmm/m/it/10 \TU/Vollkorn(0)/m/n/10 gr
+oup of manuscripts, 
+@ via @22 b=0 p=0 d=10100
+@ via @23 b=130 p=0 d=19600
+@@26: line 10.0 t=99148 -> @23
+which 
+@ via @24 b=0 p=0 d=100
+@@27: line 10.2 t=73507 -> @24
+of-t
+@\discretionary via @24 b=90 p=50 d=12500
+@@28: line 10.3- t=85907 -> @24
+en con-tains 
+@ via @25 b=0 p=0 d=100
+@@29: line 10.2 t=68102 -> @25
+poorer read-ings in a large part of the text than the 
+@ via @26 b=131 p=0 d=19881
+@@30: line 11.0 t=119029 -> @26
+\OML/cmm/m/it/10 \TU/Vollkorn(0)/m/n/10 group 
+@ via @26 b=69 p=0 d=16241
+@ via @27 b=27 p=0 d=1369
+@@31: line 11.1 t=74876 -> @27
+with 
+@ via @27 b=1 p=0 d=121
+@ via @28 b=0 p=0 d=100
+@@32: line 11.2 t=73628 -> @27
+the 
+@ via @28 b=78 p=0 d=7744
+@@33: line 11.3 t=93651 -> @28
+old-
+@\discretionary via @29 b=172 p=50 d=45624
+@@34: line 11.0- t=113726 -> @29
 est 
-@ via @39 b=0 p=0 d=100
-@@44: line 16.2 t=14334 -> @39
-im 
-@ via @39 b=16 p=0 d=676
-@@45: line 16.3 t=14910 -> @39
-let-zten Drit-tel des Textes im-mense Lücken auf. Hand-schrift []U$[][]$
-@\math via @40 b=1 p=0 d=121
-@@46: line 17.2 t=30768 -> @40
- hinge-
-@\discretionary via @41 b=0 p=50 d=12600
-@\discretionary via @42 b=0 p=50 d=12600
+@ via @29 b=9 p=0 d=361
+@@35: line 11.2 t=68463 -> @29
+manuscript []N$[][]$. This also makes the other sce-nario 
+@ via @30 b=9 p=0 d=10361
+@@36: line 12.2 t=129390 -> @30
+seem 
+@ via @30 b=73 p=0 d=16889
+@ via @31 b=178 p=0 d=35344
+@@37: line 12.0 t=110220 -> @31
+far 
+@ via @31 b=0 p=0 d=100
+@@38: line 12.2 t=74976 -> @31
+less 
+@ via @31 b=25 p=0 d=11225
+@ via @32 b=3 p=0 d=169
+@@39: line 12.2 t=73797 -> @32
+likely 
+@ via @33 b=0 p=0 d=100
+@ via @34 b=23 p=0 d=1089
+@@40: line 12.2 t=93751 -> @33
+at 
+@ via @33 b=9 p=0 d=361
+@ via @34 b=0 p=0 d=10100
+@ via @35 b=77 p=0 d=7569
+@@41: line 12.1 t=76032 -> @35
+first, 
+@ via @35 b=0 p=0 d=100
+@@42: line 12.2 t=68563 -> @35
+namely that []U$[][]$, de-spite its later dat-ing, trans-
+@\discretionary via @36 b=54 p=50 d=6596
+@@43: line 13.1- t=135986 -> @36
+mits 
+@ via @36 b=0 p=0 d=100
+@@44: line 13.2 t=129490 -> @36
+a 
+@ via @36 b=0 p=0 d=100
+@ via @37 b=56 p=0 d=4356
+@@45: line 13.1 t=114576 -> @37
+more 
+@ via @37 b=1 p=0 d=10121
+@ via @38 b=0 p=0 d=100
+@@46: line 13.2 t=75076 -> @38
+orig-
+@\discretionary via @38 b=98 p=50 d=14164
+@\discretionary via @39 b=0 p=50 d=2600
+@@47: line 13.2- t=76397 -> @39
+i-
+@\discretionary via @39 b=0 p=50 d=2600
+@@48: line 13.2- t=76397 -> @39
+nal 
+@ via @39 b=30 p=0 d=1600
+@ via @40 b=31 p=0 d=1681
+@@49: line 13.3 t=75397 -> @39
+text 
+@ via @40 b=0 p=0 d=100
+@ via @41 b=0 p=0 d=100
+@@50: line 13.2 t=76132 -> @41
+than 
+@ via @42 b=0 p=0 d=100
+@@51: line 13.2 t=68663 -> @42
+all 
+@ via @42 b=0 p=0 d=100
+@@52: line 13.2 t=68663 -> @42
+other tex-tual wit-nesses. How-ever, the 
+@ via @43 b=200 p=0 d=44100
+@@53: line 14.0 t=180086 -> @43
+old-
 @\discretionary via @43 b=0 p=50 d=12600
-@\discretionary via @44 b=87 p=50 d=11909
-@@47: line 17.1- t=26243 -> @44
-@@48: line 17.2- t=31183 -> @43
-gen 
-@ via @42 b=31 p=0 d=11681
-@ via @43 b=31 p=0 d=1681
-@ via @44 b=0 p=0 d=100
-@ via @45 b=117 p=0 d=26129
-@@49: line 17.2 t=14434 -> @44
-@@50: line 17.3 t=20264 -> @43
-ist 
-@ via @44 b=8 p=0 d=324
-@ via @45 b=0 p=0 d=100
-@@51: line 17.2 t=14658 -> @44
-hier, zusam-men mit eini-gen Kan-di-daten der \OML/cmm/m/it/10 \TU/Vollkorn(0)
-/m/n/10 -Gruppe voll-
-@\discretionary via @46 b=182 p=50 d=49364
-@@52: line 18.0- t=80132 -> @46
-ständig. 
-@ via @47 b=14 p=0 d=576
-@ via @48 b=14 p=0 d=576
-@@53: line 18.1 t=26819 -> @47
-Desweit-
-@\discretionary via @51 b=0 p=50 d=2600
-@@54: line 18.2- t=17258 -> @51
-eren kon-serviert nur Hand-schrift []U$[][]$ die defini-tiv ko-r-rekte 
-@ via @52 b=0 p=0 d=10100
-@@55: line 19.2 t=90232 -> @52
-Vari-ante 
-@ via @53 b=0 p=0 d=100
-@@56: line 19.2 t=26919 -> @53
-des 
-@ via @53 b=82 p=0 d=18464
-@@57: line 19.3 t=45283 -> @53
-Satzes 
+@@54: line 14.2- t=148586 -> @43
+est 
+@ via @43 b=0 p=0 d=100
+@ via @44 b=41 p=0 d=2601
+@@55: line 14.1 t=132091 -> @44
+@@56: line 14.2 t=136086 -> @43
+manuscript 
+@ via @46 b=0 p=0 d=100
+@ via @47 b=17 p=0 d=729
+@ via @48 b=53 p=0 d=3969
+@@57: line 14.1 t=77126 -> @47
+@@58: line 14.2 t=75176 -> @46
+[]N$[][]$
+@\math via @47 b=0 p=0 d=100
+@\math via @48 b=0 p=0 d=100
+@\math via @49 b=132 p=0 d=30164
+@@59: line 14.2 t=76497 -> @48
+ has 
+@ via @49 b=0 p=0 d=100
+@ via @50 b=184 p=0 d=47636
+@@60: line 14.2 t=75497 -> @49
+im-
+@\discretionary via @50 b=0 p=50 d=2600
+@@61: line 14.2- t=78732 -> @50
+mense 
+@ via @51 b=0 p=0 d=100
+@ via @52 b=33 p=0 d=1849
+@@62: line 14.1 t=70512 -> @52
+@@63: line 14.2 t=68763 -> @51
+gaps, 
+@ via @52 b=17 p=0 d=729
+@@64: line 14.3 t=69392 -> @52
+at least in the last third of the text. 
+@ via @53 b=0 p=0 d=10100
+@ via @54 b=69 p=0 d=6241
+@@65: line 15.1 t=154827 -> @54
+On 
+@ via @53 b=42 p=0 d=12704
 @ via @54 b=0 p=0 d=100
-@@58: line 19.2 t=17358 -> @54
-\TU/Vollkorn(0)/m/it/10 bhuk-timuk-tidā śi-varūpiṇī suṣumṇānāḍī 
-pravar-tate \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 asyā jñānot-
-@\discretionary via @55 b=0 p=50 d=2600
-@@59: line 20.2- t=92832 -> @55
-pat-tau 
-@ via @56 b=66 p=0 d=5776
-@@60: line 20.1 t=32695 -> @56
-satyāṃ 
+@ via @55 b=20 p=0 d=900
+@ via @56 b=20 p=0 d=900
+@@66: line 15.1 t=132991 -> @55
+the 
+@ via @54 b=80 p=0 d=8100
+@ via @55 b=0 p=0 d=100
+@ via @56 b=0 p=0 d=100
+@@67: line 15.2 t=132191 -> @55
+other 
+@ via @57 b=172 p=0 d=33124
+@ via @58 b=172 p=0 d=43124
+@@68: line 15.0 t=110250 -> @57
+hand, 
 @ via @57 b=0 p=0 d=100
-@@61: line 20.2 t=45383 -> @57
-pu-ruṣaḥ 
 @ via @58 b=0 p=0 d=100
-@@62: line 20.2 t=17458 -> @58
-sar-va-jño bha-vati \TU/Vollkorn(0)/m/n/10 | in Sek-tion III. 
-@\par via @59 b=0 p=-10000 d=5100
-@\par via @60 b=0 p=-10000 d=100
-@\par via @61 b=0 p=-10000 d=100
-@\par via @62 b=0 p=-10000 d=100
-@@63: line 21.2- t=17558 -> @62
+@ via @59 b=6 p=0 d=256
+@@69: line 15.2 t=75276 -> @58
+manuscript 
+@ via @61 b=27 p=0 d=1369
+@ via @62 b=46 p=0 d=3136
+@ via @63 b=46 p=0 d=3136
+@@70: line 15.1 t=71899 -> @63
+@@71: line 15.3 t=80101 -> @61
+[]U$[][]$
+@\math via @62 b=0 p=0 d=100
+@\math via @63 b=0 p=0 d=100
+@@72: line 15.2 t=68863 -> @63
+ is 
+@ via @62 b=0 p=0 d=100
+@ via @63 b=0 p=0 d=100
+@ via @64 b=69 p=0 d=16241
+@@73: line 15.2 t=68863 -> @63
+com-
+@\discretionary via @64 b=0 p=50 d=2600
+@@74: line 15.2- t=71992 -> @64
+plete here, to-gether with some can-
+@\discretionary via @65 b=0 p=50 d=2600
+@\discretionary via @66 b=70 p=50 d=8900
+@@75: line 16.1- t=141891 -> @66
+di-
+@\discretionary via @65 b=1 p=50 d=2621
+@\discretionary via @66 b=0 p=50 d=2600
+@@76: line 16.2- t=135591 -> @66
+dates 
+@ via @67 b=0 p=0 d=100
+@@77: line 16.2 t=132291 -> @67
+of 
+@ via @67 b=1 p=0 d=121
+@ via @68 b=149 p=0 d=25281
+@@78: line 16.0 t=135531 -> @68
+@@79: line 16.2 t=132312 -> @67
+the 
+@ via @68 b=0 p=0 d=10100
+@@80: line 16.2 t=120350 -> @68
+\OML/cmm/m/it/10 \TU/Vollkorn(0)/m/n/10 -
+@\discretionary via @68 b=6 p=50 d=12756
+@\discretionary via @69 b=131 p=50 d=32381
+@@81: line 16.0- t=107657 -> @69
+group. 
+@ via @69 b=25 p=0 d=1225
+@@82: line 16.3 t=76501 -> @69
+Fur-
+@\discretionary via @70 b=137 p=50 d=24109
+@\discretionary via @71 b=137 p=50 d=34109
+@@83: line 16.0- t=96008 -> @70
+ther-
+@\discretionary via @70 b=0 p=50 d=2600
+@\discretionary via @71 b=0 p=50 d=2600
+@\discretionary via @72 b=41 p=50 d=5101
+@@84: line 16.1- t=73964 -> @72
+@@85: line 16.2- t=74499 -> @70
+more, 
+@ via @72 b=1 p=0 d=121
+@ via @73 b=0 p=0 d=100
+@@86: line 16.2 t=68963 -> @73
+only 
+@ via @74 b=0 p=0 d=100
+@@87: line 16.2 t=72092 -> @74
+manuscript []U$[][]$ pre-serves the cor-
+@\discretionary via @75 b=0 p=50 d=12600
+@\discretionary via @76 b=12 p=50 d=12984
+@@88: line 17.2- t=148575 -> @76
+rect 
+@ via @75 b=73 p=0 d=16889
+@ via @76 b=0 p=0 d=100
+@@89: line 17.2 t=135691 -> @76
+vari-
+@\discretionary via @77 b=0 p=50 d=2600
+@\discretionary via @78 b=19 p=50 d=3341
+@\discretionary via @79 b=19 p=50 d=3341
+@@90: line 17.1- t=135653 -> @79
+@@91: line 17.2- t=134891 -> @77
+ant 
+@ via @77 b=75 p=0 d=7225
+@ via @78 b=0 p=0 d=10100
+@ via @79 b=0 p=0 d=100
+@ via @80 b=105 p=0 d=23225
+@@92: line 17.2 t=132412 -> @79
+@@93: line 17.3 t=139516 -> @77
+of 
+@ via @78 b=41 p=0 d=12601
+@ via @79 b=41 p=0 d=2601
+@ via @80 b=0 p=0 d=100
+@ via @81 b=59 p=0 d=4761
+@@94: line 17.1 t=112418 -> @81
+@@95: line 17.2 t=120450 -> @80
+the 
+@ via @80 b=75 p=0 d=7225
+@ via @81 b=0 p=0 d=10100
+@@96: line 17.2 t=117757 -> @81
+@@97: line 17.3 t=127575 -> @80
+sen-
+@\discretionary via @82 b=6 p=50 d=2756
+@@98: line 17.2- t=79257 -> @82
+tence 
+@\par via @82 b=44 p=-10000 d=2916
+@\par via @83 b=0 p=-10000 d=15100
+@\par via @84 b=0 p=-10000 d=5100
+@\par via @85 b=0 p=-10000 d=5100
+@\par via @86 b=0 p=-10000 d=100
+@\par via @87 b=0 p=-10000 d=100
+@\par via @88 b=0 p=-10000 d=5100
+@\par via @89 b=0 p=-10000 d=100
+@\par via @90 b=0 p=-10000 d=5100
+@\par via @91 b=0 p=-10000 d=5100
+@\par via @92 b=0 p=-10000 d=100
+@\par via @93 b=0 p=-10000 d=100
+@\par via @94 b=0 p=-10000 d=100
+@\par via @95 b=0 p=-10000 d=100
+@\par via @96 b=0 p=-10000 d=100
+@\par via @97 b=0 p=-10000 d=100
+@\par via @98 b=0 p=-10000 d=5100
+@@99: line 17.2- t=69063 -> @86
 
 @firstpass
 []|\TU/Vollkorn(0)/m/sl/10 8. 
@@ -49119,6 +49160,161 @@ Mantrayoga|
 @@1: line 1.2- t=100 -> @0
 
 [63]
+@firstpass
+@secondpass
+\TU/Vollkorn(0)/m/it/10 bh
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/it/10 bhuk-timuk-tidā śi-varūpiṇī suṣumṇānāḍ
+ī pravar-tate \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 asyā jñānot-p
+at-tau 
+@ via @0 b=37 p=0 d=2209
+@@1: line 1.1 t=2209 -> @0
+satyāṃ pu-ruṣaḥ sar-va-jño bha-vati \TU/Vollkorn(0)/m/n/10 | 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=2309 -> @1
+
+@firstpass
+\TU/Vollkorn(0)/m/n/10 in sec-tion III. There-fore, the ad-di-tions of []U$[][]
+$ were printed in greyscale in the 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+edi-tion and not rel-e-gated to a foot-note. 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=200 -> @1
+
+@firstpass
+[][]\TU/Vollkorn(0)/b/n/10.95 Mantrayoga 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+in 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+\TU/Vollkorn(0)/b/it/10.95 Yo-gasid-dhān-ta-can-drikā 
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Fo
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 For an-other dis-cus-sion of Mantrayoga in the \TU/
+Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-drikā \TU/Vollkorn(0)/m/n/8 see \TU/V
+ollkorn(0)/m/sc/8 P󰂸󰄑󰄑󰂋 \TU/Vollkorn(0)/m/n/8 2004, pp. 
+@ via @0 b=2 p=0 d=144
+@@1: line 1.2 t=144 -> @0
+71-
+@\discretionary via @0 b=0 p=50 d=2600
+@@2: line 1.2- t=2600 -> @0
+76.| 
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=5100
+@@3: line 2.2- t=244 -> @1
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Da
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 Das Konzept von Jñā-nayoga in der \TU/Vollkorn(0)
+/m/it/8 Yo-gasid-dhān-ta-can-drikā \TU/Vollkorn(0)/m/n/8 disku-tiere ich auf 
+p.[]34[].| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/8 Da
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+
+
+LaTeX Warning: Reference `advaitayogaintrocandrika' on page 64 undefined on inp
+ut line 862.
+
+@firstpass
+[][][]\TU/Vollkorn(0)/m/n/8 Das Konzept von Ad-vaitayoga in der \TU/Vollkorn(0)
+/m/it/8 Yo-gasid-dhān-ta-can-drikā \TU/Vollkorn(0)/m/n/8 disku-tiere ich auf 
+p.[].| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/10 Nārāyaṇatīrtha verortet Mantrayoga, wie zu-vor bere-
+its Jñā-nayoga im Kon-text 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+von \TU/Vollkorn(0)/m/it/10 sū-tra \TU/Vollkorn(0)/m/n/10 1.28. Dieses \TU/Vol
+lkorn(0)/m/it/10 sū-tra \TU/Vollkorn(0)/m/n/10 und der dazuge-hörige Kom-men-t
+ar von Nārāy-atīrtha 
+@ via @1 b=53 p=0 d=3969
+@@2: line 2.3 t=4069 -> @1
+wurde bere-its im Kapi-tel über Jñā-nayoga in der \TU/Vollkorn(0)/m/it/10 Yo-
+gasid-dhān-ta-can-drikā\TU/Vollkorn(0)/m/n/10 '' (p.[]34[] 
+@ via @2 b=0 p=0 d=100
+@@3: line 3.2 t=4169 -> @2
+et 
+@ via @2 b=0 p=0 d=100
+@@4: line 3.2 t=4169 -> @2
+sqq.) disku-tiert und muss da-her an dieser Stelle nicht wieder-holt wer-den.[]
+[][][] 
+@ via @3 b=1 p=0 d=121
+@ via @4 b=0 p=0 d=100
+@@5: line 4.2 t=4269 -> @4
+Mantrayoga in der \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-drikā \TU/Voll
+korn(0)/m/n/10 ist \TU/Vollkorn(0)/m/it/10 japa \TU/Vollkorn(0)/m/n/10 (``low-vo
+ice mut-ter-ing'') von 
+@ via @5 b=0 p=0 d=100
+@@6: line 5.2 t=4369 -> @5
+\TU/Vollkorn(0)/m/it/10 praṇava \TU/Vollkorn(0)/m/n/10 (``heilige Silbe \TU/V
+ollkorn(0)/m/it/10 auṃ\TU/Vollkorn(0)/m/n/10 ''), welches auf zwei al-ter-na-t
+ive Weisen aus-ge-󰀨ührt 
+@ via @6 b=0 p=0 d=100
+@@7: line 6.2 t=4469 -> @6
+wer-den kann, als Jñā-nayoga[][][][] oder Ad-vaitayoga.[][][][] 
+@\par via @7 b=0 p=-10000 d=100
+@@8: line 7.2- t=4569 -> @7
+
+@firstpass
+[][]\TU/Vollkorn(0)/b/n/10.95 Mantrayoga 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+in 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+\TU/Vollkorn(0)/b/it/10.95 Sarvāṅ-gayo-gapradīpikā 
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 1.2- t=100 -> @0
+
 @firstpass
 []|\TU/Vollkorn(0)/m/n/10 64| 
 @\par via @0 b=0 p=-10000 d=100
@@ -49179,7 +49375,7 @@ tax-onomies|
 @\par via @0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @0
 
- [64]
+[64]
 \tf@toc=\write9
 
 \openout9 = intro.toc
@@ -49199,7 +49395,7 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `intro.out' has not changed.
-(rerunfilecheck)             Checksum: 77403E5A2E93EAF1930359A6FDF04292;11448.
+(rerunfilecheck)             Checksum: E20C7B76456D91B7BDD6AB3C0C81643E;11988.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                intro
@@ -49211,15 +49407,15 @@ Package logreq Info: Writing requests to 'intro.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 47556 strings out of 476435
+ 47574 strings out of 476435
  100000,2373549 words of node,token memory allocated
- 4096 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 1 local_par, 193 glue, 3 kern, 1 penalty, 25 glyph,
- 415 attribute, 221 glue_spec, 208 attribute_list, 2 shape, 3 write, 9 pdf_actio
+ 4135 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 local_par, 196 glue, 3 kern, 1 penalty, 25 glyph,
+ 421 attribute, 221 glue_spec, 211 attribute_list, 2 shape, 3 write, 9 pdf_actio
 n nodes
-   avail lists: 1:10,2:2735,3:427,4:142,5:1089,6:228,7:8813,8:97,9:1313,10:26,11
+   avail lists: 1:10,2:2726,3:427,4:143,5:1090,6:228,7:8810,8:97,9:1313,10:26,11
 :616
- 68291 multiletter control sequences out of 65536+600000
+ 68304 multiletter control sequences out of 65536+600000
  100 fonts using 20526727 bytes
  95i,12n,115p,4123b,2795s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf
@@ -49229,10 +49425,10 @@ n-VariableFont_wght.ttf></home/enjotel/.local/share/fonts/Sanskrit-2003.ttf></ho
 me/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf></usr/local/
 texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
 xlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on intro.pdf (71 pages, 357335 bytes).
+Output written on intro.pdf (71 pages, 358297 bytes).
 
-PDF statistics: 1050 PDF objects out of 1200 (max. 8388607)
- 946 compressed objects within 10 object streams
- 309 named destinations out of 1000 (max. 131072)
- 368 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1068 PDF objects out of 1200 (max. 8388607)
+ 964 compressed objects within 10 object streams
+ 314 named destinations out of 1000 (max. 131072)
+ 384 words of extra memory for PDF output out of 10000 (max. 100000000)
 
