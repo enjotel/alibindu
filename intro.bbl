@@ -106,7 +106,7 @@
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Yoga Pahilosophy of Patañjali}
+      \field{subtitle}{Yoga Philosophy of Patañjali}
       \field{title}{Pātañjalayogaśāstra}
       \field{year}{1983}
       \keyw{printsource}
@@ -507,6 +507,40 @@
       \field{year}{2009}
       \keyw{printsource}
     \endentry
+    \entry{saradatilakafull}{article}{}{}
+      \name{editor}{1}{}{%
+        {{hash=5cf20ce14560680e35f6532229d97c9c}{%
+           family={Bühnemann},
+           familyi={B\bibinitperiod},
+           given={Gudrun},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{fullhash}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{fullhashraw}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{bibnamehash}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{editorbibnamehash}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{editornamehash}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{editorfullhash}{5cf20ce14560680e35f6532229d97c9c}
+      \strng{editorfullhashraw}{5cf20ce14560680e35f6532229d97c9c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Bulletin of the School of Oriental Studies (SOAS)}
+      \field{title}{The Śāradātilakatantra on Yoga: A New Edition and Translation of Chapter 25}
+      \field{volume}{75}
+      \field{year}{2011}
+      \field{pages}{205\bibrangedash 35}
+      \range{pages}{31}
+      \keyw{seclit}
+    \endentry
     \entry{burger2014sarvangayogapradipika}{article}{}{}
       \name{author}{1}{}{%
         {{hash=bfc60ca4bdcd95e8b4e6f386284bf072}{%
@@ -823,7 +857,7 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Yuktabhavadeva of Bhavadeva Miśra,}
+      \field{subtitle}{Yuktabhavadeva of Bhavadeva Miśra}
       \field{title}{Yuktabhavadeva}
       \field{year}{2002}
     \endentry
@@ -1496,6 +1530,16 @@
       \field{title}{Official Yogānanda Website}
       \keyw{onlinesource}
     \endentry
+    \entry{yogasutraed}{book}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{note}{See Edition in Yoga Philosophy of Patañjali by Editor Mukerji, P.N. (1983)}
+      \field{title}{Pātañjalayogaśāstra}
+      \field{pages}{11\bibrangedash 407}
+      \range{pages}{397}
+      \keyw{printsource}
+    \endentry
     \entry{penna2004}{book}{}{}
       \name{author}{1}{}{%
         {{hash=06aea7f9fc38e49153006ac65fb5feb6}{%
@@ -1696,6 +1740,13 @@
       \verb https://archive.org/details/PranatoshiniTantraJibanandaVidyasagara1898LR
       \endverb
       \keyw{printsource}
+    \endentry
+    \entry{sarada}{book}{}{}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{note}{see \citeauthor{saradatilakafull} 2011}
+      \field{title}{Śāradātilakatantra}
     \endentry
     \entry{yogaupaniṣaded}{book}{}{}
       \name{editor}{1}{}{%
@@ -1991,11 +2042,38 @@
       \strng{authornamehash}{12629961f5a59d59ff935ab8fceddd08}
       \strng{authorfullhash}{12629961f5a59d59ff935ab8fceddd08}
       \strng{authorfullhashraw}{12629961f5a59d59ff935ab8fceddd08}
+      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Ms. No. 2244}
+      \field{title}{Haṭhasaṃketacandrikā}
+      \keyw{codex}
+    \endentry
+    \entry{hathasamketacandrikachennai}{codex}{}{}
+      \name{author}{1}{}{%
+        {{hash=12629961f5a59d59ff935ab8fceddd08}{%
+           family={Sundaradeva},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Government Oriental Manuscript Library, Chennai}%
+      }
+      \strng{namehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{fullhash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{fullhashraw}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{bibnamehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authorbibnamehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authornamehash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authorfullhash}{12629961f5a59d59ff935ab8fceddd08}
+      \strng{authorfullhashraw}{12629961f5a59d59ff935ab8fceddd08}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Ms. No. R3239}
       \field{title}{Haṭhasaṃketacandrikā}
       \keyw{codex}
     \endentry

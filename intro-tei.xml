@@ -84,6 +84,20 @@ SORI 6082
 <msIdentifier/>
 </msDesc>
 </witness>
+<witness xml:id="PT">
+<abbr type="siglum">PT</abbr>
+Prāṇatoṣiṇī
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
+<witness xml:id="YK">
+<abbr type="siglum">YK</abbr>
+Yogakarṇikā
+<msDesc>
+<msIdentifier/>
+</msDesc>
+</witness>
 <witness xml:id="X">
 <abbr type="siglum">\alpha </abbr>
 Alpha Group: D,N1,N2,U1
@@ -123,7 +137,7 @@ Yogasvarodaya
 </teiHeader>
 <text>
 <body>
-
+<hi rend="italic"> antarlakṣaṃ śṛṇu <app><lem wit="#PT">subhru</lem><rdg wit="#YK">śukra°</rdg></app>digvidigādivarjitam</hi> | <hi rend="italic"> <app><lem wit="#YK">bāhyabhyantara ākāśaṃ vādhāmantraṃ paraṃ mataṃ</lem><rdg wit="#PT">om.</rdg></app></hi> ||<hi rend="italic">calajjāgratsuṣupteṣu bhojaneṣu ca sarvadā</hi> | <hi rend="italic">sarvāvasthāsu deveśi cittaṃ śūnye niyojayet</hi> ||<hi rend="italic">karttā kārayitā <app><lem wit="#YK">śūnyaṃ</lem><rdg wit="#PT">śunyaḥ</rdg></app>mūrtimān śūnya īśvaraḥ</hi> | <hi rend="italic">harṣaśokaghaṭastho ’yaṃ janmamṛtyū labhet svayam</hi> ||<hi rend="italic"><app><lem wit="#YK">ghaṭasthāṃ</lem><rdg wit="#PT">ghaṭasthā</rdg></app> <app><lem wit="#YK">cintayen</lem><rdg wit="#PT">cintyayor</rdg></app> <app><lem wit="#YK">mūrttimitaś</lem><rdg wit="#PT">mūrtir hata°</rdg></app>cintāsvarūpadhṛk</hi> | <hi rend="italic">viṣayaṃ viṣavad <app><lem wit="#YK">dṛṣṭvā</lem><rdg wit="#PT">duṣṭaṃ</rdg></app> tyaktvā jñātvā tu mārutam</hi> ||<hi rend="italic">saṃjñāśūnyamanā bhūtvā puṇyapāpair na lipyate</hi> | <hi rend="italic">bāhyam ābhyantaraṃ <app><lem wit="#PT">khaṃ</lem><rdg wit="#YK">om.</rdg></app> <app><lem resp="#ego" type="emendation">yad</lem><rdg wit="#YK">yad hi</rdg><rdg wit="#PT">hi</rdg></app> antarlakṣam iti smṛtam</hi> ||<hi rend="italic">etad dhyānāt sadā kiñcid duḥkhaṃ na syāc chivo bhavet</hi> | <hi rend="italic">śūnyan tu saccidānandaṃ niḥśabdaṃ brahmaśabditam</hi> | <hi rend="italic">saśabdaṃ jñeyam <app><lem wit="#PT">ākāśam</lem><rdg wit="#YK">ākāśa</rdg></app>iti bhedadvayan tv iha</hi> ||
 </body>
 </text>
 </TEI>

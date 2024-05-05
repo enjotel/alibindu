@@ -26,6 +26,10 @@
     "layayogaintro"
     "dhyānayogaintro"
     "mantrayogaintrocandrika"
-    "mantrayogaintrosarva"))
+    "mantrayogaintrosarva"
+    "laksyayogaintro"
+    "samketaadd1"
+    "antarsvayotrans"
+    "laksyayogaintrocandrika"))
  :latex)
 
