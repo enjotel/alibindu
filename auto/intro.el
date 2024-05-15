@@ -17,8 +17,10 @@
     "yogas_list"
     "tab:complextaxonomies"
     "tab:waves"
+    "excursus"
     "jnanayogaintro"
     "Jnanayogaintro2"
+    "svarodayajnana"
     "jnanayogaintrocandrika"
     "caryayogaintro"
     "hathayogaintro"
@@ -30,6 +32,11 @@
     "laksyayogaintro"
     "samketaadd1"
     "antarsvayotrans"
-    "laksyayogaintrocandrika"))
+    "laksyayogaintrocandrika"
+    "vasanayogaintro"
+    "sivayogaintro"
+    "advaitayogaintro"
+    "siddhayogaintro"
+    "rajayogaintro"))
  :latex)
 

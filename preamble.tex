@@ -121,6 +121,16 @@
 }
 
 \newif\ifinapparatus
+\DeclareApparatus{witnesses}[
+%bhook=\inapparatustrue,
+lang=english,
+notelang=english,
+bhook=\selectlanguage{english},
+%bhook=\selectlanguage{english},
+sep={: },
+]
+
+\newif\ifinapparatus
 \DeclareApparatus{source}[
 %bhook=\inapparatustrue,
 lang=english,
@@ -209,6 +219,10 @@ hpbmk = \textcolor{red}{hpb}
 \DeclareWitness{U2}{\selectlanguage{english}U\textsubscript{2}}{SORI 6082}[]
 \DeclareWitness{PT}{\selectlanguage{english}PT}{Prāṇatoṣiṇī}[]
 \DeclareWitness{YK}{\selectlanguage{english}YK}{Yogakarṇikā}[]
+\DeclareWitness{J}{\selectlanguage{english}J}{Haṭhasaṅketacandrikā Jodhpur MS. No. 2244}[]
+\DeclareWitness{C}{\selectlanguage{english}C}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
+\DeclareWitness{Cpc}{\selectlanguage{english}C\textsubscript{pc}}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
+\DeclareWitness{M}{\selectlanguage{english}M}{Haṭhasaṅketacandrikā Mysore ORI Ms. No. B 220}[]
 %%%%%%%%%%%%%% Tattvabinduyoga - Groups of Witnesses   %%%%%%%%%%%%%%%%%%%
 \DeclareWitness{X}{\selectlanguage{english}\alpha}{Alpha Group: D,N1,N2,U1}[]
 \DeclareWitness{Y}{\selectlanguage{english}\beta}{Beta Group: B,E,L,P,U2}[]
@@ -408,3 +422,14 @@ surname=Liersch]
 
 
 \newcommand{\myfn}[1]{\footnote{\texteng{#1}}}
+
+
+\newenvironment{itquote}
+  {\begin{quote}\itshape}
+  {\end{quote}\ignorespacesafterend}
+\newenvironment{itpars}
+  {\par\itshape}
+  {\par}
+
+  % Command to print a normal (non-italic) pipe
+\newcommand{\normalpipe}{\textnormal{| }}

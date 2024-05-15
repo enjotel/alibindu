@@ -5,13 +5,13 @@
                      '(("memoir" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("hyphenat" "htt") ("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true") ("footmisc" "bottom")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -57,6 +57,7 @@
     '("mkbibnamefamily" 1)
     '("lowroman" 1)
     '("uproman" 1)
+    "normalpipe"
     "blfootnote"
     "acpc"
     "sigl"
@@ -130,6 +131,9 @@
     "crux"
     "cruxx"
     "unm")
+   (LaTeX-add-environments
+    "itquote"
+    "itpars")
    (LaTeX-add-bibliographies
     "bindu")
    (LaTeX-add-babel-babelfonts

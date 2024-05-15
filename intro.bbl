@@ -1741,6 +1741,33 @@
       \endverb
       \keyw{printsource}
     \endentry
+    \entry{sanderson2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=beac1113e564369bfc971e3520e5bc83}{%
+           family={Sanderson},
+           familyi={S\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{fullhash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{fullhashraw}{beac1113e564369bfc971e3520e5bc83}
+      \strng{bibnamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorbibnamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authornamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorfullhash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorfullhashraw}{beac1113e564369bfc971e3520e5bc83}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Indo-Iranian Journal}
+      \field{title}{Religion and the State: \textit{{§}aiva Officiants} in the Territory of the Brahmanical Royal Chaplain (with an appendix on the provenance and date of the \textit{Netratantra})}
+      \field{volume}{47}
+      \field{year}{2004}
+      \field{pages}{229\bibrangedash 300}
+      \range{pages}{72}
+    \endentry
     \entry{sarada}{book}{}{}
       \field{sortinit}{Ś}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -2076,6 +2103,36 @@
       \field{note}{Ms. No. R3239}
       \field{title}{Haṭhasaṃketacandrikā}
       \keyw{codex}
+    \endentry
+    \entry{vasudeva2004}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=09cd2bd788d48ae9337acf04a2b4a3f3}{%
+           family={Vasudeva},
+           familyi={V\bibinitperiod},
+           given={Somadeva},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {Institut Française d'Extrême-Orient}%
+      }
+      \strng{namehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{fullhash}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{fullhashraw}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{bibnamehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{editorbibnamehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{editornamehash}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{editorfullhash}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \strng{editorfullhashraw}{09cd2bd788d48ae9337acf04a2b4a3f3}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The Yoga of the Mālinīvijayottaratantra, Chapters 1-4, 7, 11-17: Critical Edition, Translation and Notes}
+      \field{year}{2004}
+      \keyw{printsource}
     \endentry
     \entry{kularnavatantra}{book}{}{}
       \name{editor}{1}{}{%
