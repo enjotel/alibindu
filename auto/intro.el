@@ -35,6 +35,8 @@
     "laksyayogaintrocandrika"
     "vasanayogaintro"
     "sivayogaintro"
+    "sivayogacandri"
+    "brahmayogaintro"
     "advaitayogaintro"
     "siddhayogaintro"
     "rajayogaintro"))

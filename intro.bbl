@@ -861,6 +861,36 @@
       \field{title}{Yuktabhavadeva}
       \field{year}{2002}
     \endentry
+    \entry{glasenapp1949philosophie}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=848aeb6b1d300ca47251a96a17ec5cca}{%
+           family={Glasenapp},
+           familyi={G\bibinitperiod},
+           given={Helmuth\bibnamedelima von},
+           giveni={H\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Alfred Kröner Verlag}%
+      }
+      \strng{namehash}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{fullhash}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{fullhashraw}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{bibnamehash}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{authorbibnamehash}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{authornamehash}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{authorfullhash}{848aeb6b1d300ca47251a96a17ec5cca}
+      \strng{authorfullhashraw}{848aeb6b1d300ca47251a96a17ec5cca}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die Philosophie der Inder}
+      \field{year}{1949}
+      \keyw{seclit}
+    \endentry
     \entry{vivekamartandaolda}{codex}{}{}
       \name{author}{1}{}{%
         {{hash=2459ea6538ccd8aea05ee20aec02e548}{%
@@ -1009,6 +1039,49 @@
       \field{title}{Śvetāśvatara Upaniṣad}
       \field{year}{1927}
       \keyw{printsource}
+    \endentry
+    \entry{horstmann2023shrine}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=b0cd05ee267bdcedb9866485f417e485}{%
+           family={Horstmann},
+           familyi={H\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8683cb28a2c03977cdbc1f7c26fe1853}{%
+           family={Rajpurohit},
+           familyi={R\bibinitperiod},
+           given={Dalpat\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Heidelberg Asian Studies Publishing}%
+      }
+      \strng{namehash}{4500ff8038817857b102e808ff788e02}
+      \strng{fullhash}{4500ff8038817857b102e808ff788e02}
+      \strng{fullhashraw}{4500ff8038817857b102e808ff788e02}
+      \strng{bibnamehash}{4500ff8038817857b102e808ff788e02}
+      \strng{authorbibnamehash}{4500ff8038817857b102e808ff788e02}
+      \strng{authornamehash}{4500ff8038817857b102e808ff788e02}
+      \strng{authorfullhash}{4500ff8038817857b102e808ff788e02}
+      \strng{authorfullhashraw}{4500ff8038817857b102e808ff788e02}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In the Shrine of the Heart: Sants of Rajasthan from the Sixteenth and Seventeenth Centuries}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.11588/hasp.1151
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.11588/hasp.1151
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.11588/hasp.1151
+      \endverb
     \endentry
     \entry{jones2008encyclopedia}{book}{}{}
       \name{author}{2}{}{%
@@ -1569,7 +1642,7 @@
       \field{title}{Yogasiddhāntacandrikā of Nārāyaṇatīrtha [A Study]}
       \field{year}{2004}
     \endentry
-    \entry{shivayogapradipikax}{book}{}{}
+    \entry{powell2023}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=54457c057fdd3ef422843b280970fe27}{%
            family={Powell},
@@ -2287,6 +2360,17 @@
       \field{year}{1946}
       \keyw{seclit}
     \endentry
+    \entry{yogasarasangraha}{codex}{}{}
+      \list{location}{1}{%
+        {French Institute of Pondicherry (IFP)}%
+      }
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript IFP transcript T.859, Manuscript D.4373, Government Oriental Manuscripts Library (GOML), Madras}
+      \field{title}{Yogasārasaṅgraha}
+      \keyw{codex}
+    \endentry
     \entry{yogasikhopanisad}{book}{}{}
       \field{sortinit}{Y}
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
@@ -2296,9 +2380,6 @@
       \keyw{printsource}
     \endentry
   \enddatalist
-  \missing{amaraughaprabodha}
-  \missing{penna}
-  \missing{yogastura}
 \endrefsection
 \endinput
 

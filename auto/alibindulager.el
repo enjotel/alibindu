@@ -69,6 +69,13 @@
     "divisionofchannels"
     "vitalwinds"
     "madhyalaksya"
+    "cakranukrama"
+    "ashtanga"
+    "ashtangatrans"
+    "internalexternal"
+    "lokatraya"
+    "quadrupletofworlds"
+    "gapn1n2start"
     "sevenislands"
     "saptasamudra"
     "ninecontinents"
@@ -77,17 +84,7 @@
     "ascetics"
     "attributesrajabody"
     "avadhuta"
-    "lotusofsupport"
-    "heartlotus"
-    "heartlotustrans"
     "knowledge"
-    "knowledgetrans"
-    "gapn1n2end"
-    "generationofbody"
-    "fivegreatelements"
-    "greatelements"
-    "greatelements2"
-    "kulpentad"
-    "kulpentadtrans"))
+    "knowledgetrans"))
  :latex)
 
