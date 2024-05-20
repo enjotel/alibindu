@@ -34,7 +34,7 @@
 \usepackage{cleveref}
 \usepackage{microtype}
 \usepackage{lineno}
-
+\usepackage{array}
 \usepackage{tabularx}
 \usepackage{multirow}
 \usepackage[singlelinecheck=false]{caption}
@@ -45,7 +45,7 @@
 %\usepackage{bigfoot}
 %%% more functions
 \usepackage[dvipsnames]{xcolor}
-%\usepackage[para,perpage]{footmisc}
+%\usepackage{footmisc}
 
 %%%für den Counter von Kapiteln und Sätzen! 
 \newcommand{\uproman}[1]{\uppercase\expandafter{\romannumeral#1}}
@@ -103,6 +103,7 @@
 \DeclareFieldFormat{postnote}{#1}
 \renewcommand{\postnotedelim}{, }
 \addbibresource{bindu.bib}
+
 
 %%% ekdosis
 \usepackage[teiexport=tidy,parnotes=true]{ekdosis}% =tidy cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards. parnotes=footnotes below or above critical apparatus
@@ -433,3 +434,9 @@ surname=Liersch]
 
   % Command to print a normal (non-italic) pipe
 \newcommand{\normalpipe}{\textnormal{| }}
+
+%%%tables 
+% Redefine table numbering
+\counterwithout{table}{section}
+\counterwithout{table}{chapter}
+\renewcommand{\thetable}{\arabic{table}}

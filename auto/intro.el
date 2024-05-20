@@ -15,7 +15,9 @@
    (LaTeX-add-labels
     "dating"
     "yogas_list"
+    "yogatax"
     "tab:complextaxonomies"
+    "kriyaintro"
     "tab:waves"
     "excursus"
     "jnanayogaintro"
@@ -27,10 +29,13 @@
     "karmayogaintro"
     "layayogaintro"
     "dhyānayogaintro"
+    "bindumantra"
+    "ghatinote"
     "mantrayogaintrocandrika"
     "mantrayogaintrosarva"
     "laksyayogaintro"
     "samketaadd1"
+    "antaralaksya"
     "antarsvayotrans"
     "laksyayogaintrocandrika"
     "vasanayogaintro"
@@ -39,6 +44,7 @@
     "brahmayogaintro"
     "advaitayogaintro"
     "siddhayogaintro"
+    "cakra_table"
     "rajayogaintro"))
  :latex)
 
