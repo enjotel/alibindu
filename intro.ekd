@@ -1,4 +1,4 @@
-<1-x-1>{\selectlanguage {english}\color {blue}\bfseries \ifboolexpr {bool {ekd@pagelineation} or bool {ekd@pagevlineation}} {\LRnum {1}--\LRnum {71}.\LRnum {4}~}{\LRnum {1}--\LRnum {4}~}}{\bfseries \selectlanguage {english}}{\selectlanguage {english}J = Jodhpur MS. No. 2244; C = Chennai GOML Ms. No. R 3239; C\textsubscript {pc} = Ibid. \textit {post correctionem}; M = Mysore ORI Ms. No. B 220.}</1-x-1>
+<1-x-1>{\selectlanguage {english}\color {blue}\bfseries \ifboolexpr {bool {ekd@pagelineation} or bool {ekd@pagevlineation}} {\LRnum {1}--\LRnum {72}.\LRnum {2}~}{\LRnum {1}--\LRnum {2}~}}{\bfseries \selectlanguage {english}}{\selectlanguage {english}J = Jodhpur MS. No. 2244; C = Chennai GOML Ms. No. R 3239; C\textsubscript {pc} = Ibid. \textit {post correctionem}; M = Mysore ORI Ms. No. B 220.}</1-x-1>
 <1-x-4>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}dṛṣṭir} \getsiglum {J}\ekdsep </1-x-4>
 <1-x-4>{\selectlanguage {english}dṛṣṭi} \getsiglum {C,Cpc,M}</1-x-4>
 <1-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dvayor} \getsiglum {C,Cpc,M}\ekdsep </1-x-4>
@@ -19,22 +19,22 @@
 <1-x-4>\ekdsubsep {\selectlanguage {english}yomta} \getsiglum {C,Cpc}</1-x-4>
 <1-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}~}{\bfseries \selectlanguage {english}ceti} \getsiglum {C,Cpc,M}\ekdsep </1-x-4>
 <1-x-4>{\selectlanguage {english}ceta} \getsiglum {J}</1-x-4>
-<2-x-4>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}cāṃdhakāre} \getsiglum {C,Cpc,J}\ekdsep </2-x-4>
-<2-x-4>{\selectlanguage {english}vāṃdhakāre} \getsiglum {M}</2-x-4>
-<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {4}~}{\bfseries \selectlanguage {english}saṃbhavati} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
+<1-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {6}~}{\bfseries \selectlanguage {english}cāṃdhakāre} \getsiglum {C,Cpc,J}\ekdsep </1-x-4>
+<1-x-4>{\selectlanguage {english}vāṃdhakāre} \getsiglum {M}</1-x-4>
+<2-x-4>{\selectlanguage {english}\color {blue}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}saṃbhavati} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
 <2-x-4>{\selectlanguage {english}saṃbhavati | athavā svanetrayor vartmanīr dakṣahastamadhyamātarjanībhyām akṣikū dehavismṛtiś ca saṃbhavati |} \getsiglum {J}</2-x-4>
-<2-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}--\LRnum {7}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}J = Jodhpur MS. No. 2244; C = Chennai GOML Ms. No. R 3239; C\textsubscript {pc} = Ibid. \textit {post correctionem}; M = Mysore ORI Ms. No. B 220.}</2-x-1>
-<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}~}{\bfseries \selectlanguage {english}vartamanīr} \getsiglum {J}\ekdsep </2-x-4>
+<2-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}J = Jodhpur MS. No. 2244; C = Chennai GOML Ms. No. R 3239; C\textsubscript {pc} = Ibid. \textit {post correctionem}; M = Mysore ORI Ms. No. B 220.}</2-x-1>
+<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}vartamanīr} \getsiglum {J}\ekdsep </2-x-4>
 <2-x-4>{\selectlanguage {english}vartmanā} \getsiglum {C,Cpc,M}</2-x-4>
 <2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}akṣikuṭayor} \getsiglum {egoscr}\ekdsep </2-x-4>
 <2-x-4>{\selectlanguage {english}ākṣikoṭayor} \getsiglum {M}</2-x-4>
 <2-x-4>\ekdsubsep {\selectlanguage {english}akṣikūṭakūṭayor} \getsiglum {C,Cpc}</2-x-4>
 <2-x-4>\ekdsubsep {\selectlanguage {english}akṣikūtvā} \getsiglum {J}</2-x-4>
-<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {6}~}{\bfseries \selectlanguage {english}adhaḥ kṛtvā} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
+<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {4}~}{\bfseries \selectlanguage {english}adhaḥ kṛtvā} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
 <2-x-4>{\selectlanguage {english}\om } \getsiglum {J}</2-x-4>
 <2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}akṣivartmanī} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
 <2-x-4>{\selectlanguage {english}akṣivanmanī} \getsiglum {J}</2-x-4>
-<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {7}~}{\bfseries \selectlanguage {english}prāg} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
+<2-x-4>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}~}{\bfseries \selectlanguage {english}prāg} \getsiglum {C,Cpc,M}\ekdsep </2-x-4>
 <2-x-4>{\selectlanguage {english}prāgvad} \getsiglum {J}</2-x-4>
 <3-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}PT= \textit {Prāṇatoṣiṇī} quotes \textit {Yogavarodaya} with reference \textit {yogasvarodaye}. YK= \textit {Yogakarṇikā} quotes \textit {Yogavarodaya} with reference \textit {yogasvarodaye}.}</3-x-1>
 <3-x-4>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}subhru°} \getsiglum {PT}\ekdsep </3-x-4>

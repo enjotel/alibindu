@@ -61,6 +61,7 @@
     "svabhava1"
     "svabhava2"
     "eightenjoyments"
+    "padmini"
     "endsvabhava"
     "bahya"
     "bahyatrans"
@@ -83,10 +84,8 @@
     "starstrans"
     "ascetics"
     "attributesrajabody"
+    "avadhuta"
     "lotusofsupport"
-    "heartlotus"
-    "heartlotustrans"
-    "knowledge"
-    "knowledgetrans"))
+    "heartlotus"))
  :latex)
 

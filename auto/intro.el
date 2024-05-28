@@ -14,6 +14,7 @@
     "titles")
    (LaTeX-add-labels
     "dating"
+    "ytbaudience"
     "yogas_list"
     "yogatax"
     "tab:complextaxonomies"
@@ -25,9 +26,11 @@
     "svarodayajnana"
     "jnanayogaintrocandrika"
     "caryayogaintro"
+    "carcasarvanga"
     "hathayogaintro"
     "karmayogaintro"
     "layayogaintro"
+    "layaintrosarvanga"
     "dhyānayogaintro"
     "bindumantra"
     "ghatinote"
@@ -45,6 +48,11 @@
     "advaitayogaintro"
     "siddhayogaintro"
     "cakra_table"
-    "rajayogaintro"))
+    "rajayogaintro"
+    "premabhaktiyoga"
+    "ahstangayoga"
+    "samkhyayoga"
+    "sahajayoga"
+    "satyayoga"))
  :latex)
 
