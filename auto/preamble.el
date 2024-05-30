@@ -32,6 +32,7 @@
     "caption"
     "ragged2e"
     "longtable"
+    "float"
     "xcolor"
     "pifont"
     "fourier-orns"
