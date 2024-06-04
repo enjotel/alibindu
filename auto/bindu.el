@@ -4,6 +4,7 @@
    (LaTeX-add-bibitems
     "kaviraj"
     "endo1993"
+    "hacker1979"
     "endo1998"
     "birch2018proliferation"
     "ogawa2023perception"
