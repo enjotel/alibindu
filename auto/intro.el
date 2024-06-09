@@ -52,7 +52,7 @@
     "cakra_table"
     "rajayogaintro"
     "premabhaktiyoga"
-    "ahstangayoga"
+    "ashtangayogacomplex"
     "samkhyayoga"
     "satyayoga"
     "sahajayoga"))
