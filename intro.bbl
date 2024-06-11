@@ -1923,6 +1923,58 @@
       \field{year}{2021}
       \keyw{seclit}
     \endentry
+    \entry{maas2009}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=099a5467a20ff276b8082081a2be31d0}{%
+           family={Maas},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=db84320361372da3e1e1667fc97ef3d5}{%
+           family={Franco},
+           familyi={F\bibinitperiod},
+           given={Eli},
+           giveni={E\bibinitperiod}}}%
+        {{hash=69575ae42734049f068c4e239b7e70c3}{%
+           family={Eigner},
+           familyi={E\bibinitperiod},
+           given={Dagmar},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
+      }
+      \list{publisher}{1}{%
+        {Verlag der Österreichischen Akademie der Wissenschaften}%
+      }
+      \strng{namehash}{099a5467a20ff276b8082081a2be31d0}
+      \strng{fullhash}{099a5467a20ff276b8082081a2be31d0}
+      \strng{fullhashraw}{099a5467a20ff276b8082081a2be31d0}
+      \strng{bibnamehash}{099a5467a20ff276b8082081a2be31d0}
+      \strng{authorbibnamehash}{099a5467a20ff276b8082081a2be31d0}
+      \strng{authornamehash}{099a5467a20ff276b8082081a2be31d0}
+      \strng{authorfullhash}{099a5467a20ff276b8082081a2be31d0}
+      \strng{authorfullhashraw}{099a5467a20ff276b8082081a2be31d0}
+      \strng{editorbibnamehash}{1c5223ed14800ca8444f0e26f51121cc}
+      \strng{editornamehash}{1c5223ed14800ca8444f0e26f51121cc}
+      \strng{editorfullhash}{1c5223ed14800ca8444f0e26f51121cc}
+      \strng{editorfullhashraw}{1c5223ed14800ca8444f0e26f51121cc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Yogic Perception, Meditation, and Altered States of Consciousness}
+      \field{number}{Beiträge zur Kultur- und Geistesgeschichte Asiens 64}
+      \field{series}{Sitzungsberichte der phil.-hist. Klasse}
+      \field{title}{The So-called Yoga of Suppression in the Pātañjala Yogaśāstra}
+      \field{volume}{794}
+      \field{year}{2009}
+      \field{pages}{263\bibrangedash 282}
+      \range{pages}{20}
+      \keyw{seclit}
+    \endentry
     \entry{jogpradipyaka}{book}{}{}
       \name{author}{4}{}{%
         {{hash=ab5d00689341debfc1e15ca416f34de1}{%
@@ -2150,7 +2202,7 @@
       \field{labeltitlesource}{title}
       \field{series}{Collection Indologie 153?, Haṭha Yoga Series 5?}
       \field{title}{Dattātreyayogaśāstra}
-      \field{year}{2024}
+      \field{year}{forthcoming 2024}
       \keyw{printsource}
     \endentry
     \entry{rootsofyoga2017}{book}{}{}
@@ -2278,6 +2330,35 @@
       \field{year}{2024}
       \keyw{printsource}
     \endentry
+    \entry{michaels1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=698b00cb08198ecf2a7a88067ab54244}{%
+           family={Michaels},
+           familyi={M\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {C.H.Beck}%
+      }
+      \strng{namehash}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{fullhash}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{fullhashraw}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{bibnamehash}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{authorbibnamehash}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{authornamehash}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{authorfullhash}{698b00cb08198ecf2a7a88067ab54244}
+      \strng{authorfullhashraw}{698b00cb08198ecf2a7a88067ab54244}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Der Hinduismus}
+      \field{year}{1998}
+    \endentry
     \entry{sarvangayoga}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=bad728c888298d636658fff59c460a8a}{%
@@ -2381,6 +2462,18 @@
       \field{note}{\url{https://web.archive.org/web/20240323081653/https://yogananda.org/autobiography-of-a-yogi}. Website saved with the Way Back Machine of archive.org on 23.03.2024}
       \field{title}{Official Yogānanda Website}
       \keyw{onlinesource}
+    \endentry
+    \entry{patanjalabhasyavartika}{book}{}{}
+      \list{publisher}{1}{%
+        {Meḍikalhālnāmake yantrālaye saṃmudrā prakāśitam}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Yogavārtikam Mahāmahopāyādhyāyaśrīvijñānabhikṣuviracitaṃ Yogabhāṣyavyākhyārūpaṃ Kāśīstharājakīapradhānapāṭhaśālāyāṃ sāṅkhyayogādhāpakena tātyāśāstryaparanāmnā paṭavardhanopanāmakena rāmakṛṣṇaśāstriṇā jyautiṣaśāstrādhyāpakena keśavaśāstriṇā ca pariṣkṛtya saṃśodhitaṃ tayor saṃmatyā ca Śrīmatā ḍākṛralājarasākhyasāhibena}
+      \field{title}{Pātañjalabhāṣyavārttika}
+      \field{year}{1884}
+      \keyw{printsource}
     \endentry
     \entry{yogasutraed}{book}{}{}
       \field{sortinit}{P}
@@ -2554,6 +2647,14 @@
       \field{year}{1938}
       \keyw{printed}
     \endentry
+    \entry{rajamartanda}{book}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{note}{See Pātañjalayogaśāstra 1904}
+      \field{title}{Rājamārtaṇḍa}
+      \keyw{printsource}
+    \endentry
     \entry{ramatosana}{book}{}{}
       \name{author}{1}{}{%
         {{hash=dc716fc745d9c8460fad8d270823fd11}{%
@@ -2627,36 +2728,82 @@
       \field{note}{see \citeauthor{saradatilakafull} 2011}
       \field{title}{Śāradātilakatantra}
     \endentry
-    \entry{yogaupaniṣaded}{book}{}{}
+    \entry{yogacintamani}{book}{}{}
       \name{editor}{1}{}{%
-        {{hash=0cb6672c06776b8443c01ae2b2da6df2}{%
-           family={Sastri},
-           familyi={S\bibinitperiod},
-           given={Pandit\bibnamedelimb A.\bibnamedelimi Mahadeva},
-           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=13d6295c1370ec3efbdd9723a0052822}{%
+           family={Śarma},
+           familyi={Ś\bibinitperiod},
+           given={Haridāsa},
+           giveni={H\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Adyar}%
+        {Calcutta}%
       }
-      \list{publisher}{2}{%
-        {The Adyar Library}%
-        {Research Centre}%
+      \list{publisher}{1}{%
+        {Calcutta Oriantal Press}%
       }
-      \strng{namehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{fullhash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{fullhashraw}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{bibnamehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editorbibnamehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editornamehash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editorfullhash}{0cb6672c06776b8443c01ae2b2da6df2}
-      \strng{editorfullhashraw}{0cb6672c06776b8443c01ae2b2da6df2}
-      \field{sortinit}{S}
+      \strng{namehash}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{fullhash}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{fullhashraw}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{bibnamehash}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{editorbibnamehash}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{editornamehash}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{editorfullhash}{13d6295c1370ec3efbdd9723a0052822}
+      \strng{editorfullhashraw}{13d6295c1370ec3efbdd9723a0052822}
+      \field{sortinit}{Ś}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Yoga Upaniṣads with the Commentary of Śrī Upaniṣadbrahmayogin}
-      \field{title}{Yoga Upaniṣads}
-      \field{year}{1968}
+      \field{title}{Yogacintāmaṇi}
+      \field{year}{no date}
+      \keyw{printsource}
+    \endentry
+    \entry{peterson1888}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3ff775657ebb992941b0d4a710e43aa8}{%
+           family={Śārṅgadhara},
+           familyi={Ś\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5426a4c55b6d3023da5832bf3cdb372f}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bombay}%
+      }
+      \list{publisher}{1}{%
+        {Education Society Press}%
+      }
+      \strng{namehash}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{fullhash}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{fullhashraw}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{bibnamehash}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{authorbibnamehash}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{authornamehash}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{authorfullhash}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{authorfullhashraw}{3ff775657ebb992941b0d4a710e43aa8}
+      \strng{editorbibnamehash}{5426a4c55b6d3023da5832bf3cdb372f}
+      \strng{editornamehash}{5426a4c55b6d3023da5832bf3cdb372f}
+      \strng{editorfullhash}{5426a4c55b6d3023da5832bf3cdb372f}
+      \strng{editorfullhashraw}{5426a4c55b6d3023da5832bf3cdb372f}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Bombay Sanskrit Series No. XXXVII.}
+      \field{subtitle}{The Paddhati of Śārngadhara: A Sanskrit Anthology}
+      \field{title}{Śārngadharapaddhati}
+      \field{volume}{I}
+      \field{year}{1888}
+      \verb{urlraw}
+      \verb https://archive.org/details/in.ernet.dli.2015.283591
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/in.ernet.dli.2015.283591
+      \endverb
       \keyw{printsource}
     \endentry
     \entry{svacchandatantra}{book}{}{}
