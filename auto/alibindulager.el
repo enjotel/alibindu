@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "alibindulager"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -76,7 +76,12 @@
     "ashtangatrans"
     "ashtangareversed"
     "internalexternal"
-    "lotusofsupport"
+    "lokatraya"
+    "quadrupletofworlds"
+    "gapn1n2start"
+    "sevenislands"
+    "saptasamudra"
+    "ninecontinents"
     "heartlotus"
     "heartlotustrans"
     "knowledge"
@@ -86,10 +91,6 @@
     "fivegreatelements"
     "greatelements"
     "greatelements2"
-    "kulpentad"
-    "kulpentadtrans"
-    "uniqueknowledge"
-    "karmapentad"
-    "agnikala"))
+    "kulpentad"))
  :latex)
 

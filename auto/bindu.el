@@ -13,18 +13,14 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
-    "lokatraya"
-    "quadrupletofworlds"
-    "gapn1n2start"
-    "sevenislands"
-    "saptasamudra"
-    "ninecontinents"
     "ninerivers"
+    "riversrivers"
     "starstrans"
     "ascetics"
     "attributesrajabody"
     "avadhuta"
     "satyayoganote"
+    "lotusofsupport"
     "fig1"
     "fig2"
     "sec:bibli"))

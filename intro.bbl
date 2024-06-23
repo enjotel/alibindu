@@ -1389,6 +1389,40 @@
       \field{year}{2010}
       \keyw{seclit}
     \endentry
+    \entry{haas2018vom}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=5bcd42b2700619c4d7485af5a2903c6b}{%
+           family={Haas},
+           familyi={H\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universität Wien}%
+      }
+      \strng{namehash}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{fullhash}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{fullhashraw}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{bibnamehash}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{authorbibnamehash}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{authornamehash}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{authorfullhash}{5bcd42b2700619c4d7485af5a2903c6b}
+      \strng{authorfullhashraw}{5bcd42b2700619c4d7485af5a2903c6b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Betreuerin: Mag. Dr. Marion Rastelli (IKGA, ÖAW; ISTB, Universität Wien). Die Nummerierung der Verse in der Übersetzung wurde im vorliegenden Dokument weggelassen.}
+      \field{title}{Vom Feueraltar zum Yoga. Kohärenz und Konzept der Kaṭha-Upaniṣad}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb http://othes.univie.ac.at/52786/
+      \endverb
+      \verb{url}
+      \verb http://othes.univie.ac.at/52786/
+      \endverb
+      \keyw{seclit}
+    \endentry
     \entry{hacker1979}{incollection}{}{}
       \name{author}{1}{}{%
         {{hash=9e8e4657fd612f6eaa24daba1879eb4b}{%
@@ -1529,6 +1563,17 @@
       \field{labeltitlesource}{title}
       \field{note}{Unpublished manuscript. Bhārat Itihās Samśodhak Mandal (Pune) ms. 46/440 (catalogued as Āsanabandhāh).}
       \field{title}{Haṭhābhyāsapaddhati}
+      \keyw{codex}
+    \endentry
+    \entry{muktavali}{codex}{}{}
+      \list{location}{1}{%
+        {Jodhpur}%
+      }
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{note}{Rajasthan Oriental Research Institute, Ms. no. 6756, Catalogued under the title Haṭhayogapradīpikā}
+      \field{title}{Haṭhapradīpikā Siddhāntamuktāvalī}
       \keyw{codex}
     \endentry
     \entry{hauschild1927}{book}{}{}
@@ -2172,6 +2217,7 @@
       \field{year}{2018}
       \field{pages}{181\bibrangedash 223}
       \range{pages}{43}
+      \keyw{seclit}
     \endentry
     \entry{datta2024}{book}{}{}
       \name{editor}{1}{}{%
@@ -2795,7 +2841,7 @@
       \field{labeltitlesource}{title}
       \field{series}{Bombay Sanskrit Series No. XXXVII.}
       \field{subtitle}{The Paddhati of Śārngadhara: A Sanskrit Anthology}
-      \field{title}{Śārngadharapaddhati}
+      \field{title}{Śārṅgadharapaddhati}
       \field{volume}{I}
       \field{year}{1888}
       \verb{urlraw}
@@ -3220,6 +3266,39 @@
       \field{title}{Haṭhasaṃketacandrikā}
       \keyw{codex}
     \endentry
+    \entry{kathaup}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=3e8457f8bbc113252914fb6807e76886}{%
+           family={Vasu},
+           familyi={V\bibinitperiod},
+           given={Sris\bibnamedelima Chandra},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Alhallabad}%
+      }
+      \list{publisher}{1}{%
+        {Alhallabad Press}%
+      }
+      \strng{namehash}{3e8457f8bbc113252914fb6807e76886}
+      \strng{fullhash}{3e8457f8bbc113252914fb6807e76886}
+      \strng{fullhashraw}{3e8457f8bbc113252914fb6807e76886}
+      \strng{bibnamehash}{3e8457f8bbc113252914fb6807e76886}
+      \strng{authorbibnamehash}{3e8457f8bbc113252914fb6807e76886}
+      \strng{authornamehash}{3e8457f8bbc113252914fb6807e76886}
+      \strng{authorfullhash}{3e8457f8bbc113252914fb6807e76886}
+      \strng{authorfullhashraw}{3e8457f8bbc113252914fb6807e76886}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Vedanta Series}
+      \field{subtitle}{Kathopanishad: With the Sanskrit Text, Anvaya, Vritti, Word Meaning, Translation, Notes and Index}
+      \field{title}{Katha Upaniṣad}
+      \field{volume}{No. 3.}
+      \field{year}{1905}
+      \keyw{printsource}
+    \endentry
     \entry{vasudeva2004}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=09cd2bd788d48ae9337acf04a2b4a3f3}{%
@@ -3423,6 +3502,7 @@
       \keyw{printsource}
     \endentry
   \enddatalist
+  \missing{mukavali}
 \endrefsection
 \endinput
 
