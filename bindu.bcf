@@ -2371,20 +2371,94 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bindu.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">hathapradipika2024</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">slaje2014</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">geldner1907</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">nandikesvara1917</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">wilke2011</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">geldner1907</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">mw1899</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">mallinson2014b</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">hathatattvakaumudi</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">vasishtasamhita</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">kropf2005</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">kropf2005</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">spandakarika</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">mallinson2007</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">amaraed</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">sarvangayoga</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">sarvangayoga</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">jogpradipyaka</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">manasollasa</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">pudi2023</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">pudi2023</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">petersburger3</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">bhedabheda</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">brunner1963</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">hathapradipika2024</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">bäumer2013</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">törzsök2022</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">pandey1963</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">triadicheart</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">triadicheart</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">mallinson2010</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">singh2005paratrisika</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">triadicheart</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">triadicheart</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">peterson1888</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">peterson1888</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">amaraughasasana</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">mallinsonnath</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">peterson1888</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">pandey1963</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">triadicheart</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">triadicheart</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">urmikaula</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">sarvadurga</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">peterson1888</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">aryan</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">netratantra</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">netratantra</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">bäumernetra</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">brhadaranyaka</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">asiddhi</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">tantraloka</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">tantraloka</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">paratrishi</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">kissmatsya</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">satcakraniru</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">gonda1965</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">mallinson2010</bcf:citekey>
+    <bcf:citekey order="54" intorder="1">kularnavatantra</bcf:citekey>
+    <bcf:citekey order="55" intorder="1">asiddhi</bcf:citekey>
+    <bcf:citekey order="56" intorder="1">ssplonavla</bcf:citekey>
+    <bcf:citekey order="57" intorder="1">gorakbhani</bcf:citekey>
+    <bcf:citekey order="58" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="59" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="60" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="61" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="62" intorder="1">hathatattvakaumudi</bcf:citekey>
+    <bcf:citekey order="63" intorder="1">hathatattvakaumudi</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">hathacandrika</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">rajayoga</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">sircar1966</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">mainkar2004</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">ramayana</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">mahabharata</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="73" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="74" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="75" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="76" intorder="1">mainkar2004</bcf:citekey>
+    <bcf:citekey order="77" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="78" intorder="1">malinivijay</bcf:citekey>
+    <bcf:citekey order="79" intorder="1">vasudeva2004</bcf:citekey>
+    <bcf:citekey order="80" intorder="1">svacchandatantra</bcf:citekey>
+    <bcf:citekey order="81" intorder="1">bodhasara</bcf:citekey>
+    <bcf:citekey order="82" intorder="1">bodhasara</bcf:citekey>
+    <bcf:citekey order="83" intorder="1">hemacandras</bcf:citekey>
+    <bcf:citekey order="84" intorder="1">hemacandras</bcf:citekey>
+    <bcf:citekey order="85" intorder="1">stb1</bcf:citekey>
+    <bcf:citekey order="86" intorder="1">guhyanisvasa</bcf:citekey>
+    <bcf:citekey order="87" intorder="1">merutantra</bcf:citekey>
+    <bcf:citekey order="88" intorder="1">pratyabhijnahrdaya</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
@@ -2416,4 +2490,14 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nyt/global//global/global/global"
+                type="entry"
+                sortingtemplatename="nyt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>

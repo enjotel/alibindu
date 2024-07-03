@@ -75,6 +75,7 @@
     "ashtanga"
     "ashtangatrans"
     "ashtangareversed"
+    "samadhiabsent"
     "internalexternal"
     "lokatraya"
     "quadrupletofworlds"
@@ -82,15 +83,12 @@
     "sevenislands"
     "saptasamudra"
     "ninecontinents"
-    "heartlotus"
-    "heartlotustrans"
-    "knowledge"
-    "knowledgetrans"
-    "gapn1n2end"
-    "generationofbody"
-    "fivegreatelements"
-    "greatelements"
-    "greatelements2"
-    "kulpentad"))
+    "ninerivers"
+    "riversrivers"
+    "starstrans"
+    "ascetics"
+    "fig1"
+    "fig2"
+    "sec:bibli"))
  :latex)
 
