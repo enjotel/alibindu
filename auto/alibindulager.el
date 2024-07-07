@@ -87,8 +87,12 @@
     "riversrivers"
     "starstrans"
     "ascetics"
-    "fig1"
-    "fig2"
-    "sec:bibli"))
+    "lotusofsupport"
+    "heartlotus"
+    "heartlotustrans"
+    "knowledge"
+    "knowledgetrans"
+    "gapn1n2end"
+    "generationofbody"))
  :latex)
 

@@ -95,7 +95,8 @@
 %%%%%%%  biblatex
 %\newcommand{\noun}[1]{\textsc{#1}}    %  philosophy-verbose
 \usepackage[backend=biber, sorting=nyt, style=verbose]{biblatex} %%%%ORIGINAL TiE
-\renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
+%%capitalized names
+%\renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
 
 
 \DeclareFieldFormat{url}{%
@@ -157,6 +158,18 @@ lang=english,
 notelang=english,
 % bhook=\selectlanguage{english},
 bhook=\selectlanguage{english}\textbf{Testimonia:},
+%maxentries=4, 
+%ehook=.]
+%nosep, 
+]
+
+\newif\ifinapparatus
+\DeclareApparatus{analogia}[
+%bhook=\inapparatustrue,
+lang=english,
+notelang=english,
+% bhook=\selectlanguage{english},
+bhook=\selectlanguage{english}\textbf{Analogia:},
 %maxentries=4, 
 %ehook=.]
 %nosep, 
@@ -318,6 +331,7 @@ surname=Liersch]
 \DeclareShorthand{egoscr}{\begin{otherlanguage}{english}em.\end{otherlanguage}}{ego}
 \DeclareShorthand{egoscrconj}{conj.}{ego}
 \DeclareShorthand{sellmerconj}{SELLMER conj.}{ego}
+\DeclareShorthand{hannederconj}{HANNEDER conj.}{ego}
 \DeclareShorthand{sellmerem}{SELLMER em.}{ego}
 \DeclareShorthand{birchconj}{BIRCH conj.}{ego}
 \DeclareShorthand{mallinsonconj}{MALLINSON conj.}{ego}
