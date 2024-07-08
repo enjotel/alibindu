@@ -87,12 +87,9 @@
     "riversrivers"
     "starstrans"
     "ascetics"
-    "lotusofsupport"
-    "heartlotus"
-    "heartlotustrans"
-    "knowledge"
-    "knowledgetrans"
-    "gapn1n2end"
-    "generationofbody"))
+    "attributesrajabody"
+    "avadhuta"
+    "satyayoganote"
+    "lotusofsupport"))
  :latex)
 

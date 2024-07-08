@@ -2,6 +2,8 @@
  "bindu"
  (lambda ()
    (LaTeX-add-bibitems
+    "goraksasiddhantasamgraha1973"
+    "bouy1994"
     "ytbe"
     "riegger2018"
     "ytbp"
@@ -179,6 +181,7 @@
     "kinsley1997"
     "shastri1905"
     "white1996"
+    "white2003"
     "datta2015"
     "datta2024"
     "amaraugha2024"
