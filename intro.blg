@@ -1,41 +1,41 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'intro.blg'
-[118] biber:340> INFO - === Mo Jul  8, 2024, 12:47:51
-[147] Biber.pm:420> INFO - Reading 'intro.bcf'
-[372] Biber.pm:994> INFO - Found 146 citekeys in bib section 0
-[393] Biber.pm:4463> INFO - Processing section 0
-[407] Biber.pm:4654> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[421] bibtex.pm:1713> INFO - LaTeX decoding ...
-[904] bibtex.pm:1519> INFO - Found BibTeX data source 'bindu.bib'
-[2151] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2151] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2151] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[2151] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[2335] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
-[2406] bbl.pm:779> INFO - Output to intro.bbl
-[2406] Biber.pm:131> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
-[2406] Biber.pm:131> WARN - Duplicate entry key: 'birch2018proliferation' in file 'bindu.bib', skipping ...
-[2406] Biber.pm:131> WARN - Duplicate entry key: 'yogasutra' in file 'bindu.bib', skipping ...
-[2406] Biber.pm:131> WARN - Duplicate entry key: 'kaviraj' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'birch2014' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'stb1' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'stb2' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'kathaup' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
-[2407] Biber.pm:131> WARN - legacy year field 'Nepal Saṃvat 837' in entry 'ytbn1' is not an integer - this will probably not sort properly.
-[2407] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'ytbn2' is not an integer - this will probably not sort properly.
-[2407] Biber.pm:131> WARN - legacy year field 'Śake 1805' in entry 'ytbu2' is not an integer - this will probably not sort properly.
-[2407] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'ytbb' is not an integer - this will probably not sort properly.
-[2407] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'ytbl' is not an integer - this will probably not sort properly.
-[2408] Biber.pm:131> WARN - legacy year field 'Saṃvat 1867' in entry 'ytbp' is not an integer - this will probably not sort properly.
-[2408] Biber.pm:131> WARN - legacy year field 'forthcoming 2024' in entry 'datta2024' is not an integer - this will probably not sort properly.
-[2408] Biber.pm:131> WARN - legacy year field 'no date' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
-[2408] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_kV1x/a411a05437c082f0cf4f7e71b7c360c2_8983.utf8, line 531, warning: 3 characters of junk seen at toplevel
-[2408] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_kV1x/a411a05437c082f0cf4f7e71b7c360c2_8983.utf8, line 1161, warning: 1 characters of junk seen at toplevel
-[2408] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_kV1x/a411a05437c082f0cf4f7e71b7c360c2_8983.utf8, line 3008, warning: entry started with "(", but ends with "}"
-[2408] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_kV1x/a411a05437c082f0cf4f7e71b7c360c2_8983.utf8, line 3547, warning: 121 characters of junk seen at toplevel
-[2408] Biber.pm:131> WARN - I didn't find a database entry for 'ytbd' (section 0)
-[2408] Biber.pm:131> WARN - I didn't find a database entry for 'amatosana' (section 0)
-[2408] Biber.pm:133> INFO - WARNINGS: 25
+[101] biber:340> INFO - === Di Jul  9, 2024, 08:36:52
+[124] Biber.pm:420> INFO - Reading 'intro.bcf'
+[348] Biber.pm:994> INFO - Found 150 citekeys in bib section 0
+[369] Biber.pm:4463> INFO - Processing section 0
+[383] Biber.pm:4654> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[398] bibtex.pm:1713> INFO - LaTeX decoding ...
+[885] bibtex.pm:1519> INFO - Found BibTeX data source 'bindu.bib'
+[2094] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2094] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2095] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2095] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[2285] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
+[2359] bbl.pm:779> INFO - Output to intro.bbl
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'bäumer2013' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'birch2018proliferation' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'yogasutra' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'kaviraj' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'birch2014' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'stb1' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'stb2' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'kathaup' in file 'bindu.bib', skipping ...
+[2360] Biber.pm:131> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
+[2361] Biber.pm:131> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
+[2361] Biber.pm:131> WARN - legacy year field 'Nepal Saṃvat 837' in entry 'ytbn1' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'ytbn2' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'Śake 1805' in entry 'ytbu2' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'ytbb' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'n.d.' in entry 'ytbl' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'Saṃvat 1867' in entry 'ytbp' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'forthcoming 2024' in entry 'datta2024' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - legacy year field 'no date' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
+[2361] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_oDDX/a411a05437c082f0cf4f7e71b7c360c2_3057.utf8, line 552, warning: 3 characters of junk seen at toplevel
+[2361] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_oDDX/a411a05437c082f0cf4f7e71b7c360c2_3057.utf8, line 1182, warning: 1 characters of junk seen at toplevel
+[2361] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_oDDX/a411a05437c082f0cf4f7e71b7c360c2_3057.utf8, line 3038, warning: entry started with "(", but ends with "}"
+[2362] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_oDDX/a411a05437c082f0cf4f7e71b7c360c2_3057.utf8, line 3577, warning: 121 characters of junk seen at toplevel
+[2362] Biber.pm:131> WARN - I didn't find a database entry for 'ytbd' (section 0)
+[2362] Biber.pm:131> WARN - I didn't find a database entry for 'amatosana' (section 0)
+[2362] Biber.pm:133> INFO - WARNINGS: 25

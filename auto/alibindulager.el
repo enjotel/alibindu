@@ -89,7 +89,7 @@
     "ascetics"
     "attributesrajabody"
     "avadhuta"
-    "satyayoganote"
+    "satyaavadhuta"
     "lotusofsupport"))
  :latex)
 

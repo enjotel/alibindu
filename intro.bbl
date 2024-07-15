@@ -637,6 +637,36 @@
       \field{year}{1858}
       \keyw{seclit}
     \endentry
+    \entry{bouy1994}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=34ffe4ee4ec75eb88ae02934ca0f7fae}{%
+           family={Bouy},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Collège de France, Institut de civilisation indienne : Diffusion de Boccard}%
+      }
+      \strng{namehash}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{fullhash}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{fullhashraw}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{bibnamehash}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{authorbibnamehash}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{authornamehash}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{authorfullhash}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \strng{authorfullhashraw}{34ffe4ee4ec75eb88ae02934ca0f7fae}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Les Nātha-yogin et les Upaniṣads: étude d’histoire de la littérature hindoue}
+      \field{year}{1994}
+      \keyw{seclit}
+    \endentry
     \entry{yogatarangini}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=d9c9832a9152726779376f38d25a3c95}{%
@@ -2881,6 +2911,35 @@
       \true{nocite}
       \keyw{printsource}
     \endentry
+    \entry{amaraughasasana}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=5845ecacefe5bb47774f56df82543bf4}{%
+           family={Mukund\bibnamedelimb Ram\bibnamedelima Shastri},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Srinagar}%
+      }
+      \strng{namehash}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{fullhash}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{fullhashraw}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{bibnamehash}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{editorbibnamehash}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{editornamehash}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{editorfullhash}{5845ecacefe5bb47774f56df82543bf4}
+      \strng{editorfullhashraw}{5845ecacefe5bb47774f56df82543bf4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{KSTS}
+      \field{subtitle}{Amaraughaśāsana of Gorakṣanātha}
+      \field{title}{Amaraughaśāsana}
+      \field{volume}{20}
+      \field{year}{1918}
+    \endentry
     \entry{yogakarnika}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=4c5122996f3c04be2e42da01f1f1609f}{%
@@ -2953,6 +3012,39 @@
       \field{note}{\url{https://web.archive.org/web/20240323081653/https://yogananda.org/autobiography-of-a-yogi}. Website saved with the Way Back Machine of archive.org on 23.03.2024}
       \field{title}{Official Yogānanda Website}
       \keyw{onlinesource}
+    \endentry
+    \entry{goraksasiddhantasamgraha1973}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=ca5fc7d2d1981594fa2d114207c42499}{%
+           family={Pāṇḍeya},
+           familyi={P\bibinitperiod},
+           given={Janārdana\bibnamedelima Śāstrī},
+           giveni={J\bibinitperiod\bibinitdelim Ś\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Varanasi}%
+      }
+      \list{publisher}{1}{%
+        {Varanaseya Sanskrit Vishvavidyalaya}%
+      }
+      \strng{namehash}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{fullhash}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{fullhashraw}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{bibnamehash}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{editorbibnamehash}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{editornamehash}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{editorfullhash}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{editorfullhashraw}{ca5fc7d2d1981594fa2d114207c42499}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{Saraswatībhavana-Granthamālā}
+      \field{title}{Gorakṣasiddhāntasaṃgraha}
+      \field{volume}{110}
+      \field{year}{1973}
+      \true{nocite}
+      \keyw{printsource}
     \endentry
     \entry{patanjalabhasyavartika}{book}{}{}
       \list{publisher}{1}{%
@@ -4523,6 +4615,37 @@
       \field{year}{2000}
       \keyw{printsource}
     \endentry
+    \entry{white2003}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6931adfd9bf4e657cbdfc0f7ff3085a1}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima Gordon},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University Of Chicago Press}%
+      }
+      \strng{namehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{fullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{fullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{bibnamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorbibnamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authornamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorfullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorfullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kiss of the Yogini: “Tantric Sex” in Its South Asian Contexts}
+      \field{year}{2003}
+      \keyw{seclit}
+    \endentry
     \entry{colebrooke2014}{inbook}{}{}
       \name{editor}{1}{}{%
         {{hash=6931adfd9bf4e657cbdfc0f7ff3085a1}{%
@@ -4545,6 +4668,7 @@
       \strng{editornamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
       \strng{editorfullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
       \strng{editorfullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{labelnamesource}{editor}
