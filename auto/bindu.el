@@ -13,6 +13,8 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
+    "majesty"
+    "majestytrans"
     "secretofscriptures"
     "udasin"
     "fig1"

@@ -2371,8 +2371,21 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bindu.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">sircar1966</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">mainkar2004</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">amanaskaed</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">amanaskaed</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">amanaskaed</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">mainkar2004</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">birch2013</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">malinivijay</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">vasudeva2004</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">svacchandatantra</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">bodhasara</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">bodhasara</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">hemacandras</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">hemacandras</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">stb1</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
@@ -2404,4 +2417,14 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
+  <bcf:datalist section="0"
+                name="nyt/global//global/global/global"
+                type="entry"
+                sortingtemplatename="nyt"
+                sortingnamekeytemplatename="global"
+                labelprefix=""
+                uniquenametemplatename="global"
+                labelalphanametemplatename="global"
+                namehashtemplatename="global">
+  </bcf:datalist>
 </bcf:controlfile>
