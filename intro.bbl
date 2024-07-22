@@ -2085,6 +2085,35 @@
       \field{year}{2006}
       \keyw{seclit}
     \endentry
+    \entry{hargreaves2020}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=fe7f758e83fdd0b8e8650953283841d9}{%
+           family={Hargreaves},
+           familyi={H\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Luminescent}%
+      }
+      \strng{namehash}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{fullhash}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{fullhashraw}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{bibnamehash}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{authorbibnamehash}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{authornamehash}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{authorfullhash}{fe7f758e83fdd0b8e8650953283841d9}
+      \strng{authorfullhashraw}{fe7f758e83fdd0b8e8650953283841d9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.theluminescent.org/2020/08/visual-evidence-for-royal-yogins.html}}
+      \field{note}{\url{https://web.archive.org/web/20240514091726/https://www.theluminescent.org/2020/08/visual-evidence-for-royal-yogins.html}; Saved on archive.org: 22.07.2024}
+      \field{title}{Visual Evidence for Royal Yogins}
+      \field{year}{2020}
+      \keyw{seclit}
+    \endentry
     \entry{hariharananda1989}{book}{}{}
       \name{author}{1}{}{%
         {{hash=fb6d8ec5f5da576b1e4f7177e9329200}{%
@@ -3196,6 +3225,49 @@
       \range{pages}{43}
       \keyw{seclit}
     \endentry
+    \entry{mallinson2021}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
+           family={Mallinson},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=050ace2c7488fdf24abe7dfeb937c42f}{%
+           family={Orsini},
+           familyi={O\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{fullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{fullhashraw}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{bibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{authorbibnamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{authornamehash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{authorfullhash}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{authorfullhashraw}{a9526cb2553b23ad15882d7f4b64b7da}
+      \strng{editorbibnamehash}{050ace2c7488fdf24abe7dfeb937c42f}
+      \strng{editornamehash}{050ace2c7488fdf24abe7dfeb937c42f}
+      \strng{editorfullhash}{050ace2c7488fdf24abe7dfeb937c42f}
+      \strng{editorfullhashraw}{050ace2c7488fdf24abe7dfeb937c42f}
+      \field{extraname}{6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Objects, Images, Stories}
+      \field{title}{Nath Yogis and their ‘Amazing Apparel’ in Early Material and Textual Sources}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1093/oso/9780190123963.003.0004
+      \endverb
+      \keyw{seclit}
+    \endentry
     \entry{datta2024}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
@@ -3218,7 +3290,7 @@
       \strng{editornamehash}{a9526cb2553b23ad15882d7f4b64b7da}
       \strng{editorfullhash}{a9526cb2553b23ad15882d7f4b64b7da}
       \strng{editorfullhashraw}{a9526cb2553b23ad15882d7f4b64b7da}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{editor}
@@ -3489,6 +3561,48 @@
       \field{note}{Printed Edition}
       \field{title}{Binduyogaḥ with Bhāṣaṭīkā}
       \field{year}{1905}
+      \keyw{printsource}
+    \endentry
+    \entry{jayasi1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6335450a54650165bc66f7c388ae4944}{%
+           family={Muhammad\bibnamedelima Jāyasī},
+           familyi={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Mālik},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bbbe22dc06ecb980ab4af9ab10899e8f}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={V.\bibnamedelimi S.},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chirgaon}%
+      }
+      \list{publisher}{1}{%
+        {Sahitya Sadan}%
+      }
+      \strng{namehash}{6335450a54650165bc66f7c388ae4944}
+      \strng{fullhash}{6335450a54650165bc66f7c388ae4944}
+      \strng{fullhashraw}{6335450a54650165bc66f7c388ae4944}
+      \strng{bibnamehash}{6335450a54650165bc66f7c388ae4944}
+      \strng{authorbibnamehash}{6335450a54650165bc66f7c388ae4944}
+      \strng{authornamehash}{6335450a54650165bc66f7c388ae4944}
+      \strng{authorfullhash}{6335450a54650165bc66f7c388ae4944}
+      \strng{authorfullhashraw}{6335450a54650165bc66f7c388ae4944}
+      \strng{editorbibnamehash}{bbbe22dc06ecb980ab4af9ab10899e8f}
+      \strng{editornamehash}{bbbe22dc06ecb980ab4af9ab10899e8f}
+      \strng{editorfullhash}{bbbe22dc06ecb980ab4af9ab10899e8f}
+      \strng{editorfullhashraw}{bbbe22dc06ecb980ab4af9ab10899e8f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Padmāvat: Mālik Muhammad Jāyasī Kṛt Mahākāvya}
+      \field{year}{1998}
+      \true{nocite}
       \keyw{printsource}
     \endentry
     \entry{amaraughasasana}{book}{}{}
@@ -4270,11 +4384,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Indo-Iranian Journal}
-      \field{title}{Religion and the State: \textit{{§}aiva Officiants} in the Territory of the Brahmanical Royal Chaplain (with an appendix on the provenance and date of the \textit{Netratantra})}
+      \field{title}{Religion and the State: Śaiva Officiants in the Territory of the King’s brahmanical Chaplain}
       \field{volume}{47}
       \field{year}{2004}
       \field{pages}{229\bibrangedash 300}
       \range{pages}{72}
+      \keyw{seclit}
     \endentry
     \entry{sarada}{book}{}{}
       \field{sortinit}{Ś}
@@ -4588,6 +4703,38 @@
       \endverb
       \keyw{seclit}
     \endentry
+    \entry{manasollasa}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=c42e8453871c5fc297363a9eb5478893}{%
+           family={Shrigondekar},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mumbai}%
+      }
+      \list{publisher}{1}{%
+        {Bombay Vaibhav Press}%
+      }
+      \strng{namehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{fullhash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{fullhashraw}{c42e8453871c5fc297363a9eb5478893}
+      \strng{bibnamehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editorbibnamehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editornamehash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editorfullhash}{c42e8453871c5fc297363a9eb5478893}
+      \strng{editorfullhashraw}{c42e8453871c5fc297363a9eb5478893}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{Baroda Oriental Institute}
+      \field{subtitle}{Mānasollāsa of King Someśvara}
+      \field{title}{Mānasollāsa}
+      \field{year}{1939}
+      \keyw{printsource}
+    \endentry
     \entry{stb1}{codex}{}{}
       \list{location}{1}{%
         {National Archives Kathmandu}%
@@ -4610,6 +4757,36 @@
       \field{title}{Siddhāntatattvabindu}
       \true{nocite}
       \keyw{codex}
+    \endentry
+    \entry{singleton2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e150e80fdf08adb6d475a14bddc14262}{%
+           family={Singleton},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{fullhash}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{fullhashraw}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{bibnamehash}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{authorbibnamehash}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{authornamehash}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{authorfullhash}{e150e80fdf08adb6d475a14bddc14262}
+      \strng{authorfullhashraw}{e150e80fdf08adb6d475a14bddc14262}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Yoga Body - The Origins of Modern Posture Practice}
+      \field{year}{2010}
+      \keyw{seclit}
     \endentry
     \entry{singleton2013gurus}{book}{}{}
       \name{author}{2}{}{%
@@ -4783,6 +4960,35 @@
       \field{pages}{268\bibrangedash 313}
       \range{pages}{46}
       \keyw{printsource}
+    \endentry
+    \entry{sjoman1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8aba72bfebb176b261cc4e05207e8a52}{%
+           family={Sjoman},
+           familyi={S\bibinitperiod},
+           given={N.E.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Abhinav Publications}%
+      }
+      \strng{namehash}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{fullhash}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{fullhashraw}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{bibnamehash}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{authorbibnamehash}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{authornamehash}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{authorfullhash}{8aba72bfebb176b261cc4e05207e8a52}
+      \strng{authorfullhashraw}{8aba72bfebb176b261cc4e05207e8a52}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Yoga Tradition of the Mysore Palace}
+      \field{year}{1996}
     \endentry
     \entry{slouber2010}{book}{}{}
       \name{author}{1}{}{%
@@ -5492,6 +5698,46 @@
       \field{pages}{53\bibrangedash 80}
       \range{pages}{28}
     \endentry
+    \entry{whitney1879}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=e6c485652f574cc113c6d4f6cff2688d}{%
+           family={Whitney},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima Dwight},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{2}{%
+        {Breitkopf}%
+        {Härtel}%
+      }
+      \strng{namehash}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{fullhash}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{fullhashraw}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{bibnamehash}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{authorbibnamehash}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{authornamehash}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{authorfullhash}{e6c485652f574cc113c6d4f6cff2688d}
+      \strng{authorfullhashraw}{e6c485652f574cc113c6d4f6cff2688d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{A supplement by the author appeared in the same series (Bd. II, Anhang II) with title: The Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language. Leipzig, 1885 (xiii, [1], 250 p.)}
+      \field{title}{A Sanskrit Grammar; Including Both the Classical Language, and the Older Dialects, of Veda and Brahmana}
+      \field{year}{1879}
+      \verb{urlraw}
+      \verb https://archive.org/details/sanskritgrammari00whituoft
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/sanskritgrammari00whituoft
+      \endverb
+    \endentry
     \entry{windram2008}{article}{}{}
       \name{author}{4}{}{%
         {{hash=4de34d33c6010a242dc774d3a351968f}{%
@@ -5617,6 +5863,7 @@
       \keyw{printsource}
     \endentry
   \enddatalist
+  \missing{mallinson2024}
   \missing{ytbd}
 \endrefsection
 \endinput

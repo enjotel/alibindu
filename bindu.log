@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  18 JUL 2024 10:08
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  21 JUL 2024 14:58
  restricted system commands enabled.
 **bindu.tex
 (./bindu.tex
@@ -1985,11 +1985,7 @@ LaTeX Font Info:    Font shape `TU/Sanskrit2003(1)/m/n' will be
 (/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.
 tex UTF-8 Sanskrit hyphenation patterns
 (/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-sa.
-tex))
-
-LaTeX Warning: Label `_4e' multiply defined.
-
-)
+tex)))
 \openout1 = bindu.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -2077,8 +2073,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 8.
 Package hyperref Info: Link coloring OFF on input line 8.
- (./bindu.out)
-(./bindu.out)
+
+(./bindu.out) (./bindu.out)
 \@outlinefile=\write8
 
 \openout8 = bindu.out
@@ -2155,17 +2151,16 @@ Package biblatex Info: Automatic encoding selection.
 
 \openout6 = bindu.bcf
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'bindu.bbl' not found.
-No file bindu.bbl.
+Package biblatex Info: ... file 'bindu.bbl' found.
+(./bindu.bbl)
 Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
 \@float@every@ekdapparatus=\toks62
 \c@ekdapparatus=\count573
-[1
+ [1
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Sanskrit2003' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2226,7 +2221,7 @@ LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <12> not available
 
 ]
 LaTeX Font Info:    Font shape `TU/Sanskrit2003(1)/m/n' will be
-(Font)              scaled to size 8.80005pt on input line 386.
+(Font)              scaled to size 8.80005pt on input line 518.
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <8> not available
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
  1.
@@ -2239,58 +2234,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
-
-Underfull \hbox (badness 1173) in paragraph at lines 1--386
-\TU/Vollkorn(0)/m/n/8 mantrayogo, jñā-nayo-gaḥ, ad-vaitayogo, lakṣyayogo, brah-mayo-ga
-ḥ, śi-vayo-gaḥ, sid-dhiyogo,
- []
-
-
-LaTeX Warning: Citation 'nishvasa2015' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Citation 'birch2014' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Citation 'ramatosana' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Citation 'ssplonavla' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Citation 'yogacandrika' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Citation 'sarvangayoga' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Reference `yogatax' on page 5 undefined on input line 413.
-
-
-LaTeX Warning: Reference `kriyaintro' on page 5 undefined on input line 413.
-
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/m/sl' in size <10> not available
 
 (Font)              Font shape `TU/Vollkorn(0)/m/it' tried instead on input lin
-e 414.
+e 533.
 [5] [6] [7
 
 
 ]
-<pics/Vishnu_Vishvarupa_cropped.jpg, id=111, 738.1176pt x 1068.8733pt>
+<pics/Vishnu_Vishvarupa_cropped.jpg, id=118, 738.1176pt x 1068.8733pt>
 File: pics/Vishnu_Vishvarupa_cropped.jpg Graphic file (type jpg)
 <use pics/Vishnu_Vishvarupa_cropped.jpg>
 Package luatex.def Info: pics/Vishnu_Vishvarupa_cropped.jpg  used on input line
- 451.
+ 545.
 (luatex.def)             Requested size: 330.0pt x 477.8734pt.
 
 
-LaTeX Warning: Float too large for page by 41.8734pt on input line 454.
+LaTeX Warning: Float too large for page by 41.8734pt on input line 548.
 
 [8<./pics/Vishnu_Vishvarupa_cropped.jpg>]
 <pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Si
 ddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_
-Trust..jpg, id=117, 401.5pt x 1042.89626pt>
+Trust..jpg, id=124, 401.5pt x 1042.89626pt>
 File: pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Sidd
 ha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mu
 seum_Trust..jpg Graphic file (type jpg)
@@ -2299,7 +2264,7 @@ a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mus
 eum_Trust..jpg>
 Package luatex.def Info: pics/The_Equivalence_of_Self_and_Universe_(detail),_fo
 lio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_4
-6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 458.
+6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 552.
 (luatex.def)             Requested size: 165.0pt x 428.59277pt.
  [9<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddh
 a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Muse
@@ -2309,28 +2274,16 @@ um_Trust..jpg>] [10
 
 ] [11]
 
-Package biblatex Warning: Keyword 'codex' not found on input line 472.
+Package biblatex Warning: Keyword 'codex' not found on input line 566.
 
 
-LaTeX Warning: Empty bibliography on input line 472.
+LaTeX Warning: Empty bibliography on input line 566.
 
 
-Package biblatex Warning: Keyword 'printsource' not found on input line 474.
+Package biblatex Warning: Keyword 'onlinesource' not found on input line 572.
 
 
-LaTeX Warning: Empty bibliography on input line 474.
-
-
-Package biblatex Warning: Keyword 'seclit' not found on input line 476.
-
-
-LaTeX Warning: Empty bibliography on input line 476.
-
-
-Package biblatex Warning: Keyword 'onlinesource' not found on input line 478.
-
-
-LaTeX Warning: Empty bibliography on input line 478.
+LaTeX Warning: Empty bibliography on input line 572.
 
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.11'
@@ -2352,15 +2305,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `bindu.out' has not changed.
-(rerunfilecheck)             Checksum: 8124870F6D8B8D135BF4433EF31FB73D;1083.
+(rerunfilecheck)             Checksum: 195DB348FF4D3026BCDC28217BFE513F;1378.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                bindu
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
 
 Package logreq Info: Writing requests to 'bindu.run.xml'.
 
@@ -2368,18 +2316,16 @@ Package logreq Info: Writing requests to 'bindu.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 47955 strings out of 476435
- 125007,2373549 words of node,token memory allocated
- 6220 words of node memory still in use:
-   3 hlist, 6 vlist, 1 rule, 9 glue, 3 kern, 625 glyph, 153 attribute, 226 glue_
-spec, 77 attribute_list, 2 shape, 3 write nodes
-   avail lists: 1:9,2:4599,3:2013,4:236,5:1388,6:39,7:9738,8:2,9:690,10:23,11:71
-0
- 68967 multiletter control sequences out of 65536+600000
- 83 fonts using 17399903 bytes
- 95i,11n,115p,8697b,5256s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.5'
+ 48084 strings out of 476435
+ 156260,2373549 words of node,token memory allocated
+ 5632 words of node memory still in use:
+   3 hlist, 10 vlist, 1 rule, 8 glue, 3 kern, 520 glyph, 189 attribute, 228 glue
+_spec, 95 attribute_list, 2 shape, 3 write nodes
+   avail lists: 1:2,2:8335,3:3419,4:306,5:1422,6:42,7:11602,8:4,9:762,10:29,11:6
+83
+ 69086 multiletter control sequences out of 65536+600000
+ 83 fonts using 17399583 bytes
+ 95i,11n,115p,15565b,5391s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.4'
 
@@ -2394,10 +2340,10 @@ ont_wght.ttf></home/enjotel/.local/share/fonts/Sanskrit-2003.ttf></home/enjotel/
 .local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf></usr/local/texlive/202
 4/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on bindu.pdf (17 pages, 4088573 bytes).
+Output written on bindu.pdf (17 pages, 4086962 bytes).
 
-PDF statistics: 177 PDF objects out of 1000 (max. 8388607)
- 137 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 131072)
- 72 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 191 PDF objects out of 1000 (max. 8388607)
+ 151 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 131072)
+ 88 words of extra memory for PDF output out of 10000 (max. 100000000)
 
