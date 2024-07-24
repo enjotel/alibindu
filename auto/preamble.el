@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("memoir" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true") ("footmisc" "bottom")))
+                     '(("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "maxnames=99" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true") ("footmisc" "bottom")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")

@@ -1,6 +1,6 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  22 JUL 2024 19:26
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  24 JUL 2024 21:43
  restricted system commands enabled.
-**intro.tex
+**intro
 (./intro.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -2016,92 +2016,92 @@ LaTeX Warning: Label `laksyayogaintrocandrika@cref' multiply defined.
 )
 \openout1 = intro.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+1.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 48.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 48.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 48.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 48.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 48.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 48.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 48.
-LaTeX Font Info:    Redeclaring math accent \check on input line 48.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 48.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 48.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 48.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 48.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 48.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
+LaTeX Font Info:    Redeclaring math accent \check on input line 11.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 48.
+(Font)              `operators' in the math version `normal' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Vollkorn(0)/m/n on input line 48.
+(Font)                  OT1/cmr/m/n --> TU/Vollkorn(0)/m/n on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 48.
+(Font)              `operators' in the math version `bold' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Vollkorn(0)/m/n on input line 48.
+(Font)                  OT1/cmr/bx/n --> TU/Vollkorn(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/Vollkorn(0)/m/n --> TU/Vollkorn(0)/m/n on input line
- 48.
+ 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Vollkorn(0)/m/it on input line 48.
+(Font)                  OT1/cmr/m/it --> TU/Vollkorn(0)/m/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Vollkorn(0)/b/n on input line 48.
+(Font)                  OT1/cmr/bx/n --> TU/Vollkorn(0)/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 48.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 48.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Vollkorn(0)/m/n --> TU/Vollkorn(0)/b/n on input line
- 48.
+ 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Vollkorn(0)/b/it on input line 48.
+(Font)                  OT1/cmr/bx/it --> TU/Vollkorn(0)/b/it on input line 11.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 48.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 48.
-Package hyperref Info: Link coloring OFF on input line 48.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 11.
+Package hyperref Info: Link coloring OFF on input line 11.
  (./intro.out)
 (./intro.out)
 \@outlinefile=\write8
@@ -2130,19 +2130,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 48.
-Package microtype Info: Applying patch `item' on input line 48.
-Package microtype Info: Applying patch `toc' on input line 48.
-Package microtype Info: Applying patch `eqnum' on input line 48.
-Package microtype Info: Applying patch `footnote' on input line 48.
-Package microtype Info: Applying patch `verbatim' on input line 48.
+LaTeX Info: Redefining \microtypecontext on input line 11.
+Package microtype Info: Applying patch `item' on input line 11.
+Package microtype Info: Applying patch `toc' on input line 11.
+Package microtype Info: Applying patch `eqnum' on input line 11.
+Package microtype Info: Applying patch `footnote' on input line 11.
+Package microtype Info: Applying patch `verbatim' on input line 11.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 48.
+LaTeX Info: Redefining \showhyphens on input line 11.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -2159,7 +2159,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \dots on input line 48.
+LaTeX Info: Redefining \dots on input line 11.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -2171,7 +2171,7 @@ Package biblatex Info: ... file 'iast.lbx' not found.
 
 
 Package biblatex Warning: Language 'iast' not supported.
-(biblatex)                Using dummy definitions on input line 48.
+(biblatex)                Using dummy definitions on input line 11.
 
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -2185,20 +2185,13 @@ Package biblatex Info: ... file 'intro.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                mallinson2024
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                ytbd
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 48.
-Package biblatex Info: Reference segment=0 on input line 48.
+Package biblatex Info: Reference section=0 on input line 11.
+Package biblatex Info: Reference segment=0 on input line 11.
 \@float@every@ekdapparatus=\toks62
 \c@ekdapparatus=\count573
  [1
@@ -2211,21 +2204,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/Sanskrit2003(1)/m/n' will be
-(Font)              scaled to size 15.84007pt on input line 84.
+(Font)              scaled to size 15.84007pt on input line 47.
 LaTeX Font Info:    Font shape `TU/Sanskrit2003(0)/m/n' will be
-(Font)              scaled to size 15.84007pt on input line 84.
+(Font)              scaled to size 15.84007pt on input line 47.
  [3]
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <9> not available
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 125.
+ 88.
 
-Overfull \hbox (23.2742pt too wide) in paragraph at lines 127--130
+Overfull \hbox (23.2742pt too wide) in paragraph at lines 90--93
 \TU/Vollkorn(0)/m/n/9 ogra-phie; de-tail-lierte bib-li-ographis-che In-for-ma-ti
 o-nen sind im In-ter-net über http://dnb.ddb.de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
 
  []
 
@@ -2233,7 +2226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--167
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <20.74> not availa
 ble
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 180.
+ 143.
  (./intro.toc
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <10> not available
 
@@ -2250,7 +2243,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 ) [5
 
 ]
-Overfull \hbox (7.78671pt too wide) in paragraph at lines 155--155
+Overfull \hbox (7.78671pt too wide) in paragraph at lines 158--158
  [][] [][]\TU/Vollkorn(0)/bx/n/10 Com-par-a-tive anal-y-sis of the com-plex earl
 y mod-ern yoga tax-onomies[] []  
  []
@@ -2258,19 +2251,19 @@ y mod-ern yoga tax-onomies[] []
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/m/sl' in size <10> not available
 
 (Font)              Font shape `TU/Vollkorn(0)/m/it' tried instead on input lin
-e 271.
+e 274.
 [6]
-Overfull \hbox (0.59996pt too wide) detected at line 271
+Overfull \hbox (0.59996pt too wide) detected at line 274
  \TU/Vollkorn(0)/m/n/10 100
  []
 
 
-Overfull \hbox (0.10997pt too wide) detected at line 272
+Overfull \hbox (0.10997pt too wide) detected at line 275
  \TU/Vollkorn(0)/m/n/10 104
  []
 
 
-Overfull \hbox (4.14226pt too wide) in paragraph at lines 272--272
+Overfull \hbox (4.14226pt too wide) in paragraph at lines 275--275
  \TU/Vollkorn(0)/m/n/10 dieval mod-els to the mod-ern mod-els of Kriyāyoga[] [
 ]  
  []
@@ -2279,105 +2272,108 @@ Overfull \hbox (4.14226pt too wide) in paragraph at lines 272--272
 Underfull \vbox (badness 5302) has occurred while \output is active []
 
  [7]
-Overfull \hbox (0.31998pt too wide) detected at line 331
+Overfull \hbox (0.31998pt too wide) detected at line 334
  \TU/Vollkorn(0)/m/n/10 144
  []
 
 
-Overfull \hbox (1.74359pt too wide) in paragraph at lines 359--359
+Overfull \hbox (1.74359pt too wide) in paragraph at lines 362--362
  [][] [][]\TU/Vollkorn(0)/m/n/10 Mantrayoga in the com-plex early mod-ern yoga 
 tax-onomies[] []  
  []
 
 
-Overfull \hbox (2.65959pt too wide) in paragraph at lines 794--794
+Overfull \hbox (2.65959pt too wide) in paragraph at lines 797--797
  [][] [][]\TU/Vollkorn(0)/m/n/10 Ad-vaitayoga in the com-plex early mod-ern yoga
  tax-onomies[] []  
  []
 
 [8]
-Overfull \hbox (0.64996pt too wide) detected at line 798
+Overfull \hbox (0.64996pt too wide) detected at line 801
  \TU/Vollkorn(0)/m/n/10 203
  []
 
 
-Overfull \hbox (0.48994pt too wide) detected at line 799
+Overfull \hbox (0.48994pt too wide) detected at line 802
  \TU/Vollkorn(0)/m/n/10 205
  []
 
 
-Overfull \hbox (0.96996pt too wide) detected at line 800
+Overfull \hbox (0.96996pt too wide) detected at line 803
  \TU/Vollkorn(0)/m/n/10 206
  []
 
 
-Overfull \hbox (1.06996pt too wide) detected at line 801
+Overfull \hbox (1.06996pt too wide) detected at line 804
  \TU/Vollkorn(0)/m/n/10 209
  []
 
 
-Overfull \hbox (0.90996pt too wide) detected at line 810
+Overfull \hbox (0.90996pt too wide) detected at line 813
  \TU/Vollkorn(0)/m/n/10 224
  []
 
 
-Overfull \hbox (0.31996pt too wide) detected at line 812
+Overfull \hbox (0.31996pt too wide) detected at line 815
  \TU/Vollkorn(0)/m/n/10 228
  []
 
 
-Overfull \hbox (0.50996pt too wide) detected at line 813
+Overfull \hbox (0.50996pt too wide) detected at line 816
  \TU/Vollkorn(0)/m/n/10 230
  []
 
 
-Overfull \hbox (0.66997pt too wide) detected at line 815
+Overfull \hbox (0.66997pt too wide) detected at line 818
  \TU/Vollkorn(0)/m/n/10 234
  []
 
 
-Overfull \hbox (0.66997pt too wide) detected at line 816
+Overfull \hbox (0.66997pt too wide) detected at line 819
  \TU/Vollkorn(0)/m/n/10 234
  []
 
 
-Overfull \hbox (0.19997pt too wide) detected at line 818
+Overfull \hbox (0.19997pt too wide) detected at line 821
  \TU/Vollkorn(0)/bx/n/10 245
  []
 
 
-Overfull \hbox (0.71996pt too wide) detected at line 820
- \TU/Vollkorn(0)/bx/n/10 249
+Overfull \hbox (0.38997pt too wide) detected at line 823
+ \TU/Vollkorn(0)/m/n/10 247
  []
 
 
-Overfull \hbox (0.42996pt too wide) detected at line 821
- \TU/Vollkorn(0)/m/n/10 249
- []
-
-
-Overfull \hbox (0.48996pt too wide) detected at line 822
- \TU/Vollkorn(0)/m/n/10 250
- []
-
-
-Overfull \hbox (0.64996pt too wide) detected at line 823
- \TU/Vollkorn(0)/m/n/10 254
+Overfull \hbox (0.93996pt too wide) detected at line 826
+ \TU/Vollkorn(0)/m/n/10 260
  []
 
 )
 warning  (pdf backend): ignoring duplicate destination with the name 'page.viii'
 
-[8] [9
+[8]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 150.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 150.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [9
 
 
-] [10
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+[11] [12
 
 ]
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <17.28> not availa
 ble
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 208.
+ 165.
  [1
 
 ] [2
@@ -2386,73 +2382,69 @@ ble
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <12> not available
 
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 211.
+ 168.
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 213.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 213.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 213.
+(lettrine.sty)             reported on input line 170.
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <8> not available
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 213.
+ 170.
 
 
-LaTeX Warning: Reference `placeoforigin' on page 3 undefined on input line 213.
+LaTeX Warning: Reference `placeoforigin' on page 3 undefined on input line 170.
 
 
 [3] [4]
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/it' in size <12> not availabl
 e
 (Font)              Font shape `TU/Vollkorn(0)/b/it' tried instead on input lin
-e 224.
+e 181.
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 226.
+(lettrine.sty)             reported on input line 183.
 
 
-LaTeX Warning: Reference `n1description' on page 5 undefined on input line 226.
+LaTeX Warning: Reference `n1description' on page 5 undefined on input line 183.
 
 
 [5]
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.65256pt (R) loversize=0.25;
-(lettrine.sty)             reported on input line 230.
+(lettrine.sty)             reported on input line 187.
 
 
-LaTeX Warning: Reference `into' on page 6 undefined on input line 232.
+LaTeX Warning: Reference `into' on page 6 undefined on input line 189.
 
 [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 242--242
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
 []|\TU/Vollkorn(0)/b/n/8 Sec-
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 239--244
+Overfull \hbox (36.0pt too wide) in alignment at lines 196--201
  [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--248
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
 []|\TU/Vollkorn(0)/b/n/8 Sec-
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 244--250
+Overfull \hbox (36.0pt too wide) in alignment at lines 201--207
  [][][] 
  []
 
 
-Overfull \hbox (2.99156pt too wide) in paragraph at lines 289--289
+Overfull \hbox (2.99156pt too wide) in paragraph at lines 246--246
 []|\TU/Vollkorn(0)/m/n/8 XXXVIII| 
  []
 
 
-Overfull \hbox (36.0pt too wide) in alignment at lines 250--313
+Overfull \hbox (36.0pt too wide) in alignment at lines 207--270
  [][][] 
  []
 
@@ -2460,36 +2452,27 @@ Overfull \hbox (36.0pt too wide) in alignment at lines 250--313
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 319.
- [9] [10]
+(lettrine.sty)             reported on input line 276.
 
-LaTeX Warning: Citation 'mallinson2024' on page 11 undefined on input line 332.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [9]
+[10] [11]
 
-
-LaTeX Warning: Citation 'mallinson2024' on page 11 undefined on input line 332.
-
-
-[11]
-
-LaTeX Warning: Citation 'mallinson2024' on page 12 undefined on input line 343.
+LaTeX Warning: Reference `womenobey' on page 12 undefined on input line 302.
 
 
-
-LaTeX Warning: Reference `womenobey' on page 12 undefined on input line 345.
-
-
-LaTeX Warning: Reference `cakra9kala' on page 12 undefined on input line 345.
+LaTeX Warning: Reference `cakra9kala' on page 12 undefined on input line 302.
 
 
-LaTeX Warning: Reference `royalpeople' on page 12 undefined on input line 345.
+LaTeX Warning: Reference `royalpeople' on page 12 undefined on input line 302.
 
 [12]
 
-LaTeX Warning: Reference `eightenjoy' on page 13 undefined on input line 347.
+LaTeX Warning: Reference `eightenjoy' on page 13 undefined on input line 304.
 
 [13] [14] [15]
-Overfull \hbox (13.61142pt too wide) in paragraph at lines 387--389
+Overfull \hbox (13.61142pt too wide) in paragraph at lines 344--346
 []\TU/Vollkorn(0)/m/n/10 At the end of the \TU/Vollkorn(0)/m/it/10 kṛ-tayuga\
 TU/Vollkorn(0)/m/n/10 , when the sys-tem of rit-ual ac-tion (\TU/Vollkorn(0)/m/
 it/10 kriyākrama\TU/Vollkorn(0)/m/n/10 )
@@ -2497,128 +2480,118 @@ it/10 kriyākrama\TU/Vollkorn(0)/m/n/10 )
 
 [16] [17]
 
-LaTeX Warning: Reference `riversrivers' on page 18 undefined on input line 404.
+LaTeX Warning: Reference `riversrivers' on page 18 undefined on input line 361.
 
 
 
-LaTeX Warning: Reference `riversrivers' on page 18 undefined on input line 404.
+LaTeX Warning: Reference `riversrivers' on page 18 undefined on input line 361.
 
 
 
-LaTeX Warning: Reference `saubhadraverse' on page 18 undefined on input line 40
-4.
+LaTeX Warning: Reference `saubhadraverse' on page 18 undefined on input line 36
+1.
 
 
-LaTeX Warning: Reference `sukumara' on page 18 undefined on input line 404.
+LaTeX Warning: Reference `sukumara' on page 18 undefined on input line 361.
 
 [18]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-<pics/royalyogi1.jpg, id=1000, 449.68pt x 639.38875pt>
-File: pics/royalyogi1.jpg Graphic file (type jpg)
-<use pics/royalyogi1.jpg>
-Package luatex.def Info: pics/royalyogi1.jpg  used on input line 410.
-(luatex.def)             Requested size: 230.999pt x 328.45471pt.
-<pics/royalyogi2.jpg, id=1002, 585.18625pt x 803.0pt>
+<pics/royalyogi2.jpg, id=1014, 585.18625pt x 803.0pt>
 File: pics/royalyogi2.jpg Graphic file (type jpg)
 <use pics/royalyogi2.jpg>
-Package luatex.def Info: pics/royalyogi2.jpg  used on input line 419.
+Package luatex.def Info: pics/royalyogi2.jpg  used on input line 369.
 (luatex.def)             Requested size: 330.0pt x 452.8504pt.
 
 
-LaTeX Warning: Float too large for page by 4.8504pt on input line 422.
+LaTeX Warning: Float too large for page by 4.8504pt on input line 372.
 
-[19] [20<./pics/royalyogi1.jpg>] [21<./pics/royalyogi2.jpg>]
-<pics/royalyogi3.jpg, id=1028, 399.4925pt x 263.98625pt>
+<pics/royalyogi1.jpg, id=1016, 449.68pt x 639.38875pt>
+File: pics/royalyogi1.jpg Graphic file (type jpg)
+<use pics/royalyogi1.jpg>
+Package luatex.def Info: pics/royalyogi1.jpg  used on input line 378.
+(luatex.def)             Requested size: 230.999pt x 328.45471pt.
+[19] [20] [21<./pics/royalyogi2.jpg>] [22<./pics/royalyogi1.jpg>]
+<pics/royalyogi3.jpg, id=1046, 399.4925pt x 263.98625pt>
 File: pics/royalyogi3.jpg Graphic file (type jpg)
 <use pics/royalyogi3.jpg>
-Package luatex.def Info: pics/royalyogi3.jpg  used on input line 429.
+Package luatex.def Info: pics/royalyogi3.jpg  used on input line 388.
 (luatex.def)             Requested size: 429.001pt x 283.49771pt.
- [22<./pics/royalyogi3.jpg>]
+ [23<./pics/royalyogi3.jpg>]
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 627.
-
-Overfull \hbox (19.59448pt too wide) in paragraph at lines 627--628
-\TU/Vollkorn(0)/m/n/10 Fol-low-ing a de-scrip-tion of the con-sulted and yet-to-
-be-consulted manuscripts,
- []
-
+(lettrine.sty)             reported on input line 586.
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <10.95> not availa
 ble
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 629.
+ 588.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <20.74> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
-[23
+ [24
 
 
 ]
-Overfull \hbox (3.12581pt too wide) in paragraph at lines 645--646
+Overfull \hbox (3.12581pt too wide) in paragraph at lines 604--605
 []\TU/Vollkorn(0)/m/it/10 iti śrī para-ma-ra-hasyāṃ śrīrā-macaṃ-dravir
 ac-itāyāṃ tat-vayo-gabiṃdu
  []
 
-[24] [25]
+[25] [26]
 
-LaTeX Warning: Citation 'ytbd' undefined on input line 666.
+LaTeX Warning: Citation 'ytbd' undefined on input line 625.
 
-[26]
-Overfull \hbox (0.97125pt too wide) in paragraph at lines 684--685
+[27]
+Overfull \hbox (0.97125pt too wide) in paragraph at lines 643--644
 \TU/Vollkorn(0)/m/n/10 jain), cf. \TU/Vollkorn(0)/m/it/10 De-scrip-tive Cat-a-lo
 gue of Yoga Manuscripts (Up-dated) \TU/Vollkorn(0)/m/n/10 of the Kaivalyad-
  []
 
 
-Overfull \hbox (1.42722pt too wide) in paragraph at lines 695--696
+Overfull \hbox (1.42722pt too wide) in paragraph at lines 654--655
 []\TU/Vollkorn(0)/m/it/10 iti śrī pārama-haṃsyāṃ śrī rā-macaṃ-dravi
 rac-itāyāṃ tat-vayo-gaviduḥ
  []
 
-[27]
-Overfull \hbox (0.97125pt too wide) in paragraph at lines 701--702
+[28]
+Overfull \hbox (0.97125pt too wide) in paragraph at lines 660--661
 \TU/Vollkorn(0)/m/n/10 jain), cf. \TU/Vollkorn(0)/m/it/10 De-scrip-tive Cat-a-lo
 gue of Yoga Manuscripts (Up-dated) \TU/Vollkorn(0)/m/n/10 of the Kaivalyad-
  []
 
-[28] [29] [30] [31]
-Overfull \hbox (13.80696pt too wide) in paragraph at lines 779--780
+[29] [30] [31] [32]
+Overfull \hbox (13.80696pt too wide) in paragraph at lines 738--739
 []\TU/Vollkorn(0)/m/it/10 iti rā-jayoge can-dra-parama-haṃs-aparipūrṇap
 īṭhamāhāt-myaprakāśakaḥ
  []
 
 
-Overfull \hbox (1.45982pt too wide) in paragraph at lines 780--781
+Overfull \hbox (1.45982pt too wide) in paragraph at lines 739--740
 \TU/Vollkorn(0)/m/it/10 damiśrasūrisūnu-paṇḍi-ta-jvālāprasā-damiśrak
 ṛtab-hāṣāṭīkāsahito rā-jayoge binduyo-
  []
 
-[32] [33] [34]
-Overfull \hbox (6.56075pt too wide) in paragraph at lines 816--817
+[33] [34] [35]
+Overfull \hbox (6.56075pt too wide) in paragraph at lines 775--776
 []\TU/Vollkorn(0)/m/n/10 It is chal-leng-ing to de-rive a con-vinc-ing mean-ing from the ti-tle \TU/Vollkorn(0)/m/it/10 Tattv-abinduyoga
  []
 
-[35] [36]
+[36] [37] [38]
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/it' in size <10> not availabl
 e
 (Font)              Font shape `TU/Vollkorn(0)/b/it' tried instead on input lin
-e 832.
+e 791.
 
-Overfull \hbox (3.08841pt too wide) in paragraph at lines 830--833
+Overfull \hbox (3.08841pt too wide) in paragraph at lines 789--792
 []\TU/Vollkorn(0)/m/it/10 idānīṃ yo-gasya māhāt-myaṃ kathy-ate \TU/Voll
 korn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 guro-ranu-grahāt \TU/Vollkorn(0)/m/n/
 10 | \TU/Vollkorn(0)/m/it/10 śās-trasya paṭhanāt
  []
 
 
-Overfull \hbox (3.20793pt too wide) in paragraph at lines 830--833
+Overfull \hbox (3.20793pt too wide) in paragraph at lines 789--792
 \TU/Vollkorn(0)/m/it/10 mahā-mu-drā-di-daśa-mu-drāsād-hanāt \TU/Vollkorn(
 0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 mau-nakaraṇāt \TU/Vollkorn(0)/m/n/10 | \
 TU/Vollkorn(0)/m/it/10 vanavāsāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/i
@@ -2626,7 +2599,7 @@ t/10 bahutarak-
  []
 
 
-Overfull \hbox (1.05347pt too wide) in paragraph at lines 830--833
+Overfull \hbox (1.05347pt too wide) in paragraph at lines 789--792
 \TU/Vollkorn(0)/m/it/10 bahutarārthādānāt \TU/Vollkorn(0)/m/n/10 | \TU/Voll
 korn(0)/m/it/10 tīrtha-sevākaraṇāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0
 )/m/it/10 āśramācārapālanāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it
@@ -2634,7 +2607,7 @@ korn(0)/m/it/10 tīrtha-sevākaraṇāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0
  []
 
 
-Overfull \hbox (13.20955pt too wide) in paragraph at lines 830--833
+Overfull \hbox (13.20955pt too wide) in paragraph at lines 789--792
 \TU/Vollkorn(0)/m/it/10 haṇāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/
 10 ṣaḍ-darśana-gra-haṇāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/
 10 siro-maṇḍanāt \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 any-op
@@ -2642,163 +2615,163 @@ Overfull \hbox (13.20955pt too wide) in paragraph at lines 830--833
 ṃ
  []
 
-[37]
+
 warning  (file pics/titel-hypothese.pdf) (pdf inclusion): PDF inclusion: found P
 DF version '1.6', but at most version '1.5' allowed
-<pics/titel-hypothese.pdf, id=1128, 845.04684pt x 597.50787pt>
+<pics/titel-hypothese.pdf, id=1146, 845.04684pt x 597.50787pt>
 File: pics/titel-hypothese.pdf Graphic file (type pdf)
 <use pics/titel-hypothese.pdf>
-Package luatex.def Info: pics/titel-hypothese.pdf  used on input line 844.
+Package luatex.def Info: pics/titel-hypothese.pdf  used on input line 802.
 (luatex.def)             Requested size: 330.0pt x 233.328pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[38] [39<./pics/titel-hypothese.pdf>] [40] [41] [42]
-Overfull \hbox (1.29404pt too wide) in paragraph at lines 909--910
+[39] [40<./pics/titel-hypothese.pdf>] [41] [42] [43]
+Overfull \hbox (1.29404pt too wide) in paragraph at lines 867--868
 []\TU/Vollkorn(0)/m/n/10 12.23-25: Haṭhayoga prac-tice in-volv-ing colour vi-s
 u-al-i-sa-tion; 3 verses quoted
  []
 
-[43] [44]
+[44] [45]
 
-LaTeX Warning: Reference `riversrivers' on page 45 undefined on input line 922.
-
-
-
-LaTeX Warning: Reference `riversrivers' on page 45 undefined on input line 922.
+LaTeX Warning: Reference `riversrivers' on page 46 undefined on input line 880.
 
 
-[45] [46] [47] [48] [49] [50]
-Overfull \hbox (4.85066pt too wide) in paragraph at lines 971--972
+
+LaTeX Warning: Reference `riversrivers' on page 46 undefined on input line 880.
+
+
+[46] [47] [48] [49] [50] [51]
+Overfull \hbox (4.85066pt too wide) in paragraph at lines 929--930
 []\TU/Vollkorn(0)/m/n/10 In the con-text of the eight \TU/Vollkorn(0)/m/it/10 ca
 kra \TU/Vollkorn(0)/m/n/10 of \TU/Vollkorn(0)/m/it/10 Yo-gatattv-abindu \TU/Vol
 lkorn(0)/m/n/10 XI, manuscript []U$[][]$ presents
  []
 
-[51] [52]
+[52] [53]
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 984.
+(lettrine.sty)             reported on input line 942.
 
-Overfull \hbox (4.12964pt too wide) in paragraph at lines 984--985
+Overfull \hbox (4.12964pt too wide) in paragraph at lines 942--943
 \TU/Vollkorn(0)/m/it/10 cod-icum \TU/Vollkorn(0)/m/n/10 that rep-re-sents the re
 -la-tion-ships be-tween the col-lated manuscripts
  []
 
-<pics/synoptic1.png, id=1335, 815.045pt x 211.79124pt>
+<pics/synoptic1.png, id=1352, 815.045pt x 211.79124pt>
 File: pics/synoptic1.png Graphic file (type png)
 <use pics/synoptic1.png>
-Package luatex.def Info: pics/synoptic1.png  used on input line 992.
+Package luatex.def Info: pics/synoptic1.png  used on input line 950.
 (luatex.def)             Requested size: 330.0pt x 85.75235pt.
 
-Underfull \vbox (badness 2707) has occurred while \output is active []
+Underfull \vbox (badness 2698) has occurred while \output is active []
 
- [53<./pics/synoptic1.png>]
+ [54<./pics/synoptic1.png>]
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/it' in size <10.95> not avail
 able
 (Font)              Font shape `TU/Vollkorn(0)/b/it' tried instead on input lin
-e 1004.
- [54]
-<pics/paup-tree.png, id=1350, 1632.0975pt x 844.15375pt>
+e 962.
+ [55]
+<pics/paup-tree.png, id=1367, 1632.0975pt x 844.15375pt>
 File: pics/paup-tree.png Graphic file (type png)
 <use pics/paup-tree.png>
-Package luatex.def Info: pics/paup-tree.png  used on input line 1012.
+Package luatex.def Info: pics/paup-tree.png  used on input line 970.
 (luatex.def)             Requested size: 330.0pt x 170.68259pt.
- [55] [56<./pics/paup-tree.png>] [57]
-<pics/tree-nj-x.png, id=1378, 1632.0975pt x 844.15375pt>
+ [56] [57<./pics/paup-tree.png>] [58]
+<pics/tree-nj-x.png, id=1396, 1632.0975pt x 844.15375pt>
 File: pics/tree-nj-x.png Graphic file (type png)
 <use pics/tree-nj-x.png>
-Package luatex.def Info: pics/tree-nj-x.png  used on input line 1028.
+Package luatex.def Info: pics/tree-nj-x.png  used on input line 986.
 (luatex.def)             Requested size: 330.0pt x 170.68259pt.
- [58] [59<./pics/tree-nj-x.png>]
-<pics/tree-minspan.png, id=1395, 954.56625pt x 819.06pt>
+ [59] [60<./pics/tree-nj-x.png>]
+<pics/tree-minspan.png, id=1413, 954.56625pt x 819.06pt>
 File: pics/tree-minspan.png Graphic file (type png)
 <use pics/tree-minspan.png>
-Package luatex.def Info: pics/tree-minspan.png  used on input line 1039.
+Package luatex.def Info: pics/tree-minspan.png  used on input line 997.
 (luatex.def)             Requested size: 198.00201pt x 169.88304pt.
 
 warning  (file pics/stemma.pdf) (pdf inclusion): PDF inclusion: found PDF versio
 n '1.6', but at most version '1.5' allowed
-<pics/stemma.pdf, id=1396, 963.58102pt x 542.025pt>
+<pics/stemma.pdf, id=1414, 963.58102pt x 542.025pt>
 File: pics/stemma.pdf Graphic file (type pdf)
 <use pics/stemma.pdf>
-Package luatex.def Info: pics/stemma.pdf  used on input line 1048.
+Package luatex.def Info: pics/stemma.pdf  used on input line 1006.
 (luatex.def)             Requested size: 330.0pt x 185.6259pt.
-[60<./pics/tree-minspan.png>]
+[61<./pics/tree-minspan.png>]
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 1071.
- [61<./pics/stemma.pdf>] [62] [63] [64] [65]
-[66] [67] [68] [69
+(lettrine.sty)             reported on input line 1029.
+ [62<./pics/stemma.pdf>] [63] [64] [65] [66]
+[67] [68] [69] [70
 
-]
+] [71]
 Package lettrine.sty Info: Targeted height = 18.95004pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 23.68744pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 1191.
+(lettrine.sty)             reported on input line 1151.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1216--1216
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
 []|\TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1216--1216
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
 []|\TU/Vollkorn(0)/m/it/10 Sarvāṅ-gayo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1216--1216
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1176
 []|\TU/Vollkorn(0)/m/it/10 pre-mab-hak-
  []
 
-[70
+[72
 
-] [71] [72] [73] [74]
+] [73] [74] [75] [76]
 
-LaTeX Warning: Reference `intro' on page 75 undefined on input line 1254.
+LaTeX Warning: Reference `intro' on page 77 undefined on input line 1214.
 
-[75]
+[77]
 
-LaTeX Warning: Reference `riversrivers' on page 76 undefined on input line 1258
+LaTeX Warning: Reference `riversrivers' on page 78 undefined on input line 1218
 .
 
 
-LaTeX Warning: Reference `riversrivers' on page 76 undefined on input line 1258
+LaTeX Warning: Reference `riversrivers' on page 78 undefined on input line 1218
 .
 
-[76] [77] [78]
-Underfull \hbox (badness 1430) in paragraph at lines 1295--1295
+[78] [79] [80]
+Underfull \hbox (badness 1430) in paragraph at lines 1255--1255
 [][][]\TU/Vollkorn(0)/m/n/8 See es-pe-cially Penna, 2004: 24. A com-pre-hen-sive
  study on the life and works of
  []
 
 
-Overfull \hbox (0.91452pt too wide) in paragraph at lines 1297--1298
+Overfull \hbox (0.91452pt too wide) in paragraph at lines 1257--1258
 \TU/Vollkorn(0)/m/n/10 Lakṣyayoga, Brah-mayoga, Śi-vayoga, Sid-dhiyoga, Vāsa
 nāyoga, Layayoga, Dhyā-
  []
 
-[79]
-Overfull \hbox (1.00616pt too wide) in paragraph at lines 1305--1306
+[81]
+Overfull \hbox (1.00616pt too wide) in paragraph at lines 1265--1266
 []\TU/Vollkorn(0)/m/n/10 Af-ter com-plet-ing his ed-u-ca-tion, Sun-dardās moved
  to Fateh-pur in Ra-jasthan.
  []
 
-[80]
+[82]
 
 Class memoir Warning: The material used in the headers is too large
 (24.0pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 1323.
+(in both cases you will find help in the memoir manual). on input line 1283.
 
 
 Overfull \vbox (12.0pt too high) has occurred while \output is active []
 
- [81]
-[82]
-Underfull \hbox (badness 5417) in paragraph at lines 1361--1361
+ [83]
+[84]
+Underfull \hbox (badness 5417) in paragraph at lines 1321--1321
 []|\TU/Vollkorn(0)/m/n/10 At-tach-ment and aver-sion (\TU/Vollkorn(0)/m/it/10 r
 ā-gad-
  []
@@ -2806,102 +2779,108 @@ Underfull \hbox (badness 5417) in paragraph at lines 1361--1361
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [83]
-Overfull \hbox (5.6448pt too wide) in paragraph at lines 1430--1430
+ [85]
+Overfull \hbox (5.6448pt too wide) in paragraph at lines 1390--1390
 \TU/Vollkorn(0)/m/n/10 less-ness: The one en-dowed with these means is said to 
 be a Kriyāyogī. 
  []
 
-[84]
-Overfull \hbox (1.38683pt too wide) in paragraph at lines 1433--1434
+[86]
+Overfull \hbox (1.38683pt too wide) in paragraph at lines 1393--1394
 \TU/Vollkorn(0)/m/it/10 gas-var-o-daya\TU/Vollkorn(0)/m/n/10 , namely the quo-ta
 -tions from the \TU/Vollkorn(0)/m/it/10 Prāṇa-toṣiṇī[][][] \TU/Vollkorn
 (0)/m/n/10 and the \TU/Vollkorn(0)/m/it/10 Yo-gakarṇikā\TU/Vollkorn(0)/m/n/1
 0 .[][][]
  []
 
-[85] [86]
+[87] [88]
 
-LaTeX Warning: Reference `intro' on page 87 undefined on input line 1441.
+LaTeX Warning: Reference `intro' on page 89 undefined on input line 1401.
 
-[87]
-Overfull \hbox (31.02301pt too wide) in paragraph at lines 1453--1457
+[89]
+Overfull \hbox (31.02301pt too wide) in paragraph at lines 1413--1417
 \TU/Vollkorn(0)/m/n/10 re-duc-ing the so-called \TU/Vollkorn(0)/m/it/10 kleśa\
 TU/Vollkorn(0)/m/n/10 s. This ex-plana-tory model is picked up by Nārāyaṇat
 īrtha.[][][]
  []
 
-[88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
-Overfull \hbox (5.81947pt too wide) in paragraph at lines 1514--1515
+[90] [91] [92]
+Underfull \hbox (badness 1270) in paragraph at lines 1430--1430
+[][][]\TU/Vollkorn(0)/m/n/8 Cf. [][]Kriya Babaji Yoga Sangam Web-site. []$\TU/l
+mtt/m/n/8 https : / / web . archive . org / web /
+ []
+
+[93] [94] [95] [96] [97] [98] [99] [100]
+Overfull \hbox (5.81947pt too wide) in paragraph at lines 1474--1475
 \TU/Vollkorn(0)/m/n/10 and is con-sid-ered to be the most es-sen-tial and ef-fec
 -tive tool in Babajī’s Kriyāyoga.
  []
 
-[99]
-Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
+[101]
+Underfull \hbox (badness 10000) in paragraph at lines 1486--1487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
+Underfull \hbox (badness 10000) in paragraph at lines 1488--1489
 
  []
 
-[100] [101]
+[102] [103]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102]
-[103] [104]
-
-LaTeX Warning: Reference `jnanayogastart' on page 105 undefined on input line 1
-545.
-
-
-LaTeX Warning: Reference `endsvabhava' on page 105 undefined on input line 1545
-.
-
-
-LaTeX Warning: Reference `jnanayogatrans1' on page 105 undefined on input line 
-1549.
-
-
-LaTeX Warning: Reference `tentattvas' on page 105 undefined on input line 1549.
-
-
-
-LaTeX Warning: Reference `tentattvas' on page 105 undefined on input line 1549.
-
-
-
-LaTeX Warning: Reference `svabhava1' on page 105 undefined on input line 1549.
-
-
-LaTeX Warning: Reference `svabhava2' on page 105 undefined on input line 1549.
-
+ [104]
 [105] [106]
 
 LaTeX Warning: Reference `jnanayogastart' on page 107 undefined on input line 1
-559.
+505.
+
+
+LaTeX Warning: Reference `endsvabhava' on page 107 undefined on input line 1505
+.
+
+
+LaTeX Warning: Reference `jnanayogatrans1' on page 107 undefined on input line 
+1509.
+
+
+LaTeX Warning: Reference `tentattvas' on page 107 undefined on input line 1509.
+
+
+
+LaTeX Warning: Reference `tentattvas' on page 107 undefined on input line 1509.
+
+
+
+LaTeX Warning: Reference `svabhava1' on page 107 undefined on input line 1509.
+
+
+LaTeX Warning: Reference `svabhava2' on page 107 undefined on input line 1509.
 
 [107] [108]
-Underfull \hbox (badness 4156) in paragraph at lines 1579--1579
+
+LaTeX Warning: Reference `jnanayogastart' on page 109 undefined on input line 1
+519.
+
+[109] [110]
+Underfull \hbox (badness 4156) in paragraph at lines 1539--1539
 [][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta-can-dri
 kā \TU/Vollkorn(0)/m/n/8 (Ed. p. 45): \TU/Vollkorn(0)/m/it/8 ta-sya praṇavasy
 a japaḥ vid-hivad uc-cāraṇaṃ,
  []
 
 
-Overfull \hbox (20.10147pt too wide) in paragraph at lines 1583--1584
+Overfull \hbox (20.10147pt too wide) in paragraph at lines 1543--1544
 \TU/Vollkorn(0)/m/n/10 mayoga[][][] and Ad-vaitayoga[][][] fol-low it. While Sun
 -dardās in-tro-duces Sāṃkhyayoga
  []
 
-[109] [110]
+[111] [112]
 
-LaTeX Warning: Reference `caryayoga' on page 111 undefined on input line 1626.
+LaTeX Warning: Reference `caryayoga' on page 113 undefined on input line 1586.
 
-[111] [112] [113] [114] [115]
-Overfull \hbox (3.38405pt too wide) in paragraph at lines 1680--1681
+[113] [114] [115] [116] [117]
+Overfull \hbox (3.38405pt too wide) in paragraph at lines 1640--1641
 []\TU/Vollkorn(0)/m/n/10 Fur-ther-more, the com-par-i-son of Caryāyo-gas with 
 Car-cāyoga in Sun-dardās’s
  []
@@ -2909,341 +2888,341 @@ Car-cāyoga in Sun-dardās’s
 
 Underfull \vbox (badness 5771) has occurred while \output is active []
 
- [116]
-[117]
+ [118]
+[119]
 
-LaTeX Warning: Reference `bahya' on page 118 undefined on input line 1693.
-
-
-LaTeX Warning: Reference `bahyatrans' on page 118 undefined on input line 1693.
+LaTeX Warning: Reference `bahya' on page 120 undefined on input line 1653.
 
 
-[118]
-Overfull \hbox (0.44032pt too wide) in paragraph at lines 1697--1698
+LaTeX Warning: Reference `bahyatrans' on page 120 undefined on input line 1653.
+
+
+[120]
+Overfull \hbox (0.44032pt too wide) in paragraph at lines 1657--1658
 \TU/Vollkorn(0)/m/n/10 In the \TU/Vollkorn(0)/m/it/10 Yo-gasid-dhān-ta-can-drik
 ā\TU/Vollkorn(0)/m/n/10 , the dis-cus-sion and de-scrip-tion of Nārāyaṇat
 īrthas
  []
 
-[119]
-Overfull \hbox (11.9029pt too wide) in paragraph at lines 1707--1708
+[121]
+Overfull \hbox (11.9029pt too wide) in paragraph at lines 1667--1668
 []\TU/Vollkorn(0)/m/n/10 Fi-nally, Nārāyaṇatīrtha au-then-ti-cates the link
 -ing of \TU/Vollkorn(0)/m/it/10 prāṇāyāma \TU/Vollkorn(0)/m/n/10 and Ha
 ṭhayoga
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1707--1708
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1668
 
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 1717--1717
+Underfull \hbox (badness 3657) in paragraph at lines 1677--1677
 [][][]\TU/Vollkorn(0)/m/n/8 A list of the 38 of 84 \TU/Vollkorn(0)/m/it/8 āsana
 \TU/Vollkorn(0)/m/n/8 s can be found in \TU/Vollkorn(0)/m/it/8 Yo-gasid-dhān-ta
 -can-drikā \TU/Vollkorn(0)/m/n/8 2.46 (Ed. p.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1717
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
 \TU/Vollkorn(0)/m/n/8 107-108): \TU/Vollkorn(0)/m/it/8 tac ca padma-siddha-bhadr
 a-vīra-svastika-siṃha-daṇḍa-sopāśraya-paryaṅka-mayūra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1717
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
 \TU/Vollkorn(0)/m/it/8 kukkuṭa-uttānakukkuṭa-paścimatāna-matsyendrapī
 ṭha-cakra-gomukha-karma-dhanu-mṛgasvastika-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1717
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
 \TU/Vollkorn(0)/m/it/8 arddhacandra-añjalika-pīṭha-vajra-mukta-candra-arddha
 prasāritaśava-kapāla-guruḍa-arddhāsana-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1717
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1677
 \TU/Vollkorn(0)/m/it/8 kamala-krauñcaniṣadana-hastiniṣadana-uṣṭrani
 ṣadanakapiniṣadana-yogāsana-yonyāsana-samasthāna-
  []
 
-[120] [121] [122]
-Overfull \hbox (6.6704pt too wide) in paragraph at lines 1729--1730
+[122] [123] [124]
+Overfull \hbox (6.6704pt too wide) in paragraph at lines 1689--1690
 \TU/Vollkorn(0)/m/n/10 Sun-dardās traces his Haṭhayoga back to Ād-ināth, Ma
 t-syen-dra, Gorakṣa, Carpaṭa,
  []
 
-[123] [124] [125] [126] [127]
-Overfull \hbox (2.34816pt too wide) in paragraph at lines 1789--1790
+[125] [126] [127] [128] [129]
+Overfull \hbox (2.34816pt too wide) in paragraph at lines 1749--1750
 \TU/Vollkorn(0)/m/n/10 gelingt den the-ma-tis-chen Bezug auszu-drücken, wirkt 
 diese Pas-sage dis-platziert.
  []
 
-[128]
-Overfull \hbox (1.79106pt too wide) in paragraph at lines 1806--1807
+[130]
+Overfull \hbox (1.79106pt too wide) in paragraph at lines 1766--1767
 \TU/Vollkorn(0)/m/it/10 gaḥ \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 
 ta-sya dīp-tiḥ rogādyan-ab-high-ātena te-jasvitā dṛḍhatā ca, āviveka
 khyāteḥ
  []
 
 
-Overfull \hbox (10.38306pt too wide) in paragraph at lines 1806--1807
+Overfull \hbox (10.38306pt too wide) in paragraph at lines 1766--1767
 \TU/Vollkorn(0)/m/it/10 bha-vatīty arthaḥ \TU/Vollkorn(0)/m/n/10 | \TU/Vollk
 orn(0)/m/it/10 tathā ca karaṇadārḍhyad-vārā samād-hidārḍhyārthārth
 akar-
  []
 
-[129] [130] [131] [132] [133] [134] [135] [136] [137]
-Overfull \hbox (13.43669pt too wide) in paragraph at lines 1944--1948
+[131] [132] [133] [134] [135] [136] [137] [138] [139]
+Overfull \hbox (13.43669pt too wide) in paragraph at lines 1904--1908
 []\TU/Vollkorn(0)/m/it/10 ya-theti \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/i
 t/10 kim bahunā, harirāmādirū-paṃ parameś-varaṃ bāhyaṃ can-drasūry
 ādi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1953--1954
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1914
 
  []
 
 
-Overfull \hbox (4.32652pt too wide) in paragraph at lines 1960--1961
+Overfull \hbox (4.32652pt too wide) in paragraph at lines 1920--1921
 []\TU/Vollkorn(0)/m/it/10 yad vā yathāb-hi-matānāṃ tīrthade-val-okavar
 ṇatattvādīnāṃ yathāb-hi-mateṣu
  []
 
 
-Overfull \hbox (8.97758pt too wide) in paragraph at lines 1960--1961
+Overfull \hbox (8.97758pt too wide) in paragraph at lines 1920--1921
 \TU/Vollkorn(0)/m/it/10 pratilo-makū-paṃ ca tīrthāni bha-van-tīti tathāpi
  yuñjā-nena cit-taśud-dhy arthaṃ
  []
 
-[138]
+[140]
 
-LaTeX Warning: Reference `intro' on page 139 undefined on input line 1970.
+LaTeX Warning: Reference `intro' on page 141 undefined on input line 1930.
 
 
-Overfull \hbox (0.30107pt too wide) in paragraph at lines 1970--1971
+Overfull \hbox (0.30107pt too wide) in paragraph at lines 1930--1931
 \TU/Vollkorn(0)/m/n/10 as an in-di-vid-ual topic. How-ever, var-i-ous \TU/Vollk
 orn(0)/m/it/10 dhyāna \TU/Vollkorn(0)/m/n/10 prac-tices can be found through-
  []
 
-[139] [140] [141] [142] [143] [144]
-Overfull \hbox (1.17885pt too wide) in paragraph at lines 2022--2023
+[141] [142] [143] [144] [145] [146]
+Overfull \hbox (1.17885pt too wide) in paragraph at lines 1982--1983
 []\TU/Vollkorn(0)/m/n/10 Based on this de-scrip-tion which promises the gen-e-si
 s of knowl-edge, against
  []
 
 
-LaTeX Warning: Reference `cakra8' on page 145 undefined on input line 2024.
+LaTeX Warning: Reference `cakra8' on page 147 undefined on input line 1984.
 
-[145] [146] [147] [148]
-Underfull \hbox (badness 10000) in paragraph at lines 2068--2072
+[147] [148] [149] [150]
+Underfull \hbox (badness 10000) in paragraph at lines 2028--2032
 
  []
 
-[149]
+[151]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [150]
-[151] [152]
+ [152]
+[153] [154]
 
-LaTeX Warning: Reference `urdhvalaksya' on page 153 undefined on input line 210
+LaTeX Warning: Reference `urdhvalaksya' on page 155 undefined on input line 206
 8.
 
-[153]
+[155]
 
-LaTeX Warning: Reference `adholaksya' on page 154 undefined on input line 2111.
+LaTeX Warning: Reference `adholaksya' on page 156 undefined on input line 2071.
 
 
-[154]
-Overfull \hbox (4.4215pt too wide) in paragraph at lines 2230--2230
+[156]
+Overfull \hbox (4.4215pt too wide) in paragraph at lines 2190--2190
 \TU/Vollkorn(0)/m/it/10 layo [][]ūb-hayor [][]upari sthirā kar-tavyā \TU/Vol
 lkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 ekānte vi-jane dī-pam [][]āvarake 
 saṃsthāpya
  []
 
 
-Overfull \hbox (25.07408pt too wide) in paragraph at lines 2230--2230
+Overfull \hbox (25.07408pt too wide) in paragraph at lines 2190--2190
  [] \TU/Vollkorn(0)/m/it/10 athavā svane-trayor [][]var-ta-manīr dakṣa-has-t
 a-mad-hyamā-tar-janīb-hyām [][]akṣikuṭayor
  []
 
-[155]
-Underfull \hbox (badness 10000) in paragraph at lines 2241--2242
+[157]
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2202
 
  []
 
-[156]
-Underfull \hbox (badness 10000) in paragraph at lines 2251--2251
+[158]
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2211
 []|\TU/Vollkorn(0)/b/n/8 El-e-
  []
 
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/it' in size <8> not available
 
 (Font)              Font shape `TU/Vollkorn(0)/b/it' tried instead on input lin
-e 2251.
+e 2211.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2251--2251
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2211
 []|\TU/Vollkorn(0)/b/it/8 Yo-gatattv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2251--2251
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2211
 []|\TU/Vollkorn(0)/b/n/8 Yo-gas-var-o-
  []
 
 
-Overfull \hbox (0.79108pt too wide) in paragraph at lines 2251--2251
+Overfull \hbox (0.79108pt too wide) in paragraph at lines 2211--2211
 []|\TU/Vollkorn(0)/b/it/8 Haṭhasaṃke-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2251--2252
+Underfull \hbox (badness 10000) in paragraph at lines 2211--2212
 []|\TU/Vollkorn(0)/b/it/8 Sarvāṅ-gayo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2258
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2218
 []|\TU/Vollkorn(0)/b/n/8 Lo-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2258
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2218
 []|\TU/Vollkorn(0)/b/it/8 Yo-gatattv-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2258
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2218
 []|\TU/Vollkorn(0)/b/it/8 Yo-gas-var-o-
  []
 
 
-Overfull \hbox (0.79108pt too wide) in paragraph at lines 2258--2258
+Overfull \hbox (0.79108pt too wide) in paragraph at lines 2218--2218
 []|\TU/Vollkorn(0)/b/it/8 Haṭhasaṃke-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2258--2259
+Underfull \hbox (badness 10000) in paragraph at lines 2218--2219
 []|\TU/Vollkorn(0)/b/it/8 Sarvāṅ-gayo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2269
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2229
 []|\TU/Vollkorn(0)/m/n/8 Four fin-ger breadths
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 2269--2269
+Underfull \hbox (badness 1308) in paragraph at lines 2229--2229
 []|\TU/Vollkorn(0)/m/n/8 Ap-pear-ing blue, full of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2269
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2229
 []|\TU/Vollkorn(0)/m/n/8 x (El-e-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2269
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2229
 []|\TU/Vollkorn(0)/m/n/8 x (El-e-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2269
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2229
 \TU/Vollkorn(0)/m/n/8 = Wind;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2269
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2229
 \TU/Vollkorn(0)/m/n/8 Char-ac-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2269--2269
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2229
 \TU/Vollkorn(0)/m/n/8 shape of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2273--2273
+Underfull \hbox (badness 10000) in paragraph at lines 2233--2233
 []|\TU/Vollkorn(0)/m/n/8 Eight fin-ger breadths
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 2277--2277
+Underfull \hbox (badness 1648) in paragraph at lines 2237--2237
 []|\TU/Vollkorn(0)/m/n/8 Twelve fin-ger breadths
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2281--2281
+Underfull \hbox (badness 10000) in paragraph at lines 2241--2241
 []|\TU/Vollkorn(0)/m/n/8 Con-nected to the sun
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 2281--2281
+Underfull \hbox (badness 2717) in paragraph at lines 2241--2241
 \TU/Vollkorn(0)/m/n/8 with-out the sun (thou-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2283--2283
+Underfull \hbox (badness 10000) in paragraph at lines 2243--2243
 []|\TU/Vollkorn(0)/m/n/8 Seventeen-finger wide
  []
 
-[157
+[159
 
-] [158
+] [160
 
-] [159
+] [161
 Missing character: There is no ↩ (U+21A9) in font name:Vollkorn/I:mode=node;sc
 ript=latn;language=dflt;+tlig;family=rm;!
-] [160]
-Overfull \hbox (13.19162pt too wide) in paragraph at lines 2386--2389
+] [162]
+Overfull \hbox (13.19162pt too wide) in paragraph at lines 2346--2349
 \TU/Vollkorn(0)/m/n/10 arise [and] one would be-come Śiva. Empti-ness is being-
 consciousness-
  []
 
 
-LaTeX Warning: Reference `madhyalaksya' on page 161 undefined on input line 239
+LaTeX Warning: Reference `madhyalaksya' on page 163 undefined on input line 235
 3.
 
-[161] [162] [163] [164] [165] [166]
-Underfull \hbox (badness 10000) in paragraph at lines 2472--2473
+[163] [164] [165] [166] [167] [168]
+Underfull \hbox (badness 10000) in paragraph at lines 2432--2433
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2476--2477
+Underfull \hbox (badness 10000) in paragraph at lines 2436--2437
 
  []
 
-[167]
-Overfull \hbox (5.09276pt too wide) in paragraph at lines 2480--2481
+[169]
+Overfull \hbox (5.09276pt too wide) in paragraph at lines 2440--2441
 \TU/Vollkorn(0)/m/it/10 cavāsanā etādṛśī yatho-daka-mad-hye ma-hat-tara
 ṅgāḥ \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 tādṛśāt saṃs
 ārārṇavād
  []
 
-[168]
-Underfull \hbox (badness 10000) in paragraph at lines 2513--2514
+[170]
+Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
 
  []
 
-[169]
-Overfull \hbox (0.45424pt too wide) in paragraph at lines 2515--2516
+[171]
+Overfull \hbox (0.45424pt too wide) in paragraph at lines 2475--2476
 []\TU/Vollkorn(0)/m/n/10 Let us now turn to-wards the sec-ond method of Vāsanay
 oga. Nārāyaṇatīrtha
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2525--2526
+Underfull \hbox (badness 10000) in paragraph at lines 2485--2486
 
  []
 
-[170]
+[172]
 Overfull \vbox (0.39003pt too high) has occurred while \output is active []
 
 
-[171] [172]
-Overfull \hbox (0.12279pt too wide) in paragraph at lines 2546--2547
+[173] [174]
+Overfull \hbox (0.12279pt too wide) in paragraph at lines 2506--2507
 \TU/Vollkorn(0)/m/n/10 The \TU/Vollkorn(0)/m/it/10 Yo-gasārasaṅ-graha \TU/Vo
 llkorn(0)/m/n/10 con-tains a sim-i-lar state-ment. Rā-jayoga, Śi-vayoga, \TU/
 Vollkorn(0)/m/it/10 samādhi
@@ -3253,12 +3232,12 @@ Vollkorn(0)/m/it/10 samādhi
 Overfull \vbox (0.39003pt too high) has occurred while \output is active []
 
 
-[173]
+[175]
 
-LaTeX Warning: Reference `ashtanga' on page 174 undefined on input line 2550.
+LaTeX Warning: Reference `ashtanga' on page 176 undefined on input line 2510.
 
-[174]
-Underfull \hbox (badness 1237) in paragraph at lines 2554--2554
+[176]
+Underfull \hbox (badness 1237) in paragraph at lines 2514--2514
 [][][]\TU/Vollkorn(0)/m/it/8 Śi-vayo-gapradīpikā \TU/Vollkorn(0)/m/n/8 4.28: \TU/Vollkorn(0)/m/it/8 de-ha-traya
 ṃ prathi-taṣoḍaśad-hāvikārān liṅgāni sap-tadaśadhā navadhā
  []
@@ -3267,12 +3246,12 @@ Underfull \hbox (badness 1237) in paragraph at lines 2554--2554
 Overfull \vbox (0.39003pt too high) has occurred while \output is active []
 
 
-[175] [176]
+[177] [178]
 Overfull \vbox (0.39003pt too high) has occurred while \output is active []
 
 
-[177]
-Overfull \hbox (2.55984pt too wide) in paragraph at lines 2581--2583
+[179]
+Overfull \hbox (2.55984pt too wide) in paragraph at lines 2541--2543
 \TU/Vollkorn(0)/m/n/10 be mas-tered through \TU/Vollkorn(0)/m/it/10 yo-gāsana\
 TU/Vollkorn(0)/m/n/10 -, \TU/Vollkorn(0)/m/it/10 cāñ-carī\TU/Vollkorn(0)/m/n
 /10 -, \TU/Vollkorn(0)/m/it/10 bhū-carī\TU/Vollkorn(0)/m/n/10 -, \TU/Vollkorn
@@ -3280,292 +3259,287 @@ TU/Vollkorn(0)/m/n/10 -, \TU/Vollkorn(0)/m/it/10 cāñ-carī\TU/Vollkorn(0)/m/n
 ī\TU/Vollkorn(0)/m/n/10 - [and] \TU/Vollkorn(0)/m/it/10 nirvāṇa-
  []
 
-[178]
+[180]
 Overfull \vbox (0.39003pt too high) has occurred while \output is active []
 
 
-[179] [180]
-Overfull \hbox (4.22203pt too wide) in paragraph at lines 2601--2603
+[181] [182]
+Overfull \hbox (4.22203pt too wide) in paragraph at lines 2561--2563
 \TU/Vollkorn(0)/m/n/10 As pre-vi-ously noted con-cern-ing Śi-vayoga, Nārāya
 ṇatīrtha sit-u-ates Brah-mayoga,
  []
 
-[181]
-Overfull \hbox (6.84314pt too wide) in paragraph at lines 2605--2607
+[183]
+Overfull \hbox (6.84314pt too wide) in paragraph at lines 2565--2567
 \TU/Vollkorn(0)/m/it/10 hāvya\TU/Vollkorn(0)/m/n/10 , \TU/Vollkorn(0)/m/it/10 
 tatra sūrya-maṇḍalaṃ dvā-daśakalāt-makaṃ jā-gar-i-tasthā-nam ak
 āraṃ\TU/Vollkorn(0)/m/n/10 ,
  []
 
-[182]
-Overfull \hbox (3.62604pt too wide) in paragraph at lines 2613--2616
+[184]
+Overfull \hbox (3.62604pt too wide) in paragraph at lines 2573--2576
 []\TU/Vollkorn(0)/m/n/10 The ex-act ex-e-cu-tion of the prac-tice is not clearly
  dis-cernible. Nārāyaṇatīrtha
  []
 
-[183] [184] [185] [186] [187]
-Overfull \hbox (11.43681pt too wide) in paragraph at lines 2701--2702
+[185] [186] [187] [188] [189]
+Overfull \hbox (11.43681pt too wide) in paragraph at lines 2661--2662
 \TU/Vollkorn(0)/m/n/10 limbed se-quence of yo-gas and not as an in-de-pen-dent 
 method. For Nārāyaṇatīrtha,
  []
 
-[188] [189]
-Overfull \hbox (1.1714pt too wide) in paragraph at lines 2746--2747
+[190] [191]
+Overfull \hbox (1.1714pt too wide) in paragraph at lines 2706--2707
 []\TU/Vollkorn(0)/m/n/10 There, nei-ther the knower, the known, nor knowl-edge 
 ex-ists. There,
  []
 
-[190] [191]
-Overfull \hbox (18.75388pt too wide) in alignment at lines 2770--2775
+[192] [193]
+Overfull \hbox (18.75388pt too wide) in alignment at lines 2730--2735
  [][][][] 
  []
 
 
-Overfull \hbox (18.75388pt too wide) in alignment at lines 2775--2780
+Overfull \hbox (18.75388pt too wide) in alignment at lines 2735--2740
  [][][][] 
  []
 
 
-Overfull \hbox (18.75388pt too wide) in alignment at lines 2780--2784
+Overfull \hbox (18.75388pt too wide) in alignment at lines 2740--2744
  [][][][] 
  []
 
 
-Overfull \hbox (18.75388pt too wide) in alignment at lines 2784--2786
+Overfull \hbox (18.75388pt too wide) in alignment at lines 2744--2746
  [][][][] 
  []
 
 
-Overfull \hbox (4.09845pt too wide) in paragraph at lines 2801--2801
+Overfull \hbox (4.09845pt too wide) in paragraph at lines 2761--2761
 \TU/Vollkorn(0)/m/it/9 marandhrasthāne 
  []
 
 
-Overfull \hbox (18.75388pt too wide) in alignment at lines 2786--2804
+Overfull \hbox (18.75388pt too wide) in alignment at lines 2746--2764
  [][][][] 
  []
 
-[192] [193] [194]
-Underfull \hbox (badness 10000) in paragraph at lines 2809--2810
+[194] [195] [196]
+Underfull \hbox (badness 10000) in paragraph at lines 2769--2770
 
  []
 
-[195] [196] [197] [198] [199]
-Overfull \hbox (1.18034pt too wide) in paragraph at lines 2884--2885
+[197] [198] [199] [200] [201]
+Overfull \hbox (1.18034pt too wide) in paragraph at lines 2844--2845
 \TU/Vollkorn(0)/m/it/10 malāder nāśāt, kāyen-driyasid-dhiḥ kāyen-driy
 āṇām al-pat-vama-hattvadūrārthadarśitvādis-
  []
 
 
-Overfull \hbox (111.8001pt too wide) in paragraph at lines 2884--2885
+Overfull \hbox (111.8001pt too wide) in paragraph at lines 2844--2845
 \TU/Vollkorn(0)/m/it/10 dhar-mav-iśeṣāy-at-taṃ ma-hattvenānyair abād-hy-
 atvādi ca bha-vati \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m/it/10 in-driyā
 ṇāṃ dūrārthasūkṣmārthavyavahitānekārtha-
  []
 
 
-Overfull \hbox (1.72955pt too wide) in paragraph at lines 2884--2885
+Overfull \hbox (1.72955pt too wide) in paragraph at lines 2844--2845
 \TU/Vollkorn(0)/m/it/10 grāhitā bha-vatīti yā-vat \TU/Vollkorn(0)/m/n/10 | 
 \TU/Vollkorn(0)/m/it/10 etena paramāṇu-para-mama-hattvānto ’sya vaśīk
 āra iti sūtreṇokta-
  []
 
-[200] [201]
-Overfull \hbox (20.04042pt too wide) in paragraph at lines 2895--2896
+[202] [203]
+Overfull \hbox (20.04042pt too wide) in paragraph at lines 2855--2856
 []\TU/Vollkorn(0)/m/n/10 Nārāyaṇatīrtha de-scribes a Sid-dhiyoga, not Sid-d
 hayoga. Since Nārāyaṇatīrtha’s
  []
 
-[202]
-
-LaTeX Warning: Reference `ashtangayoga' on page 203 undefined on input line 291
-0.
-
-
-Overfull \hbox (10.34576pt too wide) in paragraph at lines 2910--2911
+[204] [205]
+Overfull \hbox (10.34576pt too wide) in paragraph at lines 2870--2871
 \TU/Vollkorn(0)/m/n/10 and Rā-jayoga it-self. How-ever, only Kriyāyoga, Jñ
 ā-nayoga, Caryāyoga, Haṭhayoga,
  []
 
-[203] [204]
+[206]
 
-LaTeX Warning: Reference `ytbaudience' on page 205 undefined on input line 2912
-.
+LaTeX Warning: Reference `ytb-audiencee' on page 207 undefined on input line 28
+72.
 
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <7> not available
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 2920.
+ 2880.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2931--2932
+Underfull \hbox (badness 10000) in paragraph at lines 2891--2892
 []\TU/Vollkorn(0)/m/n/7 In the mind of this
  []
 
 
-Underfull \hbox (badness 7944) in paragraph at lines 2931--2932
+Underfull \hbox (badness 7944) in paragraph at lines 2891--2892
 \TU/Vollkorn(0)/m/n/7 per-fected one, a light
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2931--2932
+Underfull \hbox (badness 10000) in paragraph at lines 2891--2892
 \TU/Vollkorn(0)/m/n/7 ap-pears im-me-di-ately
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 2934--2935
+Underfull \hbox (badness 2608) in paragraph at lines 2894--2895
 []\TU/Vollkorn(0)/m/n/7 What-ever wish for the
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 2934--2935
+Underfull \hbox (badness 6978) in paragraph at lines 2894--2895
 \TU/Vollkorn(0)/m/n/7 fec-tion-ate woman, etc.
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 2934--2935
+Underfull \hbox (badness 3029) in paragraph at lines 2894--2895
 \TU/Vollkorn(0)/m/n/7 arises, he ob-tains that
  []
 
 
-Underfull \hbox (badness 7963) in paragraph at lines 2934--2935
+Underfull \hbox (badness 7963) in paragraph at lines 2894--2895
 \TU/Vollkorn(0)/m/n/7 very en-joy-ment. His
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 2939--2940
+Underfull \hbox (badness 1194) in paragraph at lines 2899--2900
 []\TU/Vollkorn(0)/m/n/7 Even when what-ever ob-ject has
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2949--2950
+Underfull \hbox (badness 10000) in paragraph at lines 2909--2910
 []\TU/Vollkorn(0)/m/n/7 Knowl-edge of the prin-ci-ples
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 2957--2958
+Underfull \hbox (badness 1331) in paragraph at lines 2917--2918
 []\TU/Vollkorn(0)/m/n/7 He sees the en-tire earth with a
  []
 
 
-Overfull \hbox (20.58028pt too wide) in paragraph at lines 2918--2968
+Overfull \hbox (20.58028pt too wide) in paragraph at lines 2878--2928
  [][] 
  []
 
-[205] [206]
-Underfull \hbox (badness 10000) in paragraph at lines 2977--2987
+[207] [208]
+Underfull \hbox (badness 10000) in paragraph at lines 2937--2947
 
  []
 
-[207]
-Overfull \hbox (3.49805pt too wide) in paragraph at lines 3006--3007
+[209]
+Overfull \hbox (3.49805pt too wide) in paragraph at lines 2966--2967
 \TU/Vollkorn(0)/m/it/10 tavyo man-tavyo ni-did-hyāsi-tavyaḥ \TU/Vollkorn(0)/
 m/n/10 | \TU/Vollkorn(0)/m/it/10 ity ād-inā ’mnātāni \TU/Vollkorn(0)/m/n/
 10 | \TU/Vollkorn(0)/m/it/10 tatra ni-did-hyāsanaṃ
  []
 
 
-Overfull \hbox (14.17061pt too wide) in paragraph at lines 3006--3007
+Overfull \hbox (14.17061pt too wide) in paragraph at lines 2966--2967
 \TU/Vollkorn(0)/m/it/10 prad-hā-nam \TU/Vollkorn(0)/m/n/10 | \TU/Vollkorn(0)/m
 /it/10 tat-sa-hakṛtād eva man-aso ’laukikā ’bād-hitāt-mago-cara-pram
 āsamb-
  []
 
-[208]
-Overfull \hbox (7.04385pt too wide) in paragraph at lines 3010--3011
+[210]
+Overfull \hbox (7.04385pt too wide) in paragraph at lines 2969--2970
 \TU/Vollkorn(0)/m/n/10 tiyoga. All these are en-com-passed gen-er-ally and speci
 f-i-cally through
  []
 
-[209] [210] [211]
+[211] [212] [213]
 
-LaTeX Warning: Reference `padmini' on page 212 undefined on input line 3050.
+LaTeX Warning: Reference `padmini' on page 214 undefined on input line 3009.
 
 
-LaTeX Warning: Reference `padmini' on page 212 undefined on input line 3050.
+LaTeX Warning: Reference `padmini' on page 214 undefined on input line 3009.
 
-[212] [213] [214] [215] [216]
-Overfull \hbox (16.336pt too wide) in paragraph at lines 3111--3112
+[214] [215] [216] [217] [218]
+Overfull \hbox (16.336pt too wide) in paragraph at lines 3070--3071
 \TU/Vollkorn(0)/m/it/10 hāna\TU/Vollkorn(0)/m/n/10 ) is in-dis-pens-able for th
 e elim-i-na-tion of the nine dis-tur-bances. Nārāyaṇatīrtha
  []
 
-[217
+[219
 Missing character: There is no ̐ (U+0310) in font name:Vollkorn/I:mode=node;scr
 ipt=latn;language=dflt;+tlig;family=rm;!
-] [218
+] [220
 Missing character: There is no ̐ (U+0310) in font name:Vollkorn/I:mode=node;scr
 ipt=latn;language=dflt;+tlig;family=rm;!
-] [219] [220]
+] [221] [222]
 
-LaTeX Warning: Reference `riversrivers' on page 221 undefined on input line 315
-4.
-
-
-LaTeX Warning: Reference `riversrivers' on page 221 undefined on input line 315
-4.
-
-[221] [222]
-
-LaTeX Warning: Reference `padmini' on page 223 undefined on input line 3170.
+LaTeX Warning: Reference `riversrivers' on page 223 undefined on input line 311
+3.
 
 
-LaTeX Warning: Reference `padmini' on page 223 undefined on input line 3170.
+LaTeX Warning: Reference `riversrivers' on page 223 undefined on input line 311
+3.
+
+[223] [224]
+
+LaTeX Warning: Reference `padmini' on page 225 undefined on input line 3129.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3196--3197
+LaTeX Warning: Reference `padmini' on page 225 undefined on input line 3129.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3155--3156
 []\TU/Vollkorn(0)/m/n/8 an empty men-tal fac-ulty (\TU/Vollkorn(0)/m/it/8 śūny
 ān-
  []
 
-[223]
-Underfull \hbox (badness 10000) in paragraph at lines 3213--3214
+[225]
+Underfull \hbox (badness 10000) in paragraph at lines 3172--3173
 \TU/Vollkorn(0)/m/n/8 and es-tab-lish-ing steadi-ness (\TU/Vollkorn(0)/m/it/8 kh
 alu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3213--3214
+Underfull \hbox (badness 10000) in paragraph at lines 3172--3173
 \TU/Vollkorn(0)/m/it/8 manaḥ cā-pal-ab-hāvān nivārya sthairye
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3217--3218
+Underfull \hbox (badness 10000) in paragraph at lines 3176--3177
 []\TU/Vollkorn(0)/m/n/8 one shall not de-sire any ob-ject
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3217--3218
+Underfull \hbox (badness 10000) in paragraph at lines 3176--3177
 \TU/Vollkorn(0)/m/n/8 (\TU/Vollkorn(0)/m/it/8 udāsīnyaṃ kasyāpi vas-tuni ic
 -chā na
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 3218--3219
+Underfull \hbox (badness 5475) in paragraph at lines 3177--3178
 []\TU/Vollkorn(0)/m/n/8 con-tent-ment with what-ever is ob-
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 3219--3220
+Underfull \hbox (badness 5490) in paragraph at lines 3178--3179
 []\TU/Vollkorn(0)/m/n/8 never for-get-ting the name of the
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 3226--3227
+Underfull \hbox (badness 6592) in paragraph at lines 3185--3186
 []\TU/Vollkorn(0)/m/n/8 con-stantly unit-ing the mind with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3226--3227
+Underfull \hbox (badness 10000) in paragraph at lines 3185--3186
 \TU/Vollkorn(0)/m/n/8 the breath (\TU/Vollkorn(0)/m/it/8 eka-tra melanaṃ nitya
 ṃ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3230--3231
+Underfull \hbox (badness 10000) in paragraph at lines 3189--3190
 []\TU/Vollkorn(0)/m/n/8 keep-ing the mind fixed on the
  []
 
-[224]
-Underfull \hbox (badness 1394) in paragraph at lines 3243--3243
+[226]
+Underfull \hbox (badness 1394) in paragraph at lines 3202--3202
 [][][]\TU/Vollkorn(0)/m/n/8 Cf. \TU/Vollkorn(0)/m/it/8 Yo-gas-var-o-daya \TU/Vo
 llkorn(0)/m/n/8 (PT p. 841): \TU/Vollkorn(0)/m/it/8 prāṇāyā-mas tridhā cet
 i bahudhā prathamaṃ śṛṇu \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8
@@ -3573,59 +3547,59 @@ i bahudhā prathamaṃ śṛṇu \TU/Vollkorn(0)/m/n/8 | \TU/Vollkorn(0)/m/it/8
  []
 
 
-LaTeX Warning: Reference `ytbaudience' on page 225 undefined on input line 3245
+LaTeX Warning: Reference `ytbaudience' on page 227 undefined on input line 3204
 .
 
-[225] [226] [227] [228] [229] [230] [231]
+[227] [228] [229] [230] [231] [232] [233]
 
-LaTeX Warning: Reference `satyaavadhuta' on page 232 undefined on input line 33
-31.
+LaTeX Warning: Reference `satyaavadhuta' on page 234 undefined on input line 32
+90.
 
-[232]
+[234]
 
-LaTeX Warning: Reference `avadhuta' on page 233 undefined on input line 3342.
+LaTeX Warning: Reference `avadhuta' on page 235 undefined on input line 3301.
 
-[233
+[235
 Missing character: There is no ṁ (U+1E41) in font name:Vollkorn/I:mode=node;sc
 ript=latn;language=dflt;+tlig;family=rm;!
-] [234] [235]
-Overfull \hbox (17.93416pt too wide) in paragraph at lines 3394--3395
+] [236] [237]
+Overfull \hbox (17.93416pt too wide) in paragraph at lines 3353--3354
 []\TU/Vollkorn(0)/m/n/10 It is note-wor-thy that two of the au-thors, namely Sun
 -dardās and Nārāyaṇatīrtha,
  []
 
-[236]
+[238]
 
-LaTeX Warning: Reference `riversrivers' on page 237 undefined on input line 339
-6.
+LaTeX Warning: Reference `riversrivers' on page 239 undefined on input line 335
+5.
 
 
-LaTeX Warning: Reference `riversrivers' on page 237 undefined on input line 339
-6.
+LaTeX Warning: Reference `riversrivers' on page 239 undefined on input line 335
+5.
 
-[237]
+[239]
 
-LaTeX Warning: Reference `datierung' on page 238 undefined on input line 3399.
+LaTeX Warning: Reference `datierung' on page 240 undefined on input line 3358.
 
-[238] [239] [240] [241] [242
+[240] [241] [242] [243] [244
 
-] [243
+] [245
 
 ]
-<pics/Vishnu_Vishvarupa_cropped.jpg, id=3508, 738.1176pt x 1068.8733pt>
+<pics/Vishnu_Vishvarupa_cropped.jpg, id=3533, 738.1176pt x 1068.8733pt>
 File: pics/Vishnu_Vishvarupa_cropped.jpg Graphic file (type jpg)
 <use pics/Vishnu_Vishvarupa_cropped.jpg>
 Package luatex.def Info: pics/Vishnu_Vishvarupa_cropped.jpg  used on input line
- 3424.
+ 3383.
 (luatex.def)             Requested size: 330.0pt x 477.8734pt.
 
 
-LaTeX Warning: Float too large for page by 41.8734pt on input line 3427.
+LaTeX Warning: Float too large for page by 41.8734pt on input line 3386.
 
-[244<./pics/Vishnu_Vishvarupa_cropped.jpg>]
+[246<./pics/Vishnu_Vishvarupa_cropped.jpg>]
 <pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Si
 ddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_
-Trust..jpg, id=3514, 401.5pt x 1042.89626pt>
+Trust..jpg, id=3539, 401.5pt x 1042.89626pt>
 File: pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Sidd
 ha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mu
 seum_Trust..jpg Graphic file (type jpg)
@@ -3634,196 +3608,118 @@ a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mus
 eum_Trust..jpg>
 Package luatex.def Info: pics/The_Equivalence_of_Self_and_Universe_(detail),_fo
 lio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_4
-6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 3431.
+6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 3390.
 (luatex.def)             Requested size: 165.0pt x 428.59277pt.
- [245<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Sid
-dha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mu
-seum_Trust..jpg>] [246
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [247
 
-] [247
 
 ]
+[248] [249] [250<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_f
+rom_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Me
+hrangarh_Museum_Trust..jpg>] [251
 
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-warning  (pdf backend): ignoring duplicate destination with the name 'page.247'
-[247
 
 ]
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Package biblatex Warning: No driver for 'codex'.
-(biblatex)                Using fallback driver on input line 3444.
-
-
-Overfull \hbox (9.60152pt too wide) in paragraph at lines 3446--3446
-[][]\TU/Vollkorn(0)/m/n/10 Bhāskara. \TU/Vollkorn(0)/m/it/10 Sid-dhān-taśiro-
-maṇi. Sid-dhān-taśiro-maṇer Gra-ha-gaṇi-ta-sya Mad-hyamād-hikārān-
- []
-
-[248]
-Overfull \hbox (1.37772pt too wide) in paragraph at lines 3446--3446
-[][]\TU/Vollkorn(0)/m/n/10 Gharote, M. L. and Pari-mal De-v-nath, eds. \TU/Voll
-korn(0)/m/it/10 Kumb-haka-pad-dhati. Kumbhaka-Paddhati
- []
-
-[249]
-Overfull \hbox (0.51817pt too wide) in paragraph at lines 3446--3446
-[][]\TU/Vollkorn(0)/m/n/10 Misra, R.C., ed. \TU/Vollkorn(0)/m/it/10 Sarvāṅ-ga
-yo-gapradīpikā. Sarvāṅ-gayo-gapradīpikā in the Sun-dar-granthā-
+Overfull \hbox (1.73698pt too wide) in paragraph at lines 3421--3421
+\TU/Vollkorn(0)/m/it/10 Light on Haṭha: Haṭhapradīpikā - Crit-i-cal Edi-ti
+on and an-no-tated Trans-la-tion (Printed
  []
 
 
-Overfull \hbox (24.1354pt too wide) in paragraph at lines 3446--3446
-[][]\TU/Vollkorn(0)/m/n/10 Pāṇḍeya, Janār-dana Śāstrī, ed. \TU/Vollkor
-n(0)/m/it/10 Gorakṣasid-dhān-tasaṃ-graha\TU/Vollkorn(0)/m/n/10 . Vol. 110. Saraswat
-ībhavana-
+Overfull \hbox (3.48439pt too wide) in paragraph at lines 3421--3421
+\TU/Vollkorn(0)/m/it/10 Haṭhayogasaṃhitā bhāṣānu-vāda sahita\TU/Vollk
+orn(0)/m/n/10 . Pub-lished by Śrīviś-vanātha An-napūrṇā
  []
 
 
-Overfull \hbox (4.89919pt too wide) in paragraph at lines 3446--3446
-\TU/Vollkorn(0)/m/it/10 gād-hā-pak-ena tā-tyāśāstrya-paranāmnā paṭavar
-d-hanopanā-mak-ena rā-makṛṣṇaśāstriṇā
+warning  (pdf backend): ignoring duplicate destination with the name 'page.251'
+[251
+
+]
+Overfull \hbox (18.54955pt too wide) in paragraph at lines 3421--3421
+\TU/Vollkorn(0)/m/it/10 Sarvāṅgayogapradīpikā in the Sun-dar-granthā-val
+ī\TU/Vollkorn(0)/m/n/10 . Ed. by Misra, R.C. Delhi: Kitabghar,
  []
 
-[250]
-Overfull \hbox (21.66281pt too wide) in paragraph at lines 3446--3446
-\TU/lmtt/m/n/10 archive . org / details / PranatoshiniTantraJibanandaVidyasagara
-1898LR$[]\TU/Vollkorn(0)/m/n/10 . 
+
+Overfull \hbox (35.8789pt too wide) in paragraph at lines 3421--3421
+\TU/Vollkorn(0)/m/it/10 hikārān-taḥ Vāsanāb-hāṣyavāsanā - vārt-tika-
+marī-cib-hiḥ sahi-taḥ\TU/Vollkorn(0)/m/n/10 . Ed. by Jha, Jyautishacharya
  []
 
 
-Overfull \hbox (12.40228pt too wide) in paragraph at lines 3446--3446
-[][]\TU/Vollkorn(0)/m/n/10 Varanasi, Veda Nidhi, ed. \TU/Vollkorn(0)/m/it/10 Ut-
-tara Gita With Ex-pla-na-tion By Gau-da-padacharya\TU/Vollkorn(0)/m/n/10 . Varan
-asi:
+Overfull \hbox (1.53369pt too wide) in paragraph at lines 3421--3421
+\TU/Vollkorn(0)/m/it/10 Siddhāntatattvabindu\TU/Vollkorn(0)/m/n/10 . NGMPP Reel
+ No. E 1189-13. Na-tional Archives of Nepal,
  []
 
-[251]
-Overfull \hbox (1.13586pt too wide) in paragraph at lines 3448--3448
-[][]\TU/Vollkorn(0)/m/n/10 [Ma-harṣi], Vasiṣṭha. \TU/Vollkorn(0)/m/it/10 
-Vasiṣṭhasaṃhitā\TU/Vollkorn(0)/m/n/10 . En-glish and San-skrit. Ed. by Sw
-ami Digam-
+[252]
+Overfull \hbox (0.77495pt too wide) in paragraph at lines 3421--3421
+\TU/Vollkorn(0)/m/it/10 Tatvayogabiṃdu\TU/Vollkorn(0)/m/n/10 . Ms. No. 5-2724,
+ NGMPP Reel No. B 38-31. Na-tional Archives
  []
 
-[252] [253] [254] [255]
-Overfull \hbox (1.25493pt too wide) in paragraph at lines 3448--3448
-[][]\TU/Vollkorn(0)/m/n/10 Lowen-stein, Keith G. (M.D.) and An-drea J. (M.A.) Le
-tt. \TU/Vollkorn(0)/m/it/10 Kriya Yoga for Self-Discovery.
- []
-
-[256]
-Overfull \hbox (7.18648pt too wide) in paragraph at lines 3448--3448
+[253] [254] [255] [256] [257] [258] [259]
+Overfull \hbox (7.18648pt too wide) in paragraph at lines 3424--3424
 \TU/Vollkorn(0)/m/it/10 Evo-lu-tion \TU/Vollkorn(0)/m/n/10 4(4) (1987), pp. 406
 –425. \TU/Vollkorn(0)/m/sc/10 󰂯󰄝󰃦\TU/Vollkorn(0)/m/n/10 : []$\TU/lmt
 t/m/n/10 doi . org / 10 . 1093 / oxfordjournals .
  []
 
-[257]
-Overfull \hbox (19.52615pt too wide) in paragraph at lines 3448--3448
-[][]\TU/Vollkorn(0)/m/n/10 Shāstri, Mahāma-hopād-hyāyā Hara-praśad. \TU/V
-ollkorn(0)/m/it/10 Re-port on the Search for San-skrit Manuscripts
+
+Overfull \hbox (1.97275pt too wide) in paragraph at lines 3424--3424
+[][]\TU/Vollkorn(0)/m/n/10 Rad-hakanta, Deva, Vasu Varadaprasada, and Vasu Har-i
+-cana. Śab-dakalpadruma.
  []
 
-[258]
-Overfull \hbox (339.1985pt too wide) in paragraph at lines 3448--3448
-\TU/Vollkorn(0)/m/it/10 DAV Col-lege Chandi-garh\TU/Vollkorn(0)/m/n/10 . []$\TU
-/lmtt/m/n/10 https : / / archive . org / details / LalChandResearchIndologicalRe
-searchCenterManuscriptCatalogDAVCollegeChandigarh$[]\TU/Vollkorn(0)/m/n/10 .
+[260]
+Overfull \hbox (25.88962pt too wide) in paragraph at lines 3424--3424
+\TU/Vollkorn(0)/m/n/10 gious Heal-ing in South Asia. Berkely: Spring, 2010. \TU
+/Vollkorn(0)/m/sc/10 󰅡󰅄󰄀\TU/Vollkorn(0)/m/n/10 : []$\TU/lmtt/m/n/10 htt
+p : / / digitalassets .
  []
 
-
-Overfull \hbox (27.15405pt too wide) in paragraph at lines 3450--3450
-[][]\TU/Vollkorn(0)/m/it/10 Kriya Babaji Yoga Sangam Web-site\TU/Vollkorn(0)/m/
-n/10 . []$\TU/lmtt/m/n/10 https : / / web . archive . org / web / 20240320214547
- /
+[261] [262]
+Overfull \hbox (1.31001pt too wide) in paragraph at lines 3428--3428
+\TU/lmtt/m/n/10 web . archive . org / web / 20240319134009 / https : / / templeo
+fkriyayoga .
  []
 
-[259]
-Overfull \hbox (0.97348pt too wide) in paragraph at lines 3450--3450
-[][]\TU/Vollkorn(0)/m/it/10 Of-fi-cial Yo-gā-nanda Web-site\TU/Vollkorn(0)/m/n
-/10 . []$\TU/lmtt/m/n/10 https : / / web . archive . org / web / 20240323081653 /
- []
-
-
-Overfull \hbox (12.07pt too wide) in paragraph at lines 3450--3450
-\TU/lmtt/m/n/10 CATALOG _ ROOT / DL _ CATALOG / TEXTS / ETEXTS / mandalabraahman
-opanisaDEV .
+[263]
+Overfull \hbox (3.13809pt too wide) in paragraph at lines 3428--3428
+\TU/lmtt/m/n/10 20240320214547 / https : / / kriyababajiyogasangam . org/$[]\TU
+/Vollkorn(0)/m/n/10 .Web-site saved
  []
 
 
-Overfull \hbox (2.20087pt too wide) in paragraph at lines 3450--3450
+Overfull \hbox (9.61945pt too wide) in paragraph at lines 3428--3428
+[][]\TU/Vollkorn(0)/m/n/10 Mallinson, James, Ja-son Birch, Marc Sin-gle-ton, Dan
+iel Bevilac-qua, and S. V. B. K. V.
+ []
+
+
+Overfull \hbox (22.87169pt too wide) in paragraph at lines 3428--3428
+\TU/Vollkorn(0)/m/n/10 Gupta. Haṭha Yoga Project. []$\TU/lmtt/m/n/10 https : 
+/ / web . archive . org / web / 20240516171430 /
+ []
+
+
+Overfull \hbox (13.52495pt too wide) in paragraph at lines 3428--3428
+[][]\TU/Vollkorn(0)/m/n/10 Of-fi-cial Yo-gā-nanda Web-site. []$\TU/lmtt/m/n/10
+ https : / / web . archive . org / web / 20240323081653 /
+ []
+
+
+Overfull \hbox (27.82pt too wide) in paragraph at lines 3428--3428
+\TU/lmtt/m/n/10 DL _ CATALOG _ ROOT / DL _ CATALOG / TEXTS / ETEXTS / mandalabra
+ahmanopanisaDEV .
+ []
+
+
+Overfull \hbox (2.20087pt too wide) in paragraph at lines 3428--3428
 \TU/lmtt/m/n/10 pdf$[]\TU/Vollkorn(0)/m/n/10 ; Zu-griff: 10.03.2022. Muk-ta-bodh
 a In-do-log-i-cal Re-search In-sti-tute (MIRI). 
  []
@@ -3832,9 +3728,9 @@ a In-do-log-i-cal Re-search In-sti-tute (MIRI).
 Class memoir Warning: The material used in the headers is too large
 (24.0pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 3452.
+(in both cases you will find help in the memoir manual). on input line 3430.
 
-[260]
+[264]
 \tf@toc=\write9
 
 \openout9 = intro.toc
@@ -3850,8 +3746,14 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `intro.out' has not changed.
-(rerunfilecheck)             Checksum: E35099E4352031A75C61FD367D81B85A;33272.
+
+Package rerunfilecheck Warning: File `intro.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `intro.out':
+(rerunfilecheck)             Before: B6F30D82E7C7AD758B08745598557389;33373
+(rerunfilecheck)             After:  F3A154ABFEA6F929CB3F51CCA7F9FFFA;33617.
 
 Package biblatex Warning: Please rerun LaTeX.
 (biblatex)                Page breaks have changed.
@@ -3862,28 +3764,28 @@ Package logreq Info: Writing requests to 'intro.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 49655 strings out of 476435
+ 49672 strings out of 476435
  156265,2373549 words of node,token memory allocated
- 10501 words of node memory still in use:
-   6 hlist, 1 vlist, 1 rule, 1 local_par, 649 glue, 3 kern, 1 penalty, 28 glyph,
- 1405 attribute, 219 glue_spec, 703 attribute_list, 2 shape, 3 write, 42 pdf_act
+ 10564 words of node memory still in use:
+   6 hlist, 1 vlist, 1 rule, 1 local_par, 652 glue, 3 kern, 1 penalty, 28 glyph,
+ 1415 attribute, 219 glue_spec, 708 attribute_list, 2 shape, 3 write, 44 pdf_act
 ion, 4 pdf_colorstack nodes
-   avail lists: 1:13,2:2236,3:1050,4:328,5:1570,6:470,7:12717,8:153,9:2519,10:31
-,11:865
- 69366 multiletter control sequences out of 65536+600000
+   avail lists: 1:8,2:2194,3:1045,4:337,5:1569,6:464,7:12716,8:152,9:2520,10:31,
+11:865
+ 69412 multiletter control sequences out of 65536+600000
  108 fonts using 22876607 bytes
- 95i,19n,115p,4683b,5933s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 95i,19n,115p,4815b,5933s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.635'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.638'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.523'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.525'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.386'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.388'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.87'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.89'
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.ot
-f></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.o
-tf></home/enjotel/.local/share/fonts/Vollkorn-SemiBoldItalic.ttf></home/enjotel/
+f></home/enjotel/.local/share/fonts/Vollkorn-SemiBoldItalic.ttf></usr/local/texl
+ive/2024/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf></home/enjotel/
 .local/share/fonts/Vollkorn-SemiBold.ttf></home/enjotel/.local/share/fonts/Vollk
 orn-VariableFont_wght.ttf></home/enjotel/.local/share/fonts/Sanskrit-2003.ttf></
 home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf></usr/loca
@@ -3892,10 +3794,10 @@ texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/tex
 live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
 2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on intro.pdf (272 pages, 5641946 bytes).
+Output written on intro.pdf (278 pages, 5651206 bytes).
 
-PDF statistics: 3939 PDF objects out of 4296 (max. 8388607)
- 3580 compressed objects within 36 object streams
- 1300 named destinations out of 1440 (max. 131072)
- 1160 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 3947 PDF objects out of 4296 (max. 8388607)
+ 3582 compressed objects within 36 object streams
+ 1272 named destinations out of 1440 (max. 131072)
+ 1152 words of extra memory for PDF output out of 10000 (max. 100000000)
 

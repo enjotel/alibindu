@@ -94,9 +94,44 @@
 
 %%%%%%%  biblatex
 %\newcommand{\noun}[1]{\textsc{#1}}    %  philosophy-verbose
-\usepackage[backend=biber, sorting=nyt, style=verbose]{biblatex} %%%%ORIGINAL TiE
+\usepackage[backend=biber, sorting=nyt, maxnames=99, style=verbose]{biblatex} %%%%ORIGINAL TiE
 %%capitalized names
 %\renewcommand*{\mkbibnamefamily}[1]{\textsc{#1}}
+
+\setlength\bibitemsep{1.5\itemsep}
+
+% Define custom formats to handle the subtitle properly for printed editions
+\DeclareFieldFormat{title}{\textnormal{#1}}
+\DeclareFieldFormat{subtitle}{\newline\textit{#1}}
+
+\DeclareBibliographyDriver{misc}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \printfield{title}%
+  \vspace{0.3\baselineskip}% Add a 0.5 line space below the title
+  %\newunit\newblock
+  \printfield{subtitle}%
+  \setunit{, }% Comma after subtitle
+  \newunit\newblock
+  \ifnameundef{editor}
+    {} % Do nothing if editor is undefined
+    {\printtext{Ed. by }%
+     \printnames{editor}%
+     \setunit{. }}% Print editor and period if editor is defined
+   \newunit\newblock
+   \printfield{howpublished}% Using 'note' for location or address field
+      \newunit\newblock
+  \printfield{note}% Using 'note' for location or address field
+  \setunit{: }% Colon after note
+  \printlist{publisher}%
+  \setunit{, }% Comma after publisher
+  \printfield{year}%
+  \finentry}
+
+\DeclareSortingTemplate{tixel}{
+\sort{
+\field{title}
+}}
 
 
 \DeclareFieldFormat{url}{%
@@ -110,6 +145,9 @@
 \DeclareFieldFormat{postnote}{#1}
 \renewcommand{\postnotedelim}{, }
 \addbibresource{bindu.bib}
+
+
+
 
 
 %%% ekdosis
