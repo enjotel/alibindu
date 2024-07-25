@@ -1,37 +1,19 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'intro.blg'
-[117] biber:340> INFO - === Mi Jul 24, 2024, 21:43:35
-[143] Biber.pm:420> INFO - Reading 'intro.bcf'
-[418] Biber.pm:994> INFO - Found 184 citekeys in bib section 0
-[452] Biber.pm:4463> INFO - Processing section 0
-[466] Biber.pm:4654> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[482] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1040] bibtex.pm:1519> INFO - Found BibTeX data source 'bindu.bib'
-[2503] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2503] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2503] Biber.pm:4283> INFO - Sorting list 'tixel/global//global/global/global' of type 'entry' with template 'tixel' and locale 'en-US'
-[2503] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[2908] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2909] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2909] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[2909] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[3150] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
-[3329] bbl.pm:779> INFO - Output to intro.bbl
-[3329] Biber.pm:131> WARN - Duplicate entry key: 'yogasutra' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'kaviraj' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'birch2014' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'maas2009stemma' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'sanderson2004' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'yuktabhavadeva' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'stb1' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'stb2' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'kathaup' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'bhagavata' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - Duplicate entry key: 'tantraloka' in file 'bindu.bib', skipping ...
-[3330] Biber.pm:131> WARN - legacy year field 'forthcoming 2024' in entry 'datta2024' is not an integer - this will probably not sort properly.
-[3330] Biber.pm:131> WARN - legacy year field '1926 and 1939' in entry 'netratantra' is not an integer - this will probably not sort properly.
-[3331] Biber.pm:131> WARN - legacy year field 'no date' in entry 'yogacintamani' is not an integer - this will probably not sort properly.
-[3331] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_sKm5/a411a05437c082f0cf4f7e71b7c360c2_30168.utf8, line 3364, warning: entry started with "(", but ends with "}"
-[3331] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_sKm5/a411a05437c082f0cf4f7e71b7c360c2_30168.utf8, line 3903, warning: 121 characters of junk seen at toplevel
-[3331] Biber.pm:131> WARN - I didn't find a database entry for 'ytbd' (section 0)
-[3331] Biber.pm:133> INFO - WARNINGS: 17
+[114] biber:340> INFO - === Do Jul 25, 2024, 02:36:36
+[136] Biber.pm:420> INFO - Reading 'intro.bcf'
+[410] Biber.pm:994> INFO - Found 181 citekeys in bib section 0
+[441] Biber.pm:4463> INFO - Processing section 0
+[455] Biber.pm:4654> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[471] bibtex.pm:1713> INFO - LaTeX decoding ...
+[969] bibtex.pm:1519> INFO - Found BibTeX data source 'bindu.bib'
+[2350] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2350] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2350] Biber.pm:4283> INFO - Sorting list 'tixel/global//global/global/global' of type 'entry' with template 'tixel' and locale 'en-US'
+[2351] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[2707] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2707] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2707] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2707] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[2946] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
+[3118] bbl.pm:779> INFO - Output to intro.bbl
