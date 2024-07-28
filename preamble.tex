@@ -11,12 +11,29 @@
 %%%chapternumbering
 %\setcounter{secnumdepth}{2}
 % Set the depth of numbering
+
+% Global numbering for footnotes, figures, and tables
+\usepackage{chngcntr}
+
+% Global numbering for footnotes, figures, and tables
+%\counterwithout{footnote}{chapter}
+%\counterwithout{footnote}{section}
+%\counterwithout{figure}{chapter}
+%\counterwithout{figure}{section}
+%\counterwithout{table}{chapter}
+%\counterwithout{table}{section}
+%\renewcommand{\thetable}{\arabic{table}}
+%%%tables 
+
+
+
+
 %%% Hyphenation settings
-%\usepackage[htt]{hyphenat}
-%\hyphenation{he-lio-trope opos-sum}
-%\tracingparagraphs=1
-%\tolerance=1000
-%\emergencystretch=3em
+\usepackage[htt]{hyphenat}
+\hyphenation{he-lio-trope opos-sum}
+\tracingparagraphs=1
+\tolerance=1000
+\emergencystretch=3em
 %Hyphenation in Devanāgarī of the edition still missing? Probably this needs to be modified in babel-iast package? 
 
 %%% babel
@@ -31,12 +48,10 @@
 
 %%% more functionality
 \PassOptionsToPackage{hyphens}{url}
-\usepackage{hyperref}
+
 \usepackage{pdflscape}
 %\usepackage{amsmath}
-\usepackage{cleveref}
 \usepackage{url}
-\usepackage{cleveref}
 \usepackage{microtype}
 \usepackage{lineno}
 \usepackage{array}
@@ -47,7 +62,8 @@
 \usepackage{longtable}
 \usepackage{pdflscape}
 \usepackage{float}
-
+\usepackage{cleveref}
+\usepackage{hyperref}
 %\usepackage{bigfoot}
 %%% more functions
 \usepackage[dvipsnames]{xcolor}
@@ -74,6 +90,8 @@
 \chapterstyle{IeT}
 \setsecnumdepth{none}  \openright  \nouppercaseheads
 \settocdepth{subsubsection}
+
+%\hyphenation{RAN-SAC sche-me}
 
 %%%% test better pagebreaks
 %\def\fussy{%
@@ -500,12 +518,6 @@ surname=Liersch]
 
   % Command to print a normal (non-italic) pipe
 \newcommand{\normalpipe}{\textnormal{| }}
-
-%%%tables 
-% Redefine table numbering
-\counterwithout{table}{section}
-\counterwithout{table}{chapter}
-\renewcommand{\thetable}{\arabic{table}}
 
 
 

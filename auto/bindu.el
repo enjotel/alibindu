@@ -308,6 +308,8 @@
     "yogacintamanilahore"
     "yogacintamani"
     "patanjalayoga1904"
+    "kashikhanda1998"
+    "astavakragita1997"
     "patanjalabhasyavartika"
     "guhyanisvasa"
     "lipner2004"

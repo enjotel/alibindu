@@ -187,16 +187,18 @@ Herstellung: \ \ BoD – Books on Demand GmbH, Norderstedt  \\
 
 \chapter{Bibliography}
  \label{sec:bibli}
-   \clearpage
+\clearpage
 \newpage 
 \thispagestyle{empty}
 \quad  \addtocounter{page}{-1}
 
-\printbibliography[heading=subbibintoc, title=Consulted Manuscripts, keyword=codex]
+\newrefcontext[sorting=tixel]
+\printbibliography[heading=subbibintoc, title=Primary Sources, keyword=primary]
 
-\printbibliography[heading=subbibintoc, title=Printed Editions, keyword=printsource]
-
+\newrefcontext[sorting=nyt]
 \printbibliography[heading=subbibintoc, title=Secondary Literature, keyword=seclit]
+
+\printbibliography[heading=subbibintoc, title=Catalogues, keyword=catalogues]
 
 \printbibliography[heading=subbibintoc, title=Online Sources, keyword=onlinesource]
 

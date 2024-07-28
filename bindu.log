@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  21 JUL 2024 14:58
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.13)  27 JUL 2024 22:25
  restricted system commands enabled.
 **bindu.tex
 (./bindu.tex
@@ -446,106 +446,118 @@ Sidefoothsep and sidefootwidth: 7pt and 128pt
 Sidefootvsep and sidefootheight: 12pt and 548.39996pt
 ******************************************************
 
-(/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+
+
+Package hyphenat Warning: *******************************
+(hyphenat)                * You have used the htt option.
+(hyphenat)                * You are likely to get many Font Warning messages.
+(hyphenat)                * These can usually be ignored.
+(hyphenat)                *******************************.
+
+\langwohyphens=\language2
+LaTeX Info: Redefining \_ on input line 43.
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2024/03/29 v24.3 The Babel package
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/luababel.def
 \bbl@readstream=\read3
-\l@dumylang=\language2
+\l@dumylang=\language3
 Package babel Info: Non-standard hyphenation setup on input line 118.
-\l@nohyphenation=\language3
-\l@vietnamese=\language4
-\l@hebrew=\language5
-\l@german-x-2024-02-28=\language6
-\l@ngerman-x-2024-02-28=\language7
-\l@afrikaans=\language8
-\l@ancientgreek=\language9
-\l@ibycus=\language10
-\l@arabic=\language11
-\l@armenian=\language12
-\l@basque=\language13
-\l@belarusian=\language14
-\l@bulgarian=\language15
-\l@catalan=\language16
-\l@pinyin=\language17
-\l@churchslavonic=\language18
-\l@coptic=\language19
-\l@croatian=\language20
-\l@czech=\language21
-\l@danish=\language22
-\l@dutch=\language23
-\l@ukenglish=\language24
-\l@usenglishmax=\language25
-\l@esperanto=\language26
-\l@estonian=\language27
-\l@ethiopic=\language28
-\l@farsi=\language29
-\l@finnish=\language30
-\l@schoolfinnish=\language31
-\l@french=\language32
-\l@friulan=\language33
-\l@galician=\language34
-\l@georgian=\language35
-\l@german=\language36
-\l@ngerman=\language37
-\l@swissgerman=\language38
-\l@greek=\language39
-\l@monogreek=\language40
-\l@hungarian=\language41
-\l@icelandic=\language42
-\l@assamese=\language43
-\l@bengali=\language44
-\l@gujarati=\language45
-\l@hindi=\language46
-\l@kannada=\language47
-\l@malayalam=\language48
-\l@marathi=\language49
-\l@oriya=\language50
-\l@pali=\language51
-\l@panjabi=\language52
-\l@tamil=\language53
-\l@telugu=\language54
-\l@indonesian=\language55
-\l@interlingua=\language56
-\l@irish=\language57
-\l@italian=\language58
-\l@kurmanji=\language59
-\l@classiclatin=\language60
-\l@latin=\language61
-\l@liturgicallatin=\language62
-\l@latvian=\language63
-\l@lithuanian=\language64
-\l@macedonian=\language65
-\l@mongolian=\language66
-\l@mongolianlmc=\language67
-\l@bokmal=\language68
-\l@nynorsk=\language69
-\l@occitan=\language70
-\l@piedmontese=\language71
-\l@polish=\language72
-\l@portuguese=\language73
-\l@romanian=\language74
-\l@romansh=\language75
-\l@russian=\language76
-\l@sanskrit=\language77
-\l@serbian=\language78
-\l@serbianc=\language79
-\l@slovak=\language80
-\l@slovenian=\language81
-\l@spanish=\language82
-\l@swedish=\language83
-\l@thai=\language84
-\l@turkish=\language85
-\l@turkmen=\language86
-\l@ukrainian=\language87
-\l@uppersorbian=\language88
-\l@welsh=\language89
+\l@nohyphenation=\language4
+\l@vietnamese=\language5
+\l@hebrew=\language6
+\l@german-x-2024-02-28=\language7
+\l@ngerman-x-2024-02-28=\language8
+\l@afrikaans=\language9
+\l@ancientgreek=\language10
+\l@ibycus=\language11
+\l@arabic=\language12
+\l@armenian=\language13
+\l@basque=\language14
+\l@belarusian=\language15
+\l@bulgarian=\language16
+\l@catalan=\language17
+\l@pinyin=\language18
+\l@churchslavonic=\language19
+\l@coptic=\language20
+\l@croatian=\language21
+\l@czech=\language22
+\l@danish=\language23
+\l@dutch=\language24
+\l@ukenglish=\language25
+\l@usenglishmax=\language26
+\l@esperanto=\language27
+\l@estonian=\language28
+\l@ethiopic=\language29
+\l@farsi=\language30
+\l@finnish=\language31
+\l@schoolfinnish=\language32
+\l@french=\language33
+\l@friulan=\language34
+\l@galician=\language35
+\l@georgian=\language36
+\l@german=\language37
+\l@ngerman=\language38
+\l@swissgerman=\language39
+\l@greek=\language40
+\l@monogreek=\language41
+\l@hungarian=\language42
+\l@icelandic=\language43
+\l@assamese=\language44
+\l@bengali=\language45
+\l@gujarati=\language46
+\l@hindi=\language47
+\l@kannada=\language48
+\l@malayalam=\language49
+\l@marathi=\language50
+\l@oriya=\language51
+\l@pali=\language52
+\l@panjabi=\language53
+\l@tamil=\language54
+\l@telugu=\language55
+\l@indonesian=\language56
+\l@interlingua=\language57
+\l@irish=\language58
+\l@italian=\language59
+\l@kurmanji=\language60
+\l@classiclatin=\language61
+\l@latin=\language62
+\l@liturgicallatin=\language63
+\l@latvian=\language64
+\l@lithuanian=\language65
+\l@macedonian=\language66
+\l@mongolian=\language67
+\l@mongolianlmc=\language68
+\l@bokmal=\language69
+\l@nynorsk=\language70
+\l@occitan=\language71
+\l@piedmontese=\language72
+\l@polish=\language73
+\l@portuguese=\language74
+\l@romanian=\language75
+\l@romansh=\language76
+\l@russian=\language77
+\l@sanskrit=\language78
+\l@serbian=\language79
+\l@serbianc=\language80
+\l@slovak=\language81
+\l@slovenian=\language82
+\l@spanish=\language83
+\l@swedish=\language84
+\l@thai=\language85
+\l@turkish=\language86
+\l@turkmen=\language87
+\l@ukrainian=\language88
+\l@uppersorbian=\language89
+\l@welsh=\language90
 \babelcatcodetablenum=\catcodetable14
 \bbl@pattcodes=\catcodetable15
 )
 \babel@savecnt=\count312
 \U@D=\dimen184
-\l@unhyphenated=\language90
+\l@unhyphenated=\language91
 
 (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/luababel.def
 \bbl@attr@locale=\attribute4
@@ -555,9 +567,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 105.
+(babel)             (\language25). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 108.
+(babel)             (\language25). Reported on input line 108.
 ))
 (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-english.t
 ex
@@ -567,7 +579,7 @@ Package babel Info: Importing font and identification data for english
 Package babel Info: Importing data for iast
 (babel)             from babel-sa-Deva.ini. Reported on input line 1.
 Package babel Info: Hyphen rules for 'iast' set to \l@sanskrit
-(babel)             (\language77). Reported on input line 1.
+(babel)             (\language78). Reported on input line 1.
 Inserting `Babel.hyphenate' in `hyphenate'.)
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
@@ -1585,7 +1597,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip282
 \blx@bcfin=\read5
 \blx@bcfout=\write6
-\blx@langwohyphens=\language91
+\blx@langwohyphens=\language92
 \c@mincomprange=\count467
 \c@maxcomprange=\count468
 \c@mincompwidth=\count469
@@ -1985,7 +1997,14 @@ LaTeX Font Info:    Font shape `TU/Sanskrit2003(1)/m/n' will be
 (/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-sa.
 tex UTF-8 Sanskrit hyphenation patterns
 (/usr/local/texlive/2024/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-sa.
-tex)))
+tex))
+
+LaTeX Warning: Label `_323b' multiply defined.
+
+
+LaTeX Warning: Label `_324b' multiply defined.
+
+)
 \openout1 = bindu.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -2013,6 +2032,107 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/b/it' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/b/scsl' undefined
+(Font)              using `TU/lmtt/b/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/b/sc' undefined
+(Font)              using `TU/lmtt/b/n' instead on input line 8.
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 8.
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/it' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 8.
+
+LaTeX Font Info:    Font shape `TU/lmtt/bx/sl' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 8.
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/scsl' undefined
+(Font)              using `TU/lmtt/bx/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/sc' undefined
+(Font)              using `TU/lmtt/bx/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sbx/sc' undefined
+(Font)              using `TU/lmtt/sb/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/n' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/it' undefined
+(Font)              using `TU/lmtt/sb/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/sl' undefined
+(Font)              using `TU/lmtt/sb/it' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/scit' undefined
+(Font)              using `TU/lmtt/sb/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sb/sc' undefined
+(Font)              using `TU/lmtt/sb/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/sbc/sc' undefined
+(Font)              using `TU/lmtt/c/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/n' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/it' undefined
+(Font)              using `TU/lmtt/c/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/sl' undefined
+(Font)              using `TU/lmtt/c/it' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/scit' undefined
+(Font)              using `TU/lmtt/c/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/c/sc' undefined
+(Font)              using `TU/lmtt/c/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/lc/it' in size <10> not available
+(Font)              Font shape `TU/lmtt/lc/sl' tried instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/lc/scsl' undefined
+(Font)              using `TU/lmtt/lc/sc' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/lc/sc' undefined
+(Font)              using `TU/lmtt/lc/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/m/ui' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/bx/ui' undefined
+(Font)              using `TU/lmtt/bx/n' instead on input line 8.
+
+
+LaTeX Font Warning: Font shape `TU/lmtt/m/In' undefined
+(Font)              using `TU/lmtt/m/n' instead on input line 8.
+
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
@@ -2073,7 +2193,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 8.
 Package hyperref Info: Link coloring OFF on input line 8.
-
 (./bindu.out) (./bindu.out)
 \@outlinefile=\write8
 
@@ -2157,10 +2276,43 @@ Package biblatex Info: Reference section=0 on input line 8.
 Package biblatex Info: Reference segment=0 on input line 8.
 \@float@every@ekdapparatus=\toks62
 \c@ekdapparatus=\count573
+@firstpass
+\TU/Vollkorn(0)/m/it/12 Th
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]
+@\penalty via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+\TU/Vollkorn(0)/m/it/12 The 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Yo-gatattv-abindu
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 1.2- t=100 -> @0
+
  [1
 
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+@firstpass
+[] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ [2]
+@firstpass
+[]
+@\penalty via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Sanskrit2003' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2169,15 +2321,356 @@ LaTeX Font Info:    Font shape `TU/Sanskrit2003(1)/m/n' will be
 (Font)              scaled to size 15.84007pt on input line 44.
 LaTeX Font Info:    Font shape `TU/Sanskrit2003(0)/m/n' will be
 (Font)              scaled to size 15.84007pt on input line 44.
+@firstpass
+\TU/Sanskrit2003(0)/m/n/14.4 यो
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Sanskrit2003(0)/m/n/14.4 योगतत्त्विबन्दु 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+[]
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/20.74 Yo
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/20.74 Yo-gatattv-abindu
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/12 Cr
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/12 Crit-i-cal 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Edi-tion
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/12 an
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/12 and 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+an-no-tated 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Trans-la-tion
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/12 to
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/12 to-gether 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+with 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+a 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+Com-par-a-tive 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Anal-y-sis 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@ via @4 b=0 p=0 d=100
+@@5: line 1.2 t=100 -> @0
+of 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@ via @4 b=0 p=0 d=100
+@ via @5 b=0 p=0 d=100
+@@6: line 1.2 t=100 -> @0
+the
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@\par via @5 b=0 p=-10000 d=100
+@\par via @6 b=0 p=-10000 d=100
+@@7: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/12 Co
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/12 Com-plex 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Early 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Mod-ern 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+Yoga 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Yax-onomies
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/10.95 By
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10.95 By
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/10.95 Ni
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10.95 Nils 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Ja-cob 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Lier-sch
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 In
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/9 In-dica 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+et 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+Ti-bet-ica 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+Ver-lag
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 Ma
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/9 Mar-burg 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+2024
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @0
+
  [3]
+@firstpass
+[]   
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <9> not available
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
  85.
+@firstpass
+\TU/Vollkorn(0)/b/n/9 Bib-li-ographis-che In-for-ma-tion Der Deutschen Bib-lio-t
+hek 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
 
-Overfull \hbox (23.2742pt too wide) in paragraph at lines 87--90
-\TU/Vollkorn(0)/m/n/9 ogra-phie; de-tail-lierte bib-li-ographis-che In-for-ma-ti
-o-nen sind im In-ter-net über http://dnb.ddb.de
- []
+@firstpass
+@secondpass
+\TU/Vollkorn(0)/m/n/9 Die Deutsche Bib-lio-thek verze-ich-net diese Pub-lika-tio
+n in der Deutschen Na-tion-
+@\discretionary via @0 b=433 p=50 d=208749
+@@1: line 1.0- t=208749 -> @0
+al-
+@\discretionary via @0 b=38 p=50 d=4804
+@@2: line 1.1- t=4804 -> @0
+bib-
+@\discretionary via @0 b=0 p=50 d=2600
+@@3: line 1.2- t=2600 -> @0
+li-
+@\discretionary via @0 b=0 p=50 d=2600
+@@4: line 1.2- t=2600 -> @0
+ogra-phie; de-tail-lierte bib-li-ographis-che In-for-ma-tio-nen sind im In-ter-n
+et über 
+@ via @1 b=15 p=0 d=625
+@ via @2 b=419 p=0 d=184041
+@@5: line 2.0 t=188845 -> @2
+http://dnb.ddb.de abruf-bar. 
+@\par via @5 b=0 p=-10000 d=10100
+@@6: line 3.2- t=198945 -> @5
+
+@firstpass
+\TU/Vollkorn(0)/b/n/9 Bib-li-o-graphic in-for-ma-tion pub-lished by Die Deutsche
+n Bib-lio-thek 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 Die Deutsche Bib-lio-thek lists this pub-li-ca-tion in the
+ Deutsche Na-tion-al-bib-li-ogra-phie; 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+de-tailed bib-li-o-graphic data is avail-able in the In-ter-net at http://dnb.dd
+b.de. 
+@\par via @1 b=0 p=-10000 d=100
+@@2: line 2.2- t=200 -> @1
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 © In-dica et Ti-bet-ica Ver-lag, Mar-burg 2024 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 Alle Rechte vor-be-hal-ten / All rights re-served 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 Ohne aus-drück-liche Genehmi-gung des Ver-lages ist es ni
+cht ges-tat-tet, das Werk oder 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+@secondpass
+\TU/Vollkorn(0)/m/n/9 Ohne aus-drück-liche Genehmi-gung des Ver-lages ist es ni
+cht ges-tat-tet, das Werk 
+@ via @0 b=866 p=0 d=777376
+@@1: line 1.0 t=777376 -> @0
+oder 
+@ via @0 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+einzelne Teile da-raus nachzu-drucken, zu verviel󰀨älti-gen oder auf Da-ten-t
+räger 
+@ via @1 b=2 p=0 d=10144
+@@3: line 2.2 t=787520 -> @1
+zu 
+@ via @1 b=0 p=0 d=10100
+@ via @2 b=209 p=0 d=57961
+@@4: line 2.0 t=58061 -> @2
+spe-
+@\discretionary via @2 b=0 p=50 d=2600
+@@5: line 2.2- t=2700 -> @2
+ich-
+@\discretionary via @2 b=91 p=50 d=12701
+@@6: line 2.3- t=12801 -> @2
+ern. 
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=10100
+@\par via @5 b=0 p=-10000 d=5100
+@\par via @6 b=0 p=-10000 d=5100
+@@7: line 3.2- t=7800 -> @5
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 Apart from any fair deal-ing for the pur-pose of pri-vate study, re-search, crit-i-cism or 
+@ via @0 b=9 p=0 d=361
+@@1: line 1.2 t=361 -> @0
+re-view, no part of this book may be re-pro-duced or trans-lated in any form, by
+ print, 
+@ via @1 b=3 p=0 d=169
+@@2: line 2.2 t=530 -> @1
+photo form, mi-cro-film, or any other means with-out writ-ten per-mis-sion. En-q
+uiries 
+@ via @2 b=4 p=0 d=196
+@@3: line 3.2 t=726 -> @2
+should be made to the pub-lish-ers. 
+@\par via @3 b=0 p=-10000 d=100
+@@4: line 4.2- t=826 -> @3
+
+@firstpass
+\TU/Vollkorn(0)/m/n/9 Satz:   Nils Ja-cob Lier-sch 
+@\penalty via @0 b=0 p=-10000 d=100
+@@1: line 1.2 t=100 -> @0
+Herstellung:   BoD – Books on De-mand GmbH, Norder-st-edt 
+@\penalty via @1 b=0 p=-10000 d=100
+@@2: line 2.2 t=200 -> @1
+@secondpass
+\TU/Vollkorn(0)/m/n/9 Satz:   Nils Ja-cob Lier-sch 
+@\penalty via @0 b=0 p=-10000 d=100
+@@1: line 1.2 t=100 -> @0
+Herstellung:   BoD – Books on De-mand GmbH, Norder-st-edt 
+@\penalty via @1 b=0 p=-10000 d=100
+@@2: line 2.2 t=200 -> @1
+@emergencypass
+\TU/Vollkorn(0)/m/n/9 Satz:   Nils Ja-cob Lier-sch 
+@\penalty via @0 b=0 p=-10000 d=*
+@@1: line 1.2 t=0 -> @0
+Herstellung:   BoD – Books on De-mand GmbH, Norder-st-edt 
+@\penalty via @1 b=0 p=-10000 d=*
+@@2: line 2.2 t=0 -> @1
+ 
+@\par via @2 b=10000 p=-10000 d=*
+@@3: line 3.0- t=0 -> @2
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 124--127
@@ -2189,6 +2682,11 @@ LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <20.74> not availa
 ble
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
  140.
+@firstpass
+[]\TU/Vollkorn(0)/b/n/20.74 Contents[][][][]
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
  (./bindu.toc
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <10> not available
 
@@ -2202,60 +2700,309 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-))
+)
+@firstpass
+[][] []\TU/Vollkorn(0)/bx/n/10 Con-tents[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/bx/n/10 Con-ven-tions in the Crit-i-cal Ap-pa-ra-tus[] [
+] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/m/n/10 Sigla in the Crit-i-cal Ap-pa-ra-tus[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/bx/n/10 Crit-i-cal Edi-tion & An-no-tated Trans-la-tion[
+] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/m/n/10 XLV. ka-malānāṃ saṃke-tam adb-hutam[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/m/n/10 XLVI. ād-hāraka-malam[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/bx/n/10 Ap-pendix[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/m/n/10 Fig-ures[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[][] []\TU/Vollkorn(0)/bx/n/10 Bib-li-og-ra-phy[] [] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+)
 warning  (pdf backend): ignoring duplicate destination with the name 'page.iv'
 [4
 
 ]
+@firstpass
+[]\TU/Vollkorn(0)/b/n/20.74 Con-ven-tions 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+in 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+Crit-i-cal 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Ap-pa-ra-tus
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 2.2- t=200 -> @4
+
 LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <12> not available
 
 (Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
  148.
+@firstpass
+[][]\TU/Vollkorn(0)/b/n/12 Sigla 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+in 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+the 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+Crit-i-cal 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Ap-pa-ra-tus 
+@\par via @0 b=0 p=-10000 d=100
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/10 E
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 E : Printed Edi-tion 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/10 P
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 P : Pune BORI 664 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/10 L
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 L : Lalc-hand Re-search Li-brary LRL5876 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+@secondpass
+@emergencypass
+\TU/Vollkorn(0)/m/n/10 B
+@\par via @0 b=10000 p=-10000 d=*
+@@1: line 1.0- t=0 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 B : Bodleian Ox-ford D 4587 ‚ 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 N$[][]$: NGMPP B 38-31 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 N$[][]$: NGMPP B 38-35 / A 1327-14 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 D$[][]$: IGNCA 30019 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 U$[][]$: SORI 1574 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 U$[][]$: SORI 6082 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
  [1
 
 
 
 ] [2
 
-] [3] [4
+]
+@firstpass
+[]\TU/Vollkorn(0)/b/n/20.74 Crit-i-cal 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+Edi-tion 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@@2: line 1.2 t=100 -> @0
+& 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@@3: line 1.2 t=100 -> @0
+An-no-tated 
+@ via @0 b=0 p=0 d=100
+@ via @1 b=0 p=0 d=100
+@ via @2 b=0 p=0 d=100
+@ via @3 b=0 p=0 d=100
+@@4: line 1.2 t=100 -> @0
+Trans-la-tion
+@\par via @1 b=0 p=-10000 d=100
+@\par via @2 b=0 p=-10000 d=100
+@\par via @3 b=0 p=-10000 d=100
+@\par via @4 b=0 p=-10000 d=100
+@@5: line 2.2- t=200 -> @4
+
+ [3] [4
 
 ]
-LaTeX Font Info:    Font shape `TU/Sanskrit2003(1)/m/n' will be
-(Font)              scaled to size 8.80005pt on input line 518.
-LaTeX Font Info:    Font shape `TU/Vollkorn(0)/bx/n' in size <8> not available
-(Font)              Font shape `TU/Vollkorn(0)/b/n' tried instead on input line
- 1.
+@firstpass
+[]\TU/Vollkorn(0)/b/n/20.74 Ap-pendix
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
 
+@firstpass
+[][]\TU/Vollkorn(0)/b/n/12 Fig-ures 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
 
-LaTeX Font Warning: Font shape `TU/Sanskrit2003(1)/bx/n' undefined
-(Font)              using `TU/Sanskrit2003(1)/m/n' instead on input line 1.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1.
-LaTeX Font Info:    Font shape `TU/Vollkorn(0)/m/sl' in size <10> not available
-
-(Font)              Font shape `TU/Vollkorn(0)/m/it' tried instead on input lin
-e 533.
-[5] [6] [7
+ [5
 
 
 ]
-<pics/Vishnu_Vishvarupa_cropped.jpg, id=118, 738.1176pt x 1068.8733pt>
+<pics/Vishnu_Vishvarupa_cropped.jpg, id=99, 738.1176pt x 1068.8733pt>
 File: pics/Vishnu_Vishvarupa_cropped.jpg Graphic file (type jpg)
 <use pics/Vishnu_Vishvarupa_cropped.jpg>
 Package luatex.def Info: pics/Vishnu_Vishvarupa_cropped.jpg  used on input line
- 545.
+ 174.
 (luatex.def)             Requested size: 330.0pt x 477.8734pt.
+@firstpass
+[][]
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 Fig-ure 0.1: |Viṣṇu Viś-varūpa, In-dia, Ra-jastha
+n, Jaipur, ca. 1800–1820, Opaque 
+@ via @0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @0
+wa-ter-color and gold on pa-per, 38.5 × 28 cm, Vic-to-ria and Al-bert Mu-seum, 
+@ via @1 b=78 p=0 d=7744
+@@2: line 2.1 t=7844 -> @1
+Lon-don, Given by Mrs. Ger-ald Clark.| 
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 3.2- t=7944 -> @2
+
+@firstpass
+[][] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
 
 
-LaTeX Warning: Float too large for page by 41.8734pt on input line 548.
 
-[8<./pics/Vishnu_Vishvarupa_cropped.jpg>]
+LaTeX Warning: Float too large for page by 41.8734pt on input line 177.
+
+@firstpass
+[]|\TU/Vollkorn(0)/m/n/10 6| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+LaTeX Font Info:    Font shape `TU/Vollkorn(0)/m/sl' in size <10> not available
+
+(Font)              Font shape `TU/Vollkorn(0)/m/it' tried instead on input lin
+e 178.
+@firstpass
+[]|\TU/Vollkorn(0)/m/sl/10 Ap-pendix|
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+[6<./pics/Vishnu_Vishvarupa_cropped.jpg>]
 <pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Si
 ddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_
-Trust..jpg, id=124, 401.5pt x 1042.89626pt>
+Trust..jpg, id=106, 401.5pt x 1042.89626pt>
 File: pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Sidd
 ha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mu
 seum_Trust..jpg Graphic file (type jpg)
@@ -2264,30 +3011,107 @@ a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Mus
 eum_Trust..jpg>
 Package luatex.def Info: pics/The_Equivalence_of_Self_and_Universe_(detail),_fo
 lio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_4
-6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 552.
+6_cm._Mehrangarh_Museum_Trust..jpg  used on input line 181.
 (luatex.def)             Requested size: 165.0pt x 428.59277pt.
- [9<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddh
+@firstpass
+[][]
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]\TU/Vollkorn(0)/m/n/10 Fig-ure 0.2: |The Equiv-a-lence of Self and Uni-verse 
+(de-tail), fo-lio 6 from the 
+@ via @0 b=28 p=0 d=1444
+@@1: line 1.1 t=1444 -> @0
+\TU/Vollkorn(0)/m/it/10 Sid-dhasid-dhān-ta-pad-dhati \TU/Vollkorn(0)/m/n/10 (Bu
+-laki), In-dia, Ra-jasthan, Jodh-pur, 1824 (Sam-vat 1881), 
+@ via @1 b=11 p=0 d=441
+@@2: line 2.2 t=1885 -> @1
+122 x 46 cm, RJS 2378, Mehra-garh Mu-seum Trust.| 
+@\par via @2 b=0 p=-10000 d=100
+@@3: line 3.2- t=1985 -> @2
+
+@firstpass
+[][] 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/Vollkorn(0)/m/sl/10 Fig-ures| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|\TU/Vollkorn(0)/m/n/10 7|
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]|| 
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+@firstpass
+[]||
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
+
+ [7<./pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddh
 a_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Muse
-um_Trust..jpg>] [10
+um_Trust..jpg>] [8
 
 
 
-] [11]
+]
+@firstpass
+[]\TU/Vollkorn(0)/b/n/20.74 Bib-li-og-ra-phy
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
 
-Package biblatex Warning: Keyword 'codex' not found on input line 566.
+ [9]
+@firstpass
+[]  
+@\par via @0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @0
 
 
-LaTeX Warning: Empty bibliography on input line 566.
+
+Package biblatex Warning: Keyword 'primary' not found on input line 196.
 
 
-Package biblatex Warning: Keyword 'onlinesource' not found on input line 572.
+LaTeX Warning: Empty bibliography on input line 196.
 
 
-LaTeX Warning: Empty bibliography on input line 572.
+Package biblatex Warning: Keyword 'seclit' not found on input line 199.
 
 
-warning  (pdf backend): ignoring duplicate destination with the name 'page.11'
-[11
+LaTeX Warning: Empty bibliography on input line 199.
+
+
+Package biblatex Warning: Keyword 'catalogues' not found on input line 201.
+
+
+LaTeX Warning: Empty bibliography on input line 201.
+
+
+Package biblatex Warning: Keyword 'onlinesource' not found on input line 203.
+
+
+LaTeX Warning: Empty bibliography on input line 203.
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.9'
+[9
 
 ]
 \tf@toc=\write9
@@ -2305,8 +3129,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `bindu.out' has not changed.
-(rerunfilecheck)             Checksum: 195DB348FF4D3026BCDC28217BFE513F;1378.
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package rerunfilecheck Warning: File `bindu.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `bindu.out':
+(rerunfilecheck)             Before: B6A06D4359F738564ECDCF574417CD50;1476
+(rerunfilecheck)             After:  123D85141DAAFE67D68485BC64FEF1F5;1082.
 
 Package biblatex Warning: Please rerun LaTeX.
 
@@ -2316,34 +3149,32 @@ Package logreq Info: Writing requests to 'bindu.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 48084 strings out of 476435
- 156260,2373549 words of node,token memory allocated
- 5632 words of node memory still in use:
-   3 hlist, 10 vlist, 1 rule, 8 glue, 3 kern, 520 glyph, 189 attribute, 228 glue
-_spec, 95 attribute_list, 2 shape, 3 write nodes
-   avail lists: 1:2,2:8335,3:3419,4:306,5:1422,6:42,7:11602,8:4,9:762,10:29,11:6
-83
- 69086 multiletter control sequences out of 65536+600000
- 83 fonts using 17399583 bytes
- 95i,11n,115p,15565b,5391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 47061 strings out of 476435
+ 100000,2373549 words of node,token memory allocated
+ 1504 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 24 glyph, 1
+9 attribute, 217 glue_spec, 10 attribute_list, 2 shape, 3 write nodes
+   avail lists: 1:1,2:533,3:122,4:56,5:334,6:29,7:2668,8:2,9:218,10:6,11:210
+ 68067 multiletter control sequences out of 65536+600000
+ 82 fonts using 16400327 bytes
+ 95i,11n,115p,1149b,2079s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.4'
+warning  (pdf backend): unreferenced destination with name 'chapter*.11'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.3'
+warning  (pdf backend): unreferenced destination with name 'section*.8'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.2'
+warning  (pdf backend): unreferenced destination with name 'chapter*.7'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
-</home/enjotel/.local/share/fonts/Sanskrit-2003.ttf></home/enjotel/.local/share/
-fonts/Vollkorn-SemiBold.ttf></home/enjotel/.local/share/fonts/Vollkorn-VariableF
-ont_wght.ttf></home/enjotel/.local/share/fonts/Sanskrit-2003.ttf></home/enjotel/
-.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf></usr/local/texlive/202
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on bindu.pdf (17 pages, 4086962 bytes).
+warning  (pdf backend): unreferenced destination with name 'section*.5'
+</home/enjotel/.local/share/fonts/Vollkorn-SemiBold.ttf></home/enjotel/.local/sh
+are/fonts/Vollkorn-VariableFont_wght.ttf></home/enjotel/.local/share/fonts/Sansk
+rit-2003.ttf></home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght
+.ttf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on bindu.pdf (15 pages, 4042935 bytes).
 
-PDF statistics: 191 PDF objects out of 1000 (max. 8388607)
- 151 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 131072)
+PDF statistics: 159 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 131072)
  88 words of extra memory for PDF output out of 10000 (max. 100000000)
 
