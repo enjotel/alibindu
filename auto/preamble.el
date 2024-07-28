@@ -4,14 +4,14 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("memoir" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("hyphenat" "htt") ("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "maxnames=99" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true") ("footmisc" "bottom")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+                     '(("hyphenat" "htt") ("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("footmisc" "bottom") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "maxnames=99" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -32,12 +32,13 @@
     "ragged2e"
     "longtable"
     "float"
-    "cleveref"
-    "hyperref"
+    "xparse"
     "xcolor"
+    "lettrine"
+    "footmisc"
+    "comment"
     "pifont"
     "fourier-orns"
-    "lettrine"
     "psvectorian"
     "paralist"
     "enumitem"
@@ -52,9 +53,8 @@
     "tikz"
     "biblatex"
     "ekdosis"
-    "footmisc"
-    "xparse"
-    "comment")
+    "hyperref"
+    "cleveref")
    (TeX-add-symbols
     '("myfn" 1)
     '("lowroman" 1)

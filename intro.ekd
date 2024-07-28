@@ -161,12 +161,12 @@
 <2-0-5>\ekdsubsep {\selectlanguage {english}moha} \getsiglum {L,N2}</2-0-5>
 <2-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}aśucitvaṃ} \getsiglum {ceteri}\ekdsep </2-0-5>
 <2-0-5>{\selectlanguage {english}aśūcitvaṃ} \getsiglum {N2}</2-0-5>
-<2-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}rāga°} \getsiglum {ceteri}\ekdsep </2-0-5>
-<2-0-5>{\selectlanguage {english}rāgaḥ} \getsiglum {P}</2-0-5>
+<2-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}rāgaḥ} \getsiglum {P}\ekdsep </2-0-5>
+<2-0-5>{\selectlanguage {english}rāga°} \getsiglum {X,U2}</2-0-5>
 <2-0-5>\ekdsubsep {\selectlanguage {english}rāja°} \getsiglum {L}</2-0-5>
 <2-0-5>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {E}</2-0-5>
 <2-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dveṣa} \getsiglum {L}\ekdsep </2-0-5>
-<2-0-5>{\selectlanguage {english}dveṣaḥ} \getsiglum {ceteri}</2-0-5>
+<2-0-5>{\selectlanguage {english}dveṣaḥ} \getsiglum {X,P,U2}</2-0-5>
 <2-0-5>\ekdsubsep {\selectlanguage {english}\om } \getsiglum {E}</2-0-5>
 <2-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {9}~}{\bfseries \selectlanguage {english}ālasyaṃ} \getsiglum {ceteri}\ekdsep </2-0-5>
 <2-0-5>{\selectlanguage {english}\om } \getsiglum {E}</2-0-5>
@@ -233,8 +233,8 @@
 <3-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}vartate} \getsiglum {ceteri}\ekdsep </3-0-5>
 <3-0-5>{\selectlanguage {english}pravartate} \getsiglum {U2}</3-0-5>
 <3-0-2>{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT p. 831-832): mūlakande sthale caikā nāḍī tejasvatī parā (\textit {tejasvitāparā} YK 1.246) |}</3-0-2>
-<3-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \textit {Yogasaṃgraha} (IGNCA 30020 f. 2v. l. 4): iyaṃ iḍāpiṃgalasuṣumnā bhedā tridhā | vāmabhāge caṃdrarūpā iḍā | dakṣiṇabhāge sūryarūpā piṃgalā |}</3-0-3>
-<3-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT p. 832): gudorddhe (\textit {gudordhve} YK 1.247) sā tribhāgābhūdiḍā (\textit {tridhā bhūyādiḍāvāme} YK 1.247) nāma śaśiprabhā | śaktirūpā mahānāḍī dhyānāt sarvārthadāyinī | dakṣiṇe'pi kulākhyeti (\textit {dakṣiṇe piṅgalākhyeti} YK 1.248) puṃrūpā sūryavigrahā |}</3-0-2>
+<3-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \textit {Yogasaṃgraha} (IGNCA 30020 f. 2v. l. 4): iyaṃ iḍāpiṃgalasuṣumnā bhedā tridhā | vāma\-bhāge caṃdrarūpā iḍā | dakṣiṇabhāge sūryarūpā piṃgalā |}</3-0-3>
+<3-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT p. 832): gudorddhe (\textit {gudordhve} YK 1.247) sā tribhāgābhūd iḍā (\textit {tridhā bhūyād iḍā vāme} YK 1.247) nāma śaśiprabhā | śaktirūpā mahānāḍī dhyānāt sarvārthadāyinī | dakṣiṇe 'pi kulākhyeti (\textit {dakṣiṇe piṅgalākhyeti} YK 1.248) puṃrūpā sūryavigrahā |}</3-0-2>
 <3-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}iyam} \getsiglum {E}\ekdsep </3-0-5>
 <3-0-5>{\selectlanguage {english}iyaṃ} \getsiglum {ceteri}</3-0-5>
 <3-0-5>\ekdsubsep {\selectlanguage {english}trayaṃ} \getsiglum {L}</3-0-5>
@@ -256,7 +256,7 @@
 <3-0-5>{\selectlanguage {english}dakṣiṇe bhāge} \getsiglum {U1}</3-0-5>
 <3-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}~}{\bfseries \selectlanguage {english}vartate} \getsiglum {ceteri}\ekdsep </3-0-5>
 <3-0-5>{\selectlanguage {english}pravarttate} \getsiglum {U2}</3-0-5>
-<3-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}--\LRnum {6}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \textit {Yogasaṃgraha} (IGNCA 30020 f. 2v. ll. 5-6): madhyamārge atisūkṣmā visataṃtusamākārā koṭividyutprabhā bhuktimuktipradā suṣumnā nāḍī vartate | yasyāḥ jñāne purusaḥ sarvajño bhavati |}</3-0-3>
+<3-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}--\LRnum {6}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \textit {Yogasaṃgraha} (IGNCA 30020 f. 2v. ll. 5-6): madhyamārge atisūkṣmā visataṃtusamākārā koṭividyutprabhā bhuktimuktipradā suṣumnā nāḍī vartate | yasyāḥ jñāne puruṣaḥ sarvajño bhavati |}</3-0-3>
 <3-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}--\LRnum {6}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT p. 832): madhyabhāge suṣumnākhyā brahmaviṣṇuśivātmikā | śuddhacittena sā vijñā vidyutkoṭisamaprabhā | bhuktimuktipradā dhyānād aṇimādiguṇapradā |}</3-0-2>
 <3-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}--\LRnum {6}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. SSP 2.26 (Ed. p. 38): mūlakandād daṇḍalagnāṃ brahmanāḍīṃ śvetavarṇāṃ brahmarandhraparyantaṃ gatāṃ saṃsmaret | tanmadhye kamalatantunibhāṃ vidyutkoṭiprabhām ūrdhvagāminīṃ tāṃ mūrtiṃ manasā lakṣayet | sarvasiddhipradā bhavati |}</3-0-2>
 <3-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}madhyamārge} \getsiglum {ceteri}\ekdsep </3-0-5>
@@ -403,6 +403,8 @@
 <5-0-5>\ekdsubsep {\selectlanguage {english}uḍāganapīṭa°} \getsiglum {U1}</5-0-5>
 <5-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}guṇaḥ} \getsiglum {egoscr}\ekdsep </5-0-5>
 <5-0-5>{\selectlanguage {english}guṇa} \getsiglum {U2}</5-0-5>
+<5-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {0}~}{\bfseries \selectlanguage {english}vāhaṇa} \getsiglum {egoscr}\ekdsep </5-0-5>
+<5-0-5>{\selectlanguage {english}vahaṇa} \getsiglum {U2}</5-0-5>
 <5-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {4}~}{\bfseries \selectlanguage {english}sthūladehaḥ} \getsiglum {egoscr}\ekdsep </5-0-5>
 <5-0-5>{\selectlanguage {english}sthūladehā} \getsiglum {U2}</5-0-5>
 <5-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ṛgvedaḥ} \getsiglum {egoscr}\ekdsep </5-0-5>
@@ -4150,7 +4152,7 @@
 <44-0-5>{\selectlanguage {english}utpadyaṃte} \getsiglum {B}</44-0-5>
 <44-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT p. 840): dantādhāro (\textit {dvandvādhāro} YK 2.31a) dvādaśeti sarvarogakṣayaṅkaraḥ (\textit {sarvarogaḥ} YK 2.31b) | dhārayed dantayor madhye jihvāgrañ ca balād api | dhṛtvārddhaghaṭikāmātraṃ sarvarogan (\textit {sarvarogāṃs} YK 2.32b) tu nāśayet |}</44-0-2>
 <44-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. SSP 2.21 (Ed. p. 36): dvādaśe bhrūmadhyādhāre tatra candramaṇḍalaṃ dhyāyet śītalatāṃ yāti |}</44-0-2>
-<44-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \citetitle {hathasamketacandrikajodhpur} (MMPP 2244 f. 98r l. 9 - 99v l. 1): atha tadupari dvādaśodaṃtayor madhye daṃtādhāraḥ 12 tasmin sthāne jihvāyā agraṃ ghaṭīmātraṃ ardhaghaṭīmātraṃ balāt sthāpyate | tasmin sati samagraroganāśo bhavati |}</44-0-3>
+<44-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \citetitle {hathasamketacandrikajodhpur} (MMPP 2244 f. 98r l. 9 - 99v l. 1): atha tadupari dvādaśo daṃtayor madhye daṃtādhāraḥ 12 tasmin sthāne jihvāyā agraṃ ghaṭīmātraṃ ardhaghaṭīmātraṃ balāt sthāpyate | tasmin sati samagraroganāśo bhavati |}</44-0-3>
 <44-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dvādaśo dantayor madhye} \getsiglum {B,L,P,U1}\ekdsep </44-0-5>
 <44-0-5>{\selectlanguage {english}dvādaśadantayo madhye} \getsiglum {E}</44-0-5>
 <44-0-5>\ekdsubsep {\selectlanguage {english}dvādaśor daṃtayo madhye} \getsiglum {U2}</44-0-5>
@@ -4241,9 +4243,9 @@
 <45-0-5>{\selectlanguage {english}koṭikiraṇāḥ} \getsiglum {E,P}</45-0-5>
 <45-0-5>\ekdsubsep {\selectlanguage {english}koṭikiraṇaḥ} \getsiglum {U2}</45-0-5>
 <45-0-5>\ekdsubsep {\selectlanguage {english}koṭikiriṇā} \getsiglum {B,L}</45-0-5>
-<45-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT pp. 840-41): netrādhāraḥ ṣoḍaśo 'yam (\textit {aṅgulyagre na} YK 2.36) aṅgulyagreṇa cālayet | pṛthvīmadhye tu yatkiñcid varttate (\textit {sarvajñaḥ prabhavas tena varddhate} YK 2.36) jaṭharānalaḥ | pratyakṣaṃ tad bhavet sarvaṃ tad ābhyāsān na saṃśayaḥ |}</45-0-2>
+<45-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. YSv (PT pp. 840-41): netrādhāraḥ ṣoḍaśo 'yam (\textit {aṅgulyagre na} YK 2.36) aṅgulyagreṇa cālayet | pṛthvīmadhye tu yat kiñcid varttate (\textit {sarvajñaḥ prabhavas tena varddhate} YK 2.36) jaṭharānalaḥ | pratyakṣaṃ tad bhavet sarvaṃ tad ābhyāsān na saṃśayaḥ |}</45-0-2>
 <45-0-2>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}cf. SSP 2.25 (Ed. p. 37): avaśiṣṭe ṣoḍaśe brahmarandhram ākāśacakram | tatra śrīgurucaraṇāmbujayugmaṃ sadāvalokayet | ākāśavat pūrṇo bhavati |}</45-0-2>
-<45-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \citetitle {hathasamketacandrikajodhpur} (MMPP 2244 f. 99r l. 4): atha ṣoḍaśonetrādhāraḥ 16 ayaṃ aṃgulyagreṇa cālyate tadābhyāsāt pṛthivīmadhye yat kiñcit tejo vartate | tat sarvaṃ tejo dṛṣṭiviṣayaṃ bhavati | tad darśanāt puruṣaḥ sarvajño bhavati | iti pūrvoktaṣoḍaśādhārāṇāṃ spaṣṭo 'rthaḥ |}</45-0-3>
+<45-0-3>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}--\LRnum {5}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english} \approx \citetitle {hathasamketacandrikajodhpur} (MMPP 2244 f. 99r l. 4): atha ṣoḍaśo netrādhāraḥ 16 ayaṃ aṃgulyagreṇa cālyate tadābhyāsāt pṛthivīmadhye yat kiñcit tejo vartate | tat sarvaṃ tejo dṛṣṭiviṣayaṃ bhavati | taddarśanāt puruṣaḥ sarvajño bhavati | iti pūrvoktaṣoḍaśādhārāṇāṃ spaṣṭo 'rthaḥ |}</45-0-3>
 <45-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}ṣoḍaśo} \getsiglum {ceteri}\ekdsep </45-0-5>
 <45-0-5>{\selectlanguage {english}ṣoḍaśaḥ} \getsiglum {D,N1,N2}</45-0-5>
 <45-0-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {4}~}{\bfseries \selectlanguage {english}netrādhāraḥ} \getsiglum {ceteri}\ekdsep </45-0-5>
@@ -8291,15 +8293,15 @@
 <85-0-5>{\selectlanguage {english}kathyate} \getsiglum {L,U2}</85-0-5>
 <85-0-5>\ekdsubsep {\selectlanguage {english}°madhye iti cakravartye nāma madhye kathanaṃ} \getsiglum {U1}</85-0-5>
 <86-0-6>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}iti śrīrāmacandraparamahaṃsaviracitas yogatattvabinduḥ samāptaḥ}\ekdsep {\selectlanguage {english}The manuscripts and printed edition offer the following colophons with diverging variants of the title: \\ \par \textit {iti śrī paramarahasyāṃ śrīrāmacaṃdraviracitāyāṃ tatvayogabiṃdu samāptaḥ} || || \textit {śrī svasti} || || \textit {saṃvat 837} || \textit {vinā guru na siddhati} || \textit {eka vacana sosyā sālikaseṃ caudha bhuvana kā mola} || \textit {kahane soka haḍiyā avakyā vajāye ṃe ḍhola} || 1 || \textit {popoṣṭakaṃmā 10} | \textit {11} | \textit {12} | \textit {13} \textit {ja(m)mā 4 patra aghaḍiṣī ṭaṭāye ++ho} - \getsiglum {N1}\\ \par \textit {iti śrī paramarahasye śrīrāmacaṃdraviracitāyāṃ tatvayogabindu samāptam} || \textit {śubham} || \textit {yad akṣarapadabhraṣṭaṃ mātrāhīnaṃ cayad bhavet} || \textit {tat sarvaṃ kṣamya tām eva prasīdaparameśvara} ||1|| \textit {sūrye turaṅge navacandraghasre jyeṣṭhākhyakṛṣṇe bhṛguvārayuktam} || \textit {tattvaprayogaḥ ṣaḍaharṣasaṃjñaṃ likhitaṃ suhetoḥ bhavatīha dehi} || \textit {bhūyāt} || - \getsiglum {N2}\\ \par \textit {iti paramahaṃsyāṃ śrī rāmacaṃdraviracitāyāṃ tatvayogabiṃdu samāptaḥ} || \textit {śubham astu} | \textit {saṃvat 1841} || \textit {bhādau śudha 15 lī 0 ve sarva śake rā rāma rāma cha} - \getsiglum {D}\\ \par \textit {iti śrī pāramahaṃsyāṃ śrī rāmacaṃdraviracitāyāṃ tatvayogaviduḥ samāptaḥ} \textit {śubhaṃ bhūyāt} || \getsiglum {U1}\\ \par \textit {iti śrī rāmacaṃdraparamahaṃsaviracitas tatvabiṃduyogasamāptaḥ} || \textit {śrī śubhaṃ bhavatu} || \textit {śrīsītārāmārpaṇam astuḥ} || \textit {idaṃ pustakaṃ} || \textit {śake 1805} || \textit {vikramārka saṃmat} || \textit {1940} || \textit {jayanām asaṃvatsare} || \textit {udagayaṇe} || \textit {griṣmaṛtau}? || \textit {vaiśākhe māse} || \textit {kṛṣṇapakṣe} || \textit {tithau 23} || \textit {bhānuvāsare} || \textit {prathamayāmye} || \textit {śrīkṣetra avaṃtikāyāṃ} || \textit {śrī mahārudramahākālasaṃnidhāne na saṃpūrṇaṃ} || \textit {lekhanaṃ ānaṃt+ suta+ bābājī rājadherakareṇa likhyate} || \textit {yādṛśaṃ pustakaṃ dṛṣṭvā tādṛsaṃ likhitaṃ mayā} || \textit {yadi śuddhaṃ aśuddho vā mama doṣo na dīyate} ||1|| \textit {śrīrāma} || cha ||- \getsiglum {U2}\\ \par \textit {iti śrīrāmacaṃdraparamahaṃsa viracitas tatvabinduyogasamāptaḥ} \textit {saṃvat 1867 pauṣakṛṣṇaḥ 12 ravau śubham bhuyāt} || \textit {cha} || - \getsiglum {P}\\ \par \textit {iti rājayoge candraparamahaṃsaparipūrṇapīṭhamāhātmyaprakāśakaḥ binduyogaḥ samāptaḥ} || \textit {śubham astu} || \textit {iti śrīsarvaguṇasampannapaṃḍitasukhānandamiśrasūrisūnupaṇḍitajvālāprasādamiśrakṛtabhāṣāṭīkāsahito rājayoge binduyogaḥ samāptaḥ} || \textit {śubham astu} || \textit {śrīr astu} || - \getsiglum {E}\\ \par \textit {iti rājamacaṃdraparahaṃsa viracites tatvabiṃduyogasamāptaṃ} || \textit {śrī kṛṣṇārpaṇam astu} || \textit {cha} || - \getsiglum {L}\\}</86-0-6>
-<87-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}svapiṇḍe siddhidāyakaḥ} \getsiglum {YTB}\ekdsep </87-x-5>
-<87-x-5>{\selectlanguage {english}sapiṇḍisiddhidāyakaḥ} \getsiglum {PT}</87-x-5>
-<87-x-5>\ekdsubsep {\selectlanguage {english}sapiṇḍisiddhidāyakaḥ} \getsiglum {YK}</87-x-5>
-<88-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}bahiḥ} \getsiglum {egoscr}\ekdsep </88-x-5>
+<88-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}svapiṇḍe siddhidāyakaḥ} \getsiglum {YTB}\ekdsep </88-x-5>
+<88-x-5>{\selectlanguage {english}sapiṇḍisiddhidāyakaḥ} \getsiglum {PT}</88-x-5>
+<88-x-5>\ekdsubsep {\selectlanguage {english}sapiṇḍisiddhidāyakaḥ} \getsiglum {YK}</88-x-5>
+<88-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}bahiḥ} \getsiglum {egoscr}\ekdsep </88-x-5>
 <88-x-5>{\selectlanguage {english}vahiḥ} \getsiglum {PT}</88-x-5>
-<88-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {4}~}{\bfseries \selectlanguage {english}karmā karaṇaṃ} \getsiglum {egoscr}\ekdsep </88-x-5>
-<88-x-5>{\selectlanguage {english}karmakaraṇaṃ} \getsiglum {PT}</88-x-5>
-<89-x-1>{\selectlanguage {english}\color {blue}\bfseries \ifboolexpr {bool {ekd@pagelineation} or bool {ekd@pagevlineation}} {\LRnum {1}--\LRnum {332}.\LRnum {7}~}{\LRnum {1}--\LRnum {7}~}}{\bfseries \selectlanguage {english}}{\selectlanguage {english}J = Jodhpur MS. No. 2244; C = Chennai GOML Ms. No. R 3239; C\textsubscript {pc} = ibid. \textit {post correctionem}; M = Mysore ORI Ms. No. B 220.}</89-x-1>
-<89-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}dṛṣṭir} \getsiglum {J}\ekdsep </89-x-5>
+<89-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {4}~}{\bfseries \selectlanguage {english}karmā karaṇaṃ} \getsiglum {egoscr}\ekdsep </89-x-5>
+<89-x-5>{\selectlanguage {english}karmakaraṇaṃ} \getsiglum {PT}</89-x-5>
+<89-x-1>{\selectlanguage {english}\color {blue}\bfseries \ifboolexpr {bool {ekd@pagelineation} or bool {ekd@pagevlineation}} {\LRnum {1}--\LRnum {333}.\LRnum {7}~}{\LRnum {1}--\LRnum {7}~}}{\bfseries \selectlanguage {english}}{\selectlanguage {english}J = Jodhpur MS. No. 2244; C = Chennai GOML Ms. No. R 3239; C\textsubscript {pc} = ibid. \textit {post correctionem}; M = Mysore ORI Ms. No. B 220.}</89-x-1>
+<89-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}dṛṣṭir} \getsiglum {J}\ekdsep </89-x-5>
 <89-x-5>{\selectlanguage {english}dṛṣṭi} \getsiglum {C,Cpc,M}</89-x-5>
 <89-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}dvayor} \getsiglum {C,Cpc,M}\ekdsep </89-x-5>
 <89-x-5>{\selectlanguage {english}dvayo} \getsiglum {J}</89-x-5>
@@ -8312,9 +8314,9 @@
 <89-x-5>{\selectlanguage {english}pari} \getsiglum {M}</89-x-5>
 <89-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}āvarake} \getsiglum {J}\ekdsep </89-x-5>
 <89-x-5>{\selectlanguage {english}āvake} \getsiglum {C,Cpc, M}</89-x-5>
-<89-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}ghaṭīmātraṃ} \getsiglum {C,Cpc,M}\ekdsep </89-x-5>
-<89-x-5>{\selectlanguage {english}ghaṭīmātra} \getsiglum {J}</89-x-5>
-<90-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}°pīta°} \getsiglum {J}\ekdsep </90-x-5>
+<90-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}ghaṭīmātraṃ} \getsiglum {C,Cpc,M}\ekdsep </90-x-5>
+<90-x-5>{\selectlanguage {english}ghaṭīmātra} \getsiglum {J}</90-x-5>
+<90-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}°pīta°} \getsiglum {J}\ekdsep </90-x-5>
 <90-x-5>{\selectlanguage {english}yoṃta} \getsiglum {M}</90-x-5>
 <90-x-5>\ekdsubsep {\selectlanguage {english}yomta} \getsiglum {C,Cpc}</90-x-5>
 <90-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}ceti} \getsiglum {C,Cpc,M}\ekdsep </90-x-5>
@@ -8334,14 +8336,14 @@
 <90-x-5>{\selectlanguage {english}\om } \getsiglum {J}</90-x-5>
 <90-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}akṣivartmanī} \getsiglum {C,Cpc,M}\ekdsep </90-x-5>
 <90-x-5>{\selectlanguage {english}akṣivanmanī} \getsiglum {J}</90-x-5>
-<90-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {9}~}{\bfseries \selectlanguage {english}prāg} \getsiglum {C,Cpc,M}\ekdsep </90-x-5>
-<90-x-5>{\selectlanguage {english}prāgvad} \getsiglum {J}</90-x-5>
+<91-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {9}~}{\bfseries \selectlanguage {english}prāg} \getsiglum {C,Cpc,M}\ekdsep </91-x-5>
+<91-x-5>{\selectlanguage {english}prāgvad} \getsiglum {J}</91-x-5>
 <91-x-1>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}}{\selectlanguage {english}PT= \textit {Prāṇatoṣiṇī} quotes \textit {Yogavarodaya} with reference \textit {yogasvarodaye}. YK= \textit {Yogakarṇikā} quotes \textit {Yogavarodaya} with reference \textit {yogasvarodaye}.}</91-x-1>
-<91-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}subhru°} \getsiglum {PT}\ekdsep </91-x-5>
+<91-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {1}~}{\bfseries \selectlanguage {english}subhru°} \getsiglum {PT}\ekdsep </91-x-5>
 <91-x-5>{\selectlanguage {english}śukra°} \getsiglum {YK}</91-x-5>
-<91-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}bāhyabhyantara ākāśaṃ vādhāmantraṃ paraṃ mataṃ} \getsiglum {YK}\ekdsep </91-x-5>
-<91-x-5>{\selectlanguage {english}\om } \getsiglum {PT}</91-x-5>
-<92-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}śūnyaṃ} \getsiglum {YK}\ekdsep </92-x-5>
+<92-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {2}~}{\bfseries \selectlanguage {english}bāhyabhyantara ākāśaṃ vādhāmantraṃ paraṃ mataṃ} \getsiglum {YK}\ekdsep </92-x-5>
+<92-x-5>{\selectlanguage {english}\om } \getsiglum {PT}</92-x-5>
+<92-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}śūnyaṃ} \getsiglum {YK}\ekdsep </92-x-5>
 <92-x-5>{\selectlanguage {english}śunyaḥ} \getsiglum {PT}</92-x-5>
 <92-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {5}~}{\bfseries \selectlanguage {english}ghaṭasthāṃ} \getsiglum {YK}\ekdsep </92-x-5>
 <92-x-5>{\selectlanguage {english}ghaṭasthā} \getsiglum {PT}</92-x-5>
@@ -8353,8 +8355,8 @@
 <92-x-5>{\selectlanguage {english}duṣṭaṃ} \getsiglum {PT}</92-x-5>
 <92-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {8}~}{\bfseries \selectlanguage {english}khaṃ} \getsiglum {PT}\ekdsep </92-x-5>
 <92-x-5>{\selectlanguage {english}\om } \getsiglum {YK}</92-x-5>
-<92-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries }{\bfseries \selectlanguage {english}yad} \getsiglum {egoscr}\ekdsep </92-x-5>
-<92-x-5>{\selectlanguage {english}yad hi} \getsiglum {YK}</92-x-5>
-<92-x-5>\ekdsubsep {\selectlanguage {english}hi} \getsiglum {PT}</92-x-5>
-<93-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}ākāśam} \getsiglum {PT}\ekdsep </93-x-5>
+<93-x-5>{\selectlanguage {english}\color {blue}\bfseries \LRnum {8}~}{\bfseries \selectlanguage {english}yad} \getsiglum {egoscr}\ekdsep </93-x-5>
+<93-x-5>{\selectlanguage {english}yad hi} \getsiglum {YK}</93-x-5>
+<93-x-5>\ekdsubsep {\selectlanguage {english}hi} \getsiglum {PT}</93-x-5>
+<93-x-5>\hskip 0.75em{\selectlanguage {english}\color {blue}\bfseries \LRnum {3}~}{\bfseries \selectlanguage {english}ākāśam} \getsiglum {PT}\ekdsep </93-x-5>
 <93-x-5>{\selectlanguage {english}ākāśa} \getsiglum {YK}</93-x-5>

@@ -21,11 +21,11 @@
   \datalist[entry]{tixel/global//global/global/global}
     \entry{lucknow2021}{book}{}{}
       \name{editor}{3}{}{%
-        {{hash=17013553b5d3dc1bc7fb58405caa8bfd}{%
-           family={Iyer},
-           familyi={I\bibinitperiod},
-           given={Shri\bibnamedelimb K.\bibnamedelimi A.\bibnamedelimi Subramania},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=19e8c90fef00651c93c7daca474f46a4}{%
+           family={Subramania\bibnamedelima Iyer},
+           familyi={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Shri\bibnamedelimb K.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=a9c7c4b201d7a5102fd44221c4b60f1a}{%
            family={Sinha},
            familyi={S\bibinitperiod},
@@ -43,14 +43,14 @@
       \list{publisher}{1}{%
         {Muthulakshmi Research Academy, Akhil Bharatiya Sanskrit Parishad}%
       }
-      \strng{namehash}{f322a301b51914a25fca524b05108264}
-      \strng{fullhash}{f322a301b51914a25fca524b05108264}
-      \strng{fullhashraw}{f322a301b51914a25fca524b05108264}
-      \strng{bibnamehash}{f322a301b51914a25fca524b05108264}
-      \strng{editorbibnamehash}{f322a301b51914a25fca524b05108264}
-      \strng{editornamehash}{f322a301b51914a25fca524b05108264}
-      \strng{editorfullhash}{f322a301b51914a25fca524b05108264}
-      \strng{editorfullhashraw}{f322a301b51914a25fca524b05108264}
+      \strng{namehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{fullhash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{fullhashraw}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{bibnamehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editorbibnamehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editornamehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editorfullhash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editorfullhashraw}{764d7e37222f1a5d35235fb3f675991f}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{editor}
@@ -463,11 +463,11 @@
     \endentry
     \entry{baroda1950}{book}{}{}
       \name{author}{1}{}{%
-        {{hash=c9cda5945e5dbd78efa2c783ae3a7254}{%
-           family={Siromani},
-           familyi={S\bibinitperiod},
-           given={Raghavan\bibnamedelima Nambiar},
-           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=40a991beb2beb32ef5fcf286eb5b504c}{%
+           family={Nambiar\bibnamedelima Siromani},
+           familyi={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Raghavan},
+           giveni={R\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Baroda}%
@@ -475,14 +475,14 @@
       \list{publisher}{1}{%
         {Oriental Institute}%
       }
-      \strng{namehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{fullhash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{fullhashraw}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{bibnamehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authorbibnamehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authornamehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authorfullhash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authorfullhashraw}{c9cda5945e5dbd78efa2c783ae3a7254}
+      \strng{namehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{fullhash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{fullhashraw}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{bibnamehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authorbibnamehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authornamehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authorfullhash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authorfullhashraw}{40a991beb2beb32ef5fcf286eb5b504c}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
@@ -494,24 +494,23 @@
     \endentry
     \entry{anandakanda}{misc}{}{}
       \name{editor}{1}{}{%
-        {{hash=5a512adf569c70bfb5b74c5d292c2bad}{%
-           family={Sastri},
-           familyi={S\bibinitperiod},
-           given={S.\bibnamedelimi V.\bibnamedelimi Radhakrishna},
-           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=52d5833fe059be2463566421d3858a74}{%
+           family={Radhakrishna\bibnamedelima Sastri},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={S.\bibnamedelimi V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Sri Vilasam Press}%
       }
-      \strng{namehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{fullhash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{fullhashraw}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{bibnamehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editorbibnamehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editornamehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editorfullhash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editorfullhashraw}{5a512adf569c70bfb5b74c5d292c2bad}
-      \field{extraname}{2}
+      \strng{namehash}{52d5833fe059be2463566421d3858a74}
+      \strng{fullhash}{52d5833fe059be2463566421d3858a74}
+      \strng{fullhashraw}{52d5833fe059be2463566421d3858a74}
+      \strng{bibnamehash}{52d5833fe059be2463566421d3858a74}
+      \strng{editorbibnamehash}{52d5833fe059be2463566421d3858a74}
+      \strng{editornamehash}{52d5833fe059be2463566421d3858a74}
+      \strng{editorfullhash}{52d5833fe059be2463566421d3858a74}
+      \strng{editorfullhashraw}{52d5833fe059be2463566421d3858a74}
       \field{sortinit}{Ā}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{editor}
@@ -999,11 +998,11 @@
     \endentry
     \entry{ernst2013}{incollection}{}{}
       \name{author}{1}{}{%
-        {{hash=550734ea53114ec137f67b34812f6c91}{%
+        {{hash=114e2221e6e00031f545c99341bbd074}{%
            family={Ernst},
            familyi={E\bibinitperiod},
-           given={Carl\bibnamedelima W.},
-           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=9c127ea597caa12d9c19f6db12e958d8}{%
@@ -1023,14 +1022,14 @@
       \list{publisher}{1}{%
         {Smithsonian Institution}%
       }
-      \strng{namehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{fullhash}{550734ea53114ec137f67b34812f6c91}
-      \strng{fullhashraw}{550734ea53114ec137f67b34812f6c91}
-      \strng{bibnamehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authorbibnamehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authornamehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authorfullhash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authorfullhashraw}{550734ea53114ec137f67b34812f6c91}
+      \strng{namehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{fullhash}{114e2221e6e00031f545c99341bbd074}
+      \strng{fullhashraw}{114e2221e6e00031f545c99341bbd074}
+      \strng{bibnamehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authorbibnamehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authornamehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authorfullhash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authorfullhashraw}{114e2221e6e00031f545c99341bbd074}
       \strng{editorbibnamehash}{47d7861797963f4c24489e199a045aea}
       \strng{editornamehash}{47d7861797963f4c24489e199a045aea}
       \strng{editorfullhash}{47d7861797963f4c24489e199a045aea}
@@ -1650,26 +1649,26 @@
     \endentry
     \entry{encyclopediaasana}{book}{}{}
       \name{editor}{4}{}{%
-        {{hash=2bf1d8fce0d4d02ab24b3676f7033e1c}{%
+        {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
            family={Gharote},
            familyi={G\bibinitperiod},
-           given={Dr.\bibnamedelimi M.\bibnamedelimi L.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=0cca96a8a6bc2b929717a0a017825b21}{%
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=91a5736ed8ba649ae9b10ef4d7086d95}{%
            family={Jha},
            familyi={J\bibinitperiod},
-           given={Dr.\bibnamedelimi V.\bibnamedelimi K.},
-           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=b2775094fa8a7b1d7580c6d9053b1e8b}{%
+           given={V.\bibnamedelimi K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=db86bc2022c2a7c6a1f8a1470be9c3b1}{%
            family={Devnath},
            familyi={D\bibinitperiod},
-           given={Dr.\bibnamedelimi Parimal},
-           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=cf01bcd99db5fae83121c2374c62bcee}{%
+           given={Parimal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3f26acc9fdea1ccb70e7c75b98b619cd}{%
            family={Sakhalkar},
            familyi={S\bibinitperiod},
-           given={Dr.\bibnamedelimi S.\bibnamedelimi B.},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Lonavla}%
@@ -1677,14 +1676,14 @@
       \list{publisher}{1}{%
         {The Lonavla Yoga Institute}%
       }
-      \strng{namehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{fullhash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{fullhashraw}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{bibnamehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editorbibnamehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editornamehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editorfullhash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editorfullhashraw}{38faa809aeb75bcf43b6ed4644e463bf}
+      \strng{namehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{fullhash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{fullhashraw}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{bibnamehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editorbibnamehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editornamehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editorfullhash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editorfullhashraw}{3c104ccd098e54ff6f6d823e3c5cdde7}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{labelnamesource}{editor}
@@ -1910,8 +1909,8 @@
         {{hash=9cc9897180664493db466c36d7d7aba5}{%
            family={Baḍathvāl},
            familyi={B\bibinitperiod},
-           given={P.D.},
-           giveni={P\bibinitperiod}}}%
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Hindī Sāhity Sammelan}%
@@ -2052,23 +2051,23 @@
     \endentry
     \entry{goraksasiddhantasamgraha1973}{misc}{}{}
       \name{editor}{1}{}{%
-        {{hash=ca5fc7d2d1981594fa2d114207c42499}{%
-           family={Pāṇḍeya},
-           familyi={P\bibinitperiod},
-           given={Janārdana\bibnamedelima Śāstrī},
-           giveni={J\bibinitperiod\bibinitdelim Ś\bibinitperiod}}}%
+        {{hash=57056dd876f552f6085eb5a527dcdec0}{%
+           family={Śāstrī\bibnamedelima Pāṇḍeya},
+           familyi={Ś\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Janārdana},
+           giveni={J\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Varanaseya Sanskrit Vishvavidyalaya}%
       }
-      \strng{namehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{fullhash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{fullhashraw}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{bibnamehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editorbibnamehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editornamehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editorfullhash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editorfullhashraw}{ca5fc7d2d1981594fa2d114207c42499}
+      \strng{namehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{fullhash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{fullhashraw}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{bibnamehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editorbibnamehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editornamehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editorfullhash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editorfullhashraw}{57056dd876f552f6085eb5a527dcdec0}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{editor}
@@ -2261,11 +2260,6 @@
       \keyw{primary}
     \endentry
     \entry{hp}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=9e7976f4e33e17a8f5909d17c8f6024a}{%
-           family={Svātmarāma},
-           familyi={S\bibinitperiod}}}%
-      }
       \name{editor}{2}{}{%
         {{hash=bd4f2fae5e12ccbebccd10b67ca5fbe8}{%
            family={Digambarjī},
@@ -2281,24 +2275,20 @@
       \list{publisher}{1}{%
         {Kaivalyadhāma S. M. Y. M. Samiti}%
       }
-      \strng{namehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{fullhash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{fullhashraw}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{bibnamehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authorbibnamehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authornamehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authorfullhash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authorfullhashraw}{9e7976f4e33e17a8f5909d17c8f6024a}
+      \strng{namehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{fullhash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{fullhashraw}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{bibnamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
       \strng{editorbibnamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
       \strng{editornamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
       \strng{editorfullhash}{4b208898f2d7568d1c9b25c4aa71cbbd}
       \strng{editorfullhashraw}{4b208898f2d7568d1c9b25c4aa71cbbd}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{Lonvala}
-      \field{subtitle}{Haṭhapradīpikā}
+      \field{subtitle}{Haṭhapradīpikā of Svātmarāma}
       \field{title}{Haṭhapradīpikā}
       \field{year}{1970}
       \keyw{primary}
@@ -3064,23 +3054,23 @@
     \endentry
     \entry{kathaup}{misc}{}{}
       \name{author}{1}{}{%
-        {{hash=3e8457f8bbc113252914fb6807e76886}{%
+        {{hash=9b98be443dec01f1a6577f28face70b3}{%
            family={Vasu},
            familyi={V\bibinitperiod},
-           given={Sris\bibnamedelima Chandra},
+           given={Sri\bibnamedelima Chandra},
            giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Alhallabad Press}%
       }
-      \strng{namehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{fullhash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{fullhashraw}{3e8457f8bbc113252914fb6807e76886}
-      \strng{bibnamehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authorbibnamehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authornamehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authorfullhash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authorfullhashraw}{3e8457f8bbc113252914fb6807e76886}
+      \strng{namehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{fullhash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{fullhashraw}{9b98be443dec01f1a6577f28face70b3}
+      \strng{bibnamehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authorbibnamehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authornamehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authorfullhash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authorfullhashraw}{9b98be443dec01f1a6577f28face70b3}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
@@ -3265,21 +3255,21 @@
     \endentry
     \entry{kriyakrama}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=4cf87c4e3e81e9e6d5ff55a886d85a99}{%
-           family={kacchapeśvaraśivācārya},
-           familyi={k\bibinitperiod}}}%
+        {{hash=b7d146ec6c4875a2e96a64d0f7d15ea7}{%
+           family={Kacchapeśvaraśivācārya},
+           familyi={K\bibinitperiod}}}%
       }
       \list{organization}{1}{%
         {Muktabodha Indological Research Institute (MIRI)}%
       }
-      \strng{namehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{fullhash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{fullhashraw}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{bibnamehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authorbibnamehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authornamehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authorfullhash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authorfullhashraw}{4cf87c4e3e81e9e6d5ff55a886d85a99}
+      \strng{namehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{fullhash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{fullhashraw}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{bibnamehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authorbibnamehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authornamehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authorfullhash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authorfullhashraw}{b7d146ec6c4875a2e96a64d0f7d15ea7}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
@@ -4749,23 +4739,23 @@
     \endentry
     \entry{patanjalayoga1904}{misc}{}{}
       \name{editor}{1}{}{%
-        {{hash=165614e4455b8527de88863119a1513c}{%
-           family={Āgāśe},
-           familyi={Ā\bibinitperiod},
-           given={Kāśīnātha\bibnamedelima Śāstri},
-           giveni={K\bibinitperiod\bibinitdelim Ś\bibinitperiod}}}%
+        {{hash=fdfbf611817ed4dae1c2f3c23c1e9142}{%
+           family={Śāstri\bibnamedelima Āgāśe},
+           familyi={Ś\bibinitperiod\bibinitdelim Ā\bibinitperiod},
+           given={Kāśīnātha},
+           giveni={K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Ānandāśramamudraṇālaya}%
       }
-      \strng{namehash}{165614e4455b8527de88863119a1513c}
-      \strng{fullhash}{165614e4455b8527de88863119a1513c}
-      \strng{fullhashraw}{165614e4455b8527de88863119a1513c}
-      \strng{bibnamehash}{165614e4455b8527de88863119a1513c}
-      \strng{editorbibnamehash}{165614e4455b8527de88863119a1513c}
-      \strng{editornamehash}{165614e4455b8527de88863119a1513c}
-      \strng{editorfullhash}{165614e4455b8527de88863119a1513c}
-      \strng{editorfullhashraw}{165614e4455b8527de88863119a1513c}
+      \strng{namehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{fullhash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{fullhashraw}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{bibnamehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editorbibnamehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editornamehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editorfullhash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editorfullhashraw}{fdfbf611817ed4dae1c2f3c23c1e9142}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{editor}
@@ -5726,8 +5716,8 @@
         {{hash=bad728c888298d636658fff59c460a8a}{%
            family={Misra},
            familyi={M\bibinitperiod},
-           given={R.C.},
-           giveni={R\bibinitperiod}}}%
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Kitabghar}%
@@ -5874,28 +5864,28 @@
     \endentry
     \entry{ssplonavla}{misc}{}{}
       \name{editor}{2}{}{%
-        {{hash=2bf1d8fce0d4d02ab24b3676f7033e1c}{%
+        {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
            family={Gharote},
            familyi={G\bibinitperiod},
-           given={Dr.\bibnamedelimi M.\bibnamedelimi L.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=23cf609c316a7d264cf22f77422b3107}{%
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=56318a2403e91f7afa7e1ebe3917a5f1}{%
            family={Pai},
            familyi={P\bibinitperiod},
-           given={Dr.\bibnamedelimi G.\bibnamedelimi K.},
-           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+           given={G.\bibnamedelimi K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {The Lonavla Yoga Institute}%
       }
-      \strng{namehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{fullhash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{fullhashraw}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{bibnamehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editorbibnamehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editornamehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editorfullhash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editorfullhashraw}{e07706c10ce1b76a5cc3cb07540f08de}
+      \strng{namehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{fullhash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{fullhashraw}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{bibnamehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editorbibnamehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editornamehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editorfullhash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editorfullhashraw}{6d576c43ed756fb944b4211349d15bf6}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{editor}
@@ -6640,8 +6630,8 @@
         {{hash=b5231f212311d62bcbc089b36c76d471}{%
            family={Dyczkowski},
            familyi={D\bibinitperiod},
-           given={M.S.G.},
-           giveni={M\bibinitperiod}}}%
+           given={M.\bibnamedelimi S.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Albany}%
@@ -6902,16 +6892,16 @@
         {{hash=0a242faadc8f17c3d6517927b7d44cc8}{%
            family={Nandikeśvara},
            familyi={N\bibinitperiod}}}%
-        {{hash=24ffde361b45a5f226762a6496918e65}{%
-           family={Coomaraswamy},
-           familyi={C\bibinitperiod},
-           given={Ananda\bibnamedelima Kentish},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=5ea0bd5af3753f6b173092947998b2a2}{%
-           family={Duggirala},
-           familyi={D\bibinitperiod},
-           given={Gopala\bibnamedelima Kristnayya},
-           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=40d1b589fcf6e6cf1f210ec5041f4ce7}{%
+           family={Kentish\bibnamedelima Coomaraswamy},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ananda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bb0e149297b59a2c34762614a19ae87c}{%
+           family={Kristnayya\bibnamedelima Duggirala},
+           familyi={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Gopala},
+           giveni={G\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Cambridge}%
@@ -6919,14 +6909,14 @@
       \list{publisher}{1}{%
         {Harvard University Press}%
       }
-      \strng{namehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{fullhash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{fullhashraw}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{bibnamehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authorbibnamehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authornamehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authorfullhash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authorfullhashraw}{2aaec780c4c397ec2048e790a03d1869}
+      \strng{namehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{fullhash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{fullhashraw}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{bibnamehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authorbibnamehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authornamehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authorfullhash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authorfullhashraw}{e5723f6c9ff7b954407fbc9e6df9359b}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -7008,11 +6998,11 @@
            giveni={H\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=fb82f11e835e638d0f68e83ac36f028e}{%
+        {{hash=978ce59f16fd05abb6b7768e6759c713}{%
            family={Filliozat},
            familyi={F\bibinitperiod},
-           given={P.-S.},
-           giveni={P\bibinithyphendelim S\bibinitperiod}}}%
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=e622e7101ef1310d95b4d52668ad5aff}{%
            family={Narang},
            familyi={N\bibinitperiod},
@@ -7038,10 +7028,10 @@
       \strng{authornamehash}{d911a21375209b795293a8aed3d66445}
       \strng{authorfullhash}{d911a21375209b795293a8aed3d66445}
       \strng{authorfullhashraw}{d911a21375209b795293a8aed3d66445}
-      \strng{editorbibnamehash}{d16356e7c83e6eb5f26721209f993d92}
-      \strng{editornamehash}{d16356e7c83e6eb5f26721209f993d92}
-      \strng{editorfullhash}{d16356e7c83e6eb5f26721209f993d92}
-      \strng{editorfullhashraw}{d16356e7c83e6eb5f26721209f993d92}
+      \strng{editorbibnamehash}{1acd772d5b3161acb8e22c992c6fc680}
+      \strng{editornamehash}{1acd772d5b3161acb8e22c992c6fc680}
+      \strng{editorfullhash}{1acd772d5b3161acb8e22c992c6fc680}
+      \strng{editorfullhashraw}{1acd772d5b3161acb8e22c992c6fc680}
       \field{extraname}{2}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
@@ -7871,38 +7861,38 @@
            familyi={S\bibinitperiod},
            given={Gyan\bibnamedelima Shankar},
            giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=a691fb546307884b5ecdc963770fa903}{%
-           family={Swami},
-           familyi={S\bibinitperiod},
-           given={Maheshananda},
-           giveni={M\bibinitperiod}}}%
+        {{hash=1deff1557276388b0bf970ef2027bab7}{%
+           family={Maheshananda},
+           familyi={M\bibinitperiod},
+           given={Swami},
+           giveni={S\bibinitperiod}}}%
         {{hash=1ee8b59b52b45bad844c11f900cefe8b}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={B.R.},
-           giveni={B\bibinitperiod}}}%
-        {{hash=e2520b39a9bad856ac6be9ef7fbe88da}{%
-           family={G.S.},
-           familyi={G\bibinitperiod},
-           given={Sahay\bibnamedelima Shri},
-           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=74fd41552d4bc9b5ba9616adac984f78}{%
+           given={B.\bibnamedelimi R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=91c19f133e35a6a2867fbf4cd34a620b}{%
+           family={Sahay},
+           familyi={S\bibinitperiod},
+           given={Shri\bibnamedelimb G.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5bc7d627d18c74f05a27f804ebd8bcb1}{%
            family={Bodhe},
            familyi={B\bibinitperiod},
-           given={Shri\bibnamedelima R.K.Bodhe},
-           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given={Shri\bibnamedelimb R.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Kaivalyadhama S.M.Y.M. Samiti}%
       }
-      \strng{namehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{fullhash}{668491f942bd11a1beeab39ed764b997}
-      \strng{fullhashraw}{668491f942bd11a1beeab39ed764b997}
-      \strng{bibnamehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editorbibnamehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editornamehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editorfullhash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editorfullhashraw}{668491f942bd11a1beeab39ed764b997}
+      \strng{namehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{fullhash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{fullhashraw}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{bibnamehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editorbibnamehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editornamehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editorfullhash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editorfullhashraw}{2c8736e116e37755ae1aa56b578db4bf}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{editor}
@@ -8275,7 +8265,7 @@
       \strng{editornamehash}{0cb6672c06776b8443c01ae2b2da6df2}
       \strng{editorfullhash}{0cb6672c06776b8443c01ae2b2da6df2}
       \strng{editorfullhashraw}{0cb6672c06776b8443c01ae2b2da6df2}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{Y}
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{labelnamesource}{editor}
@@ -8776,36 +8766,6 @@
       \field{title}{Advayatārakopaniṣad}
       \keyw{primary}
     \endentry
-    \entry{patanjalayoga1904}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=165614e4455b8527de88863119a1513c}{%
-           family={Āgāśe},
-           familyi={Ā\bibinitperiod},
-           given={Kāśīnātha\bibnamedelima Śāstri},
-           giveni={K\bibinitperiod\bibinitdelim Ś\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Ānandāśramamudraṇālaya}%
-      }
-      \strng{namehash}{165614e4455b8527de88863119a1513c}
-      \strng{fullhash}{165614e4455b8527de88863119a1513c}
-      \strng{fullhashraw}{165614e4455b8527de88863119a1513c}
-      \strng{bibnamehash}{165614e4455b8527de88863119a1513c}
-      \strng{editorbibnamehash}{165614e4455b8527de88863119a1513c}
-      \strng{editornamehash}{165614e4455b8527de88863119a1513c}
-      \strng{editorfullhash}{165614e4455b8527de88863119a1513c}
-      \strng{editorfullhashraw}{165614e4455b8527de88863119a1513c}
-      \field{sortinit}{Ā}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Ānandāśramasaṃskṛtagrathāvaliḥ. Vol. 47}
-      \field{note}{Pune}
-      \field{subtitle}{Pātañjalayogasūtrāṇi vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni}
-      \field{title}{Rājamārtaṇḍa}
-      \field{year}{1904}
-      \keyw{primary}
-    \endentry
     \entry{hathayogasamhita1921}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=1d2c4548c7137fb26da1f8b96112d23a}{%
@@ -9001,8 +8961,8 @@
         {{hash=9cc9897180664493db466c36d7d7aba5}{%
            family={Baḍathvāl},
            familyi={B\bibinitperiod},
-           given={P.D.},
-           giveni={P\bibinitperiod}}}%
+           given={P.\bibnamedelimi D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Hindī Sāhity Sammelan}%
@@ -9958,11 +9918,11 @@
            giveni={H\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
-        {{hash=fb82f11e835e638d0f68e83ac36f028e}{%
+        {{hash=978ce59f16fd05abb6b7768e6759c713}{%
            family={Filliozat},
            familyi={F\bibinitperiod},
-           given={P.-S.},
-           giveni={P\bibinithyphendelim S\bibinitperiod}}}%
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=e622e7101ef1310d95b4d52668ad5aff}{%
            family={Narang},
            familyi={N\bibinitperiod},
@@ -9988,10 +9948,10 @@
       \strng{authornamehash}{d911a21375209b795293a8aed3d66445}
       \strng{authorfullhash}{d911a21375209b795293a8aed3d66445}
       \strng{authorfullhashraw}{d911a21375209b795293a8aed3d66445}
-      \strng{editorbibnamehash}{d16356e7c83e6eb5f26721209f993d92}
-      \strng{editornamehash}{d16356e7c83e6eb5f26721209f993d92}
-      \strng{editorfullhash}{d16356e7c83e6eb5f26721209f993d92}
-      \strng{editorfullhashraw}{d16356e7c83e6eb5f26721209f993d92}
+      \strng{editorbibnamehash}{1acd772d5b3161acb8e22c992c6fc680}
+      \strng{editornamehash}{1acd772d5b3161acb8e22c992c6fc680}
+      \strng{editorfullhash}{1acd772d5b3161acb8e22c992c6fc680}
+      \strng{editorfullhashraw}{1acd772d5b3161acb8e22c992c6fc680}
       \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
@@ -10379,38 +10339,38 @@
            familyi={S\bibinitperiod},
            given={Gyan\bibnamedelima Shankar},
            giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=a691fb546307884b5ecdc963770fa903}{%
-           family={Swami},
-           familyi={S\bibinitperiod},
-           given={Maheshananda},
-           giveni={M\bibinitperiod}}}%
+        {{hash=1deff1557276388b0bf970ef2027bab7}{%
+           family={Maheshananda},
+           familyi={M\bibinitperiod},
+           given={Swami},
+           giveni={S\bibinitperiod}}}%
         {{hash=1ee8b59b52b45bad844c11f900cefe8b}{%
            family={Sharma},
            familyi={S\bibinitperiod},
-           given={B.R.},
-           giveni={B\bibinitperiod}}}%
-        {{hash=e2520b39a9bad856ac6be9ef7fbe88da}{%
-           family={G.S.},
-           familyi={G\bibinitperiod},
-           given={Sahay\bibnamedelima Shri},
-           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=74fd41552d4bc9b5ba9616adac984f78}{%
+           given={B.\bibnamedelimi R.},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=91c19f133e35a6a2867fbf4cd34a620b}{%
+           family={Sahay},
+           familyi={S\bibinitperiod},
+           given={Shri\bibnamedelimb G.\bibnamedelimi S.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5bc7d627d18c74f05a27f804ebd8bcb1}{%
            family={Bodhe},
            familyi={B\bibinitperiod},
-           given={Shri\bibnamedelima R.K.Bodhe},
-           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+           given={Shri\bibnamedelimb R.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Kaivalyadhama S.M.Y.M. Samiti}%
       }
-      \strng{namehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{fullhash}{668491f942bd11a1beeab39ed764b997}
-      \strng{fullhashraw}{668491f942bd11a1beeab39ed764b997}
-      \strng{bibnamehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editorbibnamehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editornamehash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editorfullhash}{668491f942bd11a1beeab39ed764b997}
-      \strng{editorfullhashraw}{668491f942bd11a1beeab39ed764b997}
+      \strng{namehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{fullhash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{fullhashraw}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{bibnamehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editorbibnamehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editornamehash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editorfullhash}{2c8736e116e37755ae1aa56b578db4bf}
+      \strng{editorfullhashraw}{2c8736e116e37755ae1aa56b578db4bf}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{editor}
@@ -10468,6 +10428,40 @@
       \field{subtitle}{Vasiṣṭḥasaṃhitā (revised edition)}
       \field{title}{Vasiṣṭḥasaṃhitā}
       \field{year}{2005}
+      \keyw{primary}
+    \endentry
+    \entry{hp}{misc}{}{}
+      \name{editor}{2}{}{%
+        {{hash=bd4f2fae5e12ccbebccd10b67ca5fbe8}{%
+           family={Digambarjī},
+           familyi={D\bibinitperiod},
+           given={Svāmi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4f82e002b3628c17651d376b8a1ed352}{%
+           family={Pīrāmbar},
+           familyi={P\bibinitperiod},
+           given={Jhā},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Kaivalyadhāma S. M. Y. M. Samiti}%
+      }
+      \strng{namehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{fullhash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{fullhashraw}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{bibnamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{editorbibnamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{editornamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{editorfullhash}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{editorfullhashraw}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{Lonvala}
+      \field{subtitle}{Haṭhapradīpikā of Svātmarāma}
+      \field{title}{Haṭhapradīpikā}
+      \field{year}{1970}
       \keyw{primary}
     \endentry
     \entry{dikshit1983}{misc}{}{}
@@ -10542,8 +10536,8 @@
         {{hash=b5231f212311d62bcbc089b36c76d471}{%
            family={Dyczkowski},
            familyi={D\bibinitperiod},
-           given={M.S.G.},
-           giveni={M\bibinitperiod}}}%
+           given={M.\bibnamedelimi S.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Albany}%
@@ -10668,11 +10662,11 @@
     \endentry
     \entry{ernst2013}{incollection}{}{}
       \name{author}{1}{}{%
-        {{hash=550734ea53114ec137f67b34812f6c91}{%
+        {{hash=114e2221e6e00031f545c99341bbd074}{%
            family={Ernst},
            familyi={E\bibinitperiod},
-           given={Carl\bibnamedelima W.},
-           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           given={Carl},
+           giveni={C\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
         {{hash=9c127ea597caa12d9c19f6db12e958d8}{%
@@ -10692,14 +10686,14 @@
       \list{publisher}{1}{%
         {Smithsonian Institution}%
       }
-      \strng{namehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{fullhash}{550734ea53114ec137f67b34812f6c91}
-      \strng{fullhashraw}{550734ea53114ec137f67b34812f6c91}
-      \strng{bibnamehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authorbibnamehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authornamehash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authorfullhash}{550734ea53114ec137f67b34812f6c91}
-      \strng{authorfullhashraw}{550734ea53114ec137f67b34812f6c91}
+      \strng{namehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{fullhash}{114e2221e6e00031f545c99341bbd074}
+      \strng{fullhashraw}{114e2221e6e00031f545c99341bbd074}
+      \strng{bibnamehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authorbibnamehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authornamehash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authorfullhash}{114e2221e6e00031f545c99341bbd074}
+      \strng{authorfullhashraw}{114e2221e6e00031f545c99341bbd074}
       \strng{editorbibnamehash}{47d7861797963f4c24489e199a045aea}
       \strng{editornamehash}{47d7861797963f4c24489e199a045aea}
       \strng{editorfullhash}{47d7861797963f4c24489e199a045aea}
@@ -10900,85 +10894,6 @@
       \field{title}{Māyā, Puruṣa und Śiva: Die dualistische Tradition des Śivaismus nach Aghoraśivācāryas \textit{Tattvaprakāśavṛtti}}
       \field{year}{1996}
     \endentry
-    \entry{encyclopediaasana}{book}{}{}
-      \name{editor}{4}{}{%
-        {{hash=2bf1d8fce0d4d02ab24b3676f7033e1c}{%
-           family={Gharote},
-           familyi={G\bibinitperiod},
-           given={Dr.\bibnamedelimi M.\bibnamedelimi L.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=0cca96a8a6bc2b929717a0a017825b21}{%
-           family={Jha},
-           familyi={J\bibinitperiod},
-           given={Dr.\bibnamedelimi V.\bibnamedelimi K.},
-           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=b2775094fa8a7b1d7580c6d9053b1e8b}{%
-           family={Devnath},
-           familyi={D\bibinitperiod},
-           given={Dr.\bibnamedelimi Parimal},
-           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-        {{hash=cf01bcd99db5fae83121c2374c62bcee}{%
-           family={Sakhalkar},
-           familyi={S\bibinitperiod},
-           given={Dr.\bibnamedelimi S.\bibnamedelimi B.},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Lonavla}%
-      }
-      \list{publisher}{1}{%
-        {The Lonavla Yoga Institute}%
-      }
-      \strng{namehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{fullhash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{fullhashraw}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{bibnamehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editorbibnamehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editornamehash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editorfullhash}{38faa809aeb75bcf43b6ed4644e463bf}
-      \strng{editorfullhashraw}{38faa809aeb75bcf43b6ed4644e463bf}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{Encyclopedia of Traditional Asanas}
-      \field{year}{2006}
-      \keyw{seclit}
-    \endentry
-    \entry{ssplonavla}{misc}{}{}
-      \name{editor}{2}{}{%
-        {{hash=2bf1d8fce0d4d02ab24b3676f7033e1c}{%
-           family={Gharote},
-           familyi={G\bibinitperiod},
-           given={Dr.\bibnamedelimi M.\bibnamedelimi L.},
-           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=23cf609c316a7d264cf22f77422b3107}{%
-           family={Pai},
-           familyi={P\bibinitperiod},
-           given={Dr.\bibnamedelimi G.\bibnamedelimi K.},
-           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The Lonavla Yoga Institute}%
-      }
-      \strng{namehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{fullhash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{fullhashraw}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{bibnamehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editorbibnamehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editornamehash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editorfullhash}{e07706c10ce1b76a5cc3cb07540f08de}
-      \strng{editorfullhashraw}{e07706c10ce1b76a5cc3cb07540f08de}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{note}{Lonavla}
-      \field{subtitle}{Siddhasiddhāntapaddhatiḥ: A treatise on the Nātha philosophy by Gorakṣanātha}
-      \field{title}{Siddhasiddhāntapaddhati}
-      \field{year}{2016}
-      \keyw{primary}
-    \endentry
     \entry{hathatattvakaumudi}{misc}{}{}
       \name{editor}{3}{}{%
         {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
@@ -11087,6 +11002,51 @@
       \field{year}{2002}
       \keyw{primary}
     \endentry
+    \entry{encyclopediaasana}{book}{}{}
+      \name{editor}{4}{}{%
+        {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
+           family={Gharote},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=91a5736ed8ba649ae9b10ef4d7086d95}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={V.\bibnamedelimi K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=db86bc2022c2a7c6a1f8a1470be9c3b1}{%
+           family={Devnath},
+           familyi={D\bibinitperiod},
+           given={Parimal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3f26acc9fdea1ccb70e7c75b98b619cd}{%
+           family={Sakhalkar},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lonavla}%
+      }
+      \list{publisher}{1}{%
+        {The Lonavla Yoga Institute}%
+      }
+      \strng{namehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{fullhash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{fullhashraw}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{bibnamehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editorbibnamehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editornamehash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editorfullhash}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \strng{editorfullhashraw}{3c104ccd098e54ff6f6d823e3c5cdde7}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Encyclopedia of Traditional Asanas}
+      \field{year}{2006}
+      \keyw{seclit}
+    \endentry
     \entry{hatharatnavali}{misc}{}{}
       \name{editor}{3}{}{%
         {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
@@ -11124,6 +11084,40 @@
       \field{subtitle}{Haṭharatnāvalī of Śrīnivāsayogī}
       \field{title}{Haṭharatnāvalī}
       \field{year}{2002}
+      \keyw{primary}
+    \endentry
+    \entry{ssplonavla}{misc}{}{}
+      \name{editor}{2}{}{%
+        {{hash=a8fd9ed37648f6d67da8bb9eea3e73ce}{%
+           family={Gharote},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=56318a2403e91f7afa7e1ebe3917a5f1}{%
+           family={Pai},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Lonavla Yoga Institute}%
+      }
+      \strng{namehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{fullhash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{fullhashraw}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{bibnamehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editorbibnamehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editornamehash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editorfullhash}{6d576c43ed756fb944b4211349d15bf6}
+      \strng{editorfullhashraw}{6d576c43ed756fb944b4211349d15bf6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{Lonavla}
+      \field{subtitle}{Siddhasiddhāntapaddhatiḥ: A treatise on the Nātha philosophy by Gorakṣanātha}
+      \field{title}{Siddhasiddhāntapaddhati}
+      \field{year}{2016}
       \keyw{primary}
     \endentry
     \entry{kaivalyadamanuscripts2005}{book}{}{}
@@ -12285,47 +12279,6 @@
       \field{year}{2014}
       \keyw{primary}
     \endentry
-    \entry{lucknow2021}{book}{}{}
-      \name{editor}{3}{}{%
-        {{hash=17013553b5d3dc1bc7fb58405caa8bfd}{%
-           family={Iyer},
-           familyi={I\bibinitperiod},
-           given={Shri\bibnamedelimb K.\bibnamedelimi A.\bibnamedelimi Subramania},
-           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=a9c7c4b201d7a5102fd44221c4b60f1a}{%
-           family={Sinha},
-           familyi={S\bibinitperiod},
-           given={Shri\bibnamedelimb G.\bibnamedelimi C.},
-           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=241d964eea53c5f9c7b83a8a139c4c5e}{%
-           family={Sinha},
-           familyi={S\bibinitperiod},
-           given={Dr.\bibnamedelimi J.\bibnamedelimi P.},
-           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Lucknow}%
-      }
-      \list{publisher}{1}{%
-        {Muthulakshmi Research Academy, Akhil Bharatiya Sanskrit Parishad}%
-      }
-      \strng{namehash}{f322a301b51914a25fca524b05108264}
-      \strng{fullhash}{f322a301b51914a25fca524b05108264}
-      \strng{fullhashraw}{f322a301b51914a25fca524b05108264}
-      \strng{bibnamehash}{f322a301b51914a25fca524b05108264}
-      \strng{editorbibnamehash}{f322a301b51914a25fca524b05108264}
-      \strng{editornamehash}{f322a301b51914a25fca524b05108264}
-      \strng{editorfullhash}{f322a301b51914a25fca524b05108264}
-      \strng{editorfullhashraw}{f322a301b51914a25fca524b05108264}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{note}{Compiled by Shri Daulat Ram Yuyal}
-      \field{title}{A Catalogue Of Manuscripts In Akhil Bharatiya Sanskrit Parishad}
-      \field{year}{2021}
-      \keyw{catalogues}
-    \endentry
     \entry{yogapowers2017}{book}{}{}
       \name{editor}{1}{}{%
         {{hash=e0cc4315f8007b99d8c25c856b97bb6d}{%
@@ -12496,22 +12449,22 @@
     \endentry
     \entry{kriyakrama}{online}{}{}
       \name{author}{1}{}{%
-        {{hash=4cf87c4e3e81e9e6d5ff55a886d85a99}{%
-           family={kacchapeśvaraśivācārya},
-           familyi={k\bibinitperiod}}}%
+        {{hash=b7d146ec6c4875a2e96a64d0f7d15ea7}{%
+           family={Kacchapeśvaraśivācārya},
+           familyi={K\bibinitperiod}}}%
       }
       \list{organization}{1}{%
         {Muktabodha Indological Research Institute (MIRI)}%
       }
-      \strng{namehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{fullhash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{fullhashraw}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{bibnamehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authorbibnamehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authornamehash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authorfullhash}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \strng{authorfullhashraw}{4cf87c4e3e81e9e6d5ff55a886d85a99}
-      \field{sortinit}{k}
+      \strng{namehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{fullhash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{fullhashraw}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{bibnamehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authorbibnamehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authornamehash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authorfullhash}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \strng{authorfullhashraw}{b7d146ec6c4875a2e96a64d0f7d15ea7}
+      \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
@@ -13785,8 +13738,8 @@
         {{hash=bad728c888298d636658fff59c460a8a}{%
            family={Misra},
            familyi={M\bibinitperiod},
-           given={R.C.},
-           giveni={R\bibinitperiod}}}%
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Kitabghar}%
@@ -14106,21 +14059,52 @@
       \field{title}{Nādabindūpaniṣad}
       \keyw{primary}
     \endentry
+    \entry{baroda1950}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=40a991beb2beb32ef5fcf286eb5b504c}{%
+           family={Nambiar\bibnamedelima Siromani},
+           familyi={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Raghavan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baroda}%
+      }
+      \list{publisher}{1}{%
+        {Oriental Institute}%
+      }
+      \strng{namehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{fullhash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{fullhashraw}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{bibnamehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authorbibnamehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authornamehash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authorfullhash}{40a991beb2beb32ef5fcf286eb5b504c}
+      \strng{authorfullhashraw}{40a991beb2beb32ef5fcf286eb5b504c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Compiled by Nyayabhusana, Catalogue Assistant, Oriental Institute, Baroda}
+      \field{title}{An Alphabetical List of Manuscripts in the Oriental Institute Baroda, Vol. II}
+      \field{year}{1950}
+      \keyw{catalogues}
+    \endentry
     \entry{nandikesvara1917}{book}{}{}
       \name{author}{3}{}{%
         {{hash=0a242faadc8f17c3d6517927b7d44cc8}{%
            family={Nandikeśvara},
            familyi={N\bibinitperiod}}}%
-        {{hash=24ffde361b45a5f226762a6496918e65}{%
-           family={Coomaraswamy},
-           familyi={C\bibinitperiod},
-           given={Ananda\bibnamedelima Kentish},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=5ea0bd5af3753f6b173092947998b2a2}{%
-           family={Duggirala},
-           familyi={D\bibinitperiod},
-           given={Gopala\bibnamedelima Kristnayya},
-           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=40d1b589fcf6e6cf1f210ec5041f4ce7}{%
+           family={Kentish\bibnamedelima Coomaraswamy},
+           familyi={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ananda},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bb0e149297b59a2c34762614a19ae87c}{%
+           family={Kristnayya\bibnamedelima Duggirala},
+           familyi={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Gopala},
+           giveni={G\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Cambridge}%
@@ -14128,14 +14112,14 @@
       \list{publisher}{1}{%
         {Harvard University Press}%
       }
-      \strng{namehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{fullhash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{fullhashraw}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{bibnamehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authorbibnamehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authornamehash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authorfullhash}{2aaec780c4c397ec2048e790a03d1869}
-      \strng{authorfullhashraw}{2aaec780c4c397ec2048e790a03d1869}
+      \strng{namehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{fullhash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{fullhashraw}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{bibnamehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authorbibnamehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authornamehash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authorfullhash}{e5723f6c9ff7b954407fbc9e6df9359b}
+      \strng{authorfullhashraw}{e5723f6c9ff7b954407fbc9e6df9359b}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
@@ -14465,36 +14449,6 @@
       \field{year}{1963}
       \keyw{seclit}
     \endentry
-    \entry{goraksasiddhantasamgraha1973}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=ca5fc7d2d1981594fa2d114207c42499}{%
-           family={Pāṇḍeya},
-           familyi={P\bibinitperiod},
-           given={Janārdana\bibnamedelima Śāstrī},
-           giveni={J\bibinitperiod\bibinitdelim Ś\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Varanaseya Sanskrit Vishvavidyalaya}%
-      }
-      \strng{namehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{fullhash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{fullhashraw}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{bibnamehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editorbibnamehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editornamehash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editorfullhash}{ca5fc7d2d1981594fa2d114207c42499}
-      \strng{editorfullhashraw}{ca5fc7d2d1981594fa2d114207c42499}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Vol. 110. Series: Saraswatībhavana-Granthamālā}
-      \field{note}{Varanasi}
-      \field{subtitle}{Gorakṣasiddhāntasaṃgraha}
-      \field{title}{Gorakṣasiddhāntasaṃgraha}
-      \field{year}{1973}
-      \keyw{primary}
-    \endentry
     \entry{yogavasishta}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=1eaecc8eed2da61a0e23ba47561eb7c4}{%
@@ -14695,6 +14649,35 @@
       \field{subtitle}{Śabdakalpadruma}
       \field{title}{Śabdakalpadruma}
       \field{year}{1967}
+      \keyw{primary}
+    \endentry
+    \entry{anandakanda}{misc}{}{}
+      \name{editor}{1}{}{%
+        {{hash=52d5833fe059be2463566421d3858a74}{%
+           family={Radhakrishna\bibnamedelima Sastri},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={S.\bibnamedelimi V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Sri Vilasam Press}%
+      }
+      \strng{namehash}{52d5833fe059be2463566421d3858a74}
+      \strng{fullhash}{52d5833fe059be2463566421d3858a74}
+      \strng{fullhashraw}{52d5833fe059be2463566421d3858a74}
+      \strng{bibnamehash}{52d5833fe059be2463566421d3858a74}
+      \strng{editorbibnamehash}{52d5833fe059be2463566421d3858a74}
+      \strng{editornamehash}{52d5833fe059be2463566421d3858a74}
+      \strng{editorfullhash}{52d5833fe059be2463566421d3858a74}
+      \strng{editorfullhashraw}{52d5833fe059be2463566421d3858a74}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{note}{Srirangam}
+      \field{subtitle}{Ānandakanda}
+      \field{title}{Ānandakanda}
+      \field{year}{1952}
       \keyw{primary}
     \endentry
     \entry{newcataloguscatalogorum8}{book}{}{}
@@ -15428,36 +15411,6 @@
       \field{year}{1968}
       \keyw{primary}
     \endentry
-    \entry{anandakanda}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=5a512adf569c70bfb5b74c5d292c2bad}{%
-           family={Sastri},
-           familyi={S\bibinitperiod},
-           given={S.\bibnamedelimi V.\bibnamedelimi Radhakrishna},
-           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Sri Vilasam Press}%
-      }
-      \strng{namehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{fullhash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{fullhashraw}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{bibnamehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editorbibnamehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editornamehash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editorfullhash}{5a512adf569c70bfb5b74c5d292c2bad}
-      \strng{editorfullhashraw}{5a512adf569c70bfb5b74c5d292c2bad}
-      \field{extraname}{3}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{note}{Srirangam}
-      \field{subtitle}{Ānandakanda}
-      \field{title}{Ānandakanda}
-      \field{year}{1952}
-      \keyw{primary}
-    \endentry
     \entry{netratantra}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=2f7837e26f3fb372f52b550727a552b0}{%
@@ -15633,6 +15586,66 @@
       \field{subtitle}{Śrīmacchaṅkarābhagavatpādaviracitā Yogatārāvalī}
       \field{title}{Yogatārāvalī}
       \field{year}{1987}
+      \keyw{primary}
+    \endentry
+    \entry{patanjalayoga1904}{misc}{}{}
+      \name{editor}{1}{}{%
+        {{hash=fdfbf611817ed4dae1c2f3c23c1e9142}{%
+           family={Śāstri\bibnamedelima Āgāśe},
+           familyi={Ś\bibinitperiod\bibinitdelim Ā\bibinitperiod},
+           given={Kāśīnātha},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ānandāśramamudraṇālaya}%
+      }
+      \strng{namehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{fullhash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{fullhashraw}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{bibnamehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editorbibnamehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editornamehash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editorfullhash}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \strng{editorfullhashraw}{fdfbf611817ed4dae1c2f3c23c1e9142}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ānandāśramasaṃskṛtagrathāvaliḥ. Vol. 47}
+      \field{note}{Pune}
+      \field{subtitle}{Pātañjalayogasūtrāṇi vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni}
+      \field{title}{Rājamārtaṇḍa}
+      \field{year}{1904}
+      \keyw{primary}
+    \endentry
+    \entry{goraksasiddhantasamgraha1973}{misc}{}{}
+      \name{editor}{1}{}{%
+        {{hash=57056dd876f552f6085eb5a527dcdec0}{%
+           family={Śāstrī\bibnamedelima Pāṇḍeya},
+           familyi={Ś\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Janārdana},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Varanaseya Sanskrit Vishvavidyalaya}%
+      }
+      \strng{namehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{fullhash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{fullhashraw}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{bibnamehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editorbibnamehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editornamehash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editorfullhash}{57056dd876f552f6085eb5a527dcdec0}
+      \strng{editorfullhashraw}{57056dd876f552f6085eb5a527dcdec0}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Vol. 110. Series: Saraswatībhavana-Granthamālā}
+      \field{note}{Varanasi}
+      \field{subtitle}{Gorakṣasiddhāntasaṃgraha}
+      \field{title}{Gorakṣasiddhāntasaṃgraha}
+      \field{year}{1973}
       \keyw{primary}
     \endentry
     \entry{satcakraniru}{misc}{}{}
@@ -16036,37 +16049,6 @@
       \field{title}{Indian Epigraphical Glossary}
       \field{year}{1966}
       \keyw{seclit}
-    \endentry
-    \entry{baroda1950}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=c9cda5945e5dbd78efa2c783ae3a7254}{%
-           family={Siromani},
-           familyi={S\bibinitperiod},
-           given={Raghavan\bibnamedelima Nambiar},
-           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Baroda}%
-      }
-      \list{publisher}{1}{%
-        {Oriental Institute}%
-      }
-      \strng{namehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{fullhash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{fullhashraw}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{bibnamehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authorbibnamehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authornamehash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authorfullhash}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \strng{authorfullhashraw}{c9cda5945e5dbd78efa2c783ae3a7254}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Compiled by Nyayabhusana, Catalogue Assistant, Oriental Institute, Baroda}
-      \field{title}{An Alphabetical List of Manuscripts in the Oriental Institute Baroda, Vol. II}
-      \field{year}{1950}
-      \keyw{catalogues}
     \endentry
     \entry{shivanandakriya1982}{book}{}{}
       \name{author}{1}{}{%
@@ -16555,48 +16537,46 @@
       \field{year}{2015}
       \keyw{seclit}
     \endentry
-    \entry{hp}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=9e7976f4e33e17a8f5909d17c8f6024a}{%
-           family={Svātmarāma},
-           familyi={S\bibinitperiod}}}%
+    \entry{lucknow2021}{book}{}{}
+      \name{editor}{3}{}{%
+        {{hash=19e8c90fef00651c93c7daca474f46a4}{%
+           family={Subramania\bibnamedelima Iyer},
+           familyi={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Shri\bibnamedelimb K.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a9c7c4b201d7a5102fd44221c4b60f1a}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Shri\bibnamedelimb G.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=241d964eea53c5f9c7b83a8a139c4c5e}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Dr.\bibnamedelimi J.\bibnamedelimi P.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
       }
-      \name{editor}{2}{}{%
-        {{hash=bd4f2fae5e12ccbebccd10b67ca5fbe8}{%
-           family={Digambarjī},
-           familyi={D\bibinitperiod},
-           given={Svāmi},
-           giveni={S\bibinitperiod}}}%
-        {{hash=4f82e002b3628c17651d376b8a1ed352}{%
-           family={Pīrāmbar},
-           familyi={P\bibinitperiod},
-           given={Jhā},
-           giveni={J\bibinitperiod}}}%
+      \list{location}{1}{%
+        {Lucknow}%
       }
       \list{publisher}{1}{%
-        {Kaivalyadhāma S. M. Y. M. Samiti}%
+        {Muthulakshmi Research Academy, Akhil Bharatiya Sanskrit Parishad}%
       }
-      \strng{namehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{fullhash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{fullhashraw}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{bibnamehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authorbibnamehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authornamehash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authorfullhash}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{authorfullhashraw}{9e7976f4e33e17a8f5909d17c8f6024a}
-      \strng{editorbibnamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
-      \strng{editornamehash}{4b208898f2d7568d1c9b25c4aa71cbbd}
-      \strng{editorfullhash}{4b208898f2d7568d1c9b25c4aa71cbbd}
-      \strng{editorfullhashraw}{4b208898f2d7568d1c9b25c4aa71cbbd}
+      \strng{namehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{fullhash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{fullhashraw}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{bibnamehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editorbibnamehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editornamehash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editorfullhash}{764d7e37222f1a5d35235fb3f675991f}
+      \strng{editorfullhashraw}{764d7e37222f1a5d35235fb3f675991f}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Lonvala}
-      \field{subtitle}{Haṭhapradīpikā}
-      \field{title}{Haṭhapradīpikā}
-      \field{year}{1970}
-      \keyw{primary}
+      \field{note}{Compiled by Shri Daulat Ram Yuyal}
+      \field{title}{A Catalogue Of Manuscripts In Akhil Bharatiya Sanskrit Parishad}
+      \field{year}{2021}
+      \keyw{catalogues}
     \endentry
     \entry{vayupurana}{misc}{}{}
       \name{editor}{1}{}{%
@@ -16879,23 +16859,23 @@
     \endentry
     \entry{kathaup}{misc}{}{}
       \name{author}{1}{}{%
-        {{hash=3e8457f8bbc113252914fb6807e76886}{%
+        {{hash=9b98be443dec01f1a6577f28face70b3}{%
            family={Vasu},
            familyi={V\bibinitperiod},
-           given={Sris\bibnamedelima Chandra},
+           given={Sri\bibnamedelima Chandra},
            giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Alhallabad Press}%
       }
-      \strng{namehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{fullhash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{fullhashraw}{3e8457f8bbc113252914fb6807e76886}
-      \strng{bibnamehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authorbibnamehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authornamehash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authorfullhash}{3e8457f8bbc113252914fb6807e76886}
-      \strng{authorfullhashraw}{3e8457f8bbc113252914fb6807e76886}
+      \strng{namehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{fullhash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{fullhashraw}{9b98be443dec01f1a6577f28face70b3}
+      \strng{bibnamehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authorbibnamehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authornamehash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authorfullhash}{9b98be443dec01f1a6577f28face70b3}
+      \strng{authorfullhashraw}{9b98be443dec01f1a6577f28face70b3}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{author}

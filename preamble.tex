@@ -15,18 +15,6 @@
 % Global numbering for footnotes, figures, and tables
 \usepackage{chngcntr}
 
-% Global numbering for footnotes, figures, and tables
-%\counterwithout{footnote}{chapter}
-%\counterwithout{footnote}{section}
-%\counterwithout{figure}{chapter}
-%\counterwithout{figure}{section}
-%\counterwithout{table}{chapter}
-%\counterwithout{table}{section}
-%\renewcommand{\thetable}{\arabic{table}}
-%%%tables 
-
-
-
 
 %%% Hyphenation settings
 \usepackage[htt]{hyphenat}
@@ -60,14 +48,12 @@
 \usepackage[singlelinecheck=false]{caption}
 \usepackage{ragged2e}
 \usepackage{longtable}
-\usepackage{pdflscape}
 \usepackage{float}
-\usepackage{cleveref}
-\usepackage{hyperref}
-%\usepackage{bigfoot}
-%%% more functions
+\usepackage{xparse}
 \usepackage[dvipsnames]{xcolor}
-%\usepackage{footmisc}
+\usepackage{lettrine}
+\usepackage[bottom]{footmisc}
+\usepackage{comment}
 
 %%%für den Counter von Kapiteln und Sätzen! 
 \newcommand{\uproman}[1]{\uppercase\expandafter{\romannumeral#1}}
@@ -260,10 +246,7 @@ spbmk = \textcolor{blue}{spb},
 hpbmk = \textcolor{red}{hpb}
 }
 
-%\usepackage{fnpos}
-%\makeFNmid
-%\makeFNbottom
-\usepackage[bottom]{footmisc}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeatletter
 \def\blfootnote{\gdef\@thefnmark{}\@footnotetext}
@@ -385,7 +368,8 @@ surname=Liersch]
 %\DeclareShorthand{codd}{codd.}{V,I,R,H}
 %\DeclareShorthand{edd}{edd.}{Lit,Erm,Sm}
 \DeclareShorthand{egoscr}{\begin{otherlanguage}{english}em.\end{otherlanguage}}{ego}
-\DeclareShorthand{egoscrconj}{conj.}{ego}
+\DeclareShorthand{egoscrconj}{\begin{otherlanguage}{english}conj.\end{otherlanguage}}{ego}
+\DeclareShorthand{egocorr}{\begin{otherlanguage}{english}corr.\end{otherlanguage}}{ego}
 \DeclareShorthand{sellmerconj}{SELLMER conj.}{ego}
 \DeclareShorthand{hannederconj}{HANNEDER conj.}{ego}
 \DeclareShorthand{sellmerem}{SELLMER em.}{ego}
@@ -396,7 +380,6 @@ surname=Liersch]
 \DeclareShorthand{birchconj}{BIRCH conj.}{ego}
 \DeclareShorthand{egomute}{\unskip}{ego}
 
-\usepackage{xparse}
 
  %%% modifiziert 2023-11-23
 \NewDocumentEnvironment{tlg}{O{}O{}}{\setlength{\leftskip}{0pt}\vspace{-1ex}\begin{quotation}}{\hfill #2\ \vspace{-1ex}\end{quotation}\vspace{-1ex}} %verse environment
@@ -439,8 +422,6 @@ surname=Liersch]
 \NewDocumentEnvironment{euber}{O{}}{}{}
 \TeXtoTEIPat{\begin {euber}[#1]}{<note type="uberfootnote" target="##1">}
 \TeXtoTEIPat{\end {euber}}{</note>}
-
-\usepackage{comment}
 
 %\NewDocumentEnvironment{tadd}{O{}}
 
@@ -530,5 +511,5 @@ surname=Liersch]
 
 
 %%%%
-
-\usepackage{lettrine}
+\usepackage{hyperref}
+\usepackage{cleveref}
