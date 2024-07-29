@@ -368,6 +368,19 @@
       \field{title}{Amanaska}
       \keyw{primary}
     \endentry
+    \entry{amaraed}{misc}{}{}
+      \list{publisher}{1}{%
+        {Department of Public Instruction}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{note}{Bombay}
+      \field{subtitle}{Amarakosha with commentary by Maheshwara, enlarged by Raghunath Shastri Talekar}
+      \field{title}{Amarakośa}
+      \field{year}{1896}
+      \keyw{primary}
+    \endentry
     \entry{amaraugha2024}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -4767,6 +4780,15 @@
       \field{year}{1904}
       \keyw{primary}
     \endentry
+    \entry{rajayoga}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ms. No. R 17980. Transcribed by Jason Birch. Government Oriental Manuscript Library, Madras University, Chennai}
+      \field{subtitle}{Rājayogaḥ of Śrī Agasthyamaunīndra}
+      \field{title}{Rājayoga}
+      \keyw{primary}
+    \endentry
     \entry{birch2014}{article}{}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -4797,15 +4819,6 @@
       \field{pages}{401\bibrangedash 444}
       \range{pages}{44}
       \keyw{seclit}
-    \endentry
-    \entry{rajayoga}{misc}{}{}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Ms. No. R 17980. Transcribed by Jason Birch. Government Oriental Manuscript Library, Madras University, Chennai}
-      \field{subtitle}{Rājayogaḥ of Śrī Agasthyamaunīndra}
-      \field{title}{Rājayogaḥ}
-      \keyw{primary}
     \endentry
     \entry{ratirahasya}{misc}{}{}
       \name{author}{1}{}{%
@@ -8803,6 +8816,19 @@
       \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013), pp. 215--182}
       \field{subtitle}{Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
       \field{title}{Amanaska}
+      \keyw{primary}
+    \endentry
+    \entry{amaraed}{misc}{}{}
+      \list{publisher}{1}{%
+        {Department of Public Instruction}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{note}{Bombay}
+      \field{subtitle}{Amarakosha with commentary by Maheshwara, enlarged by Raghunath Shastri Talekar}
+      \field{title}{Amarakośa}
+      \field{year}{1896}
       \keyw{primary}
     \endentry
     \entry{apte1890practical}{book}{}{}
@@ -14972,7 +14998,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{Ms. No. R 17980. Transcribed by Jason Birch. Government Oriental Manuscript Library, Madras University, Chennai}
       \field{subtitle}{Rājayogaḥ of Śrī Agasthyamaunīndra}
-      \field{title}{Rājayogaḥ}
+      \field{title}{Rājayoga}
       \keyw{primary}
     \endentry
     \entry{tantrika3}{book}{}{}

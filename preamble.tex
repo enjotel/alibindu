@@ -54,10 +54,13 @@
 \usepackage{lettrine}
 \usepackage[bottom]{footmisc}
 \usepackage{comment}
-
+%no space in figures and tables
+%\usepackage[figurewithin=none]{caption}
 %%%für den Counter von Kapiteln und Sätzen! 
 \newcommand{\uproman}[1]{\uppercase\expandafter{\romannumeral#1}}
 \newcommand{\lowroman}[1]{\romannumeral#1\relax}
+\usepackage[debug]{hyperref}
+\usepackage{cleveref}
 
 \makeindex
 \newfontfamily\sanskritfont[Script=Devanagari,Mapping=RomDev,Scale=1.1]{Sanskrit2003}
@@ -369,7 +372,7 @@ surname=Liersch]
 %\DeclareShorthand{edd}{edd.}{Lit,Erm,Sm}
 \DeclareShorthand{egoscr}{\begin{otherlanguage}{english}em.\end{otherlanguage}}{ego}
 \DeclareShorthand{egoscrconj}{\begin{otherlanguage}{english}conj.\end{otherlanguage}}{ego}
-\DeclareShorthand{egocorr}{\begin{otherlanguage}{english}corr.\end{otherlanguage}}{ego}
+\DeclareShorthand{egocor}{\begin{otherlanguage}{english}corr.\end{otherlanguage}}{ego}
 \DeclareShorthand{sellmerconj}{SELLMER conj.}{ego}
 \DeclareShorthand{hannederconj}{HANNEDER conj.}{ego}
 \DeclareShorthand{sellmerem}{SELLMER em.}{ego}
@@ -377,7 +380,6 @@ surname=Liersch]
 \DeclareShorthand{mallinsonconj}{MALLINSON conj.}{ego}
 \DeclareShorthand{mallinsonem}{MALLINSON em.}{ego}
 \DeclareShorthand{birchem}{BIRCH em.}{ego}
-\DeclareShorthand{birchconj}{BIRCH conj.}{ego}
 \DeclareShorthand{egomute}{\unskip}{ego}
 
 
@@ -511,5 +513,3 @@ surname=Liersch]
 
 
 %%%%
-\usepackage{hyperref}
-\usepackage{cleveref}

@@ -13,6 +13,8 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
+    "logo"
+    "fig_folio1"
     "generalremarks"
     "dating"
     "ytb-topics"
@@ -20,6 +22,7 @@
     "fig:royalyogi2"
     "fig:royalyogi1"
     "fig:royalyogi3"
+    "n1description"
     "titlediscussion"
     "mahatmya"
     "fig:titel-hypothese"
@@ -28,7 +31,7 @@
     "karni"
     "amanaska"
     "yogasamgraha"
-    "hathacandrika"
+    "hathacandrikax"
     "stemma"
     "fig:synoptic1"
     "fig:paup-tree"
