@@ -2,24 +2,23 @@
 This file is part of the `ekdosis' package
 
 ekdosis -- Typesetting TEI xml-compliant critical editions
-Copyright (C) 2020--2021  Robert Alessi
+Copyright (c) 2020, 2021, 2022, 2023, 2024  Robert Alessi
+<alessi@robertalessi.net>
+
+Permission to use, copy, modify, and distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 Please send error reports and suggestions for improvements to Robert
 Alessi <alessi@robertalessi.net>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but
-WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see
-<http://www.gnu.org/licenses/>.
 --]]
 
 -- `'
@@ -50,7 +49,8 @@ local aftercmd = lpeg.Cs(lpeg.S("*[{,.?;:'`\"") + dblbkslash)
 local cmdargs = lpeg.Cs(spce^-1 * bsqbracketsii * bcbracesii * bsqbrackets^-1)
 local app = lpeg.Cs("app")
 local lemrdg = lpeg.Cs(lpeg.Cs("lem") + lpeg.Cs("rdg"))
-local note = lpeg.Cs("note")
+local footnote = lpeg.Cs(lpeg.P("footnote"))
+local note = lpeg.Cs(lpeg.P("note"))
 local inlem = lpeg.Cs{ "<lem" * ((1 - (lpeg.P"<lem" + lpeg.P"</lem>")) + lpeg.V(1))^0 * "</lem>" }
 local inanchor = lpeg.Cs{ "<anchor" * ((1 - (lpeg.P"<" + lpeg.P">")) + lpeg.V(1))^0 * ">" }
 local inopeningnote = lpeg.Cs{ "<note" * ((1 - (lpeg.P"<" + lpeg.P">")) + lpeg.V(1))^0 * ">" }
@@ -89,10 +89,11 @@ local citecmds = lpeg.Cs(lpeg.P("icite")
 			    + lpeg.P("autocite")
 			    + lpeg.P("Autocite")
 			    + lpeg.P("autocite *")
-			    + lpeg.P("Autocite *")
-)
+			    + lpeg.P("Autocite *"))
+
 --
 -- Bind to local variables
+--
 local next = next
 
 -- General
@@ -372,6 +373,7 @@ function ekdosis.getsiglum(str, opt)
    str = str..","
    str = string.gsub(str, "%s-(%,)", "%1")
    ctrl = str
+   str = ","..str
    if opt == "tei" then
       for i = 1,#shorthands do
 	 local tempa = string.gsub(shorthands[i].a, "([%-%.%_])", "%%%1")
@@ -379,22 +381,28 @@ function ekdosis.getsiglum(str, opt)
       end
       for i = 1,#idsRend do
 	 local tempb = string.gsub(idsRend[i].xmlid, "([%-%.%_])", "%%%1")
-	 str  = string.gsub(str, "(%f[%w%-%.%_])"..tempb.."(%,)",
+	 str  = string.gsub(str, "(%,%s?)"..tempb.."(%,)",
 			    "%1#"..idsRend[i].xmlid.."%2")
 	 ctrl = string.gsub(ctrl, tempb.."%,", "")
       end
+      str = string.gsub(str, "^%,", "")
       str = string.gsub(str, "%,(%s-)([%#])", " %2")
       str = string.gsub(str, "%,$", "")
    else
       for i = 1,#idsRend do
 	 local tempc = string.gsub(idsRend[i].xmlid, "([%-%.%_])", "%%%1")
-	 str  = string.gsub(str, tempc.."%,", idsRend[i].abbr)
+	 local tempd = string.gsub(idsRend[i].abbr, "%,", "ekd@comma")
+	 tempd = string.gsub(tempd, "%s+", "ekd@space")
+	 str  = string.gsub(str, tempc.."%,", tempd)
 	 ctrl = string.gsub(ctrl, tempc.."%,", "")
       end
+      str = string.gsub(str, "^%,", "")
       if familysep ~= nil
       then
 	 str = string.gsub(str, "%s+", familysep)
       end
+      str = string.gsub(str, "ekd@comma", ",")
+      str = string.gsub(str, "ekd@space", " ")
    end
    -- if string.find(ctrl, "[A-Za-z0-9]")
    if string.find(ctrl, "%S")
@@ -414,7 +422,7 @@ local cmdtotags = {
    {a="RLfootnote", b="note", c=" place=\"bottom\""},
    {a="enquote *", b="quote", c=""},
    {a="marginpar", b="note", c=" place=\"margin\""},
-   {a="footnote", b="note", c=" place=\"bottom\""},
+   -- {a="footnote", b="note", c=" place=\"bottom\""},
    {a="enquote", b="quote", c=""},
    {a="prname *", b="span",
     c=" xml:lang=\"ar-Latn\" type=\"transliterated\""},
@@ -445,8 +453,19 @@ local texpatttotags = {
    {a="\\resetlinenumber%s+", b=""},
    {a="\\ekdresethfmarks%s+", b=""},
    {a="\\indentpattern%s+{(.-)}", b=""},
-   {a="\\ekdnohfmark%s+", b=""},
+   {a="\\localmaxlines%s+{(.-)}", b=""},
+   {a="\\addtomaxlines%s+{(.-)}", b=""},
+   {a="\\ekdnohfmarks%s+", b=""},
+   {a="\\setmaxlines%s+{(.-)}", b=""},
+   {a="\\nomaxlines%s+", b=""},
+   {a="\\marginnote%s+(%b[])(%b{})(%b[])", b="<note place=\"margin\">ekd@ob%2ekd@cb</note>"},
+   {a="\\marginnote%s+(%b{})(%b[])", b="<note place=\"margin\">ekd@ob%1ekd@cb</note>"},
+   {a="\\marginnote%s+(%b[])(%b{})", b="<note place=\"margin\">ekd@ob%2ekd@cb</note>"},
+   {a="\\marginnote%s+(%b{})", b="<note place=\"margin\">ekd@ob%1ekd@cb</note>"},
    {a="\\settowidth%s+{(.-)}{(.-)}", b=""},
+   {a="\\teidirectE%s+(%b[]){(.-)}", b="<%2 ekd@os%1ekd@cs/>"},
+   {a="\\teidirectE%s+{(.-)}", b="<%1/>"},
+   {a="\\marginpar%s+(%b[])(%b{})", b="<note place=\"margin\">ekd@ob%2ekd@cb</note>"},
    {a="\\poemlines%s+{(.-)}", b=""},
    {a="\\pagebreak%s+%[[1-4]%]", b=""},
    {a="\\pagebreak%s+", b=""},
@@ -454,10 +473,20 @@ local texpatttotags = {
    {a="\\teidirect%s+{(.-)}(%b{})", b="<%1>ekd@ob%2ekd@cb</%1>"},
    {a="\\altrfont%s+", b=""},
    {a="\\endmark%s+", b=""},
+   {a="\\parnote%s+(%b[])(%b{})", b="<note>ekd@ob%2ekd@cb</note>"},
+   {a="\\parnote%s+(%b{})", b="<note>ekd@ob%1ekd@cb</note>"},
+   {a="\\ilabel%s+(%b{})", b=""},
+   {a="\\unskip%s+", b=""},
    {a="\\ekdpb%s+%*?%[(.-)%]{(.-)}", b=""},
    {a="\\ekdpb%s+%*?{(.-)}", b=""},
    {a="\\ekdpb%s+%*\\?", b=""},
    {a="\\mbox%s+(%b{})", b="ekd@ob%1ekd@cb"},
+   {a="\\App%s+(%b[])(%b{})(%b{})", b="\\app[ekd@os%1ekd@cs]{ekd@ob%2ekd@cbekd@ob%3ekd@cb}"},
+   {a="\\App%s+(%b{})(%b{})", b="\\app{ekd@ob%1ekd@cbekd@ob%2ekd@cb}"},
+   {a="\\bayt%s+%+?%*?(%b{})(%b[])(%b{})",
+    b="<l><seg type=\"hemistich\">ekd@ob%1ekd@cb</seg><seg type=\"tadwir\">ekd@os%2ekd@cs</seg><seg type=\"hemistich\">ekd@ob%3ekd@cb</seg></l>"},
+   {a="\\bayt%s+%+?%*?(%b{})(%b{})",
+    b="<l><seg type=\"hemistich\">ekd@ob%1ekd@cb</seg><seg type=\"hemistich\">ekd@ob%2ekd@cb</seg></l>"},
    {a="\\LR%s+(%b{})", b="ekd@ob%1ekd@cb"},
    {a="\\RL%s+(%b{})", b="ekd@ob%1ekd@cb"},
    {a="\\%=%=%=%s?", b="—"},
@@ -574,6 +603,26 @@ local function xml_entities(str)
    return str
 end
 
+local function footnote_totei(str)
+   str = gsub(str, dblbkslash * footnote * spce^-1 * bcbraces, "%1%2%3[]%4")
+   str = gsub(str,
+	      dblbkslash *
+		 footnote *
+		 spcenc^-1 *
+		 bsqbrackets *
+		 bcbraces *
+		 spcenc^-1,
+	      function(bkslash, cmd, opt, arg)
+		 opt = string.sub(opt, 2, -2)
+		 arg = string.sub(arg, 2, -2)
+		 teitype = get_attr_value(opt, "type")
+		 cmd = "note"
+		 if teitype ~= "" then teitype = " type=\""..teitype.."\"" else end
+		 return string.format("<%s%s place=\"bottom\">%s</%s>", cmd, teitype, arg, cmd)
+   end)
+   return str
+end
+
 local function note_totei(str)
    str = gsub(str,
 	      dblbkslash *
@@ -612,9 +661,9 @@ end
 local function remove_extra_anchors(str)
    str = gsub(str, lpeg.Cs("</note>") * inanchor * inopeningnote, function(enote, anchor, bnote)
    			local id_one = string.gsub(anchor, "(%<anchor )(.-)(/%>)", "%2")
-   			id_one = string.sub(get_attr_value(id_one, "xml:id"), 2, -2)
+			id_one = string.sub(get_attr_value(tostring(id_one), "xml:id"), 2, -2)
    			local id_two = string.match(bnote, "target%=.-right%((.-)%)")
-   			id_two = string.gsub(id_two, ".-right%((.-)%)", "%1")
+			id_two = string.gsub(tostring(id_two), ".-right%((.-)%)", "%1")
    			if id_one == id_two
    			then
    			   return string.format("%s%s", enote, bnote)
@@ -762,6 +811,22 @@ end
 
 -- better use lpeg: look into this later
 local function versetotei(str)
+   str = string.gsub(str, "\\begin%s?%{arabverse%}(%b[])(.-)\\end%s?%{arabverse%}", function(opt, arg)
+			arg = string.gsub(arg, "\\par%s?", "")
+			arg = gsub(arg, poemline, "")
+			opt = string.sub(opt, 2, -2)
+			if string.find(opt, "utf")
+			then
+			   return "\\p@rb "..string.format("<lg>%s</lg>", arg).."\\p@ra "
+			else
+			   return "\\p@rb "..string.format("<lg xml:lang=\"ar-Latn\" type=\"transliterated\" subtype=\"arabtex\">%s</lg>", arg).."\\p@ra "
+			end
+   end)
+   str = string.gsub(str, "\\begin%s?%{arabverse%}(.-)\\end%s?%{arabverse%}", function(arg)
+			arg = string.gsub(arg, "\\par%s?", "")
+			arg = gsub(arg, poemline, "")
+			return "\\p@rb "..string.format("<lg xml:lang=\"ar-Latn\" type=\"transliterated\" subtype=\"arabtex\">%s</lg>", arg).."\\p@ra "
+   end)
    str = string.gsub(str, "\\begin%s?%{ekdverse%}(%b[])(.-)\\end%s?%{ekdverse%}", function(opt, arg)
 			arg = string.gsub(arg, "\\par%s?", "")
 			arg = string.gsub(arg, "\\begin%s?%{patverse%*?%}", "")
@@ -841,12 +906,15 @@ end
 
 local function texpatttotei(str)
    for i = 1,#texpatttotags do
-      str = string.gsub(str, texpatttotags[i].a, texpatttotags[i].b)
-      str = string.gsub(str, "ekd@ob%{", "")
-      str = string.gsub(str, "%}ekd@cb", "")
-      str = string.gsub(str, "ekd@os%[", "")
-      str = string.gsub(str, "%]ekd@cs", "")
+      while string.find(str, texpatttotags[i].a)
+      do
+	 str = string.gsub(str, texpatttotags[i].a, texpatttotags[i].b)
+      end
    end
+   str = string.gsub(str, "ekd@ob%{", "")
+   str = string.gsub(str, "%}ekd@cb", "")
+   str = string.gsub(str, "ekd@os%[", "")
+   str = string.gsub(str, "%]ekd@cs", "")
    return str
 end
 
@@ -941,11 +1009,45 @@ local function cmdtotei(str)
       end)
    end
    -- temporarily:
+   -- lacunae
+   str = gsub(str,
+	      spcenc^-1 *
+	      dblbkslash *
+		 lpeg.Cs(lpeg.P("lacunaStart") + lpeg.P("lacunaEnd")) *
+		 spcenc^-1 *
+		 bsqbrackets^-1 *
+		 spcenc^-1,
+		 function(bkslash, cmd, opt)
+		    if opt == nil
+		    then
+		       return string.format("<%s/>", cmd)
+		    else
+		       opt = string.sub(opt, 2, -2)
+		       teiwit = get_attr_value(opt, "wit")
+		       if teiwit ~= "" then teiwit = " wit=\""..ekdosis.getsiglum(teiwit, "tei").."\"" else end
+		       teisource = get_attr_value(opt, "source")
+		       if teisource ~= "" then teisource = " source=\""..ekdosis.getsiglum(teisource, "tei").."\"" else end
+		       if opt == ""
+		       then
+			  return string.format("<%s></%s>", cmd, cmd)
+		       else
+			  return string.format("<%s%s%s></%s>",
+					       cmd, teiwit, teisource, cmd)
+		       end
+		    end
+   end)
+   str = string.gsub(str, "\\(getTEIxmlid)%s?(%b{})",
+		     function(cmd, body)
+			body = string.sub(body, 2, -2)
+			teisiglum = ekdosis.getsiglum(body, "tei")
+ 			-- body = cmdtotei(body)
+			return string.format("%s", teisiglum)
+   end)
    str = string.gsub(str, "\\(getsiglum)%s?(%b{})",
 		     function(cmd, body)
 			body = string.sub(body, 2, -2)
 			teisiglum = ekdosis.getsiglum(body, "tei")
- 			printsiglum = ekdosis.getsiglum(body)
+			printsiglum = cmdtotei(ekdosis.getsiglum(body))
  			-- body = cmdtotei(body)
 			return string.format("<ref target=\"%s\">%s</ref>",
 					     teisiglum, printsiglum)
@@ -993,6 +1095,29 @@ local function cmdtotei(str)
 			body = string.sub(body, 2, -2)
 			body = cmdtotei(body)
 			return string.format("<%s>%s</%s>", cmd, body, cmd)
+   end)
+   str = string.gsub(str, "\\([%{%}])", function(brace)
+			if brace == "{"
+			then
+			   brace = "ekd@ob"
+			else
+			   brace = "ekd@cb"
+			end
+			return brace
+   end)
+   str = gsub(str, bcbraces, function(inbraces)
+		 inbraces = string.sub(inbraces, 2, -2)
+		 inbraces = cmdtotei(inbraces)
+		 return inbraces
+   end)
+   str = string.gsub(str, "ekd@([oc])b", function(oc)
+			if oc == "o"
+			then
+			   oc = "{"
+			else
+			   oc = "}"
+			end
+			return oc
    end)
    str = string.gsub(str, "(%s)(%>)", "%2")
    return str
@@ -1123,7 +1248,20 @@ function ekdosis.gethfmark(page)
    then
       return hfmarks[indexpage].mark
    else
-      return hfmarks[#hfmarks-1].mark or ""
+      if page > hfmarks[#hfmarks].a
+      then
+	 return hfmarks[#hfmarks].mark
+      else
+	 for i=1,#hfmarks
+	 do
+	    if hfmarks[i].a > page
+	    then
+	       idfound = i
+	       break
+	    end
+	 end
+	 return hfmarks[idfound-1].mark or ""
+      end
    end
 end
 
@@ -1416,6 +1554,7 @@ end
 local function textotei(str)
    str = xml_entities(str)
    str = texpatttotei(str)
+   str = footnote_totei(str)
    str = note_totei(str)
    str = remove_extra_anchors(str)
    str = app_totei(str)
@@ -1429,6 +1568,7 @@ local function textotei(str)
    str = section_totei(str)
    str = icitetotei(str)
    str = cmdtotei(str)
+   str = texpatttotei(str)
    str = self_close_tags(str)
    str = partotei(str)
    if ekddivs
@@ -1885,49 +2025,50 @@ function ekdosis.mkenv()
       if isfound(texts_w_apparatus, aligned_texts[i].text)
       then
 	 table.insert(environments, "\\NewDocumentEnvironment{".. aligned_texts[i].text.."}{+b}"
-			 .."{\\begin{nthcolumn}{".. aligned_texts[i].column.."}"
-			 .."\\par"
-			 .."\\EkdosisColStart"
-			 .."\\EkdosisOn#1"
-		         .."}{\\EkdosisOff"
-			 .."\\EkdosisColStop"
-		         .."\\end{nthcolumn}"
-			 .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
-			 .. aligned_texts[i].column
-			 ..", \\luastringN{\\par#1\\par})}\\fi"
-			 .."}")
+		      .."{\\begin{nthcolumn}{".. aligned_texts[i].column.."}"
+		      .."\\csname if@pkg@breakable\\endcsname\\raggedbottom\\fi"
+		      .."\\par"
+		      .."\\EkdosisColStart"
+		      .."\\EkdosisOn#1"
+		      .."}{\\EkdosisOff"
+		      .."\\EkdosisColStop"
+		      .."\\end{nthcolumn}"
+		      .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
+		      .. aligned_texts[i].column
+		      ..", \\luastringN{\\par#1\\par})}\\fi"
+		      .."}")
 	 table.insert(environments, "\\NewDocumentEnvironment{".. aligned_texts[i].text.."*}{+b}"
-			 .."{\\begin{nthcolumn*}{".. aligned_texts[i].column.."}[]"
-			 .."\\par"
-			 .."\\EkdosisColStart"
-			 .."\\EkdosisOn#1"
-		         .."}{\\EkdosisOff"
-			 .."\\EkdosisColStop"
-		         .."\\end{nthcolumn*}"
-			 .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
-			 .. aligned_texts[i].column
-			 ..", \\luastringN{\\par#1\\par})}\\fi"
-			 .."}")
+		      .."{\\begin{nthcolumn*}{".. aligned_texts[i].column.."}[]"
+		      .."\\par"
+		      .."\\EkdosisColStart"
+		      .."\\EkdosisOn#1"
+		      .."}{\\EkdosisOff"
+		      .."\\EkdosisColStop"
+		      .."\\end{nthcolumn*}"
+		      .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
+		      .. aligned_texts[i].column
+		      ..", \\luastringN{\\par#1\\par})}\\fi"
+		      .."}")
       else
 	 table.insert(environments, "\\NewDocumentEnvironment{".. aligned_texts[i].text.."}{+b}"
-			 .."{\\begin{nthcolumn}{".. aligned_texts[i].column.."}"
-			 .."\\par"
-			 .."#1"
-		         .."}{\\end{nthcolumn}"
-			 .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
-			 .. aligned_texts[i].column
-			 ..", \\luastringN{\\par#1\\par})}\\fi"
-			 .."}")
+		      .."{\\begin{nthcolumn}{".. aligned_texts[i].column.."}"
+		      .."\\par"
+		      .."#1"
+		      .."}{\\end{nthcolumn}"
+		      .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
+		      .. aligned_texts[i].column
+		      ..", \\luastringN{\\par#1\\par})}\\fi"
+		      .."}")
 	 table.insert(environments, "\\NewDocumentEnvironment{".. aligned_texts[i].text.."*}{+b}"
-			 .."{\\begin{nthcolumn*}{"..aligned_texts[i].column.."}[]"
-			 .."\\par"
-			 .."#1"
-			 .."}{"
-		         .."\\end{nthcolumn*}"
-			 .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
-			 .. aligned_texts[i].column
-			 ..", \\luastringN{\\par#1\\par})}\\fi"
-			 .."}")
+		      .."{\\begin{nthcolumn*}{"..aligned_texts[i].column.."}[]"
+		      .."\\par"
+		      .."#1"
+		      .."}{"
+		      .."\\end{nthcolumn*}"
+		      .."\\csname iftei@export\\endcsname\\luadirect{ekdosis.storecoldata("
+		      .. aligned_texts[i].column
+		      ..", \\luastringN{\\par#1\\par})}\\fi"
+		      .."}")
       end
       forbid_xmlid = false
       if aligned_texts[i].attribute ~= ""
@@ -1958,10 +2099,66 @@ function ekdosis.export_coldata_totei()
    end
 end
 
+-- maxlines
+--
+
+local localmaxlines = nil
+
+function ekdosis.resetlocalmaxlines()
+   localmaxlines = nil
+   return "\\setcounter{ekd@locallnperpage}{0}"
+end
+
+function ekdosis.setlocalmaxlines(n)
+   n = tonumber(n)
+   if math.type(n) == "integer"
+   then
+      localmaxlines = n
+   end
+   return "\\setcounter{ekd@locallnperpage}{1}"
+end
+
+function ekdosis.addtomaxlines(ni, nii)
+   ni = tonumber(ni)
+   nii = tonumber(nii)
+   if math.type(ni) == "integer" and math.type(nii) == "integer"
+   then
+      localmaxlines = ni + nii
+   end
+   return "\\setcounter{ekd@locallnperpage}{1}"
+end
+
+function ekdosis.getlocalmaxlines()
+   if localmaxlines
+   then
+      return localmaxlines
+   end
+end
+
+-- apparatus height
+--
+local appheightchanged = false
+
+function ekdosis.changeappheight()
+   appheightchanged = true
+end
+
+function ekdosis.setheightandprintapparatus()
+   if appheightchanged == true
+   then
+      appheightchanged = false
+      return "\\csname ekd@insert@fitapparatus@tmpheight\\endcsname"
+   else
+      return "\\csname ekd@insert@fitapparatus\\endcsname"
+   end
+end
+
 -- handle multiple layers in apparatuses
 --
 local apparatuses = {}
 local bagunits = {}
+local glimit = nil
+local gunits = 0
 
 function ekdosis.newapparatus(teitype,
 			      appdir,
@@ -2054,28 +2251,61 @@ end
 
 function ekdosis.limit_bagunits(teitype)
    local limit = tonumber(getapplimit(teitype))
-   if limit >= 10 and bagunits[teitype] >= limit
-   then
-      bagunits[teitype] = 2
-      return "\\pagebreak"
+   if glimit then
+      glimit = tonumber(glimit)
+      gunits = tonumber(gunits)
+      if glimit >= 10 and gunits >= glimit
+      then
+	 bagunits[teitype] = 2
+	 gunits = 0
+	 return "\\pagebreak"
+      else
+	 if limit >= 10 and bagunits[teitype] >= limit
+	 then
+	    bagunits[teitype] = 2
+	    gunits = 0
+	    return "\\pagebreak"
+	 else
+	    return ""
+	 end
+      end
    else
-      return ""
+      if limit >= 10 and bagunits[teitype] >= limit
+      then
+	 bagunits[teitype] = 2
+	 gunits = 1
+	 return "\\pagebreak"
+      else
+	 return ""
+      end
    end
 end
 
 function ekdosis.addto_bagunits(teitype, n)
+   n = tonumber(n)
+   if glimit then gunits = gunits - n end
    if tonumber(getapplimit(teitype)) ~= 0
    then
-      n = tonumber(n)
       bagunits[teitype] = bagunits[teitype] - n
    end
 end
 
 function ekdosis.increment_bagunits(teitype)
+   if glimit then gunits = gunits + 1 end
    bagunits[teitype] = (bagunits[teitype] or 0) + 1
 end
 
+function ekdosis.setglimit(n)
+   if math.tointeger(n)
+   then
+      glimit = math.tointeger(math.abs(n))
+   else
+      glimit = nil
+   end
+end
+
 local function reset_bagunits()
+   if glimit then gunits = 0 end
    for i = 1,#apparatuses
    do
       bagunits[apparatuses[i].a] = 1
@@ -2187,12 +2417,12 @@ function ekdosis.appout()
 	       end
 	       if apparatuses[n].sep ~= ""
 	       then
-		  table.insert(output, "\\edef\\ekdsep{" .. apparatuses[n].sep .. "}")
+		  table.insert(output, "\\def\\ekdsep{" .. apparatuses[n].sep .. "}")
 	       else
 	       end
 	       if apparatuses[n].subsep ~= ""
 	       then
-		  table.insert(output, "\\edef\\ekdsubsep{" .. apparatuses[n].subsep .. "}")
+		  table.insert(output, "\\def\\ekdsubsep{" .. apparatuses[n].subsep .. "}")
 	       end
 	       if apparatuses[n].bhook ~= ""
 	       then
@@ -2315,6 +2545,7 @@ local lnlab_salt = 0
 local current_lnlab = nil
 local prev_lnlab = nil
 local prev_prev_lnlab = nil
+local indexed_labs = {}
 local notelabs = {}
 local current_notelab = nil
 local prev_notelab = nil
@@ -2328,16 +2559,24 @@ local function mdvisintable(table, value)
    return false
 end
 
-function ekdosis.dolnlab(str)
+function ekdosis.dolnlab(str, indexlab)
    if prev_lnlab ~= nil then prev_prev_lnlab = prev_lnlab end
    prev_lnlab = current_lnlab
    current_lemma = str
    i = md5.sumhexa(str)
    if not mdvisintable(lnlabs, i) then
       table.insert(lnlabs, i)
+      if indexlab ~= nil
+      then
+	 indexed_labs[indexlab] = i
+      end
    else
       i = i..salt
       table.insert(lnlabs, i)
+      if indexlab ~= nil
+      then
+	 indexed_labs[indexlab] = i
+      end
       salt = salt + 1
    end
    current_lnlab = i
@@ -2354,6 +2593,14 @@ end
 
 function ekdosis.getprevprevlnlab()
    return prev_prev_lnlab
+end
+
+function ekdosis.getindexedlab(str)
+   if indexed_labs[str] == nil
+   then return "\\csname ekd@wrong@ilabel\\endcsname"
+   else
+      return "\\linelabel{" .. indexed_labs[str] .. "-e}"
+   end
 end
 
 function ekdosis.setnotelab(str)
@@ -2381,34 +2628,46 @@ function ekdosis.getprevnotelab()
 end
 
 local cmdstorm = lpeg.P(lpeg.P("note")
-			   + lpeg.P("linelabel")
-			   + lpeg.P("index"))
+			+ lpeg.P("milestone")
+			+ lpeg.P("linelabel")
+			+ lpeg.P("ilabel")
+			+ lpeg.P("index"))
 
 local function remove_from_app(str)
    str = gsub(str, dblbkslash * cmdstorm * cmdargs, "")
    return str
 end
 
-function ekdosis.mdvappend(str, teitype)
+function ekdosis.mdvappend(str, teitype, ilabel)
+   if current_lemma == ""
+   then
+      current_lemma = "\\ekdunspace"
+   end
+   local labelbegin = "\\linelabel{" .. current_lnlab .. "-b}\\wordboundary{}"
+   local labelend = "\\linelabel{" .. current_lnlab .. "-e}"
+   if ilabel ~= nil
+   then
+      labelend = ""
+   end
    if teitype == nil
    then
-   return "\\linelabel{" .. current_lnlab .. "-b}\\wordboundary{}"
-      ..
-      current_lemma
-      ..
-      "\\linelabel{" .. current_lnlab .. "-e}"
-      ..
-      "\\csname append@app\\endcsname{"
-      .. remove_from_app(str) .. "}"
+      return labelbegin
+	 ..
+	 current_lemma
+	 ..
+	 labelend
+	 ..
+	 "\\csname append@app\\endcsname{"
+	 .. remove_from_app(str) .. "}"
    else
-   return "\\linelabel{" .. current_lnlab .. "-b}\\wordboundary{}"
-      ..
-      current_lemma
-      ..
-      "\\linelabel{" .. current_lnlab .. "-e}"
-      ..
-      "\\csname append@app\\endcsname" .. "[" .. teitype ..  "]{"
-      .. remove_from_app(str) .. "}"
+      return labelbegin
+	 ..
+	 current_lemma
+	 ..
+	 labelend
+	 ..
+	 "\\csname append@app\\endcsname" .. "[" .. teitype ..  "]{"
+	 .. remove_from_app(str) .. "}"
    end
 end
 

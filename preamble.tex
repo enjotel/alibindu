@@ -52,15 +52,13 @@
 \usepackage{xparse}
 \usepackage[dvipsnames]{xcolor}
 \usepackage{lettrine}
-\usepackage[bottom]{footmisc}
+%\usepackage[bottom]{footmisc}
 \usepackage{comment}
 %no space in figures and tables
 %\usepackage[figurewithin=none]{caption}
 %%%für den Counter von Kapiteln und Sätzen! 
 \newcommand{\uproman}[1]{\uppercase\expandafter{\romannumeral#1}}
 \newcommand{\lowroman}[1]{\romannumeral#1\relax}
-\usepackage[debug]{hyperref}
-\usepackage{cleveref}
 
 \makeindex
 \newfontfamily\sanskritfont[Script=Devanagari,Mapping=RomDev,Scale=1.1]{Sanskrit2003}
@@ -159,6 +157,12 @@
 
 %%% ekdosis
 \usepackage[teiexport=tidy,parnotes=true]{ekdosis}% =tidy cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards. parnotes=footnotes below or above critical apparatus
+
+\SetFootnotes{
+  arrangement=column,
+}
+\fncounteradjustment
+
 
 \SetLineation{lineation=page, modulo} %lineation=page sets thenumbering to start afresh at the top of each page. =modulo makes every fifth line numbered. {lineation=page} makes every line numbered! 
 
@@ -513,3 +517,7 @@ surname=Liersch]
 
 
 %%%%
+\usepackage[hyperfootnotes=false]{hyperref}
+\usepackage{cleveref}
+
+\providecommand\phantomsection{} 

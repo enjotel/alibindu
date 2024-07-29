@@ -807,6 +807,7 @@
       \field{subtitle}{Binduyogaḥ with Bhāṣaṭīkā}
       \field{title}{Binduyogaḥ}
       \field{year}{1905}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{goswamikriyananda}{online}{}{}
@@ -8258,7 +8259,7 @@
       \field{year}{2012}
       \keyw{seclit}
     \endentry
-    \entry{yogaupaniṣaded}{book}{}{}
+    \entry{yogaupaniṣaded}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=0cb6672c06776b8443c01ae2b2da6df2}{%
            family={Sastri},
@@ -13812,6 +13813,7 @@
       \field{subtitle}{Binduyogaḥ with Bhāṣaṭīkā}
       \field{title}{Binduyogaḥ}
       \field{year}{1905}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{yajnavalkya}{misc}{}{}
@@ -15406,7 +15408,7 @@
       \field{year}{1900}
       \keyw{catalogues}
     \endentry
-    \entry{yogaupaniṣaded}{book}{}{}
+    \entry{yogaupaniṣaded}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=0cb6672c06776b8443c01ae2b2da6df2}{%
            family={Sastri},
