@@ -105,6 +105,7 @@
     "ashtangatrans"
     "ashtangareversed"
     "sukumara"
+    "dhyanaredundanz"
     "samadhiabsent"
     "internalexternal"
     "lokatraya"
