@@ -52,8 +52,9 @@
 \usepackage{xparse}
 \usepackage[dvipsnames]{xcolor}
 \usepackage{lettrine}
-%\usepackage[bottom]{footmisc}
+%\usepackage[multiple]{footmisc}
 \usepackage{comment}
+%uncomment if don't want the kerning and punctuation switching:
 %no space in figures and tables
 %\usepackage[figurewithin=none]{caption}
 %%%für den Counter von Kapiteln und Sätzen! 
@@ -486,6 +487,7 @@ surname=Liersch]
 \TeXtoTEIPat{-}{ }
 \TeXtoTEIPat{4pt}{}
 \TeXtoTEIPat{2pt}{}
+\TeXtoTEIPat{\fnsep}{}
 \TeXtoTEIPat{\textcolor {#1}{#2}}{<hi rend="#1">#2</hi>} 
 
 % Nullify \selectlanguage in TEI as it has been used in
@@ -520,4 +522,6 @@ surname=Liersch]
 \usepackage[hyperfootnotes=false]{hyperref}
 \usepackage{cleveref}
 
-\providecommand\phantomsection{} 
+\providecommand\phantomsection{}
+
+\newcommand\fnsep{\textsuperscript{,}}
