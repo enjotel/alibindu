@@ -2,19 +2,38 @@
 \setstocksize{220mm}{155mm} 	        
 \settrimmedsize{220mm}{155mm}{*}	
 \settypeblocksize{170mm}{116mm}{*}	
-\setlrmargins{18mm}{*}{*}
+\setlrmargins{23.5mm}{*}{*}
 \setulmargins{*}{*}{1.2}
 %\setlength{\headheight}{5pt}%
 \checkandfixthelayout[lines]
 \linespread{1.16}
 \flushbottom
 %%%chapternumbering
-%\setcounter{secnumdepth}{2}
+%\setcounter{secnumdepth}{2}%
 % Set the depth of numbering
 
 % Global numbering for footnotes, figures, and tables
 \usepackage{chngcntr}
 
+% Definiere den Standard-Seitenstil
+\makepagestyle{defaultstyle}
+\makeevenhead{defaultstyle}{\thepage}{}{\leftmark}
+\makeoddhead{defaultstyle}{\rightmark}{}{\thepage}
+\makeevenfoot{defaultstyle}{}{}{}
+\makeoddfoot{defaultstyle}{}{}{}
+
+\pagestyle{defaultstyle}
+
+% Definiere einen speziellen Seitenstil für Kapitel 2
+\makepagestyle{chapter2style}
+\makeevenhead{chapter2style}{\thepage}{}{Chapter 2. The \emph{Yogatattvabindu} of Rāmacandra.}
+\makeoddhead{chapter2style}{Critical Edition \& Annotated translation}{}{\thepage}
+\makeevenfoot{chapter2style}{}{}{}
+\makeoddfoot{chapter2style}{}{}{}
+
+% Anpassen der Kapitelmarkierungen für den Standardstil
+\renewcommand{\chaptermark}[1]{\markboth{Chapter \thechapter. #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection. #1}}
 
 %%% Hyphenation settings
 \usepackage[htt]{hyphenat}
