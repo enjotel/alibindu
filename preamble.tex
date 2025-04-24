@@ -185,6 +185,7 @@
 
 
 \SetLineation{lineation=page, modulo} %lineation=page sets thenumbering to start afresh at the top of each page. =modulo makes every fifth line numbered. {lineation=page} makes every line numbered! 
+\SetSubseparator{\unskip, }
 
 \renewcommand{\linenumberfont}{\selectlanguage{english}\footnotesize} %sets language of lines to English
 
@@ -290,6 +291,7 @@ hpbmk = \textcolor{red}{hpb}
 \def\Dtwo{{\sigl{D}{2}}} \def\Dtwoac{\acpc{D}{2}{ac}\,} \def\Dtwopc{\acpc{D}{2}{pc}\,}
 \def\Uone{{\sigl{U}{1}}} \def\Uoneac{\acpc{U}{1}{ac}\,} \def\Uonepc{\acpc{U}{1}{pc}\,}                 
 \def\Utwo{{\sigl{U}{2}}} \def\Utwoac{\acpc{U}{2}{ac}\,} \def\Utwopc{\acpc{U}{2}{pc}\,}
+\def\Kone{{\sigl{K}{1}}} \def\Koneac{\acpc{K}{1}{ac}\,} \def\Konepc{\acpc{K}{1}{pc}\,}
 
 %%%%%%%%%%%%%% Tattvabinduyoga - List of Witnesses   %%%%%%%%%%%%%%%%%%%
 \DeclareWitness{ceteri}{\selectlanguage{english}cett.}{ceteri}[]   
@@ -303,6 +305,9 @@ hpbmk = \textcolor{red}{hpb}
 %\DeclareWitness{D2}{\selectlanguage{english}D\textsubscript{2}}{IGNCA 30020}[]  
 \DeclareWitness{U1}{\selectlanguage{english}U\textsubscript{1}}{SORI 1574}[] 
 \DeclareWitness{U2}{\selectlanguage{english}U\textsubscript{2}}{SORI 6082}[]
+
+\DeclareWitness{K1}{\selectlanguage{english}K\textsubscript{1}}{AS G 11019}[]
+
 \DeclareWitness{PT}{\selectlanguage{english}PT}{Prāṇatoṣiṇī}[]
 \DeclareWitness{YK}{\selectlanguage{english}YK}{Yogakarṇikā}[]
 \DeclareWitness{YTB}{\selectlanguage{english}YTB}{Yogatattvabindu}[]
@@ -311,7 +316,7 @@ hpbmk = \textcolor{red}{hpb}
 \DeclareWitness{Cpc}{\selectlanguage{english}C\textsubscript{pc}}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
 \DeclareWitness{M}{\selectlanguage{english}M}{Haṭhasaṅketacandrikā Mysore ORI Ms. No. B 220}[]
 %%%%%%%%%%%%%% Tattvabinduyoga - Groups of Witnesses   %%%%%%%%%%%%%%%%%%%
-\DeclareWitness{X}{\selectlanguage{english}\beta}{Beta Group: D,N1,N2,U1}[]
+\DeclareWitness{X}{\selectlanguage{english}\beta}{Beta Group: D,K1,N1,N2,U1}[]
 \DeclareWitness{Y}{\selectlanguage{english}\gamma}{Gamma Group: B,E,L,P,U2}[]
 %%%%%%%%%%%%% Testimonia
 \DeclareWitness{Ysv}{\selectlanguage{english}Ysv}{Yogasvarodaya}[] %%%add infos!  
