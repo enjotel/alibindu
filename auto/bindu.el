@@ -13,10 +13,6 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
-    "svabhava2"
-    "eightenjoyments"
-    "padmini"
-    "endsvabhava"
     "fig_wolpertinger"
     "fig1"
     "fig2"
