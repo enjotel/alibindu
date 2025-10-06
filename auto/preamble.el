@@ -2,7 +2,7 @@
  "preamble"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
-                     '(("memoir" "10pt")))
+                     '(("memoir" "11pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("hyphenat" "htt") ("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "maxnames=99" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true") ("hyperref" "hyperfootnotes=false")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
@@ -16,7 +16,7 @@
    (TeX-run-style-hooks
     "latex2e"
     "memoir"
-    "memoir10"
+    "memoir11"
     "chngcntr"
     "hyphenat"
     "babel"

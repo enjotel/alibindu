@@ -1,22 +1,29 @@
-\documentclass[10pt]{memoir}
-%\setstocksize{220mm}{155mm} 	        
-%\settrimmedsize{220mm}{155mm}{*}	
-%\settypeblocksize{192mm}{125mm}{*}	
-%\setlrmargins{18mm}{*}{*}
-%\setulmargins{*}{*}{1.2}
-%\checkandfixthelayout[lines]
-\setstocksize{220mm}{155mm} 	        
-\settrimmedsize{220mm}{155mm}{*}	
-\settypeblocksize{170mm}{116mm}{*}	
+\documentclass[11pt]{memoir}
+\setstocksize{240mm}{170mm} 	        
+\settrimmedsize{240mm}{170mm}{*}	
+\settypeblocksize{192mm}{125mm}{*}
+%\settypeblocksize{170mm}{116mm}{*}	
 \setlrmargins{18mm}{*}{*}
 \setulmargins{*}{*}{1.2}
-\setlength{\headheight}{5pt}%
+\setlength{\headheight}{12pt}%
 \checkandfixthelayout[lines]
-\linespread{1.16}
+\linespread{1.2}
 \flushbottom
 %%%chapternumbering
 %\setcounter{secnumdepth}{2}%
 % Set the depth of numbering
+
+% backup
+%\setstocksize{220mm}{155mm} 	        
+%\settrimmedsize{220mm}{155mm}{*}	
+%\settypeblocksize{192mm}{125mm}{*}
+%\settypeblocksize{170mm}{116mm}{*}	
+%\setlrmargins{18mm}{*}{*}
+%\setulmargins{*}{*}{1.2}
+%\setlength{\headheight}{5pt}%
+%\checkandfixthelayout[lines]
+%\linespread{1.16}
+%\flushbottom
 
 % Global numbering for footnotes, figures, and tables
 \usepackage{chngcntr}
@@ -32,7 +39,7 @@
 
 % Definiere einen speziellen Seitenstil für Kapitel 2
 \makepagestyle{chapter2style}
-\makeevenhead{chapter2style}{\thepage}{}{Chapter 2. The \emph{Yogatattvabindu} of Rāmacandra}
+\makeevenhead{chapter2style}{\thepage}{}{Chapter 3. The \emph{Tattvayogabindu} of Rāmacandra}
 \makeoddhead{chapter2style}{Critical Edition \& Annotated translation}{}{\thepage}
 \makeevenfoot{chapter2style}{}{}{}
 \makeoddfoot{chapter2style}{}{}{}
@@ -54,7 +61,7 @@
 \usepackage{babel-iast/babel-iast}
 
 %\babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.3]{AdishilaSan}%AdishilaSan}
-\babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.1]{Sanskrit2003}
+\babelfont[iast]{rm}[Renderer=Harfbuzz, Scale=1.3]{Sanskrit2003}
 %\babelfont[english]{rm}{Adobe Text Pro}
 \babelfont[english]{rm}{Vollkorn}
 %\babelfont[english]{rm}{1592 GLC Garamond}
@@ -306,7 +313,8 @@ hpbmk = \textcolor{red}{hpb}
 \DeclareWitness{B}{\selectlanguage{english}B}{Bodleian 485}[]       
 \DeclareWitness{N1}{\selectlanguage{english}N\textsubscript{1}}{NGMPP 38/31}[]
 \DeclareWitness{N2}{\selectlanguage{english}N\textsubscript{2}}{NGMPP B 38/35}[]
-\DeclareWitness{L}{\selectlanguage{english}L}{LALCHAND 5876}[]  
+\DeclareWitness{L}{\selectlanguage{english}L}{LALCHAND 5876}[]
+\DeclareWitness{J}{\selectlanguage{english}J}{JNUL 55769}[]  
 \DeclareWitness{D}{\selectlanguage{english}D}{IGNCA 30019}[] 
 %\DeclareWitness{D2}{\selectlanguage{english}D\textsubscript{2}}{IGNCA 30020}[]  
 \DeclareWitness{U1}{\selectlanguage{english}U\textsubscript{1}}{SORI 1574}[] 
@@ -317,13 +325,13 @@ hpbmk = \textcolor{red}{hpb}
 
 \DeclareWitness{PT}{\selectlanguage{english}PT}{Prāṇatoṣiṇī}[]
 \DeclareWitness{YK}{\selectlanguage{english}YK}{Yogakarṇikā}[]
-\DeclareWitness{YTB}{\selectlanguage{english}YTB}{Yogatattvabindu}[]
-\DeclareWitness{J}{\selectlanguage{english}J}{Haṭhasaṅketacandrikā Jodhpur MS. No. 2244}[]
+\DeclareWitness{TYB}{\selectlanguage{english}TYB}{Tattvayogabindu}[]
+\DeclareWitness{Jo}{\selectlanguage{english}Jo}{Haṭhasaṅketacandrikā Jodhpur MS. No. 2244}[]
 \DeclareWitness{C}{\selectlanguage{english}C}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
 \DeclareWitness{Cpc}{\selectlanguage{english}C\textsubscript{pc}}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
 \DeclareWitness{M}{\selectlanguage{english}M}{Haṭhasaṅketacandrikā Mysore ORI Ms. No. B 220}[]
 %%%%%%%%%%%%%% Tattvabinduyoga - Groups of Witnesses   %%%%%%%%%%%%%%%%%%%
-\DeclareWitness{X}{\selectlanguage{english}\beta}{Beta Group: D,K1,N1,N2,U1}[]
+\DeclareWitness{X}{\selectlanguage{english}\beta}{Beta Group: D,J,K1,N1,N2,U1}[]
 \DeclareWitness{Y}{\selectlanguage{english}\gamma}{Gamma Group: B,E,L,P,U2}[]
 %%%%%%%%%%%%% Testimonia
 \DeclareWitness{Ysv}{\selectlanguage{english}Ysv}{Yogasvarodaya}[] %%%add infos!  

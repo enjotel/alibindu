@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "intro"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -39,10 +39,11 @@
     "fig:nj-tree"
     "fig:tree-minspan"
     "fig:stemma"
-    "kriyayogastart"
     "introtrans"
-    "kriyayogaend"
+    "kriyayogastart"
     "siddhayoga"
+    "kriyayogaend"
+    "mantramantra"
     "cakra1"
     "cakra1trans"
     "cakra2"
@@ -111,7 +112,6 @@
     "lokatraya"
     "quadrupletofworlds"
     "gapn1n2start"
-    "sevenislands"
-    "saptasamudra"))
+    "sevenislands"))
  :latex)
 
