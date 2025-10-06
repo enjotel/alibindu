@@ -15,8 +15,6 @@
    (LaTeX-add-labels
     "fig_folio1"
     "generalremarks"
-    "cakra1"
-    "cakra1trans"
     "fig_wolpertinger"
     "fig1"
     "fig2"
