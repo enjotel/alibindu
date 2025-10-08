@@ -111,7 +111,6 @@
     "internalexternal"
     "lokatraya"
     "quadrupletofworlds"
-    "gapn1n2start"
-    "sevenislands"))
+    "gapn1n2start"))
  :latex)
 
