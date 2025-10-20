@@ -15,8 +15,9 @@
    (LaTeX-add-labels
     "fig_folio1"
     "generalremarks"
-    "rajabody"
-    "rajabodytrans"
+    "eightenjoyments"
+    "padmini"
+    "endsvabhava"
     "fig_wolpertinger"
     "fig1"
     "fig2"

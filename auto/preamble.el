@@ -5,13 +5,13 @@
                      '(("memoir" "11pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("hyphenat" "htt") ("babel" "english") ("caption" "singlelinecheck=false") ("xcolor" "dvipsnames") ("csquotes" "autostyle") ("nowidow" "defaultlines=2" "all") ("biblatex" "backend=biber" "sorting=nyt" "maxnames=99" "style=verbose") ("ekdosis" "teiexport=tidy" "parnotes=true") ("hyperref" "hyperfootnotes=false")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -60,6 +60,7 @@
     '("uproman" 1)
     '("sectionmark" 1)
     '("chaptermark" 1)
+    "TotalPrintedHeight"
     "normalpipe"
     "phantomsection"
     "fnsep"
@@ -144,6 +145,8 @@
     "itpars")
    (LaTeX-add-bibliographies
     "bindu")
+   (LaTeX-add-lengths
+    "savedtextfloatsep")
    (LaTeX-add-babel-babelfonts
     "rm")
    (LaTeX-add-xparse-macros
@@ -156,7 +159,8 @@
     '("\\NewDocumentCommand{\\xmlheadtrans}{O{}m}" "xmlheadtrans" "O{}m" "New")
     '("\\NewDocumentCommand{\\skp}{m}" "skp" "m" "New")
     '("\\NewDocumentCommand{\\skm}{m}" "skm" "m" "New")
-    '("\\NewDocumentCommand{\\dd}{}" "dd" "" "New"))
+    '("\\NewDocumentCommand{\\dd}{}" "dd" "" "New")
+    '("\\NewDocumentCommand{\\textappfiddle}{s O{.2}}" "textappfiddle" "s O{.2}" "New"))
    (LaTeX-add-xparse-environments
     '("\\NewDocumentEnvironment{tlg}{O{}O{}}" "tlg" "O{}O{}" "New")
     '("\\NewDocumentEnvironment{prose}{O{}}" "prose" "O{}" "New")

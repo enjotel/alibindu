@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "intro"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -87,11 +87,8 @@
     "jnanayogatrans1"
     "jnanayogaend"
     "svabhava1"
-    "tentattvas"
     "svabhava2"
-    "eightenjoyments"
-    "padmini"
-    "endsvabhava"
+    "tentattvas"
     "bahya"
     "bahyatrans"
     "continuebahya"
@@ -111,6 +108,7 @@
     "internalexternal"
     "lokatraya"
     "quadrupletofworlds"
-    "gapn1n2start"))
+    "gapn1n2start"
+    "sevenislands"))
  :latex)
 

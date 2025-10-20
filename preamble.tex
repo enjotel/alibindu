@@ -1,32 +1,43 @@
 \documentclass[11pt]{memoir}
+
+% ===============================
+% Papier- und Satzspiegel-Einstellungen
+% ===============================
 \setstocksize{240mm}{170mm} 	        
 \settrimmedsize{240mm}{170mm}{*}	
-\settypeblocksize{192mm}{125mm}{*}
-%\settypeblocksize{170mm}{116mm}{*}	
+\settypeblocksize{186mm}{125mm}{*}     % Typeblock bleibt gleich
 \setlrmargins{18mm}{*}{*}
-\setulmargins{*}{*}{1.2}
-\setlength{\headheight}{12pt}%
+
+% ===============================
+% Vertikale Ausrichtung: Textblock leicht nach unten, Header-Abstand harmonisch
+% ===============================
+\setulmargins{30mm}{*}{*}              % oberer Rand / Weißraum oben
+\setlength{\headheight}{14pt}%
+\setlength{\headsep}{18pt}             % Abstand Header – Text
+
 \checkandfixthelayout[lines]
 \linespread{1.2}
 \flushbottom
-%%%chapternumbering
-%\setcounter{secnumdepth}{2}%
-% Set the depth of numbering
 
-% backup
-%\setstocksize{220mm}{155mm} 	        
-%\settrimmedsize{220mm}{155mm}{*}	
-%\settypeblocksize{192mm}{125mm}{*}
-%\settypeblocksize{170mm}{116mm}{*}	
-%\setlrmargins{18mm}{*}{*}
-%\setulmargins{*}{*}{1.2}
-%\setlength{\headheight}{5pt}%
-%\checkandfixthelayout[lines]
-%\linespread{1.16}
-%\flushbottom
+% ===============================
+% Debug: Kontrolle der Höhen im Log
+% ===============================
+\AtBeginDocument{%
+  \typeout{------------------------------------}
+  \typeout{headheight = \the\headheight} 
+  \typeout{headsep = \the\headsep} 
+  \typeout{textheight = \the\textheight} 
+  \newdimen\TotalPrintedHeight
+  \TotalPrintedHeight=\dimexpr\headheight+\headsep+\textheight\relax
+  \typeout{Total printed area (header + text) = \the\TotalPrintedHeight} % sollte ≈ 19,5 cm sein
+  \typeout{------------------------------------}
+}
 
-% Global numbering for footnotes, figures, and tables
+
+
 \usepackage{chngcntr}
+
+%\usepackage{geometry}
 
 % Definiere den Standard-Seitenstil
 \makepagestyle{defaultstyle}
@@ -208,7 +219,8 @@
   lemmastyle=\bfseries,
   %refnumstyle=\selectlanguage{english}\bfseries,
   refnumstyle=\selectlanguage{english}\color{blue}\bfseries,
-  appheight=0.8\textheight,
+  %initialrule=\rule{0.5in}{0.2pt},
+  %appheight=0.8\textheight,
 }
 
 \newif\ifinapparatus
@@ -223,7 +235,6 @@ sep={: },
 
 \newif\ifinapparatus
 \DeclareApparatus{source}[
-%bhook=\inapparatustrue,
 lang=english,
 notelang=english,
 % bhook=\selectlanguage{english},
@@ -571,3 +582,16 @@ surname=Liersch]
 
 %\usepackage{floatpag}
 
+%%%A practical macro to control vertical spacing between edition text and apparatus criticus 
+
+\usepackage{xparse}
+
+\newlength\savedtextfloatsep
+\setlength{\savedtextfloatsep}{\textfloatsep}
+
+\NewDocumentCommand{\textappfiddle}{s O{.2}}{%
+  \IfBooleanTF{#1}%
+    {\setlength{\textfloatsep}{\savedtextfloatsep}}%
+    {\setlength{\textfloatsep}{#2\baselineskip}}%
+  \ignorespaces
+}
