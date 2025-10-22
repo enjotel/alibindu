@@ -89,7 +89,10 @@
     "svabhava1"
     "svabhava2"
     "tentattvas"
+    "eightenjoyments"
+    "padmini"
     "bahya"
+    "endsvabhava"
     "bahyatrans"
     "continuebahya"
     "antaralaksya"
@@ -107,8 +110,6 @@
     "samadhiabsent"
     "internalexternal"
     "lokatraya"
-    "quadrupletofworlds"
-    "gapn1n2start"
-    "sevenislands"))
+    "quadrupletofworlds"))
  :latex)
 

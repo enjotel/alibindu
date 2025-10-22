@@ -19,33 +19,31 @@
 
 \refsection{0}
   \datalist[entry]{tixel/global//global/global/global}
-    \entry{manasollasa}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=c42e8453871c5fc297363a9eb5478893}{%
-           family={Shrigondekar},
-           familyi={S\bibinitperiod},
-           given={G.\bibnamedelimi K.},
-           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Bombay Vaibhav Press}%
-      }
-      \strng{namehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{fullhash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{fullhashraw}{c42e8453871c5fc297363a9eb5478893}
-      \strng{bibnamehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editorbibnamehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editornamehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editorfullhash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editorfullhashraw}{c42e8453871c5fc297363a9eb5478893}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{editor}
+    \entry{advaya}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{note}{Mumbai}
-      \field{subtitle}{Mānasollāsa of King Someśvara}
-      \field{title}{Mānasollāsa}
-      \field{year}{1939}
+      \field{howpublished}{See Yoga Upaniṣads}
+      \field{subtitle}{Advayatāraka Upaniṣad}
+      \field{title}{Advayatārakopaniṣad}
+      \keyw{primary}
+    \endentry
+    \entry{hathasamketacandrikajodhpur}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ms. No. 2244. Man Singh Pustak Prakash Library, Jodhpur}
+      \field{subtitle}{Haṭhasaṃketacandrikā of Sundaradeva}
+      \field{title}{Haṭhasaṃketacandrikā}
+      \keyw{primary}
+    \endentry
+    \entry{hathasamketacandrikamysore}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ms. No. B220. Oriental Research Institute, University of Mysore}
+      \field{subtitle}{Haṭhasaṃketacandrikā of Sundaradeva}
+      \field{title}{Haṭhasaṃketacandrikā}
       \keyw{primary}
     \endentry
     \entry{birch2014}{article}{}{}
@@ -78,34 +76,55 @@
       \range{pages}{44}
       \keyw{seclit}
     \endentry
-    \entry{ratirahasya}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=5431b4edaa56a8d025fabd39078ffe5a}{%
-           family={Kokkoka},
-           familyi={K\bibinitperiod}}}%
+    \entry{sarvangayoga}{misc}{}{}
+      \name{editor}{1}{}{%
+        {{hash=bad728c888298d636658fff59c460a8a}{%
+           family={Misra},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Laṃvapurīya - "mumbai saṃskṛta" mudraṇayantrālaye mudritaṃ}%
+        {Kitabghar}%
       }
-      \strng{namehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{fullhash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{fullhashraw}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{bibnamehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authorbibnamehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authornamehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authorfullhash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authorfullhashraw}{5431b4edaa56a8d025fabd39078ffe5a}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labelnamesource}{author}
+      \strng{namehash}{bad728c888298d636658fff59c460a8a}
+      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
+      \strng{fullhashraw}{bad728c888298d636658fff59c460a8a}
+      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorfullhashraw}{bad728c888298d636658fff59c460a8a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Mumbai}
-      \field{subtitle}{Ratirahasya}
-      \field{title}{Ratirahasya}
+      \field{note}{Delhi}
+      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
+      \field{title}{Sarvāṅgayogapradīpikā}
+      \field{year}{1992}
+      \keyw{primary}
+    \endentry
+    \entry{shivayogapradipika}{misc}{}{}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{See Ph.D. Dissertation by Seth David Powell (2023), pp. 268--313}
+      \field{subtitle}{A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā}
+      \field{title}{Śivayogapradīpikā}
       \keyw{primary}
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{advaya}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{See Yoga Upaniṣads}
+      \field{subtitle}{Advayatāraka Upaniṣad}
+      \field{title}{Advayatārakopaniṣad}
+      \keyw{primary}
+    \endentry
     \entry{birch2014}{article}{}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -136,59 +155,60 @@
       \range{pages}{44}
       \keyw{seclit}
     \endentry
-    \entry{ratirahasya}{misc}{}{}
-      \name{author}{1}{}{%
-        {{hash=5431b4edaa56a8d025fabd39078ffe5a}{%
-           family={Kokkoka},
-           familyi={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Laṃvapurīya - "mumbai saṃskṛta" mudraṇayantrālaye mudritaṃ}%
-      }
-      \strng{namehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{fullhash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{fullhashraw}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{bibnamehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authorbibnamehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authornamehash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authorfullhash}{5431b4edaa56a8d025fabd39078ffe5a}
-      \strng{authorfullhashraw}{5431b4edaa56a8d025fabd39078ffe5a}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
+    \entry{hathasamketacandrikajodhpur}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labeltitlesource}{title}
-      \field{note}{Mumbai}
-      \field{subtitle}{Ratirahasya}
-      \field{title}{Ratirahasya}
+      \field{howpublished}{Ms. No. 2244. Man Singh Pustak Prakash Library, Jodhpur}
+      \field{subtitle}{Haṭhasaṃketacandrikā of Sundaradeva}
+      \field{title}{Haṭhasaṃketacandrikā}
       \keyw{primary}
     \endentry
-    \entry{manasollasa}{misc}{}{}
+    \entry{hathasamketacandrikamysore}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ms. No. B220. Oriental Research Institute, University of Mysore}
+      \field{subtitle}{Haṭhasaṃketacandrikā of Sundaradeva}
+      \field{title}{Haṭhasaṃketacandrikā}
+      \keyw{primary}
+    \endentry
+    \entry{sarvangayoga}{misc}{}{}
       \name{editor}{1}{}{%
-        {{hash=c42e8453871c5fc297363a9eb5478893}{%
-           family={Shrigondekar},
-           familyi={S\bibinitperiod},
-           given={G.\bibnamedelimi K.},
-           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=bad728c888298d636658fff59c460a8a}{%
+           family={Misra},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Bombay Vaibhav Press}%
+        {Kitabghar}%
       }
-      \strng{namehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{fullhash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{fullhashraw}{c42e8453871c5fc297363a9eb5478893}
-      \strng{bibnamehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editorbibnamehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editornamehash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editorfullhash}{c42e8453871c5fc297363a9eb5478893}
-      \strng{editorfullhashraw}{c42e8453871c5fc297363a9eb5478893}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \strng{namehash}{bad728c888298d636658fff59c460a8a}
+      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
+      \strng{fullhashraw}{bad728c888298d636658fff59c460a8a}
+      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
+      \strng{editorfullhashraw}{bad728c888298d636658fff59c460a8a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Mumbai}
-      \field{subtitle}{Mānasollāsa of King Someśvara}
-      \field{title}{Mānasollāsa}
-      \field{year}{1939}
+      \field{note}{Delhi}
+      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
+      \field{title}{Sarvāṅgayogapradīpikā}
+      \field{year}{1992}
+      \keyw{primary}
+    \endentry
+    \entry{shivayogapradipika}{misc}{}{}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{See Ph.D. Dissertation by Seth David Powell (2023), pp. 268--313}
+      \field{subtitle}{A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā}
+      \field{title}{Śivayogapradīpikā}
       \keyw{primary}
     \endentry
   \enddatalist
