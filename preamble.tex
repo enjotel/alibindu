@@ -663,12 +663,3 @@ surname=Liersch]
     {\setlength{\textfloatsep}{#2\baselineskip}}%
   \ignorespaces
 }
-
-\newenvironment{downshiftpage}[1][5mm]{%
-  \begingroup
-  % Oberen Rand lokal verkleinern (Standard: 5mm)
-  \setulmargins{\dimexpr\uppermargin-#1}{*}{*}
-  \checkandfixthelayout
-}{%
-  \endgroup
-}

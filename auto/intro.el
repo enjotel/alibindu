@@ -108,6 +108,9 @@
     "sukumara"
     "dhyanaredundance"
     "samadhiabsent"
-    "internalexternal"))
+    "internalexternal"
+    "lokatraya"
+    "quadrupletofworlds"
+    "gapn1n2start"))
  :latex)
 
