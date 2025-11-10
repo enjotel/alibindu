@@ -15,7 +15,6 @@
    (LaTeX-add-labels
     "fig_folio1"
     "generalremarks"
-    "attributesrajabody"
     "fig_wolpertinger"
     "fig1"
     "fig2"
