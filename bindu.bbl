@@ -19,6 +19,36 @@
 
 \refsection{0}
   \datalist[entry]{tixel/global//global/global/global}
+    \entry{hemacandras}{misc}{}{}
+      \name{editor}{1}{}{%
+        {{hash=defee87f32124bfd8c8e549e4e01ec76}{%
+           family={Qvarnström},
+           familyi={Q\bibinitperiod},
+           given={Olle},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindi Granth Karyalay}%
+      }
+      \strng{namehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{fullhash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{fullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{bibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editorbibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editornamehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editorfullhash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editorfullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Pandit Nathuram Premi Research Series. Vol. 29}
+      \field{note}{Mumbai}
+      \field{subtitle}{A Handbook on the Three Jewels of Jainism: the Yogaśāstra of Hemacandra}
+      \field{title}{Hemacandra's Yogaśāstra}
+      \field{year}{2012}
+      \keyw{primary}
+    \endentry
     \entry{birch2014}{article}{}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -49,36 +79,36 @@
       \range{pages}{44}
       \keyw{seclit}
     \endentry
-    \entry{mainkar2004}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=ed40bfec4f0c4be9ff0684a1603c5f9a}{%
-           family={Mainkar},
-           familyi={M\bibinitperiod},
-           given={T.\bibnamedelimi G.},
-           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+    \entry{clark2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=627104e85488354d584d29471eb37669}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
       }
       \list{publisher}{1}{%
-        {Chaukhamba Sanskrit Pratishthan}%
+        {Brill Academic Pub.}%
       }
-      \strng{namehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{fullhash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{fullhashraw}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{bibnamehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editorbibnamehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editornamehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editorfullhash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editorfullhashraw}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
+      \strng{namehash}{627104e85488354d584d29471eb37669}
+      \strng{fullhash}{627104e85488354d584d29471eb37669}
+      \strng{fullhashraw}{627104e85488354d584d29471eb37669}
+      \strng{bibnamehash}{627104e85488354d584d29471eb37669}
+      \strng{authorbibnamehash}{627104e85488354d584d29471eb37669}
+      \strng{authornamehash}{627104e85488354d584d29471eb37669}
+      \strng{authorfullhash}{627104e85488354d584d29471eb37669}
+      \strng{authorfullhashraw}{627104e85488354d584d29471eb37669}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Delhi}
-      \field{series}{The Vrajajivan Indological Studies}
-      \field{subtitle}{Sāṃkhyakārikā of Īśvarakṛṣṇa - With the Commentary of Gauḍapāda - Translated into Endlish with an Exhaustive Introcution and Notes}
-      \field{title}{Sāṅkhyakārikā}
-      \field{volume}{36}
-      \field{year}{2004}
-      \keyw{primary}
+      \field{subtitle}{The Integration of Ascetic Lineages into an Order}
+      \field{title}{The Daśanāmī-Saṃnyāsīs}
+      \field{year}{2006}
+      \keyw{seclit}
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
@@ -112,35 +142,65 @@
       \range{pages}{44}
       \keyw{seclit}
     \endentry
-    \entry{mainkar2004}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=ed40bfec4f0c4be9ff0684a1603c5f9a}{%
-           family={Mainkar},
-           familyi={M\bibinitperiod},
-           given={T.\bibnamedelimi G.},
-           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+    \entry{clark2006}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=627104e85488354d584d29471eb37669}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
       }
       \list{publisher}{1}{%
-        {Chaukhamba Sanskrit Pratishthan}%
+        {Brill Academic Pub.}%
       }
-      \strng{namehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{fullhash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{fullhashraw}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{bibnamehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editorbibnamehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editornamehash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editorfullhash}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \strng{editorfullhashraw}{ed40bfec4f0c4be9ff0684a1603c5f9a}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \strng{namehash}{627104e85488354d584d29471eb37669}
+      \strng{fullhash}{627104e85488354d584d29471eb37669}
+      \strng{fullhashraw}{627104e85488354d584d29471eb37669}
+      \strng{bibnamehash}{627104e85488354d584d29471eb37669}
+      \strng{authorbibnamehash}{627104e85488354d584d29471eb37669}
+      \strng{authornamehash}{627104e85488354d584d29471eb37669}
+      \strng{authorfullhash}{627104e85488354d584d29471eb37669}
+      \strng{authorfullhashraw}{627104e85488354d584d29471eb37669}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{The Integration of Ascetic Lineages into an Order}
+      \field{title}{The Daśanāmī-Saṃnyāsīs}
+      \field{year}{2006}
+      \keyw{seclit}
+    \endentry
+    \entry{hemacandras}{misc}{}{}
+      \name{editor}{1}{}{%
+        {{hash=defee87f32124bfd8c8e549e4e01ec76}{%
+           family={Qvarnström},
+           familyi={Q\bibinitperiod},
+           given={Olle},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindi Granth Karyalay}%
+      }
+      \strng{namehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{fullhash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{fullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{bibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editorbibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editornamehash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editorfullhash}{defee87f32124bfd8c8e549e4e01ec76}
+      \strng{editorfullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Delhi}
-      \field{series}{The Vrajajivan Indological Studies}
-      \field{subtitle}{Sāṃkhyakārikā of Īśvarakṛṣṇa - With the Commentary of Gauḍapāda - Translated into Endlish with an Exhaustive Introcution and Notes}
-      \field{title}{Sāṅkhyakārikā}
-      \field{volume}{36}
-      \field{year}{2004}
+      \field{howpublished}{Pandit Nathuram Premi Research Series. Vol. 29}
+      \field{note}{Mumbai}
+      \field{subtitle}{A Handbook on the Three Jewels of Jainism: the Yogaśāstra of Hemacandra}
+      \field{title}{Hemacandra's Yogaśāstra}
+      \field{year}{2012}
       \keyw{primary}
     \endentry
   \enddatalist
