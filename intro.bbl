@@ -363,7 +363,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013), pp. 215--182}
+      \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013)}
       \field{subtitle}{Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
       \field{title}{Amanaska}
       \keyw{primary}
@@ -1911,8 +1911,8 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{Prayāg}
-      \field{subtitle}{Gorakhbhāṇī}
-      \field{title}{Gorakhbhāṇī}
+      \field{subtitle}{Gorakhbāṇī}
+      \field{title}{Gorakhbāṇī}
       \field{year}{1960}
       \keyw{primary}
     \endentry
@@ -2079,7 +2079,7 @@
       \field{year}{1973}
       \keyw{primary}
     \endentry
-    \entry{liersch2023}{misc}{}{}
+    \entry{liersch2026}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=649c0a76b0cc3812ff47f8b47865e7ce}{%
            family={Liersch},
@@ -4359,8 +4359,8 @@
     \endentry
     \entry{white2011}{article}{}{}
       \name{editor}{2}{}{%
-        {{hash=1983d1e3616ea0b60fcc153273efe13f}{%
-           family={Munoz},
+        {{hash=3516ba99a072e26c3001b84a95ad51e4}{%
+           family={Muñoz},
            familyi={M\bibinitperiod},
            given={Adrian},
            giveni={A\bibinitperiod}}}%
@@ -4376,14 +4376,14 @@
       \list{publisher}{1}{%
         {SUNY Press}%
       }
-      \strng{namehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{fullhash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{fullhashraw}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{bibnamehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editorbibnamehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editornamehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editorfullhash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editorfullhashraw}{a7ff47aef90c4a112e1776dcc09dfb3a}
+      \strng{namehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{fullhash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{fullhashraw}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{bibnamehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editorbibnamehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editornamehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editorfullhash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editorfullhashraw}{5c2c769a6c5f5327dce081b8bbe0bd40}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{labelnamesource}{editor}
@@ -5684,8 +5684,8 @@
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Sārddhatriśatikālottara}
-      \field{title}{Sārddhatriśatikālottara}
+      \field{subtitle}{Sārdhatriśatikālottara}
+      \field{title}{Sārdhatriśatikālottara}
       \field{year}{1979}
       \keyw{primary}
     \endentry
@@ -6639,7 +6639,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://ora.ox.ac.uk/objects/uuid:4edd5abe-0aa6-4c52-96d2-c4acfce1ad60/files/mb09d5103bdc89d664c01d03307b6377e}}
-      \field{title}{The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
+      \field{title}{The Amanaskaa: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
       \field{type}{phdthesis}
       \field{year}{2013}
       \keyw{seclit}
@@ -8855,7 +8855,7 @@
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013), pp. 215--182}
+      \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013)}
       \field{subtitle}{Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
       \field{title}{Amanaska}
       \keyw{primary}
@@ -9048,8 +9048,8 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{Prayāg}
-      \field{subtitle}{Gorakhbhāṇī}
-      \field{title}{Gorakhbhāṇī}
+      \field{subtitle}{Gorakhbāṇī}
+      \field{title}{Gorakhbāṇī}
       \field{year}{1960}
       \keyw{primary}
     \endentry
@@ -9311,8 +9311,8 @@
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{subtitle}{Sārddhatriśatikālottara}
-      \field{title}{Sārddhatriśatikālottara}
+      \field{subtitle}{Sārdhatriśatikālottara}
+      \field{title}{Sārdhatriśatikālottara}
       \field{year}{1979}
       \keyw{primary}
     \endentry
@@ -9357,7 +9357,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://ora.ox.ac.uk/objects/uuid:4edd5abe-0aa6-4c52-96d2-c4acfce1ad60/files/mb09d5103bdc89d664c01d03307b6377e}}
-      \field{title}{The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
+      \field{title}{The Amanaskaa: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
       \field{type}{phdthesis}
       \field{year}{2013}
       \keyw{seclit}
@@ -12898,7 +12898,7 @@
       \field{year}{2005}
       \keyw{seclit}
     \endentry
-    \entry{liersch2023}{misc}{}{}
+    \entry{liersch2026}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=649c0a76b0cc3812ff47f8b47865e7ce}{%
            family={Liersch},
@@ -14040,8 +14040,8 @@
     \endentry
     \entry{white2011}{article}{}{}
       \name{editor}{2}{}{%
-        {{hash=1983d1e3616ea0b60fcc153273efe13f}{%
-           family={Munoz},
+        {{hash=3516ba99a072e26c3001b84a95ad51e4}{%
+           family={Muñoz},
            familyi={M\bibinitperiod},
            given={Adrian},
            giveni={A\bibinitperiod}}}%
@@ -14057,14 +14057,14 @@
       \list{publisher}{1}{%
         {SUNY Press}%
       }
-      \strng{namehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{fullhash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{fullhashraw}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{bibnamehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editorbibnamehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editornamehash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editorfullhash}{a7ff47aef90c4a112e1776dcc09dfb3a}
-      \strng{editorfullhashraw}{a7ff47aef90c4a112e1776dcc09dfb3a}
+      \strng{namehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{fullhash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{fullhashraw}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{bibnamehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editorbibnamehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editornamehash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editorfullhash}{5c2c769a6c5f5327dce081b8bbe0bd40}
+      \strng{editorfullhashraw}{5c2c769a6c5f5327dce081b8bbe0bd40}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{editor}
@@ -17604,6 +17604,7 @@
       \keyw{primary}
     \endentry
   \enddatalist
+  \missing{liersch2023}
   \missing{varanasi1961}
 \endrefsection
 \endinput

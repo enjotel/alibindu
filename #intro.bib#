@@ -1,0 +1,4244 @@
+@incollection{rodrigues2023,
+  author    = {Pravina Rodrigues},
+  title     = {Kinesics, Proxemics, and Haptics: A Śākta Method for Comparative Theology},
+  booktitle = {The Wiley Blackwell Companion to Comparative Theology: A Festschrift in Honor of Francis X. Clooney, SJ},
+  editor    = {Axel Takacs and Joseph Kimmel},
+  publisher = {John Wiley \& Sons Ltd.},
+  year      = {2023},
+  chapter   = {7},
+  keywords     = {seclit},
+   pages        = {63--76},
+  
+}
+
+@misc{nadicakra,
+   title={Nāḍīcakra},
+   %author={Devendra},
+   howpublished={Acc. No. 1334. Oriental Research Institute, Srinagar.},
+   %address={National Archives Kathmandu},
+   %shorthand={S\textlowerscript{1}},
+   keywords={primary},
+}%!
+
+@incollection{ohanlon2011religious,
+  author       = {O’Hanlon, Rosalind and Washbrook, David},
+  title        = {Religious Cultures in an Imperial Landscape},
+  booktitle    = {Religious Cultures in Early Modern India: New Perspectives},
+  series       = {SAHC},
+  volume       = {2},
+  number       = {2},
+  year         = {2011},
+  pages        = {133--137},
+  keywords     = {seclit}, 
+}%!
+
+@article{snell2016brajinbrief,
+  author    = {Snell, Rupert},
+  title     = {Braj in Brief: An Introduction to Literary Braj Bhāṣā},
+  year      = {2016},
+  publisher = {Hindi Urdu Flagship, Department of Asian Studies},
+  address   = {Austin, Texas},
+  url       = {http://hdl.handle.net/2152/46339},
+  keywords  = {seclit}, 
+}%!
+
+@article{huson2004,
+  author    = {Huson, Daniel H. and Steel, Mike},
+  title     = {Phylogenetic trees based on gene content},
+  journal   = {Bioinformatics},
+  year      = {2004},
+  volume    = {20},
+  number    = {13},
+  doi       = {10.1093/bioinformatics/bth198},
+  publisher = {Oxford University Press},
+  address   = {Oxford},
+  url       = {https://doi.org/10.1093/bioinformatics/bth198},
+  note      = {Center for Bioinformatics (ZBIT), Tübingen University, Sand 14, 72076 Tübingen, Germany and Biomathematics Research Centre, University of Canterbury, Christchurch, New Zealand},
+  keywords  = {seclit},
+}%!
+
+@book{sjoman1996,
+  author    = {Sjoman, N. E.},
+  title     = {The Yoga Tradition of the Mysore Palace},
+  publisher = {Abhinav Publications},
+  year      = {1996},
+  address   = {New Delhi},
+  keywords  = {seclit}, 
+}%!
+
+@article{sandra2003,
+   title={Phylogeny for the faint of heart: a tutorial},
+   author={Baldauf, Sandra L.},
+   year={2003},
+   series={Trends in Genetics},
+   volume={19},
+   number={6},
+   pages={345--351},
+   publisher={Researchgate},
+   url={https://www.researchgate.net/publication/10712132_Phylogeny_for_the_faint_of_heart_A_tutorial},
+   keywords={seclit},
+}%!
+
+@article{nei1987, 
+author={Naruya, Saitou and Nei, Masatoshi}, 
+title={The Neighbor-Joining Method: A New Method for Reconstructing Phylogenetic Trees}, 
+year={1987},
+journal={Molecular Biology and Evolution},
+volume={4(4)},
+pages={406--425},
+doi={doi.org/10.1093/oxfordjournals.molbev.a040454},
+keywords={seclit},
+}%! 
+
+@book{cormen2009introduction,
+  author    = {Cormen, Thomas H. and Leierson, Charles E. and Rivest, Ronald L. and Stein, Clifford},
+  title     = {Introduction to Algorithms},
+  edition   = {3rd},
+  year      = {2009},
+  publisher = {MIT Press},
+  address   = {Cambridge, MA},
+  keywords  = {seclit}, 
+}%!
+
+@manual{huson2022,
+   title={User Manual for SplitsTree4 V4.18.2},
+   author={Huson, Daniel H. and Bryant, David},
+   year={2022},
+   url={https://software-ab.informatik.uni-tuebingen.de/download/splitstree4/manual.pdf},
+   keywords={seclit},
+}%!
+
+@article{maas2009stemma, 
+ title={Computer Aided Stemmatics — The Case of Fifty-Two Text Versions of Carakasaṃhitā Vimānasthāna 8.67-157}, 
+ author={Maas, Philipp André}, 
+ year={2009}, 
+ journal={Vienna Journal of South Asian Studies 2009-2010}, 
+ volume={52/53 Text Genealogy, Textual Criticism and Editorial Technique (2009-2010)},
+ pages={63--119}, 
+ publisher={Austrian Academy of Sciences Press},
+ address={Vienna}, 
+ keywords={seclit}, 
+}%!
+
+@article{felsenstein1985,
+  author       = {Felsenstein, Joseph},
+  title        = {Confidence Limits on Phylogenies: An Approach Using the Bootstrap},
+  journal      = {Evolution},
+  year         = {1985},
+  volume       = {39},
+  pages        = {783--791},
+  keywords     = {seclit}, 
+}%!
+
+@article{windram2008, 
+ author={Windram, Heather F. and Shaw, Prue and Robinson, Peter and Howe, Christopher J.}, 
+ year={2008},
+ title={Dante’s Monarchia as a Test Case for the Use of Phylogenetic Methods in Stemmatic Analysis},
+ journal={Literary and Linguistic Computing},
+ volume={23(4)},
+ pages={443--463},
+ doi={doi.org/10.1093/llc/fqn023}, 
+ keywords={seclit},
+}%! 
+
+@inbook{stemmamethods,
+  author      = {Hoenen, Armin and Manafzadeh, Sara and Stadler, Yannick M. and Roos, Teemu and Hoenen, Armin and Guillaumin, Jean-Baptiste},
+  title       = {Computational methods and tools},
+  editor      = {van Zundert, Joris},
+  booktitle   = {Handbook of Stemmatology},
+  publisher   = {De Gruyter},
+  year        = {2020},
+  pages       = {292--356},
+  address     = {Berlin/Bosten},
+  keywords    = {seclit},
+}%!
+
+@inbook{baptiste2020,
+  author      = {Guillaumin, Jean-Baptiste},
+  title       = {Criticisms of digital methods},
+  booktitle   = {Handbook of Stemmatology},
+  publisher   = {De Gruyter},
+  year        = {2020},
+  pages       = {339--356},
+  address     = {Berlin/Bosten},
+  keywords    = {seclit},
+}%!
+
+@misc{goraksasamhita,
+  title = {Gorakṣasaṃhitā},
+  subtitle = {Gorakṣasaṃhitā},
+  editor= {Pāṃdeya, Janārdana},
+  year={1976},
+  %volume={1},
+  howpublished = {Vol.1}, 
+  publisher={Sampurnanand Sanskrit Vishvavidyalaya},
+  note={Varanasi}, %%%substitute for adress in misc
+  keywords={primary},
+}%!
+
+@incollection{soma1960,
+  author    = {Gonda, Jan},
+  title     = {Soma},
+  booktitle = {Religionen der Menschheit. Band 11: Veda und älterer Hinduismus},
+  publisher = {Kohlhammer},
+  address   = {Stuttgart},
+  year      = {1960},
+  keywords  = {seclit}, 
+}%!
+
+@misc{dikshit1983,
+  title        = {Saṃnyāsa Upaniṣads},
+  subtitle     = {The Saṃnyāsa Upaniṣads with the Commentary of Śrī Upaniṣad-Brahmayogin},
+  editor       = {Dikshit, T. R. Chintamani},
+  year         = {1966},
+  publisher    = {The Adyar Library and Research Centre},
+  note         = {Adyar, Madras}, 
+  keywords     = {primary},
+}%!
+
+@misc{maitreyopanishat,
+   title={Maitreyopaniṣat},
+   subtitle={Maitreyopaniṣat},
+   note={See Saṃnyāsa Upaniṣads},
+   pages={199--219}, 
+   keywords={primary},
+}%!
+
+@article{birch2018ayur,
+  author = {Birch, Jason},
+  title = {Premodern Yoga Traditions and Ayurveda: Preliminary Remarks on Shared Terminology, Theory, and Praxis},
+  journal = {History of Science in South Asia},
+  volume = {6},
+  year = {2018},
+  pages = {1--83},
+  keywords = {seclit}, 
+}%!
+
+@misc{goraksasiddhantasamgraha1973,
+  title        = {Gorakṣasiddhāntasaṃgraha},
+  subtitle     = {Gorakṣasiddhāntasaṃgraha},
+  editor       = {Śāstrī Pāṇḍeya, Janārdana},
+  year         = 1973,
+  howpublished = {Vol. 110. Series: Saraswatībhavana-Granthamālā},
+  publisher    = {Varanaseya Sanskrit Vishvavidyalaya},
+  note         = {Varanasi},
+  keywords     = {primary},
+}%!
+
+@book{bouy1994,
+  author       = {Bouy, Christian},
+  title        = {Les Nātha-yogin et les Upaniṣads: étude d’histoire de la littérature hindoue},
+  year         = {1994},
+  publisher    = {Collège de France, Institut de civilisation indienne: Diffusion de Boccard},
+  address      = {Paris},
+  keywords     = {seclit}, 
+}%!
+
+@misc{ytbe,
+   title={Binduyogaḥ},
+   subtitle={Binduyogaḥ with Bhāṣaṭīkā},
+   editor={Miśra, Jvālāprasāda},
+   year={1905},
+   note={Mumbai},
+   %shorthand={E},
+   keywords={primary},
+}%!
+
+@article{riegger2018,
+  author = {Riegger, Manfred},
+  title = {Interreligiöser Dialog im Angesicht von Heterogenität: Differenzhermeneutische Grundlegung und Perspektiven für religiöse Bildung},
+  journal = {Münchner Theologische Zeitschrift (MThZ)},
+  volume = {69},
+  year = {2018},
+  address = {München},
+  publisher= {EOS Verlag}, 
+  pages = {218--240},
+  keywords = {seclit}, 
+}%!
+
+@misc{ytbp,
+   title={Tatvabiṃduyoga},
+   subtitle={Tatvabiṃduyoga},
+   howpublished={Ms. No. 664. Bhandarkar Oriental Research Institute, Pune},
+   %year={Saṃvat 1867},
+   %shorthand={P},
+   keywords={primary},
+}%!
+
+@misc{ytbb,
+   title={Tatvabiṃduyoga},
+   subtitle={Tatvabiṃduyoga},
+   howpublished={Ms. No. D 4587. Bodleian Library, Oxford},
+   %address={},
+   %year={n.d.},
+   %shorthand={B},
+   keywords={primary},
+}%!
+
+@misc{ytbl,
+   title={Tatvabiṃduyoga},
+   subtitle={Tatvabiṃduyoga},
+   howpublished={Ms. No. LRL 5876. Lalchand Research Library, DAV College, Chandigarh},
+   keywords={primary},
+}%!
+
+@misc{ytbn1,
+   title={Tatvayogabiṃdu},
+   subtitle={Tatvayogabiṃdu},
+   howpublished={Ms. No. 5-2724, NGMPP Reel No. B 38-31. National Archives of Nepal, Kathmandu},
+   keywords={primary},
+}%!
+
+@misc{ytbn2,
+   title={Tatvayogabiṃdu},
+   subtitle={Tatvayogabiṃdu},
+   howpublished={Ms. No. 3-750, NGMPP Reel No. B 38-35 and A 1327-14. National Archives of Nepal, Kathmandu},
+   %shorthand={N\textlowerscript{2}},
+   keywords={primary},
+}%!
+
+@misc{ytbd,
+   title={Tatvayogabiṃdu},
+   subtitle={Tatvayogabiṃdu},
+   howpublished={Ms. No. 30019. Indira Gandhi National Centre for the Arts, Delhi},
+   keywords={primary},
+}%!
+
+@misc{ytbd2,
+   title={Yogasaṃgraha},
+   subtitle={Yogasaṃgraha},
+   howpublished={Ms. No. IGNCA 30020. Indira Gandhi National Centre for the Arts, Delhi},
+   keywords={primary},
+}%!
+
+@misc{ytbu1,
+   title={Tatvayogaviduḥ},
+   subtitle={Tatvayogaviduḥ},
+   %author={Rāmacandraparamahaṃsa},
+   howpublished={Ms. No. 1574. Scindia Oriental Research Institute, Ujjain},
+   keywords={primary},
+}%!
+
+@misc{ytbu2,
+   title={Tattvabinduyogaḥ},
+   subtitle={Tattvabinduyogaḥ},
+   %author={Rāmacandraparamahaṃsa},
+   howpublished={Ms. No. 6082. Scindia Oriental Research Institute, Ujjain},
+   %year={Śake 1805},
+   %shorthand={U\textlowerscript{2}},
+   keywords={primary},
+}%!
+
+@misc{stb1,
+   title={Siddhāntatattvabindu},
+   subtitle={Siddhāntatattvabindu},
+   %author={Devendra},
+   howpublished={NGMPP Reel No. A 905-3. National Archives of Nepal, Kathmandu},
+   %address={National Archives Kathmandu},
+   %shorthand={S\textlowerscript{1}},
+   keywords={primary},
+}%!
+
+@misc{stb2,
+   title={Siddhāntatattvabindu},
+   subtitle={Siddhāntatattvabindu},
+   %author={Devendra},
+   note={NGMPP Reel No. E 1189-13. National Archives of Nepal, Kathmandu},
+   keywords={primary},
+}%!
+
+@book{srivastava2017lal,
+  author       = {Srivastava, Raju },
+  title        = {Lal Chand Research Indological Research Center Manuscript Catalog - DAV College Chandigarh},
+  year         = {2017},
+  publisher    = {Indological Research Center, DAV College},
+  address      = {Chandigarh},
+  %note = {\url{https://archive.org/details/LalChandResearchIndologicalResearchCenterManuscriptCatalogDAVCollegeChandigarh}},
+  keywords     = {catalogues}, 
+}%!
+
+@inbook{kaviraj,
+  author      = {Kavirāj, Gopīnāth},
+  title       = {The system of cakras according to Gorakṣanātha},
+  editor      = {Sastri, Gaurinath},
+  booktitle   = {Notes on Religion and Philosophy},
+  publisher   = {Sampurnanand Sanskrit University},
+  series      = {The Princess of Wales Sarasvati Bhavana Studies},
+  volume      = {3}, 
+  year        = {1987},
+  pages       = {47--55},
+  address     = {Varanasi},
+  keywords    = {seclit},
+}%!
+
+@book{pureyoga,
+  title={Pure Yoga},
+  subtitle={A translation from the Sanskrit into English of the tāntric work, the Gheraṇḍasaṃhitā, with a guiding commentary by Yogī Praṇavānanda},
+  editor={Rodriguez, Tony and Ram, Dr. Kanshi},
+  year={1992},
+  publisher={Motilal Banarsidass},
+  address={Delhi},
+  keywords={seclit},
+  notes={reprint 1997, 2000},
+  keywords ={seclit},
+}%!
+
+
+@book{sahai1972,
+  author = {Sahai, M.},
+  title = {Yoga Kośa: Yoga Terms Explained with Reference to Context},
+  year = {1972},
+  publisher = {Kaivalyadhama S.M.Y.M. Samiti},
+  location = {Lonavla},
+  keywords = {seclit},
+}%!
+
+@misc{hathayogasamhita1921,
+  title = {Haṭhayogasaṃhitā},
+  subtitle = {Haṭhayogasaṃhitā bhāṣānuvāda sahita},
+  publisher = {Śrībhāratadharma Mahāmaṇḍala Pradhāna Kāryālaya},
+  year = {1921},
+  note = {Kāśī},
+  author = {Agnihotrī, Puṇḍita Nārāyaṇarāva},
+  howpublished = {Published by Śrīviśvanātha Annapūrṇā Dānabhaṇḍāra, printsource by Śrībhāratadharma Pres, VS 1978},
+  keywords={primary},
+}%!
+
+@book{haas2018vom,
+  author    = {Haas, Dominik},
+  title     = {Vom Feueraltar zum Yoga. Kohärenz und Konzept der Kaṭha-Upaniṣad},
+  school    = {Universität Wien},
+  year      = {2018},
+  note      = {Masterthesis. Betreuerin: Mag. Dr. Marion Rastelli (IKGA, ÖAW; ISTB, Universität Wien). Die Nummerierung der Verse in der Übersetzung wurde im vorliegenden Dokument weggelassen.},
+  url       = {http://othes.univie.ac.at/52786/},
+  keywords  = {seclit},
+}%!
+
+@article{endo1993,
+title={The Works and Flourishing Period of Nārāyaṇatīrtha, the Author of the Yogasiddhāntacandrikā}, 
+author= {Ko, Endo},  
+year={1993},
+pages={41--60},
+series={Nagoya Studies in Indian Culture and Buddhism},
+volume={13},
+publisher={Nagoya University, Department of Indian Philosophy},
+address={Nagoya},
+keywords={seclit},
+}%!
+
+%@book{olivelle1998early,
+%  author    = {Patrick Olivelle},
+%  title     = {The Early Upaniṣads: Annotated Text and Translation},
+%  year      = {1998},
+%  publisher = {Oxford University Press},
+%  address   = {Oxford},
+%  pages     = {372--402},
+%}
+
+@book{oberlies2012,
+  author    = {Oberlies, Thomas},
+  title     = {Hinduismus: Eine Einführung},
+  publisher = {FISCHER Taschenbuch},
+  year      = {2012},
+  address   = {Frankfurt am Main},
+  %isbn      = {978-3-596-19262-5},
+  %pages     = {130},
+  %note      = {Verfügbar, Erscheinungstermin: 23.02.2012}
+  keywords={seclit},
+}%!
+
+@incollection{hacker1979,
+  author    = {Hacker, Paul},
+  title     = {Inklusivismus},
+  editor    = {Oberhammer, Gerhardt},
+  booktitle = {Inklusivismus: Eine indische Denkform},
+  publisher = {Institut für Indologie der Universität Wien, Sammlung De Nobili; Commission Agents E.J. Brill},
+  address   = {Wien},
+  year      = {1983},
+  keywords   = {seclit},
+}%!
+
+@book{newcataloguscatalogorum8,
+  author      = {Raghavan, V. and Narang, S. P. and Bhattacharya, D. C.},
+  title       = {New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors},
+  volume      = {8},
+  year        = {2007},
+  publisher   = {Madras University},
+  location    = {Chennai},
+  keywords    = {catalogues},
+}%!
+
+@book{newcataloguscatalogorum9,
+  author     = {Raghavan, V. and Narang, S. P. and Bhattacharya, D. C.},
+  title      = {New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors},
+  volume     = {9},
+  year       = {2007},
+  publisher  = {Madras University},
+  location   = {Chennai},
+  keywords   = {catalogues},
+}%!
+
+@book{newcataloguscatalogorum10,
+  author = {Raghavan, V. and Narang, S. P. and Bhattacharya, D. C.},
+  title = {New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors},
+  volume = {10},
+  year = {2007},
+  publisher = {Madras University},
+  location  = {Chennai},
+  keywords   = {catalogues},
+}%!
+
+@book{newcataloguscatalogorum15,
+  author = {Raghavan, V. and Narang, S. P. and Bhattacharya, D. C.},
+  title = {New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors},
+  volume = {15},
+  year = {2007},
+  publisher = {Madras University},
+  location = {Chennai},
+  keywords   = {catalogues},
+}%!
+
+@book{newcataloguscatalogorum22,
+  author = {Raghavan, V. and Narang, S. P. and Bhattacharya, D. C.},
+  title = {New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors},
+  volume = {22},
+  year = {2007},
+  publisher = {Madras University},
+  location = {Chennai},
+  keywords   = {catalogues},
+}%!
+
+
+@book{baroda1950,
+  author    = {Nambiar Siromani, Raghavan},
+  title     = {An Alphabetical List of Manuscripts in the Oriental Institute Baroda, Vol. II},
+  year      = {1950},
+  publisher = {Oriental Institute},
+  address   = {Baroda},
+  note      = {Compiled by Nyayabhusana, Catalogue Assistant, Oriental Institute, Baroda},
+  keywords   = {catalogues},
+}%!
+
+@book{nagpur1957,
+  title     = {Catalogue Of Sanskrit Manuscripts In The Nagpur University Library},
+  author    = {Karambelkar, V.W. (ed.)},
+  year      = {1957},
+  publisher = {Nagpur University Library, Nagpur},
+  address   = {Nagpur},
+  keywords   = {catalogues},
+}%!
+
+@book{nagpur1926,
+  author    = {Rai Bahadur Hiralal},
+  title     = {Catalogue of Sanskrit and Prakrit Manuscripts in the Central Provinces and Berar},
+  year      = {1926},
+  publisher = {Government Press},
+  address   = {Nagpur},
+  note      = {Published under the orders of the Government of the Central Provinces and Berar},
+  keywords   = {catalogues},
+}%!
+
+@book{orl_srinagar2021,
+  title        = {Catalogue of Sanskrit Manuscripts at the Oriental Research Library, Srinagar},
+  author       = {Indira Gandhi National Centre for Arts},
+  howpublished = {Digital catalogue, Oriental Research Library, Srinagar},
+  institution  = {Indira Gandhi National Centre for Arts (IGNCA)},
+  year         = {2021},
+  url          = {https://archive.org/details/jk-orl-srinagar-sanskrit},
+  keywords     = {catalogues},
+}
+
+@book{newcataloguscatalogorum23,
+  author = {Raghavan, V. and Narang, S. P. and Bhattacharya, D. C.},
+  title = {New Catalogus Catalogorum: An Alphabetical Register of Sanskrit and Allied Works and Authors},
+  volume = {23},
+  year = {2007},
+  publisher = {Madras University},
+  location = {Chennai},
+  keywords   = {catalogues},
+}%!
+
+@book{hall1859,
+  author = {Hall, Fitzedward},
+  title = {A Contribution towards an Index to the Bibliography of the Indian Philosophical Systems},
+  year = {1859},
+  publisher = {C. B. Lewis, Baptist Mission Press},
+  address = {Calcutta},
+  keywords   = {catalogues},
+}%!
+
+@book{calcutta1900,
+  author       = {Sastri, H.},
+  title        = {A Descriptive Catalogue of Sanskrit Manuscripts of The Calcutta Sanskrit College},
+  year         = {1900},
+  volume       = {3},
+  publisher    = {J.N. Banerjee and Son, Banerjee Press},
+  address      = {Calcutta},
+  language     = {Sanskrit},
+  %note         = {Book Source: Digital Library of India Item 2015.313482. Accessed on 2015-08-10. Available at: \url{http://www.new.dli.ernet.in/handle/2015/313482}. Scanning Centre: Banasthali University. Source Library: Bharatiya Vidya Bhavan Library, Mumbai. Digital Republisher: Digital Library Of India},
+  keywords   = {catalogues},
+}%!
+
+
+@book{lucknow2021,
+  title     = {A Catalogue Of Manuscripts In Akhil Bharatiya Sanskrit Parishad},
+  editor    ={Subramania Iyer, Shri K. A. and Sinha, Shri G. C. and Sinha, Dr. J. P.},
+  year      = {2021},
+  publisher = {Muthulakshmi Research Academy, Akhil Bharatiya Sanskrit Parishad},
+  address   = {Lucknow}, 
+  note      = {Compiled by Shri Daulat Ram Yuyal},
+  keywords   = {catalogues},
+}%!
+
+
+@incollection{birch2020,
+  author    = {Birch, Jason},
+  title     = {Haṭhayoga's Floruit on the Eve of Colonialism},
+  year      = {2020},
+  editor    = {Goodall, Dominik and Hatley, Shaman and Isaacson, Harunaga and Raman, Srilata},
+  booktitle = {Śaivism and the Tantric Traditions - Essays in Honour of Alexis G.J.S. Sanderson},
+  publisher = {Brill},
+  pages     = {451--482},
+  address   = {Leiden | Boston},
+  keywords  = {seclit},
+}%!
+
+@article{endo1998,
+title={The Medieval Yoga-s and the Patanjala-Yoga: Narayana Tirtha’s Interpretation of the Yogasutra.}, 
+author= {Ko, Endo},  
+year={1998},
+pages={25--39},
+series={The Journal of the Faculty of Letters},
+volume={44},
+publisher={Nagoya University, Department of Indian Philosophy},
+address={Nagoya},
+keywords={seclit},
+}%!
+
+@article{ernst2003,
+  author = {Ernst, Carl},
+  title  = {The Islamization of Yoga in the Amrtakunda Translations},
+  journal = {Journal of the Royal Asiatic Society},
+  series = {Series 3},
+  volume = {13},
+  number = {2},
+  year = {2003},
+  pages = {199--226},
+  keywords={seclit},
+}%!
+
+@incollection{ernst2013,
+  title = {Chapter iv of the Bahr al-hayat},
+  booktitle = {Yoga: The Art of Transformation},
+  author = {Ernst, Carl},
+  pages = {59--69},
+  year = {2013},
+  editor = {Diamond, Debra and Aitken, Molly Emma},
+  publisher = {Smithsonian Institution},
+  address = {Washington, D.C.},
+  note = {An adjunct to the Smithsonian exhibit, "Yoga: The Art of Transformation"},
+  authoraddon = {translated from the Persian by Carl Ernst},
+  keywords= {seclit},   
+}%!
+
+@article{ogawa2023perception,
+  title={The Perception of the Self in the Nyāya Tradition: From a Kāraka Point of View},
+  author={Ogawa, Hideyo},
+  year={2023},
+  journal={Tetsugaku: The Journal of Hiroshima Philosophical Society},
+  volume={75},
+  pages={155--170},
+  keywords = {seclit}, 
+}%!
+
+@misc{vasisthasamhita2017,
+    %author = {Vasiṣṭha [Maharṣi]},
+    title = {Vasiṣṭhasaṃhitā},
+    subtitle = {Vasiṣṭha Saṃhitā. Yoga kāṇḍa},
+    editor = {Digambaji, Swami and Jhā, Pītāmbara and Sahay, Gyan Shankar},
+    %edition = {Reprint},
+    publisher = {Kaivalyadhama},
+    note = {Lonavla},
+    year = {2017},
+    notes = {Reprint of: Revised edition: March, 2005. - Includes index},
+    %language = {English and Sanskrit},
+    keywords = {primary},
+}%!
+
+@misc{ratirahasya,
+  title = {Ratirahasya},
+  subtitle = {Ratirahasya},
+  author = {Kokkoka},
+  %year = {11th or 12th century},
+  publisher = {Laṃvapurīya - "mumbai saṃskṛta" mudraṇayantrālaye mudritaṃ},
+  note = {Mumbai},
+  keywords={primary},
+}%!
+
+@inproceedings{balcerowicz2011dharmakirti,
+  title={Dharmakīrti’s Criticism of the Jaina Doctrine of Multiplexity of Reality (\textit{anekāntavāda})},
+  author={Balcerowicz, Piotr},
+  booktitle={Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23–27, 2005},
+  editor={Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  year={2011},
+  publisher={Verlag der Österreichischen Akademie der Wissenschaften},
+  address={Wien},
+  series={Österreichische Akademie der Wissenschaften Philosophisch-Historische Klasse, Denkschriften},
+  volume={424},
+  pages={1--33}, 
+  keywords={seclit},
+}%!
+
+@book{haasgayatri, 
+ author={Haas, Dominik}, 
+ title={Gāyatrī}, 
+ subtitle={Mantra and Mother of the Vedas},
+ year={2023},
+ series={Beiträge zur Kultur- und Geistesgeschichte Asiens}, 
+ volume={110},
+ publisher={Institut für Kultur- und Geistesgeschichte Asiens}, 
+ address={Vienna},
+ keywords={seclit},
+}%!
+
+@book{govindan2010, 
+ author={Govindan, Marshall}, 
+ title={Babaji}, 
+ subtitle={Kriya Yoga und die 18 Siddhas},
+ year={2010},
+ publisher={Hans-Nietsch-Verlag in Kooperation mit Kriya Yoga Publications}, 
+ address={Emmendingen},
+ keywords={seclit},
+}%!  
+
+@book{kriyayogasarasvati1981,
+title={A Systematic Course in the Ancient Tantric Techniques of Yoga and Kriya},
+author={Satyananda, Sarasvati Swami},
+year={1981},
+publisher={Yoga Publications Trust},
+address={Ganga Darshan, Munger, Bihar},
+keywords={seclit},
+}%!
+
+@book{kriyayogaupanishad1993,
+title={The Kriya Yoga Upanishad and the Mystical Upanishads},
+author={Kriyananda, Goswami},
+year={1993},
+publisher={The Temple of Kriya Yoga},
+address={Chicago},
+keywords={seclit},
+}%!
+
+@book{hariharananda1989,
+title={Kriya Yoga},
+subtitle={The Scientific Process of Soul-Culture and the Essence of All Religions},
+author={Hariharananda, Paramahamsa},
+year={1989},
+publisher={Motilal Banarsidass},
+address={New Delhi},
+keywords={seclit},
+}%!
+
+@misc{pratyabhijnahrdaya,
+ title={Pratyabhijñāhṛdayam},
+ subtitle={Pratyabhijñāhṛdayam. The secret of recognition},
+ year={1987},
+ howpublished={Original year of publication 1938}, 
+ publisher={Motilal Banarsidass}, 
+ note={Delhi},
+ keywords={primary},
+}%!
+
+@incollection{ganesan2016saiva,
+  author = {Ganesan, T.},
+  title = {Śaiva Āgamas: The Four Pādas and Thirty-six Tattvas},
+  booktitle = {Brill’s Encyclopedia of Hinduism Online},
+  editor = {Jacobsen, Knut A. and Basu, Helene and Malinar, Angelika and Narayanan, Vasudha},
+  publisher = {Brill},
+  address = {Leiden}, 
+  year = {2016},
+  url = {http://dx.doi.org/10.1163/2212-5019_BEH_COM_000416},
+  note = {Consulted online on 05 February 2024},
+  doi = {10.1163/2212-5019_BEH_COM_000416},
+  keywords={seclit}, 
+}%!
+
+@misc{mrgendragama,
+ title={Mṛgendrāgama},
+ subtitle={Mṛgendrāgama (Kriyāpāda and Caryāpāda) with the Comm. by Bhaṭṭa Nārāyaṇa Kaṇṭha}, 
+ editor={Bhatt, N. R.}, 
+ publisher={Institut Français de Pondichéry},
+ note={Pondicherry}, 
+ year={1962},
+ keywords={primary}, 
+}%!
+
+@book{mrgendragamabrunner,
+  title = {Mṛgendrāgama. Section des rites et section du comportement Avec la Vṛtti de Bhaṭṭanārāyaṇakanṭha},
+  author = {Brunner-Lachaux, Hélène},
+  year = {1985},
+  publisher = {Institut Français de Pondichéry},
+  series = {Collection Indologie},
+  location = {Pondicherry},
+  note = {Publié avec le concours du CNRS},
+  %pages = {564 p.},
+  url = {https://doi.org/10.4000/books.ifp.1809},
+  %isbn = {979-10-365-4446-0},
+  doi = {10.4000/books.ifp.1809},
+  keywords={seclit}, 
+}%!
+
+@misc{brunner1963, 
+ title={Somaśambhupaddhati},
+ subtitle={Somaśambhupaddhati. Texte, trad. et notes par Hélène Brunner-Lachaux. 4 parties.}, 
+ editor={Brunner, Hélène}, 
+ year={1963},
+ series={Publications de l’Institut français d’Indologie; Publications du Départment d’Indologie.}, 
+ volume={25},
+ note={Pondicherry},
+ keywords={primary},
+}%!
+
+@misc{samgitaratna, 
+ title={Saṃgītaratnākara},
+ subtitle={Saṃgītaratnākara of Śārṅgadeva: with the Kalānidhi of Kallinātha and the Sudhākara of Siṃhabhūpāla},
+ editor={Sarada, S.}, 
+ year={1900},
+ publisher={Adyar Library and Research Centre, Theosophical Pub. House},
+ note={Chennai},
+ howpublished={in Sanskrit - 2nd ed.},
+ keywords={primary},
+}%!
+
+@misc{merutantra, 
+title={Merutantra},
+subtitle={Merutantra}, 
+editor={Raghunāthaśāstri, Paṇḍita}, 
+year={1908}, 
+publisher={Śrivenkateśvara},
+note={Bombay},
+ keywords={primary},
+}%!
+
+@misc{hemacandras, 
+title={Hemacandra's Yogaśāstra}, 
+subtitle={A Handbook on the Three Jewels of Jainism: the Yogaśāstra of Hemacandra}, 
+editor={Qvarnström, Olle},
+year={2012},
+howpublished={Pandit Nathuram Premi Research Series. Vol. 29},  
+publisher={Hindi Granth Karyalay},
+note={Mumbai}, 
+keywords={primary}, 
+}%!
+
+@misc{svacchandatantra, 
+ title={Svacchandatantra}, 
+ subtitle={Svacchandatantra with the commentary (Svacchandoddyota) of Rājānaka Kṣemarāja}, 
+ editor={Śāstrī, Madhusūdan Kaul},
+ year={1921}, 
+ %howpublished={KSTS 31, 38, 44, 48, 51, 53, 56},
+ note={Bombay}, 
+ publisher={Nirnaya-sagar Press},
+ keywords={primary},
+ }%! 
+
+@misc{malinivijay, 
+ title={Mālinīvijayottaratantra},
+ subtitle={Mālinīvijayottaratantram}, 
+ editor={Śāstrī, Madhusūdana Kaula},
+ year={1922}, 
+ note={Srinagar}, 
+ howpublished={See Vasudeva 2004 for further details},
+ keywords={primary},
+}%!
+
+@misc{ramayana, 
+title={Rāmāyaṇa}, 
+subtitle={The Vālmīki - Rāmāyaṇa: Critical Edition}, 
+%author={Vālmīki},
+editor={Bhatt, G. H.}, 
+year={2001}, 
+publisher={Oriental Institute Vadodara}, 
+note={Baroda}, 
+keywords={primary},
+}%!
+
+@misc{mainkar2004, 
+title={Sāṅkhyakārikā}, 
+subtitle={Sāṃkhyakārikā of Īśvarakṛṣṇa - With the Commentary of Gauḍapāda - Translated into Endlish with an Exhaustive Introcution and Notes},
+year={2004}, 
+editor={Mainkar, T. G.}, 
+series={The Vrajajivan Indological Studies}, 
+volume={36},
+publisher={Chaukhamba Sanskrit Pratishthan},
+note={Delhi}, 
+keywords={primary},
+}%!
+
+@misc{shastri1950,
+  title={Śivapurāṇa}, 
+  subtitle={The Śivapurāṇa - Part I},
+  author={Shastri, J. L.},
+  year={1950},
+  publisher={Motilal Banarsidas},
+  note={Delhi},
+  keywords={primary},
+}%!
+
+@book{ayurveda,
+  title={Āyurvedīya Mahākośa (Āyurvedīya Śabdakośa) Sanskrit-Sanskrit [Dictionary]},
+  author={Jośī, Nārāyaṇa Harī},
+  volume={1}, 
+  year={1968},
+  publisher={Maharashtra Rajya Sahitya Ani Samskriti Mandala},
+  address={Mumbai},
+  keywords={seclit},
+}%!
+
+@misc{netraflood,
+  title={Netratantra},
+  subtitle={The Lord of Immortality: An Introduction, Critical Edition, and Translation of the Netra Tantra}, 
+  editor={Flood, Gavin and Wernicke-Olesen, Bjarne and Khatiwoda, Rajan},
+  howpublished={Tantric Studies Series. Vol. 1.},
+  year={forthcoming}, 
+  publisher={Routledge},
+  note={London},
+  keywords={primary},
+}%!
+
+@book{tantrika2,
+  title={Tāntrikābhidhānakośa 2}, 
+  subtitle={Dictionnaire des termes techniques de la littérature hindoue tantrique - A Dictionary of Technical Terms from Hindu Tantric Literature - Wörterbuch zur Terminologie hinduistischer Tantren}, 
+  author={Rastelli, Marion and Goodall Dominic},
+  series={Beiträge zur Kultur- und Geistesgeschichte Asiens; 76}, 
+  volume={2: K-Ñ},
+  year={2004},
+  publisher={Verlag der Österreichischen Akademie der Wissenschaften},
+  address={Wien},
+  keywords={seclit},
+ }%!
+
+@book{tantrika3,
+  title={Tāntrikābhidhānakośa 3}, 
+  subtitle={Dictionnaire des termes techniques de la littérature hindoue tantrique - A Dictionary of Technical Terms from Hindu Tantric Literature - Wörterbuch zur Terminologie hinduistischer Tantren}, 
+  author={Rastelli, Marion and Goodall Dominic},
+  series={Beiträge zur Kultur- und Geistesgeschichte Asiens; 76}, 
+  volume={3: Ṭ-Ph},
+  year={2013},
+  publisher={Verlag der Österreichischen Akademie der Wissenschaften},
+  address={Wien},
+  keywords={seclit},
+ }%!
+
+@misc{hauschild1927,
+  title={Śvetāśvatara Upaniṣad},
+  subtitle={Die Śvetāśvatara-Upaniṣad: Eine kritische Ausgabe mit einer Übersetzung und einer Übersicht über ihre Lehren},
+  author={Hauschild, Richard},
+  year={1927},
+  publisher={Deutsche Morgenländische Gesellschaft in Kommission bei F.A. Brockhaus},
+  note={Leipzig},
+  keywords={primary},
+}%!
+
+@misc{tantralokax,
+  title={Tantrāloka (a)},
+  subtitle={The Tantrāloka of Abhinavagupta. With Commentary Viveka by Jayadratha. In 8 volumes.},
+  editor={Dwivedi, R. C. and Rastogi, Navjivan},
+  year={1987},
+  howpublished={First Edition 1918-1938}, 
+  publisher={Motilal Banarsidass},
+  note={Delhi},
+  keywords={primary},
+}%!
+
+@misc{manthana,
+  title={Manthānabhairavatantram Kumārikākhaṇḍaḥ},
+  subtitle={Manthānabhairavatantram Kumārikākhaṇḍaḥ. The Section Concerning the Virgin Goddess of the Tantra of the Churning-Bhairava},
+  editor={Dyczkowski, Mark S. G.},
+  year={2009},
+  %howpublished={13 vols},
+  publisher={IGNCA and D.K. Printworld},
+  note={Delhi},
+  keywords={primary},
+}%!
+
+@misc{fausta1976,
+title={Gorakṣaśataka (Nowotny)},
+subtitle={Gorakṣaśataka},
+%author={Gorakṣanātha},
+editor={Nowotny, Fausta}, 
+howpublished={Band 3 von Dokumente der Geistesgeschichte},
+publisher={K. A. Nowotny},
+year={1976},
+note={Köln},
+keywords={primary},
+}%!
+
+@misc{hatharatnavali, 
+title={Haṭharatnāvalī},
+subtitle={Haṭharatnāvalī of Śrīnivāsayogī}, 
+editor={Gharote, M. L. and Devnath P. and Jha, V. K.}, 
+year={2002},
+publisher={Lonavla Yoga Institute}, 
+note={Lonavla},
+keywords={primary},
+}%!
+
+@misc{yuktabhavadeva, 
+title={Yuktabhavadeva},
+subtitle={Yuktabhavadeva of Bhavadeva Miśra}, 
+editor={Gharote, M. L. and Jha, V. K.}, 
+year={2002},
+publisher={Lonavla Yoga Institute}, 
+note={Lonavla},
+keywords={primary},
+}%!
+
+@misc{sarvangayoga,
+  title={Sarvāṅgayogapradīpikā},
+  subtitle={Sarvāṅgayogapradīpikā in the Sundargranthāvalī},
+  editor= {Misra, R. C.},
+  year= {1992},
+  publisher={Kitabghar},
+  note={Delhi},
+  keywords={primary},
+}%!
+
+@article{burger2014sarvangayogapradipika,
+  title = {La Sarvāṅgayogapradīpikā de Sundardās: une classification des chemins du yoga au 17e siècle},
+  author = {Burger, Maya},
+  journal = {Asiatische Studien = Etudes asiatiques},
+  year = {2014},
+  volume = {68},
+  number = {3},
+  pages = {683--708},
+  url = {https://www.degruyter.com/view/j/asia},
+  doi = {10.1515/asia-2014-0057},
+  publisher = {De Gruyter},
+  keywords = {seclit}, 
+ }%!
+
+@incollection{stietencron1989,
+  author    = {von Stietencron, Heinrich},
+  title     = {Geplanter Synkretismus: Kaiser Akbars Religionspolitik},
+  booktitle = {Die Religion von Oberschichten},
+  editor    = {Antes, Peter and Pahnke, Donate},
+  publisher = {diagonal-Verlag},
+  address   = {Marburg},
+  year      = {1989},
+  pages     = {53--72},
+  keywords  = {seclit},
+}%!
+
+@book{jones2008encyclopedia,
+  title = {Encyclopedia of Hinduism},
+  author = {Jones, Constance and Ryan, James},
+  year = {2008},
+  publisher = {Checkmark Books, an imprint of Infobase Publishing},
+  address = {New York},
+  keywords = {seclit}, 
+}%!
+
+@misc{goraksapaddhati,
+  title={Gorakṣapaddhati},
+  subtitle={Goraksha Samhita: Also Known As Goraksha Paddhati},
+  editor= {Vishnuswaroop, Swami},
+  year={2017},
+  publisher={Divine Yoga Institute},
+  note={Kathmandu},
+  keywords={primary},
+}%!
+
+@misc{sivasvarodaya,
+  title={Śivasvarodaya},
+  subtitle={Śivasvarodaya: A Critical Edition - English Version},
+  editor={Maheshananda, Swami},
+  year={2015},
+  publisher={Kaivalyadhama S.M.Y.M. Samiti},
+  note={Lonavla},
+  keywords={primary},
+}%!
+
+@book{whitney1879,
+  title = {A Sanskrit Grammar; Including Both the Classical Language, and the Older Dialects, of Veda and Brahmana},
+  author = {Whitney, William Dwight},
+  year = {1879},
+  publisher = {Breitkopf and Härtel},
+  address = {Leipzig},
+  topics = {Sanskrit language -- Grammar},
+  language = {English},
+  %note = {A supplement by the author appeared in the same series (Bd. II, Anhang II) with title: The Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language. Leipzig, 1885 (xiii, [1], 250 p.)},
+  url = {https://archive.org/details/sanskritgrammari00whituoft},
+  keywords = {seclit}, 
+}%!
+
+@book{mw1899,
+  author       = {Monier-Williams, Sir M.},
+  title        = {A Sanskrit-English Dictionary. Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages},
+  edition      = {New edition, greatly enlarged and improved with the collaboration of E. Leumann and C. Cappeller and other scholars},
+  year         = {1899},
+  publisher    = {Oxford University Press},
+  address      = {Oxford},
+  note         = {Reprintsource lithographically Oxford 1956, 1960, 1964},
+  keywords     = {seclit},
+}%!
+
+@incollection{brunner1994place,
+  author    = {Brunner, Hélène},
+  title     = {The Place of Yoga in the Śaivāgamas},
+  booktitle = {Pandit N.R. Bhatt Felicitation Volume},
+  editor    = {Filliozat, P. S. and Narang, S. P. and Bhatta, C. P.},
+  year      = {1994},
+  pages     = {425--461},
+  publisher = {Motilal Banarsidass},
+  address   = {Delhi},
+  keywords  = {seclit}, 
+}%!
+
+@book{kriyayoganityananda2013,
+title={Kriyāyoga: The science of Life-force},
+author={Nityānanda Giri, Swāmī},
+year={2013},
+publisher={Munshiram Manoharlal Publishers Pvt. Ltd.},
+address={New Delhi},
+keywords={seclit},
+}%!
+
+@book{kriyayogasturgess2015,
+title={The Supreme Art and Science of Rāja and Kriyā Yoga},
+subtitle={The Ultimate Path to Self-Realisation}, 
+author={Sturgess, Stephan},
+year={2015},
+publisher={Singing Dragon},
+address={London},
+keywords={seclit},
+}%!
+
+@book{autobioyogi, 
+title={Autobiography of a Yogi}, 
+author={Yogānanda, Paramahaṃsa}, 
+year={1946}, 
+publisher={The Philosophical Library, Inc.}, 
+address={New York},
+keywords={seclit},
+}%!
+
+@book{kriyayogalowenstein,
+title={Kriya Yoga for Self-Discovery},
+subtitle={Practices for Deep States of Meditation}, 
+author={Lowenstein, Keith G. (M.D.) and Lett, Andrea J. (M.A.)},
+year={2021},
+publisher={Inner Traditions},
+address={Rochester},
+keywords={seclit},
+}%!
+
+@misc{anandakanda,
+  title = {Ānandakanda},
+  subtitle = {Ānandakanda},
+  editor = {Radhakrishna Sastri, S. V.},
+  year = {1952},
+  publisher = {Sri Vilasam Press},
+  note = {Srirangam},
+  keywords= {primary}, 
+}%!
+
+@misc{bäumer2013,
+  title={Vijñānabhairava},
+  subtitle={Vijñāna Bhairava - Das göttliche Bewußtsein},
+  author={Bäumer, Bettina},
+  series={Taschenbuch 6}, 
+  year={2013},
+  publisher={Verlag der Weltreligionen im Insel Verlag},
+  note={Frankfurt am Main and Leipzig},
+  keywords={primary},
+}%!
+
+@article{gladigow1995,
+    author= {Gladigow, Burghard},
+     title= {Europäische Religionsgeschichte},
+      year= {1995},
+ publisher= {Diagonal Verlag},
+   journal= {Lokale Religionsgeschichte},
+     pages= {21--43},
+    editor= {Kippenberg, Hans G.},
+    keywords={seclit}, 
+}%!
+
+
+@book{karttunen1997,
+    author= { Karttunen, Klaus},
+    title= {India and the Hellenistic World},
+    year= {1997},
+    publisher= {Finnish Oriental Society},
+    address= {Helsinki},
+     keywords={seclit},
+}%!
+
+@article{hanegraaff2004,
+     author={Hanegraaff, Wouter J.},
+     title= {The Study of Western Esotericism - New Approaches to Christian and Secular Culture},
+     year= {2004},
+     journal= {New Approaches to the Study of Religion - Volume I: Regional, Critical and Historical Approaches},
+     volume= {1},
+     editor= {Antes, Peter and Geertz, Armin W. and Warne, Randi R.},
+     publisher= {Walter de Gruyter},
+     address= {Berlin und New York},
+     keywords={seclit},
+}%!
+
+@article{teacher2011,
+     author= {Chicoine, Gary},
+     title= {Hermetic Ontosophy — The Ultimate Esoteric Knowledge},
+     month= {April},
+     year= {2016},
+     journal= {http://www.absolutoracle.com/Universal
+/Articles/HermeticOntosophy.htm},
+      keywords={seclit},
+}%!
+     
+@article{bastow1978,
+	author= {Bastow, David},
+	title= {An Attempt to Understand Sāṁkhya-Yoga},
+	year= {1978},
+	journal= {Journal of Indian Philosophy},
+	volume= {5},
+	pages= {191-207},
+	publisher= {D. Reidel Publishing Company},
+	address= {Dordrecht, Holland},
+      keywords={seclit},
+}%!
+
+@book{bochinger2009,
+  author       = {Bochinger, Christoph and Engelbrecht, Martin and Gebhardt, Winfried},
+  title        = {Die unsichtbare Religion in der sichtbaren Religion : Formen spiritueller Orientierung in der religiösen Gegenwartskultur},
+  editor       = {Bochinger, Christoph and Rüpke, Jörg},
+  year         = {2009},
+  publisher    = {Kohlhammer},
+  address      = {Stuttgart},
+  pages        = {168},
+  series       = {Religionswissenschaft heute},
+  number       = {3},
+  keywords     = {seclit}, 
+ }%!
+
+@misc{kaushik1993,
+   title     = {Bhagavadgītā}, 
+  subtitle  = {Srimad Bhagavad Gita (Sanskrit, Hindi and English)},
+  author    = {Kaushik, Ashok},
+  year      = {1993},
+  publisher = {Star Publications},
+  note   = {New Delhi},
+  keywords = {primary}
+}%!
+
+@misc{uddhavagita2007,
+  title        = {Uddhavagītā},
+  subtitle     = {The Uddhava-Gītā. ultimate companion to Bhagavad Gita by the same speaker; original Sanskrit text, Roman transliterations, and translations featuring Sārārtha darśinī commentary by Śrīla Viśvanātha Cakravartī Ṭhākura, chapter summaries and Gauḍiya bhāsya purport by Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura},
+  %author       = {Cakravartin, Viśvanātha and Sarasvatī Gosvāmī, Bhaktisiddhānta and Dāsa, Bhumipati and Dāsa, Pūrṇaprajña},
+  %translator   = {Dāsa, Bhumipati},
+  editor       = {Dāsa, Pūrṇaprajña},
+  year         = {2007},
+  publisher    = {Touchstone Media},
+  note      = {Kolkata},
+  keywords     = {primary},
+}%!
+
+@book{shivanandakriya1982,
+author={Sivananda, Sri Swami},
+title={Tantra Yoga, Nada Yoga and Kriya Yoga},
+year={1981},
+publisher={Divine Life Society},
+address={Tehri-Garhwal},
+note={First Edition: 1955}, 
+keywords={seclit}, 
+}%!
+
+@book{baba1976,
+        title ={Pātañjalayogaśāstra},
+	subtitle = {Yogasūtra Of Patañjali With The Commentary Of Vyāsa},
+        editor= {Bangali Baba},
+        year= {1976},
+	publisher= {Motilal Banarsidass Publishers},
+	address= {Delhi},
+	keywords     = {primary},
+}%!
+
+@book{garbe1892,
+	author= {Vācaspatimiśra},
+        year= {1892},
+	editor= {Garbe, Richard},
+	title= {Der Mondschein der Sāṁkhya-Wahrheit: Vācaspatimiśra's Sāṁkhyatattvakaumudī in deutscher Übersetzung, nebst einer Einleitung über das Alter und die Herkunft der Sāṁkhya-Philosophie},
+	series= {Abhandlungen der Philosophisch-Philologischen Classe der 		Königlich Bayerischen Akademie der Wissenschaften, 19; 3. Abtheilung; Denkschrifen,LXIV, pp. 517–628.},
+	publisher= {Verlag der Königlichen Akademie},
+	address= {München},
+        keywords={seclit}, 
+}%!
+
+@article{larson1987,
+author= { Larson, Gerald James},
+year=   {1987},
+title= {The history and literature of Sāṁkhya},
+journal= {Encyclopedia of Indian Philosophies},
+volume= {4},
+pages = {3--41},
+publisher= {Motilal Banarsidass},
+address= {Delhi},
+ keywords={seclit}, 
+}%!
+
+@article{michelis2008,
+author= {de Michelis, Elizabeth},
+year= {2008},
+title= {Modern Yoga: History and Forms},
+journal= {Yoga in the Modern World: Uses, Adaptations, Appropriations},
+editor= {Byrne, Jean and Singleton, Mark},
+pages= {17--35},
+publisher= {Routledge},
+address= {London und New York},
+keywords={seclit}, 
+}%!
+
+@article{singleton2008,
+author= {Singleton, Mark},
+year= {2008},
+title= {The Classical Reveries of Modern Yoga: Patañjali and Constructive Orientalism},
+journal= {Yoga in the Modern World: Uses, Adaptations, Appropriations},
+editor= {Byrne, Jean and Singleton, Mark},
+pages= {77--99},
+publisher= {Routledge},
+address= {London and New York},
+keywords={seclit}, 
+}%!
+
+@book{jacobi1923,
+	author ={Jacobi, Hermann},
+	title ={Die Entwicklung der Gottesidee bei den Indern},
+	year ={1923},
+	publisher ={Kurt Schroeder Verlag},
+	address ={Bonn und Leipzig},
+        keywords={seclit}, 
+}%!
+
+@misc{maas2006,
+	author= {Maas, Philipp André},
+	subtitle= {Samādhipāda: das erste Kapitel des Pātañjalayogaśāstra zum ersten Mal kritisch ediert},
+	title= {Pātañjalayogaśāstra (Samādhipāda)}, 
+	year= {2006},
+	publisher= {Shaker Verlag},
+	journal= {Geisteskultur Indiens},
+	volume= {9},
+	note= {Aachen},
+	keywords ={primary},
+}%!
+
+@book{friedrich1997,
+	author= {Friedrich, Evira},
+	title= {Yoga – Der indische Erlösungsweg – Das klassische System und seine Hintergründe},
+	year= {1997},
+	publisher= {Eugen Diederichs Verlag},
+	address= {München},
+        keywords={seclit}, 
+}%!
+
+
+@book{michaels1998,
+	author ={Michaels, Axel},
+	title ={Der Hinduismus},
+	year ={1998},
+	publisher ={C. H. Beck},
+	address ={München},
+	keywords={seclit}, 
+}%!
+
+
+@book{halbfass2000,
+	author ={Halbfass, Wilhelm},
+	title= {Karma und Wiedergeburt im indischen Denken}, 
+	year= {2000},
+	publisher= {Hugendubel (Diederichs) (Diederichs Gelbe Reihe)},
+	volume= {161},
+	address= {Kreuzlingen und München},
+	keywords={seclit}, 
+}%!
+
+@book{zander1999,
+	author= {Zander, Helmut},
+	title= {Geschichte der Seelenwanderung in Europa},
+	year= {1999},
+	publisher= {Wissenschaftliche Buchgesellschaft},
+	address= {Darmstadt},
+	keywords={seclit}, 
+}%!
+
+
+@article{ahn2001,
+	author= {Ahn, Gregor},
+	title= {Unsterblichkeit - Auferstehung - Reinkarnation. Postmortalitätsmodelle in der europäischen Religionsgeschichte.},
+	year= {2000},
+	journal= {Reallexikon der Germanischen Altertumskunde, Ergänzungsausgabe zu Band 31},
+	pages= {12--43},
+	publisher= {Walter de Gruyter},
+	address= {Berlin und New York},
+	keywords={seclit}, 
+}%!
+
+
+@article{stolz1993,
+	author= {Stolz, Fritz},
+	title= {Paradiese und Gegenwelten},
+	year= {1993},
+	journal= {Zeitschrift für Religionswissenschaft},
+	volume= {Band 1, Heft 1},    
+	pages= {5--24},
+	publisher= {Walter de Gruyter},
+	address= {Berlin and New York},
+	keywords={seclit}, 
+}%!
+
+
+@article{baumann1997,
+	author= {Baumann, Martin},
+	title= {Hindus und Juden in globaler 'Zerstreuung'. Über den Vergleich zum Theoriebegriff Diaspora.},
+	year = {1997},
+	pages= {185--200},
+	publisher= {Klimkeit Hg.},
+	keywords={seclit},
+}%!
+
+@article{urban2000,
+	author={Urban, Hugh G.},
+	title= {Making a Place to Stand: Jonathan Z. Smith and the Politics and Poetics of Comparison},
+	year= {2000},
+	journal= {Method & Theory in the Study of Religion},
+	volume= {12},
+	publisher= {Brill},
+	address= {Leiden},
+	keywords={seclit},
+}%!
+
+@article{smith1982,
+	author= {Smith, Jonathan Z.},
+	title= {In Comparison a Magic Dwells},
+	year= {1982},
+	journal= {Imagining Religion - From Babylon to Jonestown},
+	publisher= {The University of Chicago Press},
+	address= {Chicago and London},
+	keywords={seclit},
+}%!
+
+@article{holdrege1994,
+	author= {Holdrege, Barbara A.},
+	title= {Comparative Religion with a Difference},
+	year= {1994},
+	journal= {Ugo Bianchi (Hrsg.) The Notion of >Religion< in Comparative Research},
+	publisher= {di Breitschneider},
+	pages= {803--812},
+	address= {Rom},
+	keywords= {seclit},
+	}%!
+
+@book{hermes1997,
+	author= {Holzhausen, Jens (Übers.)},
+	title= {Das Corpus Hermeticum Deutsch: Übersetzung, Darstellung und Kommentierung in drei Teilen / im Auftr. der Heidelberger Wissenschaften bearb. und hrsg. von Carsten Colpe und Jens Holzhausen. Teil 1. Die griechischen Traktate und der lateinische ,Asclepius' /übers. und eingeleitet von Jens Holzhausen.},
+	year= {1997},
+	publisher= {Friedrich Frommann VerlaG - Günther Holzboog},
+	address= {Stuttgart-Bad Cannstatt},
+	keywords= {seclit},
+}%!
+
+
+@book{ebeling2005,
+	author= {Ebeling, Florian},
+	title= {Das Geheimnes des Hermes Trismegistos - Geschichte des Hermetismus von der Antike bis zur Neuzeit - Mit einem Vorwort von Jan Assmann},
+	year= {2005},
+	publisher= {Verlag C.H.Beck},
+	address= {München},
+	keywords= {seclit},
+}%!
+	
+
+@book{bryant2005,
+	author ={Bryant, Edwin F.},
+	title ={The Yoga Sūtras Of Patañjali – A New Edition, Translation, and
+		Commentary},
+	year ={2005},
+	publisher ={North Point Press},
+	address ={New York},
+	keywords= {seclit},
+}%!
+
+@article{vandenbroek2005,
+	author= {van den Broek, Roelof},
+	title= {Hermes Trismegistus I: Antiquity},
+	year= {2005},
+	journal= {Dictionary of Gnosis and Western Esotericism},
+	editor= {Hanegraaff, Wouter J.},
+	volume= {1},
+	pages= {474--478},
+	publisher= {Brill},
+	address= {Leiden and Boston},
+	keywords= {seclit},
+}%!
+
+
+@article{vandenbroek2005a,
+	author= {van den Broek, Roelof},
+	title= {Hermetic Literature I: Antiquity},
+	year= {2005},
+	journal= {Dictionary of Gnosis and Western Esotericism},
+	editor= {Hanegraaff, Wouter J.},
+	volume= {1},
+	pages= {487--499},
+	publisher= {Brill},
+	address= {Leiden and Boston},
+}%!
+
+
+@article{vandenbroek2005b,
+	author= {van den Broek, Roelof},
+	title= {Hermetism},
+	year= {2005},
+	journal= {Dictionary of Gnosis and Western Esotericism},
+	editor= {Hanegraaff, Wouter J.},
+	volume= {1},
+	pages= {558--570},
+	publisher= {Brill},
+	address= {Leiden and Boston},
+	keywords= {seclit},
+}%!
+
+
+@book{eliade1960,
+	author ={Eliade, Mircea},
+	title ={Yoga. Unsterblichkeit und Freiheit},
+	year = {1960},
+	publisher ={Rascher Verlag},
+	pages ={83--86},
+	keywords= {seclit},
+}%!
+
+
+@book{deussen1897,
+	author ={Deussen, Paul},
+	title ={Sechzig Upanishad’s des Veda},
+	year ={1921},
+	publisher = {F. A. Brockhaus},
+	address = {Leipzig},
+	keywords= {seclit},
+}%!
+
+
+@book{gethin1998,
+     author= {Gethin, Rupert},
+     title= {The Foundations of Buddhism},
+     year= {1998},
+     publisher= {Oxford University Press},
+     address= {New York},
+     keywords= {seclit},
+}%!
+
+@book{boehme1989,
+	author= {Boehme, Angelika},
+	title= {Die Lehre von der Seelenwanderung in der antiken griechischen und indischen Philosophie},
+	year= {1989},
+	publisher= {Universität Düsseldorf},
+	address= {Jüchen},
+	keywords= {seclit},
+}%!
+
+
+@inbook{colebrooke2014,
+  title        = {Henry Thomas Colebrooke and the Western “Discovery” of the Yoga Sutra},
+  booktitle    = {The Yoga Sutra of Patanjali: A Biography},
+  editor       = {White, David Gordon},
+  address      = {New Jersey}, 
+  publisher    = {Princeton University Press},
+  year         = {2014},
+  pages        = {53--80},
+	keywords= {seclit},
+}%!
+
+
+@misc{bäumernetra,
+  title={Netratantra (I, VII, VIII)},
+  subtitle={The Yoga of the Netra Tantra. Third Eye and Overcoming Death },
+  author={Bäumer, Bettina},
+  editor={Srivatsa, Shivam}, 
+  year={2019},
+  publisher={Indian Institute of Advanced Study},
+  note={Shimla},
+  keywords={primary},
+}%!
+
+@misc{saradaavalon,
+title={Śāradātilakatantra}, 
+subtitle={Śārada-Tilaka-Tantra}, 
+editor={Avalon, Arthur}, 
+publisher={Motilal Banarsidass},
+year={1996},
+note={Delhi}, 
+keywords={primary},
+}%!
+
+@article{saradatilakafull,
+  title={The Śāradātilakatantra on Yoga: A New Edition and Translation of Chapter 25}, 
+  editor={Bühnemann, Gudrun},
+  year={2011},
+  pages={205--35},
+  series={Bulletin of the School of Oriental Studies (SOAS)},
+  volume={75}, 
+  publisher={Cambridge University Press},
+  note={New York},
+  keywords={seclit},
+}%!
+
+@misc{kathaup,
+  title={Kathopaniṣad},
+  subtitle={Kathopanishad: With the Sanskrit Text, Anvaya, Vritti, Word Meaning, Translation, Notes and Index},
+  author={Vasu, Sri Chandra},
+  series={Vedanta Series},
+  volume={No. 3.}, 
+  year={1905},
+  publisher={Alhallabad Press},
+  note={Alhallabad},
+  keywords={primary},
+}%!
+
+@misc{shivapura,
+  title={Śivapurāṇa}, 
+  subtitle={Siva-Purana, Book 1: Vidyesvara-Samhita},
+  year={1920},
+  publisher={Venkatesvara Steam Press},
+  note={Bombay},
+  keywords={primary},
+}%!
+
+@misc{siddharoma,
+  title={Siddhāntaśiromaṇi},
+  subtitle={Siddhāntaśiromaṇi of Bhāskara. Siddhāntaśiromaṇer Grahagaṇitasya Madhyamādhikārāntaḥ Vāsanābhāṣyavāsanā - vārttikamarīcibhiḥ sahitaḥ},
+  editor={Jha, Jyautishacharya Pandit Muralidhara},
+  year={1917},
+  publisher={Medical Hall Press},
+  note={Benares},
+  keywords={primary},
+}%!
+
+@misc{jyotsna,
+ title={Haṭhapradīpikājyotsnā},
+ subtitle={Haṭhayogapradīpikā of Svātmārāma with the Commentary Jyotsnā of Brahmānanda},
+ editor={Ayangar, Srinivasa},
+ year={1972},
+ publisher={Adyar Library and Research Centre},
+ note={Madras},
+ keywords={primary},
+ }%!
+
+@misc{kubji1988,
+  title={Kubjikāmatatantra},
+  subtitle={Kubjikāmatatantra},
+  editor={Gourdriaan, Teun and Schoterman, J. A.},
+  howpublished={Gonda Indological Studies, Band 16},
+  year={1988},
+  note={Leiden | New York},
+  publisher={Brill},
+  keywords={primary},
+}%!
+
+@book{gonda1965,
+title={Change and Continuity in Indian Religion}, 
+author={Gonda, Jan}, 
+year={1965}, 
+publisher={Mouton \& Co}, 
+address={The Hague},
+keywords={seclit},
+}%! 
+
+@misc{hathapradipika2024,
+  title={Haṭhapradīpikā},
+  subtitle={Light on Haṭha: Haṭhapradīpikā - Critical Edition and annotated Translation (Printed Ed. Forthcoming)},
+  editor={Mallinson, James and Birch, Jason and Hanneder, Jürgen and Demoto, Mitsuyo and Liersch, Nils Jacob},
+  %year={2025},
+  %note={forthcoming}, 
+  note={Pondicherry},
+  publisher={Institut Français de Pondichéry / Ecole française d’Extrême-Oriente},
+  howpublished = {Digital Edition (beta): \url{http://hathapradipika.online/}},
+  keywords={primary},
+}%!
+
+@misc{yajnavalkya,
+  title={Yogayājñavalkya},
+  subtitle={Yoga Yājñavalkya},
+  editor={Mohan, A. G. and Mohan, Ganesh},
+  year={2013},
+  publisher={Svastha Yoga Pte Ltd.},
+  note={Singapore},
+  keywords={primary},
+}%!
+
+@incollection{birch2018proliferation,
+  author       = {Birch, Jason},
+  title        = {The Proliferation of Āsanas in Late-Mediaeval Yoga Texts},
+  booktitle    = {Yoga in Transformation: Historical and Contemporary Perspectives},
+  year         = {2018},
+  editor       = {Baier, Karl and Maas, Philipp A. and  Preisendanz, Karin},
+  publisher    = {Vienna University Press},
+  address      = {Vienna},
+  pages        = {101--180},
+  doi          = {10.14220/9783737008624},
+  url          = {https://doi.org/10.14220/9783737008624},
+  note         = {Submitted in 2013. Final Published Version in 2018},
+  keywords     = {seclit},
+}%!
+
+@misc{kumbhaka, 
+  title={Kumbhakapaddhati},
+  subtitle={Kumbhaka-Paddhati of Raghuvīra: Science of Prāṇāyāma}, 
+  editor={Gharote, M. L. and Devnath, Parimal},
+  year={2021},
+  note={Lonavla},
+  publisher={The Lonavla Yoga Institute},
+  keywords={primary},
+}%!
+
+@book{kowski1988,
+  title={The Canon of the Śaivāgama and the Kūbjika Tantras of the Western Kaula Tradition},
+  editor={Dyczkowski, M. S. G.},
+  year={1988},
+  series={The Suny Series in the Shaiva Traditions of Kashmir}, 
+  publisher={The State University of New York Press},
+  address={Albany},
+  keywords={seclit},
+}%!
+
+@misc{acri2011dharma,
+  title={Dharma PÜātañjala},
+  subtitle={Dharma Pātañjala: A Śaiva Scripture from Ancient Java Studied in the Light of Related Old Javanese and Sanskrit Texts},
+  editor={Acri, Andrea},
+  series={Gonda Indological Studies, Band 16},
+  year={2011},
+  publisher={Brill},
+  note ={Leiden},
+  keywords={primary},
+}%!
+
+@misc{yogasutra,
+  title={Pātañjalayogaśāstra},
+  subtitle={Yoga Philosophy of Patañjali},
+  %author={Hariharānanda Āraṇya},
+  editor={Mukerji, P. N.},
+  year={1983},
+  publisher={State University of New York Press},
+  note={New York},
+  keywords={primary},
+}%!
+
+@misc{bhagavata,
+title={Bhāgavatapurāṇa},
+title={Bhāgavata Purāṇa},
+editor={Shastri, J. L. and Tagara, G. V.},
+howpublished={Vol. 1-5},
+year={1950},
+publisher={Motilal Banarsidass},
+note={New Delhi},
+keywords={primary},
+}%!
+
+@misc{yogacandrika,
+  title={Yogasiddhāntacandrikā},
+  subtitle={Yogasiddhāntacandrikā (of Nārāyaṇatīrtha)},
+  editor={Vimalā, Karnāṭak},
+  howpublished={Chowkhambā Sanskrit Series, No 108},
+  year={2000},
+  publisher={Chowkhambā Sanskrit Series Office},
+  note={Varanasi},
+  keywords={primary},
+}%!
+
+@book{stenzler,
+  title={Elementarbuch der Sanskrit-Sprache},
+  author={Stenzler, Adolf Friedrich},
+  year={2003},
+  publisher={De Gruyter},
+  address={Berlin},
+  keywords={seclit},
+}%!
+
+@misc{paratrishi, 
+  title={Parātrīśikhāvivaraṇa},
+  subtitle={Parātrīśikhāvivaraṇa of Abhinavagupta}, 
+  editor={Bäumer, Bettina}, 
+  howpublshed={Translatore: Jaideva Singh. Sanskrit text corrected and annotated by Swami Lakshmanjee}, 
+  year={1988}, 
+  publisher={Motilal Banarsidass}, 
+  note={Delhi}, 
+  keywords={primary},
+}%!
+
+@misc{tagare1983,
+  title={Brahmāṇḍapurāṇa},
+  subtitle={Brahmāṇḍa Purāṇa},
+  editor={Tagare, G. V.},
+  howpublished= {Vol. 1},
+  year={1983},
+  publisher={Motilal Banarsidass},
+  note={New Dehli},
+  keywords={primary},
+}%!
+
+@misc{jogpradipyaka,
+  title={Jogpradīpyakā}, 
+  subtitle={Jogpradīpyakā of Jayatarāma},
+  editor={Maheśānanda, Swāmi and Sharma, Dr. B. R. and Sahay, Shri G. S. and Bodhe, Shri R. K.},
+  year={2006},
+  publisher={Kaivalyadhāma S. M. Y. M. Samiti},
+  note={Lonavla},
+  keywords={primary},
+}%!
+
+@book{sferra2000,
+ title={Ṣaḍaṅgayoga},
+ subtitle={The Ṣaḍaṅgayoga by Anupamarakṣita: With Raviśrījñana's Guṇabharaṇīnāmaṣaḍangayogaṭippaṇī: Text and annotated translation},
+  author={Sferra, Francesco},
+  year={2000},
+  publisher={Istituto italiano per l’Africa e l’Oriente},
+  note={Rome},
+  keywords={primary},
+}%!
+
+@misc{yogataravali, 
+title={Yogatārāvalī}, 
+subtitle={Śrīmacchaṅkarābhagavatpādaviracitā Yogatārāvalī}, 
+year={1987}, 
+editor={Śāstrī, Svāmī Śrīdayānanda},
+publisher={Vārāṇaseya Saṃskṛta Saṃsthāna},
+note={Varanasi},
+keywords={primary}, 
+}
+
+@misc{isaac2014,
+  title={Sekanirdeśa},
+  subtitle={The Sekanirdeśa of Maitreyanātha (Advayavajra) with the Sekanirdeśapañjikā of Rāmapāla: Critical Edition of the Sanskrit and Tibetan Texts with English Translation and Reproduction of the MSS},
+  editor={Isaacson, Harunaga and Sferra, Francesco},
+  year={2014},
+  howpublished={Serie Orientale Roma fondata da Giuseppe Tucci Vol. CVII},
+  publisher={Istituto italiano per l’Africa e l’Oriente},
+  note={Napoli},
+  keywords={primary},
+}%!
+
+@book{lehmann,
+  title={Sanskrit für Anfänger: Ein Lehr- und Übungsbuch},
+  author={Lehmann, Thomas},
+  year={2013},
+  volume={1},
+  publisher={Abt. Klassische Indologie, Südasieninstitut der Universität Heidelberg},
+  address={Heidelberg},
+  url={http://www.sai.uni-heidelberg.de/tamil/pdf/sansgram.pdf},
+  keywords={seclit},
+}%!
+
+
+@book{smith1998,
+  title={Reflections on Resemblance, Ritual, and Religion},
+  author={Smith, Brian K.},
+  year={1998},
+  publisher={Motilal Banarsidass},
+  address={Delhi},
+  keywords={seclit},
+}%!
+
+@book{avalon, 
+ title={The Serpent Power}, 
+ author={Avalon (Sir John Woodroffe), Arthur}, 
+ year={1950},
+ note={Fourth Edition}, 
+ publisher={Ganesh \& Co. Ltd.},
+ address={Madras}, 
+ keywords={seclit}, 
+}%!  
+  
+@misc{satcakraniru,
+   title={Ṣaṭcakranirūpaṇa},
+   subtitle={Ṣaṭcakranirūpaṇa},
+   note={see The Serpent Power}, 
+   keywords={primary},
+}%!
+
+
+@article{sinha1976,
+  title={Problem of Time and Temporality in Sāṃkhya-Yoga and Ābhidharma Buddhism},
+  author={Sinha, Braj Mohan Pd.},
+  year={1976},
+  publisher={McMaster University},
+  address={Hamilton, Ontario},
+  keywords={seclit},
+}%!
+
+@book{kaivalyadamanuscripts2005,
+title={Descriptive Catalogue of Yoga Manuscripts (Updated)},
+author={Gharote, M.L. and Bedekar, V.A.},
+year={2005},
+publisher={Kaivalyadhama},
+address={Lonavla},
+keywords={seclit},
+}%!
+
+@article{birch2019,
+ title={The Amaraughaprabodha: New Evidence on the Manuscript Transmission of an Early Work on Haṭha- and Rājayoga},
+ author= {Birch, Jason},
+ year={2019},
+ series={Journal of Indian Philosophy},
+ volume={47},
+ pages={947--977},
+ publisher={Springer Netherlands},
+ address={Dordrecht},
+ url={https://link.springer.com/article/10.1007/s10781-019-09401-5},
+ keywords={seclit},
+ }%!
+
+@book{birch2024, 
+title={The Ujjain Yogacintāmaṇi},
+author={Birch, Jason}, 
+year={2024}, 
+publisher={Unknown yet},
+note={forthcoming},
+address={Tasmania},
+keywords={seclit}
+}%!
+
+@article{törzsök2022,
+ title={Religions de l’Inde : études shivaïtes}, 
+ subtitle={Annuaire de l'École pratique des hautes études (EPHE), Résumé des conférences et travaux},
+ note={mis en ligne le 03 juin 2022, consulté le 07 juillet 2022.},
+ journal={Section des sciences religieuses [En ligne]}, 
+ volume={129}, 
+ author= {Törzsök, Judith},
+ pages={117--124},
+ year={2022},
+ publisher={openedition.org},
+ address={Marseille},
+ url={https://link.springer.com/article/10.1007/s10781-019-09401-5},
+ keywords={seclit},
+ }%!
+
+@book{hanneder2006,
+ title={Studies on the Mokṣopaya}, 
+ author={Hanneder, Jürgen},
+ series={Zeitschrift der Deutschen Morgenländischen Gesellschaft}, 
+ volume={160},
+ year={2006},
+ publisher={Deutsche Morgenländische Gesellschaft, Harrasowitz Verlag}, 
+ address={Wiesbaden},
+ keywords={seclit},
+}%!
+
+@misc{moskopaya12,
+  title     = {Mokṣopāya},
+  subtitle  = {Mokṣopāya. Textedition, Teil 1. Das erste und zweite Buch: Vairāgyaprakaraṇa, Mumukṣuvyahāraprakaraṇa},
+  howpublished = {Anonymus Casmiriensis},
+  series = {Veröffentlichungen der Indologischen Kommission der Akademie der Wissenschaften und der Literatur Mainz}, 
+  editor    = {Krause-Stinner, Susanne},
+  year      = {2014},
+  publisher = {Harrassowitz Verlag},
+  address   = {Wiesbaden},
+  keywords  = {primary},
+}%!
+
+@misc{manasollasa,
+ title={Mānasollāsa},
+ subtitle={Mānasollāsa of King Someśvara}, 
+ editor={Shrigondekar, G. K.}, 
+ note={Baroda Oriental Institute}, 
+ year={1939},
+ publisher={Bombay Vaibhav Press},
+ note={Mumbai},
+ keywords={primary}, 
+}%! 
+
+
+@book{majumdar1977,
+  title={Ancient India},
+  author={Majumdar, M. C.},
+  year={1977},
+  publisher={Motilal Banarsidass},
+  address={New Dehli},
+  keywords={seclit},
+}%!
+
+@book{bryant2009,
+title={The Yoga Sūtras of Patañjali: A New Edition, Translation and Commentary},
+editor={Bryant, Edwin F.},
+year={2009},
+publisher={North Point Press},
+address={New York},
+keywords={printsource},
+}%!
+
+@book{sensharma2007,
+  title={Aspects of Tantra Yoga},
+  author={Sen Sharma, Debabrata},
+  year={2007},
+  publisher={Indica Books},
+  address={Varanasi},
+  keywords={seclit},
+}%!
+
+@book{harimoto2014,
+  title={God, Reason, and Yoga: A Critical Edition and Translation of the Commentary Ascribed to Śaṅkara on Pātañjalayogaśāstra 1.23—28},
+  editor={Harimoto, Kengo},
+  series={Indian and Tibetan Studies},
+  volume={1},
+  year={2014},
+  publisher={Department of Indian and Tibetan Studies, Asien-Afrika-
+Institut, Universität Hamburg},
+  address={Hamburg},
+  keywords={seclit},
+}%!
+
+@book{clark2006,
+ title={The Daśanāmī-Saṃnyāsīs},
+ subtitle={The Integration of Ascetic Lineages into an Order},
+ year={2006},
+ author={Clark, Matthew},
+ publisher={Brill Academic Pub.},
+ address={Leiden},
+ keywords={seclit},
+ }%!
+
+@article{clark2011,
+  booktitle={Yoga in Practice},
+  title={Yoga in the Yoga Upaniṣads: Disciplines of the Mystical OM
+Sound}, 
+  editor={White, David Gordon},
+  author={Ruff, Jeffrey Clark},
+  year={2011},
+  pages={97--117},
+  publisher={Princeton University Press},
+  address={New Jersey},
+  keywords={seclit},
+}%!
+
+@article{white2021,
+  booktitle={Merton and Hinduism: The Yoga of the Heart},
+  title={Yoga, The One and the Many}, 
+  author={White, David Gordon},
+  editor={Odorisio, David M.},
+  year={2021},
+  pages={10--39},
+  publisher={Fons Vitae},
+  address={Louisville, KY},
+  keywords={seclit},
+}%!
+
+@article{birch2014,
+ title={Rājayoga: Reincarnations of the King of All Yogas},
+ author={Birch, Jason},
+ year={2014},
+ publisher={Springer},
+ series={International Journal of Hindu Studies 17, 3 (2013)}, 
+ pages={401--444}, 
+ keywords={seclit},
+ }%!
+
+@online{dbhutrans,
+  editor={Narayanasvami Aiyar, K},
+  title={Translation of Dhyana-Bindu Upanishad},
+  date={2018-05-20},
+  url={http://www.celextel.org/upanishads/krishna_yajur_veda/dhyanabindu.html},
+  keywords={onlinesource},
+  }%!
+
+@online{mallinsononline2013,
+  editor={Mallinson, James},
+  title={Yogic Identities: Tradition and Transformation},
+  year={2013},
+  publisher={Smithonian Institution, Freer Gallery of Art & Arthur M. Sackler Gallery, Smithsonian’s National Museum of Asian Art}, 
+  address={Washington D.C.},
+  url={https://web.archive.org/web/20240116124707/https://asia-archive.si.edu/essays/yogic-identities/},
+  keywords={seclit},
+  }%!
+
+@book{feuerstein2008,
+  title={Die Yoga Tradition: Geschichte, Literatur, Philosophie und Praxis},
+  author={Feuerstein, Georg},
+  year={2008},
+  publisher={Yoga Verlag},
+  address={Wiggensbach},
+  keywords={seclit},
+ }%!
+
+@book{slouber2010,
+  title={Gāruḍa Medicine: A History of Snakebite and Religious Healing in South Asia},
+  author={Slouber, Michael James},
+  url={http://digitalassets.lib.berkeley.edu/etd/ucb/text/Slouber_berkeley_0028E_12261.pdf},
+  year={2010},
+  publisher={Springer},
+  address={Berkely},
+  keywords={seclit},
+}%!
+
+@book{kinsley1997,
+  title={Tantric Visions of the Divine Feminine: The Ten Mahāvidyās},
+  author={Kinsley, David R.},
+  year={1997},
+  publisher={University of California Press},
+  address={California},
+  keywords={seclit},
+}%!
+  
+@book{shastri1905,
+  title={Report on the Search for Sanskrit Manuscripts (1901-1902 to 1905-1906)},
+  author={Shāstri, Mahāmahopādhyāyā Harapraśad},
+  year={1905},
+  publisher={Asiatic Society of Bengal},
+  address={Calcutta},
+  url={http://gretil.sub.uni-goettingen.de/gretil_elib/SHP905__ShastriHP_Report_on_the_Search_for_Sanskrit_Mss_1901-2_1905-6.pdf},
+  keywords={catalogues},
+ }%!
+
+@book{white1996,
+  title={The Alchemical Body: Siddha Traditions in Medieval India},
+  author= {White, David Gordon},
+  year={1996},
+  publisher={The University of Chicago Press},
+  address={Chicago},
+  keywords={seclit},
+}%!
+
+@book{white2003,
+  author       = {White, David Gordon},
+  title        = {Kiss of the Yogini: “Tantric Sex” in Its South Asian Contexts},
+  year         = {2003},
+  publisher    = {University Of Chicago Press},
+  address      = {Chicago},
+  keywords     = {seclit}, 
+}%!
+
+@misc{datta2015,
+ title= {Dattātreyayogaśāstra},
+ subtitle= {Dattātreyayogaśāstra},
+ editor= {Gharote, Manmath M. and Devnath, Parimal},
+ year= {2015},
+ publisher= {The Lonavla Yoga Institute},
+ note= {Lonavla},
+ keywords= {primary},
+}%!
+
+@misc{datta2024,
+ title= {Dattātreyayogaśāstra},
+ subtitle= {The Dattātreyayogaśāstra (forthcoming)},
+ editor= {Mallinson, James},
+ year= {2024},
+  publisher={École française d’Extrême-Orient},
+  note={Pondicherry},
+  howpublished={Collection Indologie 153?, Haṭha Yoga Series 5?},
+  keywords={primary},
+}%!
+
+@misc{amaraugha2024,
+ title= {Amaraugha},
+ subtitle={The Amaraugha and Amaraughaprabodha of Gorakṣanātha - The Genesis of Haṭha- and Rājayoga}, 
+ editor= {Birch, Jason},
+ year= {2024},
+  publisher={École française d’Extrême-Orient},
+  note={Pondicherry},
+  howpublished={Collection Indologie 146, Haṭha Yoga Series 3},
+  keywords={primary},
+}%!
+
+@book{urban2010,
+  title={The Power of Tantra: Religion, Sexuality and the Politics of South Aasian Studies},
+  author= {Urban, Hugh B.},
+  year={2010},
+  publisher={I.B. Tauris \& Co. Ltd.},
+  address={New York},
+  keywords={seclit},
+}%!
+
+@book{sircar,
+  title={The Śākta Pīṭhas},
+  author={Sircar, D.C.},
+  year={1973},
+  publisher={Motilal Banarsidas},
+  address={Dehli},
+  keywords={seclit},
+}%!
+
+@misc{rigveda,
+  title={Ṛgveda},
+  subtitle={Der Rig-Veda}, 
+  author={Geldner, Karl Friedrich},
+  year={1951},
+  howpublished={Vol. 1},
+  publisher={Harvard University Press},
+  note={Cambridge},
+  keywords={primary},
+}%!
+
+@book{sircar1966,
+  title={Indian Epigraphical Glossary},
+  author={Sircar, D.C.},
+  year={1966},
+  publisher={Motilal Banarsidas},
+  address={Delhi},
+  keywords={seclit},
+}%!
+
+@book{apte1890practical,
+  title = {The Practical Sanskrit-English Dictionary},
+  author = {Apte, Vaman Shivaram},
+  year = {1890},
+  publisher = {Shiralkar},
+  address = {Poona},
+  keywords={seclit},
+}%!
+
+
+@book{yogapowers2017,
+  title={Yoga Powers: Extraordinary Capacities Attained Through Meditation and Concentration},
+  editor={Jacobsen, Knut A.},
+  year={2012},
+  series={Brill's Indological Library},
+  volume={37},
+  publisher={Brill},
+  address={Leiden},
+  keywords={seclit},
+}%!
+
+@article{white2011,
+ title={On the Magnitude of the Yogic Body},
+ editor={Muñoz, Adrian and Lorenzen, David N.},
+ booktitle={Yogi Heroes and Poets: Histories and Legends of the Nāths},
+ year={2011},
+ pages={79--90},
+ publisher={SUNY Press},
+ address={Albany, NY},
+ keywords={seclit},
+ }%!
+ 
+@book{kawamura1991,
+   title={Madhyāmika and Yogācāra: A Study of Mahāyana Philosophies},
+   author={Kawamura, L. S.},
+   year={1991},
+   publisher= {State University of New York Press},
+   address= {New York},
+   keywords={seclit},
+   }%!
+   
+@article{rodrigues2009,
+   title={Fluid Control: Orchestrating Blood Flow in the Durgā Pūjā},
+   author={Rodrigues, H. P.},
+   year={2009},
+   series={Studies in Religion/Sciences Religieuses},
+   volume={38},
+   number={2},
+   pages={262 et seqq.},
+   keywords={seclit},
+}%!
+
+@misc{birch2019saiva,
+   title={The Tantric Śaiva Origins of Rājayoga},
+   author={Birch, Jason},
+   year={2019}, 
+   note={Presented at the Conference of the Society for Tantric Studies, Flagstaff, Arizona, on 28 September 2019.},
+   howpublished = {\url{https://www.academia.edu/40467193/The_Tantric_Śaiva_Origins_of_Rājayoga}},
+   note = {\url{https://www.academia.edu/40467193/The_Tantric_Śaiva_Origins_of_Rājayoga}; Zugriff: 04.05.2023},
+   keywords={seclit},
+}%!
+
+@article{viveka57,
+   title={Viveka 57 - Hefte für Yoga: Haṭha Yoga Project, Yoga in der Suchttherapie, Vasiṣṭhāsana},
+   author= {Soder, Martin and Dalmann, Imogen},
+   year={2018},
+   series={Viveka Series},
+   volume={57},
+   publisher={Dalmann & Soder GbR},
+   address={Gross Kreutz},
+   url={http://www.viveka.de},
+   keywords={seclit},
+}%!
+
+@misc{vasishtasamhita, 
+title={Vasiṣṭhasaṃhitā Yogakāṇḍa}, 
+subtitle={Vasiṣṭhasaṃhitā Yogakāṇḍa. Revised Edition}, 
+year={2005},
+note={first edition, 1984}, 
+editor={Digambarji, Swami and Jha, Pitambar and Sahay, Gyan Shankar and Maheshananda, Swami and Sharma, B. R. and Sahay, Shri G. S. and Bodhe, Shri R. K.}, 
+publisher={Kaivalyadhama S.M.Y.M. Samiti}, 
+note={Lonavla}, 
+keywords={primary}, 
+}%!
+
+@misc{amaraughasasana, 
+title={Amaraughaśāsana}, 
+subtitle={Amaraughaśāsana of Gorakṣanātha},
+editor={Mukund Ram Shastri, P.}, 
+howoublished={KSTS Vol. 20},
+volume={20},
+year={1918}, 
+note={Srinagar},
+keywords={primary}, 
+}%!
+
+@book{spandakarika, 
+title={Spandakārikā}, 
+subtitle={Spandakārikā with the commentary by Ksemaraja},
+author={Vasugupta}, 
+editor={Shastri, M. K.}, 
+year={1925}, 
+publisher={Kashmir Pratap Steam Press}, 
+note={Srinagar},
+keywords={primary}, 
+}%!
+
+@misc{viveka1983,
+   title={Vivekamārtaṇḍa},
+   subtitle={Vivekamārtaṇḍa},
+   editor= {Śrīvāstava, Rāmalāla},
+   year={1983},
+   publisher= {Gorakhanātha-Mandira}, 
+   note= {Gorakhapura},
+   keywords={primary}, 
+}%!
+
+
+@misc{visvarupadeva1935,
+  title = {Vivekamārtāṇḍa (6 chapters)}, 
+  subtitle = {The Vivekamārtāṇḍa of Viśvarūpadeva},
+  howpublished = {Transcribed from the Trivandrum Sanskrit Series No. CXIX, Śrīcitrodayamañjarī No. 8},
+  editor = {Śāstrī, K. Sāmbaśiva},
+  note = {Trivandrum},
+  publisher = {Superintendent, Government Press},
+  year = {1935},
+  keywords={primary}, 
+}%!
+
+
+@online{hargreaves2020,
+ title= {Visual Evidence for Royal Yogins},
+ author= {Hargreaves, Jacqueline},
+ year={2020},
+ publisher={The Luminescent},
+ howpublished={\url{https://www.theluminescent.org/2020/08/visual-evidence-for-royal-yogins.html}}, 
+ note={\url{https://web.archive.org/web/20240514091726/https://www.theluminescent.org/2020/08/visual-evidence-for-royal-yogins.html}; Saved on archive.org: 22.07.2024},  
+ keywords={onlinesource},
+ }%!
+
+@article{birch2014a,
+   title={Yoganidrā: An Understanding of the History and Context},
+   author={Birch, Jason and Hargreaves, Jaqueline},
+   year={2014},
+   howpublished={\url{https://www.theluminescent.org/2020/08/visual-evidence-for-royal-yogins.html}}, 
+   url={http://theluminescent.blogspot.de/2015_01_01_archive.html},
+   keywords={onlinesource},
+}%!
+
+@book{brown1869,
+   title={Sanskrit Prosody and Numerical Symbols Explained},
+   author={Brown, C. H.},
+   year={1869},
+   url={https://books.google.de/books?id=m7UIAAAAQAAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false},
+   publisher={Tübner \& Co.},
+   address={London},
+   keywords={seclit},
+}%!
+
+@book{lienhard1988,
+   title={Nepalese Manuskripts - Part I: Nevārī and Sanskrit},
+   author={Lienhard, S.},
+   year={1988},
+   series={Verzeichnis der orientalischen Handschriften in Deutschland},
+   volume={XXXIII, 1},
+   editor={Voigt, W. and George, D. and Feistel, H-O},
+   address={Stuttgart},
+   publisher={Franz Steiner Verlag Wiesbaden GmbH},
+   keywords={catalogues},
+}%!
+
+@book{bendall1992,
+   title={Catalogue of the Buddhist Sanskrit Manuscripts in the University Library Cambridge},
+   author={Bendall, C.},
+   year={1992},
+   series={Verzeichnis der orientalischen Handschriften in Deutschland},
+   volume={Supplementband 33},
+   editor={Voigt, W. and George, D. and Feistel, H-O},
+   address={Stuttgart},
+   publisher={Franz Steiner Verlag Wiesbaden GmbH},
+   keywords={catalogues},
+}%!
+
+@book{maas1950,
+  title={Textkritik},
+  author={Maas, P.},
+  year= {1950},
+  address={Leipzig},
+  publisher={B.G. Teubner Verlagsgesellschaft},
+  keywords={seclit},
+}%!
+
+@incollection{maas2009,
+  author    = {Maas, Philipp},
+  title     = {The So-called Yoga of Suppression in the Pātañjala Yogaśāstra},
+  booktitle = {Yogic Perception, Meditation, and Altered States of Consciousness},
+  editor    = {Franco, Eli and Eigner, Dagmar},
+  series    = {Sitzungsberichte der phil.-hist. Klasse},
+  volume    = {794},
+  number    = {Beiträge zur Kultur- und Geistesgeschichte Asiens 64},
+  pages     = {263--282},
+  year      = {2009},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+  address   = {Vienna},
+  keywords  = {seclit},
+}%!
+
+@book{katre1954,
+   title={Introduction to Indian Textual Criticism},
+   author={Katre, S. M.},
+   year={1954},
+   address={Poona},
+   publisher={Deccan College Post-graduate and Research Institute},
+   keywords={seclit},
+}%!
+
+@misc{kissmatsya, 
+  title={Matsyendrasaṃhitā}, 
+  subtitle={The Yoga of the Matsyendrasaṃhitā - A Critical Edition and Annotated Translation of Chapters 1-13 and 55}, 
+  author={Kiss, Csaba}, 
+  year={2021}, 
+  publisher={École française d’Extrême-Orient},
+  note={Pondicherry},
+  howpublished={Collection Indologie 146, Haṭha Yoga Series 1},
+  keywords={primary},
+}%! 
+
+@book{jayasi1998,
+  author    = {Muhammad Jāyasī, Mālik},
+  title     = {Padmāvat: Mālik Muhammad Jāyasī Kṛt Mahākāvya},
+  editor    = {Agrawal, V. S.},
+  year      = {1998},
+  publisher = {Sahitya Sadan},
+  address   = {Chirgaon},
+  keywords={printsource},
+}%!
+
+@incollection{mallinson2021,
+  author    = {Mallinson, James},
+  title     = {Nath Yogis and their ‘Amazing Apparel’ in Early Material and Textual Sources},
+  booktitle = {Objects, Images, Stories},
+  editor    = {Orsini, Francesca},
+  year      = {2021},
+  publisher = {Oxford University Press},
+  doi       = {10.1093/oso/9780190123963.003.0004},
+  keywords={seclit}, 
+}%!
+
+@incollection{mallinson2012hatha,
+   title={Yoga: Haṭha Yoga},
+   author={Mallinson, James},
+   year={2012},
+   editor={Jacobsen, Knut A. and Basu, Helene and Malinar, Angelika and Narayanan, Vasudha},
+   series={Brill’s Encyclopedia of Hinduism},
+   publisher={Brill Online},
+   url={http://dx.doi.org/10.1163/2212-5019_beh_COM_000354},
+   keywords={seclit},
+}
+   
+@article{mallinson2020as,
+   title={The Aṃrtasiddhi: Haṭhayoga’s Tantric Buddhist Source Text},
+   author={Mallinson, James},
+   editor={Goodall, Dominic and Hatley, Shaman and Isaacson, Harunaga and Raman, Srilata},
+   year={2020},
+   booktitle={Śaivism and the Tantric Traditions:Essays in Honour of Alexis G.J.S. Sanderson},
+   series={Gonda Indological Studies, Band: 22},
+   pages={409--425},
+   publisher={Brill},
+   address={Leiden},
+   keywords={seclit},
+}%!
+
+@article{sanderson2004,
+  author    = {Sanderson, Alexis},
+  title     = {Religion and the State: \textit{{\S}aiva Officiants} in the Territory of the Brahmanical Royal Chaplain (with an appendix on the provenance and date of the \textit{Netratantra})},
+  journal   = {Indo-Iranian Journal},
+  volume    = {47},
+  year      = {2004},
+  pages     = {229--300},
+  keywords={seclit},
+}%!
+
+@incollection{mallinson2014,
+   title={Nāth Sampradāya},
+   author={Mallinson, James},
+   year={2014},
+   series={Brill's Encyclopedia of Hinduism},
+   editor={Jacobsen, K. A. and Basu, H. and Malinar, A. and Narayanan V.},
+   publisher={Brill Online},
+   keywords={seclit},
+}%!
+
+ @incollection{jacobson2010,
+   title={Philosophy of Language},
+   author={Jacobsen, K. A. and Bronckhorst, J.},
+   editor={Jacobsen, K. A. and Basu, H. and Malinar, A. and Narayanan V.},
+   year={2010},
+   series={Brill's Encyclopedia of Hinduism},
+   publisher={Brill Online},
+   pages={193--205},
+   keywords={seclit},
+}%!
+
+@inbook{haag2012,
+ author={Haag, James W.},
+ title={Hindu Cosmogony/Cosmology},
+ editor={Larson, Gerald James},
+ chapter={11},
+ series={The Routledge Companion to Religion and Science},
+ year={2011},
+ publisher={Routledge},
+ address={New York},
+ }%!
+ 
+@book{apte1957,
+   title={Sanskrit-English Dictionary},
+   author={Apte, V. S.},
+   year={1957},
+   publisher={Prasad Prakashan},
+   address={Poona},
+   keyword={seclit},
+}%!
+
+@book{olesen2016,
+   title={Goddess Traditions in Tantric Hinduism: History, practice and doctrine},
+   author={Wernicke Olesen, B.},
+   year={2016},
+   publisher={Routledge},
+   address={Oxon and New York},
+   keyword={seclit},
+}%!
+
+@book{arbor2012,
+  title={Proposal to Encode the Newar Script in ISO/IEC 10646},
+  author={Pandey, A.},
+  year={2012},
+  note={\url{http://unicode.org/L2/L2012/12003-newar.pdf}},
+  howpublished = {\url{http://unicode.org/L2/L2012/12003-newar.pdf}},
+  keywords={onlinesource},
+}%!
+
+@book{goodall2016,
+  title={Tantric Studies: Fruits of a Franco-German Project on Early Tantra},
+  series={Early Tantra Series},
+  volume={4}, 
+  note={Collection Indologie~131},
+  author={Goodall, Dominic and Isaacson, Harunaga},
+  year={2016},
+  publisher={Institut Français de Pondichéry / Ecole française d’Extrême-Oriente},
+  address={Pondicherry},
+  keywords={seclit},
+}%!
+
+@incollection{goodall2016tattvas,
+  title={How the Tattvas of Tantric Śaivism Came to Be 36: The Evidence of the \emph{Niśvāsatattvasaṃhitā}},
+  author={Goodall, Dominic},
+  booktitle={Tantric Studies: Fruits of a Franco-German Project on Early Tantra},
+  series={Early Tantra Series},
+  note={Collection Indologie~131},
+  volume={4}, 
+  editor={Goodall, Dominic and Isaacson, Harunaga},
+  pages={77--112},
+  year={2016},
+  publisher={Institut Français de Pondichéry / Ecole française d’Extrême-Orient},
+  address={Pondicherry},
+  keywords={seclit},
+}%!
+
+@misc{goodall1998,
+  title={Kiraṇatantra (Bhaṭṭa Rāmakaṇṇtha's Commentary)},
+  subtitle={Bhaṭṭa Rāmakaṇṇtha's Commentary on the Kiraṇatantra - Vol. I: Chapters 1-6. Critical edition and annotated translation.},
+  editor= {Goodall, Dominic}, 
+  year={1998},
+  publisher={Institut Français de Pondichéry / Ecole française d’Extrême-Orient},
+  note={Pondicherry},
+  keywords={primary},
+}%!
+
+@misc{kramer2013b,
+  title={Pañcaskandhakavibhāṣa (II)},
+  subtitle={Sthiramati's Pañcaskandhakavibhāṣa - Part II: Diplomatic Edition},
+  editor={Kramer, J.},
+  series={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2013},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing | Vienna},
+  keywords={primary},
+}%!
+
+@misc{kramer2013a,
+  title={Pañcaskandhakavibhāṣa (I)},
+  subtitle={Sthiramati's Pañcaskandhakavibhāṣa - Part I: Critical Edition},
+  editor={Kramer, J.},
+  howpublished={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2013},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing - Vienna},
+  keywords={primary},
+}%!
+
+
+@misc{zhen2015,
+  title={Dharmadhātustava},
+  subtitle={The Dharmadhātustava: A Critical Edition of the Sanskrit Text with the Tibetan and Chinese Translations, a Diplomatic Transliteration of the Manuscript and Notes},
+  editor= {Zhen, L.},
+  howpublished={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2015},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing | Vienna},
+  keywords={primary},
+}%!
+
+
+@misc{tomabechi2009,
+  title={Adhyardhaśatikā Prajñāpāramitā}, 
+  subtitle={Adhyardhaśatikā Prajñāpāramitā Sanskrit and Tibetan Texts: Critically Edited},
+  editor= {Tomabechi, Toru},
+  howpublished={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2009},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing | Vienna},
+  keywords={primary},
+}%!
+
+@misc{steinkellner2008,
+   title={Pañcaskandhaka}, 
+  subtitle={Vasubandhu's Pañcaskandhaka: Critically edited},
+  editor= {Steinkellner, E. and Xuezhu, L.},
+  howpublished={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2008},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing | Vienna},
+  keywords={primary},
+}%!
+
+
+@misc{mallinson2010,
+  title={Khecarīvidyā},
+  subtitle={The Khecarīvidyā of Ādinātha - A critical edition and annotated translation of an early text of \textit{haṭhayoga}}, 
+  editor= {Mallinson, James},
+  year={2010},
+  publisher={Indica Books},
+  note={Varanasi},
+  keywords={primary},
+}%!
+
+@misc{singh2005paratrisika,
+  title={Parātrīśikāvivaraṇa},
+  subtitle = {Paratrisika Vivarana by Abhinavagupta: The Secret of Tantric Mysticism},
+   editor = {Singh, Jaideva and Lakshman-Joo, Swami and Bäumer, Bettina},
+  year = {2005},
+  note = {New Delhi},
+  publisher = {Motilal Banarsidass Publishers Pvt. Ltd},
+  keywords={primary},
+}%!
+
+
+@misc{steinkellner2005,
+  title={Viśālāmalavatī Pramāṇasamuccayaṭīkā (I)},
+  subtitle={Jinendrabuddhi's Viśālāmalavatī Pramāṇasamuccayaṭīkā Chapter 1 - Part I: Critical Edition},
+  editor={Steinkellner, E. and Krasser, H. and Lasic, H.},
+  howpublished={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2005},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing | Vienna},
+  keywords={primary},
+}%!
+
+
+@misc{steinkellner2005a,
+  title={Viśālāmalavatī Pramāṇasamuccayaṭīkā (II)},
+  subtitle={Jinendrabuddhi's Viśālāmalavatī Pramāṇasamuccayaṭīkā Chapter 1 - Part II: Diplomatic Edition},
+  editor={Steinkellner, E. and Krasser, H. and Lasic, H.},
+  howpublished={Sanskrit Texts from the Tibetan Autonomous Region},
+  year={2005},
+  publisher={China Tibetology Publishing House, Austrian Academy of Sciences Press},
+  note={Beijing | Vienna},
+  keywords={primary},
+}%!
+
+
+@book{horstmann2023shrine,
+  author    = {Horstmann, Monika and Rajpurohit, Dalpat S.},
+  title     = {In the Shrine of the Heart: Sants of Rajasthan from the Sixteenth and Seventeenth Centuries},
+  publisher = {Heidelberg Asian Studies Publishing},
+  year      = {2023},
+  address   = {Heidelberg},
+  doi       = {10.11588/hasp.1151},
+  url       = {https://doi.org/10.11588/hasp.1151}, 
+  keywords  = {seclit},
+}%!
+
+@book{tanselle1989,
+  title={A rationale of textual criticism},
+  author={Tanselle, R.},
+  year={1989},
+  publisher= {University of Pennsylvania Press},
+  address= {Philadelphia},
+  keywords={seclit},
+}%!
+
+@book{dehaan1973,
+  title={Enige aspecten van de tekstkritiek van Middelnederlandse teksten},
+  author= {De Haan, M. J. M.},
+  year={1973},
+  publisher= {Elve/Labor Vincit},
+  address= {Leiden},
+  keywords={seclit},
+}%!
+
+@book{penna2004, 
+title={Yogasiddhāntacandrikā of Nārāyaṇatīrtha [A Study]}, 
+author={Penna, Madhusudan}, 
+year={2004},
+publisher={Parimal Publications}, 
+address={Delhi},
+keywords={seclit},
+}%!
+
+@book{robson1988,
+  title={Principles of Indonesian Philology},
+  author={Robson, S. O.},
+  year={1988},
+  publisher= {Dordrecht/Providence},
+  address= {Foris},
+  keyword={seclit}, 
+}%!
+
+@book{hahn2001,
+  title={On editing codices unici},
+  author= {Hahn, M.},
+  year= {2001},
+  journal= {Les sources et le temps; A colloquium.},
+  pages= {49-62},
+  editor= {Grimal, F.},
+  address= {Pondicherry},
+  publisher= {IFP/EFEO},
+  keyword={seclit},
+}%!
+
+@article{hypo,
+  title={Voluntary Hypometabolism in an Indian Yogi},
+  author= {Heller, Craig H. and Elsner, Robert and Nageswara, Rao},
+  year= {1987},
+  journal= {Journal of Thermal Biology},
+  volume= {12},
+  number= {2},
+  pages= {171--173},
+  publisher= {Pergamon Journals Ltd},
+  address= {Headington},  
+ keywords={seclit},
+}%!
+
+@article{molen1981,
+  title={Aims and Method of Javanese Philology},
+  author= {Van der Molen, W.},
+  year= {1981},
+  journal= {Indonesia Circle},
+  volume= {26},
+  pages= {5--12},
+  keywords={seclit},
+}%!
+
+@book{molen1983,
+  title={Javaanse Tekstkritiek; En overzicht en een nieuve benadering geillustreerd aan de Kunjarakarna},
+  author= {Van der Molen, W.},
+  year= {1983},
+  address={Dodrecht},
+  publisher={Foris [PhD Dissertation, Leiden University]},
+  pages= {5-12},
+   keywords={seclit},
+}%!
+
+@article{mallinson2012sataka,
+  title={Gorakṣaśataka},
+  subtitle={The Original Gorakṣaśataka},
+  author= {Mallinson, James},
+  year= {2012},
+  journal= {Yoga in Practice},
+  editor={White, David Gordon},
+  pages= {257--272},
+  publisher= {Princeton University Press},
+  address= {Princeton and Oxford},
+  keywords={seclit},
+}%!
+
+
+@misc{vayupurana,
+title={Vāyupurāṇa},
+subtitle={The Vāyu Purāṇa},
+editor={Tagare, Ganesh Vasudeo},
+year={1988},
+publisher={Motilal Banarsidass},
+note={Delhi},
+keywords={primary},
+}%! 
+
+@book{puranicencyclopedia, 
+title={Puranic encyclopaedia},
+subtitle={A comprehensive dictionary with special reference to the epic and Puranic literature}, 
+author={Mani, Vettam},
+year={1975},
+publisher={Motilal Banarsidass},
+address={Delhi},
+keywords={seclit},
+}%!
+ 
+@misc{vishnupurana,
+title={Viṣṇupurāṇa},
+subtitle={The Vishnu Purana},
+editor={Wilson, Horace H.},
+year={1981},
+publisher={Garland Pub.},
+note={New York},
+keywords={primary},
+}%!
+
+@misc{bodhasara,
+title={Bodhasāra}, 
+subtitle={Bodhasāra. A Treatise on Vedânta with a Commentary by the Author's Pupil, Paṇḍit Divākar}, 
+editor={Dayānand, Swāmī}, 
+year={1905},
+howpublished={Benares Sanskrit series. Vol. 23},
+publisher={Chowkhamba Sanskrit Book Depot}, 
+note={Benares},
+keywords={primary}, 
+}%!
+
+@misc{bodhasarax, 
+title={Bodhasāra}, 
+subtitle={The Surprise of Awareness, the Sanskrit and English Version. An 18th Century Sanskrit Treasure. Translated by Jennifer and Grahame Cover.}, 
+author={Cover, Jennifer and Cover, Grahame}, 
+year={2014}, 
+publisher={CreateSpace}, 
+note={North Charleston, S.C.}, 
+keywords={primary}, 
+}%!
+
+@misc{asiddhi,
+  title={Amṛtasiddhi}, 
+  subtitle={The Amṛtasiddhi and Amṛtasiddhimūla - The Earliest Texts of the Haṭhayoga Tradition},
+  editor={Mallinson, James and Szántó, Péter-Dániel},
+  year={2021},
+  publisher={École française d’Extrême-Orient},
+  note={Pondicherry},
+  howpublished={Collection Indologie 150, Haṭha Yoga Series 2},
+  keywords={primary},
+}%!
+
+@book{rootsofyoga2017,
+ title={Roots of Yoga},
+ author={Mallinson, James and Singleton, Mark},
+ year={2017},
+ publisher={Penguin Books},
+ address={UK},
+ keywords={seclit},  
+ }%!
+
+@misc{markandeya,
+title={Mārkaṇḍeyapurāṇa}, 
+subtitle={The Mārkaṇḍeya Purāṇa},
+year={1904},
+editor={Pargiter, Frederik Eden},
+publisher={Asiatic Society of Bengal},
+note={Calcutta},
+keywords={primary},
+}%!
+
+@misc{parakhya,
+title={Parākhyatantra},
+subtitle={The Parādhyatantra: A Scripture of the Śaiva Siddhānta. A Critical Edition and Annotated Translation},
+author={Goodall, Dominic},
+year={2004},
+howpublished={Collection Indologie. Vol. 98},
+publisher={École française d’Extrême-Orient, Institut Français de Pondichéry},
+note={Pondicherry},
+keywords={primary},
+}%!
+
+@phdthesis{kropf2005,
+  author       = {Kropf, Marianna},
+  title        = {Rituelle Traditionen der Planetengottheiten (Navagraha) im Kathmandutal. Strukturen – Praktiken – Weltbilder},
+  school       = {Universität Heidelberg},
+  year         = {2005},
+  note         = {Dissertation},
+  howpublished = {\url{https://fid4sa-repository.ub.uni-heidelberg.de/24/2/Text_Kropf.pdf}},
+  keywords     = {seclit}, 
+}%!
+
+@misc{mallinson2007,
+   title={Śivasaṃhitā},
+   subtitle={The Shiva Samhita},
+   editor={Mallinson, James},   
+   year={2007},
+   publisher={Yoga Vidya.com LLC},
+   note={Woodstock},
+   keywords={primary},
+ }%!
+
+@book{slaje2014,
+  author    = {Slaje, Walter},
+  title     = {Kingship in Kaśmīr (AD 1148-1459). From the Pen of Jonarāja, Court Paṇḍit to Sulṭān Zayn al-Ābidīn. Critically Edited by Walter Slaje with an Annotated Translation, Indexes and Maps},
+  year      = {2014},
+  publisher =  {Halle},
+  series    = {Studia Indologica Universitatis Halensis},
+  volume =  {7}, 
+  % note      = {Textgattung: Kāvya — Sachkategorie: Politik/Staat/Gesellschaft — Datierung: 15. Jhd. — Region: Kaschmir},
+  keywords = {seclit},
+}%!
+
+@book{wilke2011,
+  author    = {Wilke, Annette and Moebus, Oliver},
+  title     = {Sound and Communication: An Aesthetic Cultural History of Sanskrit Hinduism},
+  year      = {2011},
+  publisher = {Walter de Gruyter},
+  keywords = {seclit},
+}%!
+
+@book{nandikesvara1917,
+  author       = {Nandikeśvara and Kentish Coomaraswamy, Ananda and Kristnayya Duggirala, Gopala},
+  title        = {The Mirror of Gesture, Being the Abhinaya Darpana of Nandikeśvara},
+  year         = {1917},
+  publisher    = {Harvard University Press},
+  location     = {Cambridge},
+  %contributor  = {Cornell University Library},
+  keywords ={seclit},
+}%!
+
+@book{geldner1907,
+  author    = {Geldner, Karl F.},
+  title     = {Der Rigveda in Auswahl. Erster Teil. Glossar},
+  year      = {1907},
+  publisher = {Stuttgart},
+  %note      = {Textgattung: Vedisch — Sachkategorie: ohne Spezifikation},
+  keywords  = {seclit},
+}%!
+
+@inbook{mallinson2018vajrolimudra,
+  title        = {Yoga and Sex: What is the Purpose of Vajrolīmudrā?},
+  author       = {Mallinson, James},
+  booktitle    = {Yoga in Transformation: Historical and Contemporary Perspectives},
+  editor       = {Baier, Karl and Maas, Philipp A. and Preisendanz, Karin},
+  year         = {2018},
+  publisher    = {V \& R unipress},
+  address      = {Göttingen},
+  pages        = {181--223},
+  note         = {With 55 figures. Published by Vienna University Press.},
+  keywords     = {seclit},
+}%!
+
+
+@phdthesis{powell2023,
+   title={A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā},
+   author={Powell, Seth David},   
+   year={2023},
+   note={Dissertation as submitted on April 2023}, 
+   school={Harvard University},
+   address={Cambridge, Massachusetts},
+   keywords={seclit},
+ }%!
+
+@misc{shivayogapradipika,
+   title={Śivayogapradīpikā},
+   subtitle={A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā},
+   howpublished={See Ph.D. Dissertation by Seth David Powell (2023), pp. 268--313},
+   keywords={primary},
+}%!
+
+@phdthesis{birch2013,
+ title={The Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction},
+ author={Birch, Jason},
+ year={2013},
+ school={University of Oxford},
+ address={Oxford},
+ howpublished={\url{https://ora.ox.ac.uk/objects/uuid:4edd5abe-0aa6-4c52-96d2-c4acfce1ad60/files/mb09d5103bdc89d664c01d03307b6377e}}, 
+ keywords={seclit},
+ }%!
+
+@misc{amanaskaed,
+   title={Amanaska},
+   subtitle={Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}, 
+   howpublished={See Ph.D. Dissertation by Jason Birch (2013)},
+   keywords={primary},
+}%!
+
+@misc{uttaragita1926,
+  title    =     {Uttaragītā}, 
+  subtitle     = {Uttara Gita With Explanation By Gaudapadacharya},
+  year         = {1926},
+  publisher    = {Vani Vilas Press},
+  note      = {Varanasi},
+  editor       = {Veda Nidhi Varanasi}, 
+  keywords={primary},
+}%!
+
+@misc{MallinsonGheranda,
+  author    = {Mallinson, James},
+  title={Gheraṇḍasaṃhitā},
+  subtitle     = {The Gheranda Samhita: The Original Sanskrit and An English Translation},
+  publisher = {YogaVidya.com},
+  year      = {2004},
+  note  = {Woodstock, NY},
+  keywords  = {primary},
+}%!
+
+@article{sanderson2016,
+   series={Gnesis and Development of Tantrism},
+   editor={Einoo, Shingo},
+   year={2016},
+   title={The Śaiva Age - The Rise and Dominance of Śaivism during the Early Medieval Period},
+   pages={41--351},
+   author={Sanderson, Alexis},
+   publisher={Institute of Oriental Culture, University of Tokio},
+   address={Tokio},
+   keywords={seclit},
+}%! 
+
+@misc{peterson1888,
+   title={Śārṅgadharapaddhati},
+   subtitle={The Paddhati of Śārngadhara: A Sanskrit Anthology},
+   author={Śārṅgadhara},
+   year={1888},
+   editor={Peterson, Peter},
+   howpublished={Bombay Sanskrit Series No. XXXVII. Vol. I},
+   url={https://archive.org/details/in.ernet.dli.2015.283591},
+   publisher={Education Society Press},
+   note={Bombay},
+   keywords={primary},
+}%!
+
+@misc{ramatosana,
+   title={Prāṇatoṣinī},
+   subtitle={Prāṇatoṣinī of Rāmatoṣaṇa},
+   editor={Vidyāsāgara, Jīvānanda},
+   year={1898},
+   note={Calcutta},
+   publisher={Vidyāsāgara, Jīvānanda},
+   keywords={primary},
+}%!
+
+
+@book{dhyanabindu,
+   title={Dhyānabindu Upaniṣad},
+   editor={Hattangadi, Sunder},
+   url={http://sanskritdocuments.org/doc_upanishhat/dhyanabindu.pdf},
+   date={2018-05-20},
+   publisher={Sanskritdocuments.org},
+   keywords={onlinesource},
+}
+
+@book{gengnagel1996,
+   title={Māyā, Puruṣa und Śiva: Die dualistische Tradition des Śivaismus nach Aghoraśivācāryas \textit{Tattvaprakāśavṛtti}},
+   author={Gengnagel, Jörg},
+   year={1996},
+   publisher={Harrassowitz Verlag},
+   address={Wiesbaden},
+   keyword={seclit},
+}%!
+
+%@book{sspmallik,
+%   title={Siddha-Siddhaanta-Paddhati and Other Works of the Nātha Yogīs},
+%    author={Mallik, S. K.},
+%    year={1954},
+%    publisher={Poona Oriantal Book House},
+%    address={Poona},
+%    url={http://shaivam.org/sanskrit/ssk-siddha-siddhanta-paddhati.pdf},
+%    keyword={printsource},
+%}
+
+@misc{ssplonavla,
+    title={Siddhasiddhāntapaddhati},
+    subtitle= {Siddhasiddhāntapaddhatiḥ: A treatise on the Nātha philosophy by Gorakṣanātha},
+    editor={Gharote, M. L. and Pai, G. K.},
+    year={2016},
+    publisher={The Lonavla Yoga Institute},
+    note={Lonavla},
+    keywords={primary},
+}%!
+
+@book{glasenapp1949philosophie,
+  author = {Glasenapp, Helmuth von},
+  title = {Die Philosophie der Inder},
+  year = {1949},
+  publisher = {Alfred Kröner Verlag},
+  address = {Stuttgart},
+  keywords={seclit},
+}%!
+
+@book{encyclopediaasana,
+    title={Encyclopedia of Traditional Asanas},
+    editor={Gharote, M. L. and Jha, V. K. and Devnath, Parimal and Sakhalkar, S. B.},
+    year={2006},
+    publisher={The Lonavla Yoga Institute},
+    address={Lonavla},
+    keywords={seclit},
+}%!
+
+@misc{sardha,
+title={Sārdhatriśatikālottara},
+subtitle={Sārdhatriśatikālottara},
+editor={Bhatt, N. R.},
+year={1979},
+publisher={Institute Francise De Pondicherry},
+address={Pondicherry},
+keywords={primary},
+}%!
+
+@misc{rudrayamala1937,
+    title={Rudrayamalam uttaratantram},
+    subtitle={Rudrayamalam: uttara-tantram},
+    editor={Vidyasagar, Jīvānanda},
+    publisher={Vidyasagar, Jīvānanda},
+    year={1937},
+    note={Calcutta},
+    %url={https://ia800402.us.archive.org/5/items/Complete_Works_of_Jibananda_Vidyasagara/Rudrayamalam_Uttara_Tantram_-_Jiananda_Vidyasagara_1937.pdf},
+    keyword={primary},    
+}%!
+
+@misc{sarvadurga,
+    title={Sarvadurgatipariśodhanatantra},
+    subtitle={The Sarvadurgatiparisodhana Tantra, Elimination of All Destinies, Sanskrit and Tibetan Texts with Introduction, English Translation and Notes.}, 
+    editor={Skorupski, Tadeusz},
+    year={1983},
+    note={Delhi},
+    publisher={Motilal Banarsidass},
+    keyword={primary},    
+}%!
+
+
+@misc{purascaryarnava1901,
+    title={Puraścaryārṇavaḥ},
+    subtitle={Puraścaryārṇavaḥ of Maharājā Pratāpa Śiṃha Sāha Bahādura of Nepal, H. H.},
+    editor={Jhā, Śrī Pandita Muralidhara},
+    year={1901},
+    publisher={Prabhakari and Co. Banaras},
+    note= {Benares}, 
+    %url={http://muktalib5.org/DL_CATALOG/TEXTS/ETEXTS/purascaryaarnava-I-DEV.pdf},
+    keyword={primary},    
+}%!
+
+@misc{vasisthasamhita,
+    title={Vasiṣṭhasaṃhitā},
+    subtitle={Vasiṣṭhasaṃhitā (revised edition)},
+    editor={Digambarji, Swami and Maheshananda, Swami and Sharma, B. R. and Sahay, R. K. and Bodhe E. K.},
+    year={2005},
+    publisher={Kaivalyadhāma Śrīmanmādhav Yogamandir Samiti},
+    note={Lonavla}, 
+    %url={http://muktalib5.org/DL_CATALOG/TEXTS/ETEXTS/purascaryaarnava-I-DEV.pdf},
+    keywords={primary},
+}%!
+
+@misc{yogavasishta,
+    title={Yogavāsiṣṭha},
+    subtitle={The Yogavāsiṣṭha of Vālmīki with the commentary Vāsiṣṭhamahārāmayanatātparyaprakāśa}, 
+    editor={Panshikar, Vasudeva Laxman Shastri}, 
+    year={1918},
+    publisher={Tukārām Jāwajī},
+    note={Bombay}, 
+    keywords={primary},
+}%!
+
+@misc{yogakarnika,
+  title={Yogakarṇikā},
+  subtitle={Yogakarṇikā (An Ancient Treatise on Yoga)},
+  editor={Nath Sharma, Narendra},
+  year={2004},
+  publisher={Eastern Book Linkers},
+  note={Delhi}, 
+    keywords={primary},
+}%!
+
+
+@misc{kularnavatantra, 
+ title={Kulārṇavatantra},
+ subtitle={Kulārṇavatantra}, 
+ editor={Vidyāratna, Tārānātha}, 
+ howpublished={Tantrik Texts 5 (ed. Arthur Avalon)}, 
+ year={1965}, 
+ publisher={Ganesh \& Company},
+ note={Madras},
+ keywords={primary},
+}%!
+
+@article{kalika,
+ author = {Hazra, R. C.},
+ journal = {Annals of the Bhandarkar Oriental Research Institute},
+ number = {1/2},
+ publisher = {Bhandarkar Oriental Research Institute},
+ title = {Kālikāpurāṇa},
+ volume = {22},
+ year = {1941},
+ keywords= {seclit},
+}%!
+
+@misc{padoux1994,
+editor={Padoux, André},
+title={Yoginīhṛdaya}, 
+subtitle={La Coer de la Yoginī. Yoginīhṛdaya, avec le commentaire Dīpikā d'Amṛtānanda. Texte samskrit traduit et annoté.}, 
+year={1994}, 
+publisher={Publications de l'Institut de civilisation indienne}, 
+howpublished={Vol. 63}, 
+note={Paris}, 
+ keywords={primary},
+}%!
+
+@article{sandersonshaivaexe,
+author= {Sanderson, Alexis}, 
+journal= {Mélanges tantriques à la mémoire d’Hélène Brunner / Tantric Studies in Memory of Hélène Brunner}, 
+editor= {Goodall, Dominic and Padoux, André}, 
+year={2007}, 
+title={Śaiva Exegesis of Kashmir}, 
+publisher={Institut français d'Indologie/ École française d’Extrême-Orient}, 
+volume={Collection Indologie 106}, 
+pages={231--442 and (bibliography) pp. 551--582},
+address={Pondicherry},
+keywords={seclit},
+}%!
+
+@article{reigle2012, 
+author={Reigle, David}, 
+journal={Journal of the Royal Asiatic Society}, 
+series={3}, 
+volume={22 (2)}, 
+pages={439--63},
+year={2012},  
+title={The Kālacakra Tantra on the Sādhana and Maṇḍala},
+address={Cambridge}, 
+keywords={seclit},
+}%!   
+
+@misc{codexbmt,
+   title={Brahmayāmalatantra},
+   subtitle={Brahmayāmalatantra},
+   howpublished={Ms. No. 3-370. NGMPP Reel No. A 42-6. National Archives of Nepal, Kathmandu},
+   keywords={primary},
+}%!
+
+@misc{muktavali,
+   title={Haṭhapradīpikā Siddhāntamuktāvalī},
+   subtitle={Haṭhapradīpikā Siddhāntamuktāvalī},  
+   howpublished={Ms. No. 6756. Catalogued under the title \textit{Haṭhayogapradīpikā}, Rajasthan Oriental Research Institute, Jodhpur},
+   keywords={primary},
+}%!
+
+@misc{hbp,
+title={Haṭhābhyāsapaddhati},
+subtitle={Āsanabandhāḥ},
+howpublished={Ms. No. 46/440. Unpublished manuscript. Bhārat Itihās Samśodhak Mandal (catalogued as Āsanabandhāḥ), Pune},
+   keywords={primary},
+}%!
+
+@misc{yogasarasangraha,
+  title = {Yogasārasaṅgraha},
+  subtitle = {Yogasārasaṅgraha},
+  note = {French Institute of Pondicherry (IFP)},
+  howpublished = {Ms. No. D.4373. Manuscript IFP transcript T.859, Government Oriental Manuscripts Library, Madras},
+  keywords={primary},
+}%!
+
+@misc{yogacintamanilahore,
+   title={Yogacintāmani},
+   subtitle={Yogacintāmani of Śivānandasarasvatī},  
+   note={Lahore},
+   howpublished={Ms. No. 6922. Dated śaka 1552. Panjab University Library, Lahore},
+  keywords={primary},
+}%!
+
+@misc{yogacintamani,
+  title={Yogacintāmaṇi},
+  subtitle={Yogacintāmaṇi},
+  editor={Śarma, Haridāsa},
+  publisher={Calcutta Oriantal Press},
+  note={Calcutta},
+  keywords={primary},
+}%!
+
+
+@misc{patanjalayoga1904,
+  title={Rājamārtaṇḍa}, 
+  subtitle={Pātañjalayogasūtrāṇi vācaspatimiśraviracitaṭīkāsaṃvalitavyāsabhāṣyasametāni tathā bhojadevaviracitarājamārtaṇḍābhidhavṛttisametāni},
+  year={1904},
+  howpublished={Ānandāśramasaṃskṛtagrathāvaliḥ. Vol. 47},
+  editor={Śāstri Āgāśe, Kāśīnātha},
+  publisher={Ānandāśramamudraṇālaya},
+  note={Pune},
+  keywords={primary},
+}%!
+
+@misc{kashikhanda1998,
+    title        = {Kāśīkhaṇḍa},
+    subtitle     = {Kāśīkhaṇḍa (Skandapurāṇa)},
+    editor       = {Tripāṭhī, Karuṇāpaṭī},
+    year         = {1998},
+    publisher    = {Sampūrnānand Sanskrit University},
+    note         = {Vārāṇasī},
+    howpublished = {4 volumes},
+  keywords       = {primary},
+}%!
+
+@misc{astavakragita1997,
+    title ={Aṣṭāvakragītā}, 
+    subtitle        = {Aṣṭāvakragītā (The Song of the Self Supreme): The Classical Text of Ātmādvaita},
+    year         = {1997},
+    publisher    = {Motilal Banarsidass},
+    note       = {Delhi},
+    editor =      {Mukerjee, Radhakamal},
+    keywords       = {primary},
+}%!
+
+@misc{patanjalabhasyavartika,
+  title={Pātañjalabhāṣyavārttika},
+  subtitle={Yogavārtikam Mahāmahopāyādhyāyaśrīvijñānabhikṣuviracitaṃ Yogabhāṣyavyākhyārūpaṃ Kāśīstharājakīapradhānapāṭhaśālāyāṃ sāṅkhyayogādhāpakena tātyāśāstryaparanāmnā paṭavardhanopanāmakena rāmakṛṣṇaśāstriṇā jyautiṣaśāstrādhyāpakena keśavaśāstriṇā ca pariṣkṛtya saṃśodhitaṃ tayor saṃmatyā ca Śrīmatā ḍākṛralājarasākhyasāhibena},
+  publisher={Meḍikalhālnāmake yantrālaye saṃmudrā prakāśitam},
+  year={1884},
+  keywords={primary},
+}%!
+
+@misc{guhyanisvasa, 
+  title={Guhyasūtra}, 
+  subtitle={Guhyasūtra of the Niśvāsatattvasaṃhitā}, 
+  howpublished={NGMPP A 41-14 and NGMPP A 159-18. National Archives of Nepal, Kathmandu},
+  keywords={primary},
+}%!
+
+
+@inbook{lipner2004,
+  author      = {Lipner, Julius},
+  title       = {Hinduism: The Way of the Banyan},
+  booktitle   = {The Hindu World},
+  editor      = {Mittal, Sushil and Thursby, Gene},
+  publisher   = {Routledge},
+  year        = {2004},
+  pages       = {9--36},
+  keywords={seclit},
+}%!
+
+@misc{rajayoga, 
+  title={Rājayoga},
+  subtitle={Rājayogaḥ of Śrī Agasthyamaunīndra},
+  howpublished={Ms. No. R 17980. Transcribed by Jason Birch. Government Oriental Manuscript Library, Madras University, Chennai},
+  keywords={primary},
+}%!
+
+@misc{vivekamartandaolda,
+  title={Vivekamārtaṇḍa},
+  subtitle={Vivekamārtaṇḍa of Gorakṣa},
+  howpublished={Acc. No. 4110. Central Library, Baroda},
+  keywords={primary},
+}%!
+
+@misc{urmikaula, 
+  title={Ūrmikaulārṇavatantra},
+  subtitle={Ūrmikaulārṇavatantra},
+  howpublished={Ms. No. 5-5207. Sic. 5-5202. NGMPP reel No. B 115-9. National Archives of Nepal, Kathmandu},
+  keywords={primary},
+}%!
+
+@misc{hathasamketacandrikajodhpur,
+   title={Haṭhasaṃketacandrikā},
+   subtitle={Haṭhasaṃketacandrikā of Sundaradeva},
+   howpublished={Ms. No. 2244. Man Singh Pustak Prakash Library, Jodhpur}, 
+   keywords={primary},
+}%!
+
+@misc{hathasamketacandrikamysore,
+   title={Haṭhasaṃketacandrikā},
+   subtitle={Haṭhasaṃketacandrikā of Sundaradeva},
+   howpublished={Ms. No. B220. Oriental Research Institute, University of Mysore},
+   keywords={primary},
+}%!
+
+@misc{hathasamketacandrikachennai,
+   title={Haṭhasaṃketacandrikā},
+   subtitle={Haṭhasaṃketacandrikā of Sundaradeva},
+   howpublished={Ms. No. R3239. Government Oriental Manuscript Library, Chennai},
+   keywords={primary},
+}%!
+
+@misc{gsatacod,
+   title={Gorakṣaśataka},
+   author={Gorakṣaśataka of Gorakṣa},
+   %subtitle={Gorakṣaśataka},
+   howpublished={Ms. No. R7874. Government Oriental Manuscripts Library, Chennai},
+   keywords={primary},
+}%!
+
+%@Misc{msbmt,
+%  note={Brahmayāmalatantra: \cite{codexbmt}},
+%  shorthand={BMT},
+%  keywords={critEd},
+%}
+
+@book{petersburger,
+  title={Sanskrit Wörterbuch},
+  author={Boethlingk, O. und Roth, R.},
+  year={1858},  
+  volume={2},
+  address={Petersburg},
+  keywords={seclit},
+}%!
+
+@book{petersburger2,
+  title={Sanskrit Wörterbuch},
+  author={Boethling, O. und Roth, R.},
+  year={1858},  
+  volume={2},
+  address={Petersburg},
+  keywords={seclit},
+}%!
+
+@book{petersburger3,
+  title={Sanskrit Wörterbuch},
+  author={Boethling, O. und Roth, R.},
+  year={1858},  
+  volume={3},
+  address={Petersburg},
+  keywords={seclit},
+}%!
+
+@book{petersburger4,
+  title={Sanskrit Wörterbuch},
+  author={Boethling, O. und Roth, R.},
+  year={1858},  
+  volume={4},
+  address={Petersburg},
+  keywords={seclit},
+}%!
+
+@book{petersburger5,
+  title={Sanskrit Wörterbuch},
+  author={Boethling, O. und Roth, R.},
+  year={1858},  
+  volume={5},
+  address={Petersburg},
+  keywords={seclit},
+}%!
+
+@misc{shabdakalpadruma,
+  title={Śabdakalpadruma},
+  subtitle={Śabdakalpadruma},
+  editor={Radhakanta, Deva and Varadaprasada, Vasu and Haricana, Vasu},
+  year={1967},
+  note={Varanasi},
+  publisher={Varanasi Caukhamba Samskrita Sirija Aphisa},
+  howpublished={Vol 5.}, 
+  keywords={primary},
+}%!
+
+@book{petersburger7,
+  title={Sanskrit Wörterbuch},
+  author={Boethling, O. und Roth, R.},
+  year={1858},  
+  volume={7},
+  address={Petersburg},
+  keywords={seclit},
+}%!
+
+@book{jahangir1999,
+  %author    = {Jahangir, Salīm Nūruddīn},
+  title     = {The Jahangirnama: Memoirs of Jahangir, Emperor of India},
+  editor    = {Wheeler, M. Thackston},
+  year      = {1999},
+  publisher = {Oxford University Press},
+  address   = {New York},
+  keywords={seclit},
+}%!
+
+@article{eaton2001,
+  author  = {Eaton, Richard},
+  title   = {Temple Desecration and Indo-Muslim States},
+  journal = {Frontline},
+  date    = {2001-01-05},
+  note    = {Available online},
+  url     = {https://frontline.thehindu.com/static/html/fl1802/18020140.htm}, 
+  keywords={seclit},
+}%!
+
+@book{titus1979,
+  author    = {Titus, Murray T. and Dewick, E. C.},
+  title     = {Indian Islam},
+  year      = {1979},
+  publisher = {Munshiram Manoharlal Publishers},
+  address   = {Delhi},
+  %pages     = {24},
+   keywords={seclit},
+}%!
+
+@book{hooja2006,
+  author    = {Hooja, Rima},
+  title     = {A History of Rajasthan},
+  year      = {2006},
+  publisher = {Rupa \& Company},
+  %pages     = {493--495}
+  keywords={seclit},
+}%!
+
+@book{aryan, 
+ title={The Little Goddesses (Matrikas)}, 
+ author={Aryan, K.C.}, 
+ year={1980}, 
+ address={New Delhi}, 
+ publisher={Rekha Prakashan}, 
+ keywords={seclit},
+}%!
+
+@misc{yogatarangini,
+  title={Yogataraṅgiṇī},
+  subtitle={Yoga-Taraṅgiṇī: A Rare commentary on Gorakṣa-śataka},
+  editor={Brezinski, Jan K.},
+  year={2015},
+  publisher={Motilal Banarsidass},
+  note={Delhi},
+  keywords={primary},
+}%!
+
+@misc{gorakbhani,
+  title={Gorakhbāṇī},
+  subtitle={Gorakhbāṇī},
+  editor={Baḍathvāl, P. D.},
+  year={1960},
+  publisher={Hindī Sāhity Sammelan},
+  note={Prayāg},
+  keywords={primary},
+}%!
+
+@article{pudi2023, 
+  title={Avadhūta: Examining the Emergence and Institutionalisation of an Antinomian Ascetic}, 
+  author={Kanamarlapudi, Sravani},
+  year={2023}, 
+  journal={Journal of Hindu Studies},
+  volume={16}, 
+  pages={241-269}, 
+  publisher={Oxford University Press},
+ % doi={https://doi.org/10.1093/jhs/hiad017},  
+  address={Oxford},
+  keywords={seclit}, 
+}%!
+
+@misc{hathatattvakaumudi,
+  title={Haṭhatattvakaumudī},
+  subtitle={Haṭhatattvakaumudī: A Treatise on Haṭhayoga by Sundaradeva},
+  editor={Gharote, M. L. and Devnath, P. and Jha, V. J.},
+  year={2007},
+  publisher={The Lonavla Yoga Institute},
+  note={Lonavla},
+  keywords={primary},
+}%!
+
+%@book{ssp,
+%  title={Siddha-Siddhānta-Paddhati and Other Works of the Nātha Yogīs},
+%  editor={Mallik, Smt. Kalyani},
+%  year={1954},
+%  publisher={Poona Oriental Book House},
+%  address={Poona},
+%  keywords={printsource},
+%}
+
+@book{varahaupanishad,
+  title={Varaha Upaniṣad},
+  editor={Sunder, Hattangadi},
+  year={2000},
+  publisher={sanskritdocuments.org},
+  url={https://sanskritdocuments.org/doc_upanishhat/varaha.pdf},
+  keywords={printsource},
+  }
+
+@Misc{varaha,
+  note={Varaha Upaniṣad: \cite{varahaupanishad}},
+  shorthand={VU},
+  keywords={critEd},
+  }
+
+%@codex{mscodex,
+%  title={Gorakṣayogaśāstra},
+%  note={NGMPP, B 22-44, Palmblatt, Nevārī},
+%  url = {http://catalogue-old.ngmcp.uni-hamburg.de/wiki/B_24-44_(Gorakṣayogaśāstra)},
+%  address={National Archives Kathmandu},
+%  keywords={codex},
+%}
+
+%@codex{mscodex2,
+%  title={Gorakṣayogaśāstra},
+%  note={NGMPP, B 1333-22, Palmblatt, Nevārī},
+%  url={http://catalogue-old.ngmcp.uni-hamburg.de/wiki/A_1333-22_Mūlasāragorakṣayogaśāstra},
+%  address={National Archives Kathmandu},
+% keywords={codex},
+%}
+
+%@codex{gmudgara,
+%   title={Gorakṣamudgara},
+%   note={NGMPP, B 24-6, Palmblatt, Nevārī},
+%   url={http://ngmcp.fdm.uni-hamburg.de/mediawiki/index.php/B_24-6_Gorakṣamudgara(%3F)},
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%} 
+%
+%
+%@codex{gsataka,
+%   title={Gorakṣaśataka},
+%   note={NGMPP, B 24-5, Palmblatt, Nevārī},
+%url={http://ngmcp.fdm.uni-hamburg.de/mediawiki/index.php/B_24-5_Gorakṣaśataka},
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}
+%
+%@codex{gshastra1,
+%   title={Gorakṣayogaśāstra (Gorakṣaśataka)},
+%   note={NGMPP, E 1836-26, Paper, Devanāgarī},
+%   url={http://catalogue-old.ngmcp.uni-hamburg.de/wiki/E_1836-26_(Gorakṣayogaśāstra)}, 
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}
+%
+%@codex{gshastra2,
+%   title={Gorakṣayogaśāstra (Gorakṣaśataka)},
+%   note={NGMPP, E 2052-10, Paper, Devanāgarī},
+%   url={http://catalogue-old.ngmcp.uni-hamburg.de/wiki/E_2052-10_Gorakṣayogaśāstra},
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}%
+%
+%@codex{tattvasara1,
+%   title={Tattvasāra},
+%   note={NGMPP, A 930-2, Palmblatt, Nevārī},
+%   url={http://ngmcp.fdm.uni-hamburg.de/mediawiki/index.php/A_930-2_Tattvasāra},
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}
+%
+%@codex{tattvasara2,
+%   title={Tattvasāra},
+%   note={NGMPP, B 21-24, Papier, Devanāgarī},
+%   url={http://ngmcp.fdm.uni-hamburg.de/mediawiki/index.php/B_21-24_Tattvasāra}, 
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}
+%
+%@codex{tattvasara3,
+%   title={Tattvasāra},
+%   note={NGMPP, B 38-36, Papier, Devanāgarī},
+%   url={http://ngmcp.fdm.uni-hamburg.de/mediawiki/index.php/B_38-36_Tattvasāra},
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}
+%
+%@codex{tattvasara4,
+%   title={Tattvasāra},
+%   note={NGMPP, B 39-22, Papier, Nevārī},
+%   url={http://ngmcp.fdm.uni-hamburg.de/mediawiki/index.php/B_39-22(1)_Tattvasāra},
+%   address={National Archives Kathmandu},
+%   keywords={codex},
+%}
+%
+%@codex{pancaraksa,
+%   title={Pañcarakṣā},
+%   date={1384-10-22},
+%   note={MS Add.1395, Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01395/1},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}
+%%
+%
+%@codex{sivadharma,
+%   title={Śivadharma corpus},
+%   year={1139},
+%   note={(MS Add.1645), Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01645/1},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}
+%
+%@codex{ramakantika,
+%   title={Rāmāṅkanāṭikā},
+%   year={1360},
+%   note={MS Add.1409.1, Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01409-00001/5},
+%   address={Cambridge University Library},
+%  keywords={codex},
+%}
+%
+%
+%@codex{pancaraksa2,
+%   title={Pañcarakṣā},
+%   year={1205},
+%   note={MS Add.1644, Palmblatt und Paper, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01644/4},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}%
+%
+%@codex{saddharma2,
+%   title={Saddharmapuṇḍarīka},
+%   year={1039},
+%   note={MS Add.1684, Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01684-00001/1},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}%
+%
+%@codex{saddharma1,
+%   title={Saddharmapuṇḍarīka},
+%   year={1039},
+%   note={MS Add.1683, Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01683/1},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}
+%
+%@codex{amara,
+%   title={Amarakośa},
+%   year={1380},
+%   note={MS Add.1685, Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01683/1},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}%
+%
+@misc{amaraed,
+   title={Amarakośa}, 
+   subtitle={Amarakosha with commentary by Maheshwara, enlarged by Raghunath Shastri Talekar},
+   year={1896}, 
+   publisher={Department of Public Instruction},
+   note={Bombay}, 
+   keywords={primary}, 
+}%! 
+
+
+@misc{hathacandrika,
+   title={Haṭhasaṅketacandrikā},
+   subtitle={Haṭhasaṅketacandrikā},
+   howpublished={Ms. No. 2244. Man Singh Pustak Prakash Library, Jodhpur},
+   keywords={primary}, 
+}%!
+%
+%@codex{shambuvadana,
+%   title={Śambūkāvadāna},
+%   year={1427},
+%   note={MS Add.1580, Palmblatt, Nevārī},
+%   url={https://cudl.lib.cam.ac.uk/view/MS-ADD-01580/10},
+%   address={Cambridge University Library},
+%   keywords={codex},
+%}
+
+@misc{nishvasa2015,
+title={Niśvāsatattvasaṃhitā},
+subtitle={The Niśvāsatattvasaṃhitā: The Earliest Surviving Śaiva Tantra},
+   year={2015},
+   editor={Goodall, Dominic},
+   howpublished={Collection Indologie 128, Early Tantra Series 1},
+   publisher={Institut Français de Pondichéry / Ecole française d’Extrême-Orient / Sri Aurobini Ashram Press},
+   note={Pondicherry},
+   keywords={primary}, 
+}%!
+
+@book{gellner1997,
+   title={Nationalism and Ethnicity in a Hindu Kingdom: The Politics of Culture in Contemporary Nepal},
+   year={1997},
+   series={Studies in Anthropology and History},
+   volume={20},
+   editor={Gellner, David N. and Pfaff-Czarnecka, Joanna and Whelpton, John},
+   publisher={Harwood Academic Publishers},
+   address={Amsterdam},
+   keywords={seclit},
+}%!
+
+@article{mallinson2014b,
+   title={Haṭhayoga's Philosophy: A Fortuitous Union of Non-Dualities},
+   author={Mallinson, James},
+   year={2014},
+   series={Journal of Indian Philosophy},
+   volume={42},
+   pages={225--247},
+   publisher={Springer},
+   %url={http://www.jstor.org/stable/43496667},
+   keywords={seclit},
+}%!
+
+@book{demichelishistory2004,
+  author    = {De Michelis, Elizabeth},
+  title     = {A History of Modern Yoga},
+  year      = {2004},
+  publisher = {Continuum},
+  address   = {London},
+  keywords  = {seclit},
+}%!
+
+@book{majumdar1961x,
+   title={The History of Bengal},
+   author={Majumdar, R. C.},
+   year={1961},
+   publisher={University of Dacca},
+   address={Daka},
+   keywords={seclit},
+}%!
+
+@article{rose2018,
+   title={Nepal: Middle Period},
+   author={Rose, Leo E. and Karan, P. Pradyumna},
+   year={2018},
+   date={2018-05-18},
+   publisher={Encyclopaedia Britannica},
+   url={http://britannica.com/place/Nepal/History},
+   keywords={seclit},
+}%!
+
+@misc{vasudeva2004,
+   title={Mālinīvijayottaratantra},
+   subtitle={The Yoga of the Mālinīvijayottaratantra, Chapters 1-4, 7, 11-17: Critical Edition, Translation and Notes},
+   editor={Vasudeva, Somadeva},
+   year={2004},
+   publisher={Institut Française d'Extrême-Orient},
+   note={Pondicherry},
+   keywords={primary},
+}%!
+
+@book{yogaupaniṣads,
+   title={The Yoga-Upaniṣads (translation)},
+   subtitle={Translated into English (on the Basis of the Commentary of Śrī Upaniṣad-Brahma-Yogin)},
+   year={1938},
+   editor={Ayyaṅgar, Śrīnivāsa and Subrahmaṇya Śāstri, S.},  
+   publisher={The Adyar Library},
+   address={Adyar},
+   keywords={seclit},
+}
+
+@misc{yogaupaniṣaded,
+   title={Yoga Upaniṣads},
+   subtitle={Yoga Upaniṣads with the Commentary of Śrī Upaniṣadbrahmayogin},
+   year={1968},
+   editor={Sastri, Pandit A. Mahadeva},  
+   publisher={The Adyar Library and Research Centre},
+   note={Adyar},
+   keywords={primary},
+}%!
+
+@misc{upanishads1938,
+  author = {Raja, Kunjan},
+  title = {Unpublished Upanishads},
+  subtitle = {Unpublished Upanishads},
+  year = {1938},
+  publisher = {The Adyar Library},
+  note={Chennai}, 
+   keywords={primary},
+}%!
+
+@misc{brhadaranyaka,
+   title={Bṛhadāraṇyakopaniṣat},
+   subtitle={Bṛhadāraṇyakopaniṣat with the \textit{bhāṣya} attributed to Śaṅkara},
+   year={1986},
+   editor={Shastri, Subrahmanya},  
+   publisher={Mahesh Research Institute},
+   note={Varanasi},
+   keywords={primary},
+}%!
+
+@misc{upanishads,
+  title={The Early Upanishads},
+  subtitle={The Early Upanishads},
+  author={Olivelle, Patrick}, 
+  publisher={Oxford University Press},
+  note={Oxford},
+  year={2014}, 
+  keywords={primary},
+}%!
+
+@misc{chandogya,
+   title={Chāndogyopaniṣad},
+   subtitle={Chāndogya Upaniṣad},
+   howpublished={See The Early Upanishads, pp. 166--169},
+   keywords={primary},
+}%!
+
+%@misc{kathaup,
+%   title={Kaṭhopaniṣad},
+%   subtitle={Kaṭha Upaniṣad},
+%   howpublished={See The Early Upanishads, pp. 372--402},
+%   keywords={primary},
+%}%!
+
+@misc{yogatattvopanishad,
+   title={Yogatattvopaniṣad},
+   subtitle={Yogatattva Upaniṣad},
+   howpublished={See Yoga Upaniṣads, pp. 363--388},
+   keywords={primary},
+}%!
+
+@misc{yogakundalinyopanisad,
+   title={Yogakuṇḍalinyopaniṣad},
+   subtitle={Yogakuṇḍalinī Upaniṣad},
+   howpublished={see Yoga Upaniṣads}, 
+   keywords={primary},
+}%!
+
+@misc{yogasikhopanisad,
+   title={Yogaśikhopaniṣad},
+   subtitle={Yogaśikha Upaniṣad},
+   howpublished={see Yoga Upaniṣads}, 
+   keywords={primary},
+}%!
+
+@misc{yogacudamani,
+   title={Yogacūḍāmaṇyupaniṣad},
+   subtitle={Yogacūḍāmaṇi Upaniṣad},
+   howpublished={see Yoga Upaniṣads}, 
+   keywords={primary},
+}%!
+
+
+@misc{dhyanabind,
+   title={Dhyānabindopaniṣad},
+   subtitle={Dhyānabindu Upaniṣad},
+   howpublished={see Yoga Upaniṣads}, 
+   keywords={primary},
+}%!
+
+@misc{advaya,
+  title={Advayatārakopaniṣad},
+   subtitle={Advayatāraka Upaniṣad},
+   howpublished={See Yoga Upaniṣads}, 
+   keywords={primary},
+}%!
+
+@misc{nadabindu,
+   title={Nādabindūpaniṣad},
+   subtitle={Nādabindu Upaniṣad},
+howpublished={See Yoga Upaniṣads}, 
+   keywords={primary},
+}%!
+
+
+@article{mallinsonnath,
+   title={Nāth Sampradāya},
+   author={Mallinson, James},
+   year={2011},
+   publisher={Brill Online},
+   keywords={seclit},
+ }%!
+
+@article{rosati2020,
+   title={The Yoni of Kamakhya: The Intersection of Power and Gender in its Mythology},
+   author={Rosati, Paolo},
+   year={2020},
+   journal={Religions of South Asia 13:3}, 
+   volume={13:3}, 
+   pages={55-85},
+   url={https://doi.org/10.1558/rosa.19013},  
+   publisher={Equinox Publications},
+   keywords={seclit},
+ }%!
+
+
+@book{pandey1963,
+   title={Abhinavagupta: An Historical and Philosophical Study},
+   author={Pandey, K.C.},
+   year={1963},
+   series={Chowkhamba Sanskrit Studies},
+   volume={1},
+   note={2d ed., rev. and enl.},  
+   publisher={Chowkamba Sanskrit Series Office},
+   address={Varanasi},
+   keywords={seclit},
+}%!
+
+@book{schmidtnachtrag,
+title={Nachträge zum Sanskrit-Wörterbuch in kürzerer Fassung von Otto Böhtlingk},
+author={Schmidt, Richard},
+year={1928},
+publisher={Motilal Banarsidass},
+address={Delhi},
+   keywords={seclit},
+}%!
+
+@book{stupa,
+   title={The Symbolism of the Stupa},
+   author={Snodgrass, Adrian},
+   series={Synthesis},
+   volume={22}, 
+   pages={360-377}, 
+   year={1988},
+   publisher={Cornell University Press},
+   address={Ithaca, NY},
+   url={https://doi.org/10.7591/9781501718960-025}, 
+   keywords={seclit},
+}%!
+
+@misc{yogabija,
+   title={Yogabīja},
+   subtitle={Yogabīja},
+   editor={Śrīvāstav, Rām Lāl},
+   year={1982},
+   publisher={Śrī Gorakhnāth Mandir},
+   note={Gorakhpur},
+   keywords={primary},
+}%!
+
+@misc{hp,
+   title={Haṭhapradīpikā},
+   subtitle={Haṭhapradīpikā of Svātmarāma},
+   editor={Digambarjī, Svāmi and Pīrāmbar, Jhā},
+   year={1970},
+   publisher={Kaivalyadhāma S. M. Y. M. Samiti},
+   note={Lonvala},
+   keywords={primary},
+}%!
+
+
+@misc{brahmayamala,
+   title={Brahmayāmalatantra},
+   subtitle={The Brahmayāmalatantra or Picumata. Volume II. The Religious Observances and Sexual Rituals of the Tantric Practitioner: Chapters 3, 21, and 45: A Critical Edition and Annotated Translation},
+   editor={Kiss, Csaba},
+   year={2015},
+   publisher={Institut Français de Pondichéry / Ecole française d’Extrême-Orient / Asien-Afrika-Institut, Universität Hamburg},
+   note={Pondicherry},
+   keywords={primary},
+}
+
+@book{singleton2013gurus,
+  title={Gurus of Modern Yoga},
+  author={Singleton, Mark and Goldberg, Ellen},
+  editor={Singleton, Mark},
+  year={2013},
+  publisher={Oxford University Press, USA},
+  address={Oxford}, 
+  keywords={seclit}, 
+}%!
+
+@book{singleton2010,
+ title={Yoga Body - The Origins of Modern Posture Practice},
+ author={Singleton, Mark},
+ year={2010},
+ publisher={Oxford University Press},
+ address={New York},
+ keywords={seclit},
+ }%!
+
+
+@misc{hevajra,
+   title={Hevajratantra},
+   subtitle={Hevajratantra},
+   editor={Snellgroove, David L.},
+   year={1959},
+   publisher={Oxford Universiy Press},
+   note={London},
+   keywords={primary},
+}%!
+
+@misc{liersch2026,
+  title={Gorakṣayogaśāstra},
+  subtitle={Das Gorakṣayogaśāstra: Diplomatische und kritische Edition mit annotierter Übersetzung (Forthcoming)},
+  editor={Liersch, Nils Jacob},
+  publisher={Indica et Tibetica Verlag},
+  note={Marburg},
+  keywords={primary},
+  }%!
+
+%@misc{bhagavata,
+%   title={Bhāgavatapurāṇa},
+%   subtitle={Bhāgavata Purāṇa},
+%   editor={Śarman, Vasudeva},
+%   year={1905},
+%   publisher={Nirnaya Sagar},
+%   note={Bombay},
+%  keywords={primary},
+%  }%!
+
+@book{triadicheart,
+   title={The Triadic Heart of Śiva, Kaula Tantrism of Abhinavagupta in the non-dual Shaivism of Kashmir},
+   author={Muller-Ortega, Paul Eduardo},
+   year={1989},
+   publisher={State University of New York Press},
+   series={SUNY series in the Shaiva Traditions of Kashmir},
+   %note={Studie zum bei Abhinavagupta zentralen Symbol des "Herzens" v.a. auf Basis von Parātriśikā Laghuvṛtti; der Anhang enthält die erste englische Übersetzung des kurzen Textes.},
+   address={New York},
+   keywords={seclit},
+}%!
+
+@misc{mahabharata,
+   title={Mahābhārata},
+   subtitle={The Mahābhārata: For the first time Critically Edited, 19 Volumes},
+   editor={Sukthankar, V.S. and Belvalkar, S. K.},
+   year={1969},
+   publisher={Bhandarkar Oriental Research Institute},
+   note={Poona},
+   keywords={primary},
+}%!
+
+@misc{netratantra,
+   title={Netratantra with Netroddyota},
+   subtitle={Netratantra with the commentary (Netroddyota) of Rājānaka Kṣemarāja}, 
+   year={1939},
+   editor={Śāstri, Madhusūdan Kaul},
+   howpublished={First Edition 1926. Kashmir Series of Texts and Studies 46, 59},
+   note={Srinagar | Bombay},
+   keywords={primary},
+}%!
+
+@misc{tantraloka,
+   title={Tantrāloka (b)},
+   subtitle={Tantrāloka},
+   year={1938},
+   author={Shastri, Mukunda Ram and Shastri, Madhusudan Kaul},
+   howpublished={Vol. 1-12},
+   publisher={Jammu and Kashmir (under the patronage of Maharaja Harisingh)},
+   note={Jammu},
+   url={https://archive.org/details/tantraloka},
+    keywords={primary},
+}%!
+
+@book{trovato2017,
+  title={Everything You Always Wanted to Know About Lachmann's Method},
+  author={Trovato, Paolo},
+  year={2017},
+  publisher={libreriauniversitaria.it},
+  address={Limena},
+  keywords={seclit},
+}%!
+
+
+@book{kulacuda,
+   title={Kulacūḍāmaṇitantra and Vāmakeśvaratantra}, 
+   subtitle={The Kulacūḍāmaṇitantra and the Vāmakeśvaratantra : with the Jayaratha commentary / introduced, translated, and annotated},
+   editor={Finn, Louise M.},
+   year={1986},
+   publisher={Harrassowitz},
+   note={Wiesbaden},
+    keywords={primary},
+}%!
+
+@online{ngmcp,
+  title = {Nepalese German Manuscript Cataloguing Project (NGMCP)},
+  organization = {Universität Hamburg}, 
+  howpublished = {\url{https://www.aai.uni-hamburg.de/en/forschung/ngmcp}},
+  note = {\url{https://www.aai.uni-hamburg.de/en/forschung/ngmcp}; Zugriff: 07.07.2022}, 
+ keywords={onlinesource},
+}
+
+@online{bhedabheda, 
+  title={Bhedābheda Vedānta},
+  author={Nicholson, Andrew J.}, 
+  publisher={Internet Encyclopedia of Philosophy (IEP) (ISSN 2161-0002)},
+  howpublished={\url{https://web.archive.org/web/20231006075017/https://iep.utm.edu/bhedabheda-vedanta/}}, 
+  note={\url{https://web.archive.org/web/20231006075017/https://iep.utm.edu/bhedabheda-vedanta/}; Saved on archive.org: 06.10.2023},  
+  keywords={onlinesource}, 
+}%!
+
+@online{hyp-website, 
+  title={Haṭha Yoga Project},
+  author={Mallinson, James and Birch, Jason and Singleton, Marc and Bevilacqua, Daniel and Gupta, S. V. B. K. V.}, 
+  publisher={SOAS University of London},
+  howpublished={\url{https://web.archive.org/web/20240516171430/http://hyp.soas.ac.uk/}}, 
+  note={\url{https://web.archive.org/web/20240516171430/http://hyp.soas.ac.uk/}; Saved on archive.org: 04.10.2023},  
+  keywords={onlinesource}, 
+}%!
+
+@online{ngmpp,
+  title = {Nepalese German Manuscript Preservation Project (NGMPP)},
+  organization = {Universität Hamburg}, 
+  howpublished = {\url{https://www.aai.uni-hamburg.de/en/forschung/ngmcp/history/about-ngmpp.html}},
+  note = {\url{https://www.aai.uni-hamburg.de/en/forschung/ngmcp/history/about-ngmpp.html}; Zugriff: 07.07.2022}, 
+  keywords={onlinesource},
+}%!
+
+@online{saubhagya,
+  title = {Saubhāgyalakṣmyupaniṣad},
+  subtitle = {Saubhāgyalakṣmi Upaniṣad},
+  editor = {Ḥattangadi, Ṣunder}, 
+  year ={2016}, 
+  organization = {sanskritdocuments.org}, 
+  howpublished = {\url{https://sanskritdocuments.org/doc_upanishhat/saubhagya.pdf}},
+  note = {\url{https://sanskritdocuments.org/doc_upanishhat/saubhagya.pdf}; Zugriff: 06.02.2023}, 
+  keywords={onlinesource},%
+}%!
+
+@online{muktabodha,
+  title = {Muktabodha},
+  organization = {Muktabodha Indological Research Institute (MIRI)}, 
+  howpublished = {\url{https://www.muktabodha.org/}},
+  note = {\url{https://www.muktabodha.org/}; Zugriff: 07.07.2022}, 
+  keywords={onlinesource},
+}
+
+@online{mandalabrah,
+  title = {Maṇḍalabrāhmaṇopaniṣat},
+  organization = {Muktabodha Indological Research Institute (MIRI)},
+  editor={Śāstri, Mahādeva}, 
+  howpublished = {\url{https://www.muktabodha.org/}},
+  note = {\url{https://muktalib7.com/DL_CATALOG_ROOT/DL_CATALOG/TEXTS/ETEXTS/mandalabraahmanopanisaDEV.pdf}; Zugriff: 10.03.2022}, 
+  keywords={onlinesource},
+}
+
+@online{muktalib,
+  title = {Muktabodha Digital Library},
+  organization = {Muktabodha Indological Research Institute (MIRI)}, 
+  howpublished = {\url{https://muktalib7.com/DL_CATALOG_ROOT/digital_library.htm}},
+  note = {\url{https://muktalib7.com/DL_CATALOG_ROOT/digital_library.htm}; Zugriff: 12.07.2022}, 
+  keywords={onlinesource},
+}
+
+@online{camlib,
+  title = {Cambridge Digital Library},
+  organization = {University of Cambridge}, 
+  howpublished = {\url{https://cudl.lib.cam.ac.uk/collections/sanskrit}},
+  note = {\url{https://cudl.lib.cam.ac.uk/collections/sanskrit}; Zugriff: 12.07.2022}, 
+  keywords={onlinesource},
+}
+
+@online{gimp,
+  title = {GNU Image Manipulation Programme (GIMP)},
+  organization = {The GIMP Team}, 
+  howpublished = {\url{https://www.gimp.org/}},
+  note = {\url{https://www.gimp.org/}; Zugriff: 15.07.2022}, 
+  keywords={onlinesource},
+}
+
+@online{kriyababajiyoga,
+  title = {Kriya Babaji Yoga Sangam Website},
+  organization = {Kriya Babaji Yoga Sangam}, 
+  howpublished = {\url{https://web.archive.org/web/20240320214547/https://kriyababajiyogasangam.org/}},
+  note = {\url{https://web.archive.org/web/20240320214547/https://kriyababajiyogasangam.org/}.Website saved with the Way Back Machine of archive.org on 20.03.2024}, 
+  keywords={onlinesource},
+}
+
+@online{kriyakrama,
+  title = {Kriyakramadyotikavyākhyā},
+  author ={Kacchapeśvaraśivācārya},
+  organization = {Muktabodha Indological Research Institute (MIRI)}, 
+  howpublished = {\url{https://muktalib7.com/}},
+  note = {\url{https://muktalib7.com/}; Accessed: 02/17/2023; Catalog number : M00324; IFP transcript T00109}, 
+  keywords={onlinesource},
+}
+
+@online{sakalagama,
+  title = {Sakalāgamasārasaṅgraha},
+  organization = {Muktabodha Indological Research Institute (MIRI)}, 
+  howpublished = {\url{https://muktalib7.com/}},
+  note = {\url{https://muktalib7.com/}; Accessed: 02/17/2023; Catalog number : M00063; IFP transcript T0351}, 
+  keywords={onlinesource},
+}
+
+@online{goswamikriyananda,
+  title = {Biography of Goswami Kriyananda},
+  subtitle = {Temple of Kriya Yoga Website}, 
+  organization = {Temple of Kriyayoga}, 
+  howpublished = {\url{https://web.archive.org/web/20240319134009/https://templeofkriyayoga.org/goswami-kriyananda/}},
+  note = {\url{https://web.archive.org/web/20240319134009/https://templeofkriyayoga.org/goswami-kriyananda/}. Website saved with the Way Back Machine of archive.org on 19.03.2024}, 
+  keywords={onlinesource},
+}
+
+@online{yoganandawebsite,
+  title = {Official Yogānanda Website},
+  organization = {Self Realization Fellowship}, 
+  howpublished = {\url{https://web.archive.org/web/20240323081653/https://yogananda.org/autobiography-of-a-yogi}},
+  note = {\url{https://web.archive.org/web/20240323081653/https://yogananda.org/autobiography-of-a-yogi}. Website saved with the Way Back Machine of archive.org on 23.03.2024}, 
+  keywords={onlinesource},
+}
+

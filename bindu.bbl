@@ -19,189 +19,897 @@
 
 \refsection{0}
   \datalist[entry]{tixel/global//global/global/global}
-    \entry{hemacandras}{misc}{}{}
+    \entry{stemmamethods}{inbook}{}{}
+      \name{author}{6}{}{%
+        {{hash=5709c978ba22a34a8ac303da7b1fca52}{%
+           family={Hoenen},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e8d078e6d312d30948d0651e6a71020}{%
+           family={Manafzadeh},
+           familyi={M\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4ca6d2b3d19cca191ed8d28d2a1f5ded}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={Yannick\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=310f0cfbf8894f8a62c98102480f25c8}{%
+           family={Roos},
+           familyi={R\bibinitperiod},
+           given={Teemu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5709c978ba22a34a8ac303da7b1fca52}{%
+           family={Hoenen},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=75f9e61e9b8a7b7dc1f9d76b6384a39f}{%
+           family={Guillaumin},
+           familyi={G\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod}}}%
+      }
       \name{editor}{1}{}{%
-        {{hash=defee87f32124bfd8c8e549e4e01ec76}{%
-           family={Qvarnström},
-           familyi={Q\bibinitperiod},
-           given={Olle},
-           giveni={O\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Hindi Granth Karyalay}%
-      }
-      \strng{namehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{fullhash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{fullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{bibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editorbibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editornamehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editorfullhash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editorfullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Pandit Nathuram Premi Research Series. Vol. 29}
-      \field{note}{Mumbai}
-      \field{subtitle}{A Handbook on the Three Jewels of Jainism: the Yogaśāstra of Hemacandra}
-      \field{title}{Hemacandra's Yogaśāstra}
-      \field{year}{2012}
-      \keyw{primary}
-    \endentry
-    \entry{birch2014}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
-           family={Birch},
-           familyi={B\bibinitperiod},
-           given={Jason},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{fullhashraw}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authorfullhashraw}{9d71a355381fe882ea730ea2133cbcb7}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{series}{International Journal of Hindu Studies 17, 3 (2013)}
-      \field{title}{Rājayoga: Reincarnations of the King of All Yogas}
-      \field{year}{2014}
-      \field{pages}{401\bibrangedash 444}
-      \range{pages}{44}
-      \keyw{seclit}
-    \endentry
-    \entry{clark2006}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=627104e85488354d584d29471eb37669}{%
-           family={Clark},
-           familyi={C\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
+        {{hash=94b25303e4f4a2b64e4b7f1fdc020abc}{%
+           family={Zundert},
+           familyi={Z\bibinitperiod},
+           given={Joris},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Leiden}%
+        {Berlin/Bosten}%
       }
       \list{publisher}{1}{%
-        {Brill Academic Pub.}%
+        {De Gruyter}%
       }
-      \strng{namehash}{627104e85488354d584d29471eb37669}
-      \strng{fullhash}{627104e85488354d584d29471eb37669}
-      \strng{fullhashraw}{627104e85488354d584d29471eb37669}
-      \strng{bibnamehash}{627104e85488354d584d29471eb37669}
-      \strng{authorbibnamehash}{627104e85488354d584d29471eb37669}
-      \strng{authornamehash}{627104e85488354d584d29471eb37669}
-      \strng{authorfullhash}{627104e85488354d584d29471eb37669}
-      \strng{authorfullhashraw}{627104e85488354d584d29471eb37669}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{subtitle}{The Integration of Ascetic Lineages into an Order}
-      \field{title}{The Daśanāmī-Saṃnyāsīs}
-      \field{year}{2006}
-      \keyw{seclit}
-    \endentry
-  \enddatalist
-  \datalist[entry]{nyt/global//global/global/global}
-    \entry{birch2014}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
-           family={Birch},
-           familyi={B\bibinitperiod},
-           given={Jason},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{fullhash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{fullhashraw}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{bibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authorbibnamehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authornamehash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authorfullhash}{9d71a355381fe882ea730ea2133cbcb7}
-      \strng{authorfullhashraw}{9d71a355381fe882ea730ea2133cbcb7}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{series}{International Journal of Hindu Studies 17, 3 (2013)}
-      \field{title}{Rājayoga: Reincarnations of the King of All Yogas}
-      \field{year}{2014}
-      \field{pages}{401\bibrangedash 444}
-      \range{pages}{44}
-      \keyw{seclit}
-    \endentry
-    \entry{clark2006}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=627104e85488354d584d29471eb37669}{%
-           family={Clark},
-           familyi={C\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leiden}%
-      }
-      \list{publisher}{1}{%
-        {Brill Academic Pub.}%
-      }
-      \strng{namehash}{627104e85488354d584d29471eb37669}
-      \strng{fullhash}{627104e85488354d584d29471eb37669}
-      \strng{fullhashraw}{627104e85488354d584d29471eb37669}
-      \strng{bibnamehash}{627104e85488354d584d29471eb37669}
-      \strng{authorbibnamehash}{627104e85488354d584d29471eb37669}
-      \strng{authornamehash}{627104e85488354d584d29471eb37669}
-      \strng{authorfullhash}{627104e85488354d584d29471eb37669}
-      \strng{authorfullhashraw}{627104e85488354d584d29471eb37669}
+      \strng{namehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{fullhash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{fullhashraw}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{bibnamehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authorbibnamehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authornamehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authorfullhash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authorfullhashraw}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{editorbibnamehash}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \strng{editornamehash}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \strng{editorfullhash}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \strng{editorfullhashraw}{94b25303e4f4a2b64e4b7f1fdc020abc}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{subtitle}{The Integration of Ascetic Lineages into an Order}
-      \field{title}{The Daśanāmī-Saṃnyāsīs}
-      \field{year}{2006}
+      \field{booktitle}{Handbook of Stemmatology}
+      \field{title}{Computational methods and tools}
+      \field{year}{2020}
+      \field{pages}{292\bibrangedash 356}
+      \range{pages}{65}
       \keyw{seclit}
     \endentry
-    \entry{hemacandras}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=defee87f32124bfd8c8e549e4e01ec76}{%
-           family={Qvarnström},
-           familyi={Q\bibinitperiod},
-           given={Olle},
-           giveni={O\bibinitperiod}}}%
+    \entry{maas2009stemma}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0eafd4292bc36cd983a212a7465767e7}{%
+           family={Maas},
+           familyi={M\bibinitperiod},
+           given={Philipp\bibnamedelima André},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
       }
       \list{publisher}{1}{%
-        {Hindi Granth Karyalay}%
+        {Austrian Academy of Sciences Press}%
       }
-      \strng{namehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{fullhash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{fullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{bibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editorbibnamehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editornamehash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editorfullhash}{defee87f32124bfd8c8e549e4e01ec76}
-      \strng{editorfullhashraw}{defee87f32124bfd8c8e549e4e01ec76}
-      \field{sortinit}{Q}
-      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
-      \field{labelnamesource}{editor}
+      \strng{namehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{fullhash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{fullhashraw}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{bibnamehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authorbibnamehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authornamehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authorfullhash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authorfullhashraw}{0eafd4292bc36cd983a212a7465767e7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Pandit Nathuram Premi Research Series. Vol. 29}
-      \field{note}{Mumbai}
-      \field{subtitle}{A Handbook on the Three Jewels of Jainism: the Yogaśāstra of Hemacandra}
-      \field{title}{Hemacandra's Yogaśāstra}
-      \field{year}{2012}
-      \keyw{primary}
+      \field{journaltitle}{Vienna Journal of South Asian Studies 2009-2010}
+      \field{title}{Computer Aided Stemmatics — The Case of Fifty-Two Text Versions of Carakasaṃhitā Vimānasthāna 8.67-157}
+      \field{volume}{52/53 Text Genealogy, Textual Criticism and Editorial Technique (2009-2010)}
+      \field{year}{2009}
+      \field{pages}{63\bibrangedash 119}
+      \range{pages}{57}
+      \keyw{seclit}
+    \endentry
+    \entry{felsenstein1985}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a9a7aeb8d3c34e3da316b87101984cda}{%
+           family={Felsenstein},
+           familyi={F\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{fullhash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{fullhashraw}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{bibnamehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authorbibnamehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authornamehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authorfullhash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authorfullhashraw}{a9a7aeb8d3c34e3da316b87101984cda}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evolution}
+      \field{title}{Confidence Limits on Phylogenies: An Approach Using the Bootstrap}
+      \field{volume}{39}
+      \field{year}{1985}
+      \field{pages}{783\bibrangedash 791}
+      \range{pages}{9}
+      \keyw{seclit}
+    \endentry
+    \entry{baptiste2020}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=75f9e61e9b8a7b7dc1f9d76b6384a39f}{%
+           family={Guillaumin},
+           familyi={G\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/Bosten}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{fullhash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{fullhashraw}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{bibnamehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authorbibnamehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authornamehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authorfullhash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authorfullhashraw}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Stemmatology}
+      \field{title}{Criticisms of digital methods}
+      \field{year}{2020}
+      \field{pages}{339\bibrangedash 356}
+      \range{pages}{18}
+      \keyw{seclit}
+    \endentry
+    \entry{windram2008}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=4de34d33c6010a242dc774d3a351968f}{%
+           family={Windram},
+           familyi={W\bibinitperiod},
+           given={Heather\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9249c8ee2b62a96d37f4b0b3aaaca6bf}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Prue},
+           giveni={P\bibinitperiod}}}%
+        {{hash=13008ba222d50f3b27a60dd519e7a34b}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af3f37693fc12c132a11e25a1183a15c}{%
+           family={Howe},
+           familyi={H\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{fullhash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{fullhashraw}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{bibnamehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authorbibnamehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authornamehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authorfullhash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authorfullhashraw}{7ec7c42fa9465957e21928d2ddc33d47}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Literary and Linguistic Computing}
+      \field{title}{Dante’s Monarchia as a Test Case for the Use of Phylogenetic Methods in Stemmatic Analysis}
+      \field{volume}{23(4)}
+      \field{year}{2008}
+      \field{pages}{443\bibrangedash 463}
+      \range{pages}{21}
+      \verb{doi}
+      \verb doi.org/10.1093/llc/fqn023
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{trovato2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8d6fb2c64a9c8ee992b02d76ab205e4c}{%
+           family={Trovato},
+           familyi={T\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Limena}%
+      }
+      \list{publisher}{1}{%
+        {libreriauniversitaria.it}%
+      }
+      \strng{namehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{fullhash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{fullhashraw}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{bibnamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorbibnamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authornamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorfullhash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorfullhashraw}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Everything You Always Wanted to Know About Lachmann's Method}
+      \field{year}{2017}
+      \keyw{seclit}
+    \endentry
+    \entry{cormen2009introduction}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=835b8c52757d98c15859b416316d9820}{%
+           family={Cormen},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e39ca09ac8af1d0a630e5b0b41c7813c}{%
+           family={Leierson},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3a964821f97ee17f8bb285bc61c52899}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Ronald\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=bc78426660400760f77758aec45e71a8}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{4264442c0bf6461d504448974dd30045}
+      \strng{fullhash}{4264442c0bf6461d504448974dd30045}
+      \strng{fullhashraw}{4264442c0bf6461d504448974dd30045}
+      \strng{bibnamehash}{4264442c0bf6461d504448974dd30045}
+      \strng{authorbibnamehash}{4264442c0bf6461d504448974dd30045}
+      \strng{authornamehash}{4264442c0bf6461d504448974dd30045}
+      \strng{authorfullhash}{4264442c0bf6461d504448974dd30045}
+      \strng{authorfullhashraw}{4264442c0bf6461d504448974dd30045}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{Introduction to Algorithms}
+      \field{year}{2009}
+      \keyw{seclit}
+    \endentry
+    \entry{huson2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a4ecd8c07c458a21a3731a3916efc66f}{%
+           family={Huson},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5d30f1613015984b38a2f60dfac80640}{%
+           family={Steel},
+           familyi={S\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{fullhash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{fullhashraw}{30f280be9de529889a21d91e7f09ce14}
+      \strng{bibnamehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authorbibnamehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authornamehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authorfullhash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authorfullhashraw}{30f280be9de529889a21d91e7f09ce14}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{note}{Center for Bioinformatics (ZBIT), Tübingen University, Sand 14, 72076 Tübingen, Germany and Biomathematics Research Centre, University of Canterbury, Christchurch, New Zealand}
+      \field{number}{13}
+      \field{title}{Phylogenetic trees based on gene content}
+      \field{volume}{20}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/bth198
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/bioinformatics/bth198
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/bioinformatics/bth198
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{sandra2003}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e1d6fc2d32c491cd65d67d07ae03adc9}{%
+           family={Baldauf},
+           familyi={B\bibinitperiod},
+           given={Sandra\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Researchgate}%
+      }
+      \strng{namehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{fullhash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{fullhashraw}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{bibnamehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authorbibnamehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authornamehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authorfullhash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authorfullhashraw}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{6}
+      \field{series}{Trends in Genetics}
+      \field{title}{Phylogeny for the faint of heart: a tutorial}
+      \field{volume}{19}
+      \field{year}{2003}
+      \field{pages}{345\bibrangedash 351}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/10712132_Phylogeny_for_the_faint_of_heart_A_tutorial
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/10712132_Phylogeny_for_the_faint_of_heart_A_tutorial
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{nei1987}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8fa1cd79474110647391237ed51dac77}{%
+           family={Naruya},
+           familyi={N\bibinitperiod},
+           given={Saitou},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f7e54938018be38227393edcb9566fca}{%
+           family={Nei},
+           familyi={N\bibinitperiod},
+           given={Masatoshi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{fullhash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{fullhashraw}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{bibnamehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authorbibnamehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authornamehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authorfullhash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authorfullhashraw}{65b727c0724be34e1c2cd81d713ec9fc}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Biology and Evolution}
+      \field{title}{The Neighbor-Joining Method: A New Method for Reconstructing Phylogenetic Trees}
+      \field{volume}{4(4)}
+      \field{year}{1987}
+      \field{pages}{406\bibrangedash 425}
+      \range{pages}{20}
+      \verb{doi}
+      \verb doi.org/10.1093/oxfordjournals.molbev.a040454
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{huson2022}{manual}{}{}
+      \name{author}{2}{}{%
+        {{hash=a4ecd8c07c458a21a3731a3916efc66f}{%
+           family={Huson},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=17d844761cdec480fe5c1fcfca96979f}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{fullhash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{fullhashraw}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{bibnamehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authorbibnamehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authornamehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authorfullhash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authorfullhashraw}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{User Manual for SplitsTree4 V4.18.2}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://software-ab.informatik.uni-tuebingen.de/download/splitstree4/manual.pdf
+      \endverb
+      \verb{url}
+      \verb https://software-ab.informatik.uni-tuebingen.de/download/splitstree4/manual.pdf
+      \endverb
+      \keyw{seclit}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{sandra2003}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e1d6fc2d32c491cd65d67d07ae03adc9}{%
+           family={Baldauf},
+           familyi={B\bibinitperiod},
+           given={Sandra\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Researchgate}%
+      }
+      \strng{namehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{fullhash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{fullhashraw}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{bibnamehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authorbibnamehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authornamehash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authorfullhash}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \strng{authorfullhashraw}{e1d6fc2d32c491cd65d67d07ae03adc9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{6}
+      \field{series}{Trends in Genetics}
+      \field{title}{Phylogeny for the faint of heart: a tutorial}
+      \field{volume}{19}
+      \field{year}{2003}
+      \field{pages}{345\bibrangedash 351}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/10712132_Phylogeny_for_the_faint_of_heart_A_tutorial
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/10712132_Phylogeny_for_the_faint_of_heart_A_tutorial
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{cormen2009introduction}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=835b8c52757d98c15859b416316d9820}{%
+           family={Cormen},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e39ca09ac8af1d0a630e5b0b41c7813c}{%
+           family={Leierson},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3a964821f97ee17f8bb285bc61c52899}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Ronald\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=bc78426660400760f77758aec45e71a8}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{4264442c0bf6461d504448974dd30045}
+      \strng{fullhash}{4264442c0bf6461d504448974dd30045}
+      \strng{fullhashraw}{4264442c0bf6461d504448974dd30045}
+      \strng{bibnamehash}{4264442c0bf6461d504448974dd30045}
+      \strng{authorbibnamehash}{4264442c0bf6461d504448974dd30045}
+      \strng{authornamehash}{4264442c0bf6461d504448974dd30045}
+      \strng{authorfullhash}{4264442c0bf6461d504448974dd30045}
+      \strng{authorfullhashraw}{4264442c0bf6461d504448974dd30045}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{Introduction to Algorithms}
+      \field{year}{2009}
+      \keyw{seclit}
+    \endentry
+    \entry{felsenstein1985}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a9a7aeb8d3c34e3da316b87101984cda}{%
+           family={Felsenstein},
+           familyi={F\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{fullhash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{fullhashraw}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{bibnamehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authorbibnamehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authornamehash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authorfullhash}{a9a7aeb8d3c34e3da316b87101984cda}
+      \strng{authorfullhashraw}{a9a7aeb8d3c34e3da316b87101984cda}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Evolution}
+      \field{title}{Confidence Limits on Phylogenies: An Approach Using the Bootstrap}
+      \field{volume}{39}
+      \field{year}{1985}
+      \field{pages}{783\bibrangedash 791}
+      \range{pages}{9}
+      \keyw{seclit}
+    \endentry
+    \entry{baptiste2020}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=75f9e61e9b8a7b7dc1f9d76b6384a39f}{%
+           family={Guillaumin},
+           familyi={G\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/Bosten}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{fullhash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{fullhashraw}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{bibnamehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authorbibnamehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authornamehash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authorfullhash}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \strng{authorfullhashraw}{75f9e61e9b8a7b7dc1f9d76b6384a39f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Stemmatology}
+      \field{title}{Criticisms of digital methods}
+      \field{year}{2020}
+      \field{pages}{339\bibrangedash 356}
+      \range{pages}{18}
+      \keyw{seclit}
+    \endentry
+    \entry{stemmamethods}{inbook}{}{}
+      \name{author}{6}{}{%
+        {{hash=5709c978ba22a34a8ac303da7b1fca52}{%
+           family={Hoenen},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e8d078e6d312d30948d0651e6a71020}{%
+           family={Manafzadeh},
+           familyi={M\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4ca6d2b3d19cca191ed8d28d2a1f5ded}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={Yannick\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=310f0cfbf8894f8a62c98102480f25c8}{%
+           family={Roos},
+           familyi={R\bibinitperiod},
+           given={Teemu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5709c978ba22a34a8ac303da7b1fca52}{%
+           family={Hoenen},
+           familyi={H\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=75f9e61e9b8a7b7dc1f9d76b6384a39f}{%
+           family={Guillaumin},
+           familyi={G\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=94b25303e4f4a2b64e4b7f1fdc020abc}{%
+           family={Zundert},
+           familyi={Z\bibinitperiod},
+           given={Joris},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/Bosten}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{fullhash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{fullhashraw}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{bibnamehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authorbibnamehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authornamehash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authorfullhash}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{authorfullhashraw}{fcfc55fdb56738eb6f13786b8cb16549}
+      \strng{editorbibnamehash}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \strng{editornamehash}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \strng{editorfullhash}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \strng{editorfullhashraw}{94b25303e4f4a2b64e4b7f1fdc020abc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Stemmatology}
+      \field{title}{Computational methods and tools}
+      \field{year}{2020}
+      \field{pages}{292\bibrangedash 356}
+      \range{pages}{65}
+      \keyw{seclit}
+    \endentry
+    \entry{huson2022}{manual}{}{}
+      \name{author}{2}{}{%
+        {{hash=a4ecd8c07c458a21a3731a3916efc66f}{%
+           family={Huson},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=17d844761cdec480fe5c1fcfca96979f}{%
+           family={Bryant},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{fullhash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{fullhashraw}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{bibnamehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authorbibnamehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authornamehash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authorfullhash}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \strng{authorfullhashraw}{00043cd444ac3af8ffbdf0d6a1a5ac70}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{User Manual for SplitsTree4 V4.18.2}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://software-ab.informatik.uni-tuebingen.de/download/splitstree4/manual.pdf
+      \endverb
+      \verb{url}
+      \verb https://software-ab.informatik.uni-tuebingen.de/download/splitstree4/manual.pdf
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{huson2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a4ecd8c07c458a21a3731a3916efc66f}{%
+           family={Huson},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5d30f1613015984b38a2f60dfac80640}{%
+           family={Steel},
+           familyi={S\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{fullhash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{fullhashraw}{30f280be9de529889a21d91e7f09ce14}
+      \strng{bibnamehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authorbibnamehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authornamehash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authorfullhash}{30f280be9de529889a21d91e7f09ce14}
+      \strng{authorfullhashraw}{30f280be9de529889a21d91e7f09ce14}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinformatics}
+      \field{note}{Center for Bioinformatics (ZBIT), Tübingen University, Sand 14, 72076 Tübingen, Germany and Biomathematics Research Centre, University of Canterbury, Christchurch, New Zealand}
+      \field{number}{13}
+      \field{title}{Phylogenetic trees based on gene content}
+      \field{volume}{20}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1093/bioinformatics/bth198
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/bioinformatics/bth198
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/bioinformatics/bth198
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{maas2009stemma}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=0eafd4292bc36cd983a212a7465767e7}{%
+           family={Maas},
+           familyi={M\bibinitperiod},
+           given={Philipp\bibnamedelima André},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna}%
+      }
+      \list{publisher}{1}{%
+        {Austrian Academy of Sciences Press}%
+      }
+      \strng{namehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{fullhash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{fullhashraw}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{bibnamehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authorbibnamehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authornamehash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authorfullhash}{0eafd4292bc36cd983a212a7465767e7}
+      \strng{authorfullhashraw}{0eafd4292bc36cd983a212a7465767e7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vienna Journal of South Asian Studies 2009-2010}
+      \field{title}{Computer Aided Stemmatics — The Case of Fifty-Two Text Versions of Carakasaṃhitā Vimānasthāna 8.67-157}
+      \field{volume}{52/53 Text Genealogy, Textual Criticism and Editorial Technique (2009-2010)}
+      \field{year}{2009}
+      \field{pages}{63\bibrangedash 119}
+      \range{pages}{57}
+      \keyw{seclit}
+    \endentry
+    \entry{nei1987}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=8fa1cd79474110647391237ed51dac77}{%
+           family={Naruya},
+           familyi={N\bibinitperiod},
+           given={Saitou},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f7e54938018be38227393edcb9566fca}{%
+           family={Nei},
+           familyi={N\bibinitperiod},
+           given={Masatoshi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{fullhash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{fullhashraw}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{bibnamehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authorbibnamehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authornamehash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authorfullhash}{65b727c0724be34e1c2cd81d713ec9fc}
+      \strng{authorfullhashraw}{65b727c0724be34e1c2cd81d713ec9fc}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Biology and Evolution}
+      \field{title}{The Neighbor-Joining Method: A New Method for Reconstructing Phylogenetic Trees}
+      \field{volume}{4(4)}
+      \field{year}{1987}
+      \field{pages}{406\bibrangedash 425}
+      \range{pages}{20}
+      \verb{doi}
+      \verb doi.org/10.1093/oxfordjournals.molbev.a040454
+      \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{trovato2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8d6fb2c64a9c8ee992b02d76ab205e4c}{%
+           family={Trovato},
+           familyi={T\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Limena}%
+      }
+      \list{publisher}{1}{%
+        {libreriauniversitaria.it}%
+      }
+      \strng{namehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{fullhash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{fullhashraw}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{bibnamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorbibnamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authornamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorfullhash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorfullhashraw}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Everything You Always Wanted to Know About Lachmann's Method}
+      \field{year}{2017}
+      \keyw{seclit}
+    \endentry
+    \entry{windram2008}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=4de34d33c6010a242dc774d3a351968f}{%
+           family={Windram},
+           familyi={W\bibinitperiod},
+           given={Heather\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=9249c8ee2b62a96d37f4b0b3aaaca6bf}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Prue},
+           giveni={P\bibinitperiod}}}%
+        {{hash=13008ba222d50f3b27a60dd519e7a34b}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af3f37693fc12c132a11e25a1183a15c}{%
+           family={Howe},
+           familyi={H\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{fullhash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{fullhashraw}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{bibnamehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authorbibnamehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authornamehash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authorfullhash}{7ec7c42fa9465957e21928d2ddc33d47}
+      \strng{authorfullhashraw}{7ec7c42fa9465957e21928d2ddc33d47}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Literary and Linguistic Computing}
+      \field{title}{Dante’s Monarchia as a Test Case for the Use of Phylogenetic Methods in Stemmatic Analysis}
+      \field{volume}{23(4)}
+      \field{year}{2008}
+      \field{pages}{443\bibrangedash 463}
+      \range{pages}{21}
+      \verb{doi}
+      \verb doi.org/10.1093/llc/fqn023
+      \endverb
+      \keyw{seclit}
     \endentry
   \enddatalist
 \endrefsection

@@ -17,14 +17,15 @@
     "fig_folio1"
     "generalremarks"
     "dating"
-    "ytb-topics"
-    "ytb-audience"
+    "tyb-topics"
+    "tyb-audience"
     "ramarama"
     "fig:royalyogi2"
     "fig:royalyogi1"
     "fig:royalyogi3"
     "witnessesdescr"
     "n1description"
+    "vdescription"
     "unconsulted"
     "titlediscussion"
     "mahatmya"
@@ -104,9 +105,6 @@
     "madhyalaksya"
     "saubhadraverse"
     "cakranukrama"
-    "ashtanga"
-    "ashtangatrans"
-    "ashtangareversed"
-    "sukumara"))
+    "ashtanga"))
  :latex)
 

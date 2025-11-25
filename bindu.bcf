@@ -2371,9 +2371,20 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">bindu.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">birch2014</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">hemacandras</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">clark2006</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">trovato2017</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">baptiste2020</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">maas2009stemma</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">maas2009stemma</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">windram2008</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">felsenstein1985</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">sandra2003</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">nei1987</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">stemmamethods</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">huson2004</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">huson2022</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">stemmamethods</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">cormen2009introduction</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">huson2022</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

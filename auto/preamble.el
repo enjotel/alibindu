@@ -64,6 +64,7 @@
     "normalpipe"
     "phantomsection"
     "fnsep"
+    "hardbreak"
     "blfootnote"
     "acpc"
     "sigl"
@@ -142,7 +143,8 @@
     "unm")
    (LaTeX-add-environments
     "itquote"
-    "itpars")
+    "itpars"
+    "criticaledition")
    (LaTeX-add-bibliographies
     "bindu")
    (LaTeX-add-lengths

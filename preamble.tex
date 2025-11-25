@@ -325,21 +325,27 @@ hpbmk = \textcolor{red}{hpb}
 \DeclareWitness{N1}{\selectlanguage{english}N\textsubscript{1}}{NGMPP 38/31}[]
 \DeclareWitness{N2}{\selectlanguage{english}N\textsubscript{2}}{NGMPP B 38/35}[]
 \DeclareWitness{L}{\selectlanguage{english}L}{LALCHAND 5876}[]
-\DeclareWitness{J}{\selectlanguage{english}J}{JNUL 55769}[]  
+\DeclareWitness{J}{\selectlanguage{english}J}{JNUL 55769}[]
+\DeclareWitness{C}{\selectlanguage{english}C}{NUL 5760}[] 
 \DeclareWitness{D}{\selectlanguage{english}D}{IGNCA 30019}[] 
 %\DeclareWitness{D2}{\selectlanguage{english}D\textsubscript{2}}{IGNCA 30020}[]  
 \DeclareWitness{U1}{\selectlanguage{english}U\textsubscript{1}}{SORI 1574}[] 
 \DeclareWitness{U2}{\selectlanguage{english}U\textsubscript{2}}{SORI 6082}[]
+\DeclareWitness{P2}{\selectlanguage{english}P\textsubscript{2}}{Anandashrama Sanstha 81/359}[]
 
 \DeclareWitness{K1}{\selectlanguage{english}K\textsubscript{1}}{AS G 11019}[]
+\DeclareWitness{K2}{\selectlanguage{english}K\textsubscript{2}}{AS G IM 5441}[]
+\DeclareWitness{K3}{\selectlanguage{english}K\textsubscript{3}}{AS G 5538 A}[]
+
 \DeclareWitness{V}{\selectlanguage{english}V}{Vadodara OI MSU 11019}[]
+\DeclareWitness{S}{\selectlanguage{english}S}{M. T. R. College Manuscript Library 601}[]
 
 \DeclareWitness{PT}{\selectlanguage{english}PT}{Prāṇatoṣiṇī}[]
 \DeclareWitness{YK}{\selectlanguage{english}YK}{Yogakarṇikā}[]
 \DeclareWitness{TYB}{\selectlanguage{english}TYB}{Tattvayogabindu}[]
 \DeclareWitness{Jo}{\selectlanguage{english}Jo}{Haṭhasaṅketacandrikā Jodhpur MS. No. 2244}[]
-\DeclareWitness{C}{\selectlanguage{english}C}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
-\DeclareWitness{Cpc}{\selectlanguage{english}C\textsubscript{pc}}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
+\DeclareWitness{G}{\selectlanguage{english}G}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
+\DeclareWitness{Gpc}{\selectlanguage{english}G\textsubscript{pc}}{Haṭhasaṅketacandrikā Chennai GOML Ms. No. R 3239}[]
 \DeclareWitness{M}{\selectlanguage{english}M}{Haṭhasaṅketacandrikā Mysore ORI Ms. No. B 220}[]
 %%%%%%%%%%%%%% Tattvabinduyoga - Groups of Witnesses   %%%%%%%%%%%%%%%%%%%
 \DeclareWitness{X}{\selectlanguage{english}\beta}{Beta Group: D,J,K1,N1,N2,U1}[]
@@ -428,13 +434,13 @@ surname=Liersch]
 \DeclareShorthand{egoscr}{\begin{otherlanguage}{english}em.\end{otherlanguage}}{ego}
 \DeclareShorthand{egoscrconj}{\begin{otherlanguage}{english}conj.\end{otherlanguage}}{ego}
 \DeclareShorthand{egocor}{\begin{otherlanguage}{english}corr.\end{otherlanguage}}{ego}
-\DeclareShorthand{sellmerconj}{Sellmer conj.}{ego}
-\DeclareShorthand{hannederconj}{Hanneder conj.}{ego}
-\DeclareShorthand{sellmerem}{Sellmer em.}{ego}
-\DeclareShorthand{birchconj}{Birch conj.}{ego}
-\DeclareShorthand{mallinsonconj}{Mallinson conj.}{ego}
-\DeclareShorthand{mallinsonem}{Mallinson em.}{ego}
-\DeclareShorthand{birchem}{Birch em.}{ego}
+\DeclareShorthand{sellmerconj}{\begin{otherlanguage}{english}Sellmer conj.\end{otherlanguage}}{ego}
+\DeclareShorthand{hannederconj}{\begin{otherlanguage}{english}Hanneder conj.\end{otherlanguage}}{ego}
+\DeclareShorthand{sellmerem}{\begin{otherlanguage}{english}Sellmer em.\end{otherlanguage}}{ego}
+\DeclareShorthand{birchconj}{\begin{otherlanguage}{english}Birch conj.\end{otherlanguage}}{ego}
+\DeclareShorthand{mallinsonconj}{\begin{otherlanguage}{english}Mallinson conj.\end{otherlanguage}}{ego}
+\DeclareShorthand{mallinsonem}{\begin{otherlanguage}{english}Mallinson em.\end{otherlanguage}}{ego}
+\DeclareShorthand{birchem}{\begin{otherlanguage}{english}Birch em.\end{otherlanguage}}{ego}
 \DeclareShorthand{egomute}{\unskip}{ego}
 
 
@@ -663,3 +669,19 @@ surname=Liersch]
     {\setlength{\textfloatsep}{#2\baselineskip}}%
   \ignorespaces
 }
+
+
+\newenvironment{criticaledition}{
+  \parindent0pt
+  \parskip=0pt
+  \hbadness=10000
+  %\tolerance=1       % extrem streng, damit Zeilen nicht verschoben werden
+  \emergencystretch=0pt
+  \clubpenalty=10000
+  \widowpenalty=10000
+  \brokenpenalty=10000
+  \interlinepenalty=10000
+  %\linespread        % jeder Zeilenumbruch in der Quelle wird respektiert
+}{}
+
+\newcommand{\hardbreak}{\penalty -10000\pagebreak[4]\newpage}
