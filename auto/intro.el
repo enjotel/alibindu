@@ -1,13 +1,13 @@
 (TeX-add-style-hook
  "intro"
  (lambda ()
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "preamble"
@@ -37,9 +37,19 @@
     "yogasamgraha"
     "hathacandrikax"
     "stemma"
-    "fig:synoptic1"
-    "fig:paup-tree"
-    "fig:nj-tree"
+    "fig:synoptic3"
+    "fig:vexclude"
+    "fig:bindefehlerbeta"
+    "fig:n1n2"
+    "fig:ju1"
+    "fig:dk1"
+    "fig:u2andbeta"
+    "fig:bl"
+    "fig:paup1"
+    "fig:paup2"
+    "fig:nj1"
+    "fig:nj2"
+    "fig:nj3"
     "fig:tree-minspan"
     "fig:stemma"
     "introtrans"
@@ -104,7 +114,6 @@
     "vital winds"
     "madhyalaksya"
     "saubhadraverse"
-    "cakranukrama"
-    "ashtanga"))
+    "cakranukrama"))
  :latex)
 
