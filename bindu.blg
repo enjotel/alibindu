@@ -1,40 +1,9 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'bindu.blg'
-[111] biber:340> INFO - === Mi Dez 10, 2025, 21:45:00
-[131] Biber.pm:420> INFO - Reading 'bindu.bcf'
-[260] Biber.pm:994> INFO - Found 93 citekeys in bib section 0
-[291] Biber.pm:4463> INFO - Processing section 0
-[305] Biber.pm:4654> INFO - Looking for bibtex file 'bindu.bib' for section 0
-[321] bibtex.pm:1713> INFO - LaTeX decoding ...
-[844] bibtex.pm:1519> INFO - Found BibTeX data source 'bindu.bib'
-[1499] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1500] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1500] Biber.pm:4283> INFO - Sorting list 'tixel/global//global/global/global' of type 'entry' with template 'tixel' and locale 'en-US'
-[1500] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[1661] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1661] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1661] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[1662] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[1776] bbl.pm:676> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[1853] bbl.pm:779> INFO - Output to bindu.bbl
-[1853] Biber.pm:131> WARN - Duplicate entry key: 'sanderson2004' in file 'bindu.bib', skipping ...
-[1853] Biber.pm:131> WARN - I didn't find a database entry for 'tybb' (section 0)
-[1853] Biber.pm:131> WARN - I didn't find a database entry for 'tybc' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybd' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybe' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybj' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybk1' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybk2' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybk3' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybl' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybn1' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybn2' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybp' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybp2' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybs' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybu2' (section 0)
-[1854] Biber.pm:131> WARN - I didn't find a database entry for 'tybv3' (section 0)
-[1855] Biber.pm:131> WARN - I didn't find a database entry for 'tybd2' (section 0)
-[1855] Biber.pm:131> WARN - I didn't find a database entry for 'orl_srinagar2021' (section 0)
-[1855] Biber.pm:131> WARN - I didn't find a database entry for 'vohd218' (section 0)
-[1855] Biber.pm:133> INFO - WARNINGS: 20
+[130] biber:340> INFO - === Fr Dez 12, 2025, 18:56:42
+[156] Biber.pm:420> INFO - Reading 'bindu.bcf'
+[280] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[311] bbl.pm:676> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[311] bbl.pm:779> INFO - Output to bindu.bbl
+[312] Biber.pm:131> WARN - The file 'bindu.bcf' does not contain any citations!
+[312] Biber.pm:133> INFO - WARNINGS: 1
