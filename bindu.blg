@@ -1,9 +1,21 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'bindu.blg'
-[130] biber:340> INFO - === Fr Dez 12, 2025, 18:56:42
-[156] Biber.pm:420> INFO - Reading 'bindu.bcf'
-[280] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[311] bbl.pm:676> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
-[311] bbl.pm:779> INFO - Output to bindu.bbl
-[312] Biber.pm:131> WARN - The file 'bindu.bcf' does not contain any citations!
-[312] Biber.pm:133> INFO - WARNINGS: 1
+[115] biber:340> INFO - === Sa Dez 13, 2025, 15:48:50
+[134] Biber.pm:420> INFO - Reading 'bindu.bcf'
+[238] Biber.pm:994> INFO - Found 3 citekeys in bib section 0
+[269] Biber.pm:4463> INFO - Processing section 0
+[283] Biber.pm:4654> INFO - Looking for bibtex file 'bindu.bib' for section 0
+[300] bibtex.pm:1713> INFO - LaTeX decoding ...
+[885] bibtex.pm:1519> INFO - Found BibTeX data source 'bindu.bib'
+[990] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[991] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[991] Biber.pm:4283> INFO - Sorting list 'tixel/global//global/global/global' of type 'entry' with template 'tixel' and locale 'en-US'
+[991] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1008] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1008] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1008] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1009] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[1019] bbl.pm:676> INFO - Writing 'bindu.bbl' with encoding 'UTF-8'
+[1023] bbl.pm:779> INFO - Output to bindu.bbl
+[1024] Biber.pm:131> WARN - Duplicate entry key: 'sanderson2004' in file 'bindu.bib', skipping ...
+[1024] Biber.pm:133> INFO - WARNINGS: 1

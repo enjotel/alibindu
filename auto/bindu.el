@@ -14,6 +14,8 @@
     "titles")
    (LaTeX-add-labels
     "fig_folio1"
+    "kulpentad"
+    "greatelements2x"
     "fig_wolpertinger"
     "fig1"
     "fig2"
