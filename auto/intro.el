@@ -13,7 +13,6 @@
     "preamble"
     "titles")
    (LaTeX-add-labels
-    "logo"
     "fig_folio1"
     "generalremarks"
     "dating"
@@ -30,6 +29,8 @@
     "titlediscussion"
     "mahatmya"
     "fig:titel-hypothese"
+    "archetypalcolo"
+    "fig:colosynop"
     "svaro"
     "tosi"
     "karni"
@@ -51,7 +52,7 @@
     "fig:nj2"
     "fig:nj3"
     "fig:tree-minspan"
-    "fig:stemma"
+    "fig:stemmapic"
     "introtrans"
     "kriyayogastart"
     "siddhayoga"
@@ -111,7 +112,7 @@
     "antaralaksya"
     "royalpeople"
     "divisionofchannels"
-    "vital winds"
+    "vital_winds"
     "madhyalaksya"
     "saubhadraverse"
     "cakranukrama"))
