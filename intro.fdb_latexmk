@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber intro"] 1765914565.7674 "intro.bcf" "intro.bbl" "intro" 1765922507.78827 0
-  "intro.bcf" 1765922458.11541 182731 ad88c7825851cbcdc620158f6fb35368 "lualatex"
-  "intro.bib" 1765839980.84329 130602 85b39233d8305a8df711e6bc5839c046 ""
+["biber intro"] 1766436265.09848 "intro.bcf" "intro.bbl" "intro" 1766452590.50578 0
+  "intro.bcf" 1766452538.70266 183164 bf57406aac3423a111dede7114f988e3 "lualatex"
+  "intro.bib" 1766417788.98578 132836 1d4ad551c52c02e4d17a6ae31a61edb9 ""
   (generated)
   "intro.bbl"
   "intro.blg"
   (rewritten before read)
-["lualatex"] 1765920641.44994 "intro.tex" "intro.pdf" "intro" 1765922507.7887 0
+["lualatex"] 1766450689.744 "intro.tex" "intro.pdf" "intro" 1766452590.50645 0
   "/home/enjotel/.local/share/fonts/AdobeTextPro-Regular.ttf" 1644030036 525916 c3eef50306eb377ab130c1c8ad6ae851 ""
   "/home/enjotel/.local/share/fonts/Sanskrit-2003.ttf" 1712968222.03883 712068 830f60ca1dd0ea0408bbcf16f200328b ""
   "/home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf" 1694730438 426284 c70b000259462df375d1922ef72d1044 ""
@@ -358,22 +358,22 @@
   "babel-iast/babel-iast.sty" 1738232254.05 4275 3b95b7a96fa3aae76702676b1775a302 ""
   "ekdosis.lua" 1738232258.51 76315 625bb1eae56a77d8bbdee4132e2310ac ""
   "ekdosis.sty" 1738232254.03 67470 5e5e82bf599c76425d72feb07a3b1de8 ""
-  "intro.aux" 1765922135.92014 1949208 fb8ee4035827a664b85414ca68f6c9af "lualatex"
-  "intro.bbl" 1765914571.88295 732157 c73377494618923ad9876a4e1ef6a639 "biber intro"
-  "intro.ekd" 1765922128.76033 1060582 159dd90d85f9600f69cf8a92e006c5e0 ""
-  "intro.ind" 1765882690.0548 0 d41d8cd98f00b204e9800998ecf8427e "makeindex intro.idx"
-  "intro.lof" 1765922458.11541 1629161 906b55430a315be101afbf0adc2123fb "lualatex"
-  "intro.lot" 1765922458.11541 1626120 af5bdf659ac6a0a5e4b4bf055396a962 "lualatex"
-  "intro.out" 1765922458.10741 44577 1e788422ece35f1dd19461b47ab2800c "lualatex"
-  "intro.run.xml" 1765922458.11541 2377 a4a00a365edcdd80162864f479148a55 "lualatex"
-  "intro.tex" 1765916577.6043 2377609 c590cf05d45f99db30fefc1c4162d30a ""
-  "intro.toc" 1765922458.11541 1648092 2ab1cde3aceae0170b546a0ff925c436 "lualatex"
+  "intro.aux" 1766452208.96344 1950658 14964aaf248b03bbc8f7d5fa6926f648 "lualatex"
+  "intro.bbl" 1766436271.44898 744699 bb884dbba7de5a11f24207411f625b52 "biber intro"
+  "intro.ekd" 1766452201.43556 1060048 5060c7a135ce838d33072040451590a1 ""
+  "intro.ind" 1766421153.92779 0 d41d8cd98f00b204e9800998ecf8427e "makeindex intro.idx"
+  "intro.lof" 1766452538.70266 1629248 b96108ab9a95f78fb41950014fc897c2 "lualatex"
+  "intro.lot" 1766452538.70266 1626344 da88f2b06ae12f21c29a5302a7ffde2f "lualatex"
+  "intro.out" 1766452538.69466 44862 372ca348d738a47b8a7ae05405b43cb5 "lualatex"
+  "intro.run.xml" 1766452538.70266 2377 a4a00a365edcdd80162864f479148a55 "lualatex"
+  "intro.tex" 1766450677.83301 2389057 49285bcdb5b166e9e4d1d589838148cc ""
+  "intro.toc" 1766452538.70266 1648309 893b3cbefeccc20c60726cf09aa3f13d "lualatex"
   "pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_Trust..jpg" 1738232258.39 371875 c79b911daffd3fc8f57b0626c801db2a ""
   "pics/Vishnu_Vishvarupa_cropped.jpg" 1738232258.4 3595499 a4042ffb29f4212bc33b39df6da1724a ""
   "pics/Wolpertinger.png" 1744637439.01644 648058 375c12de2fba0ff0ecc2249bfaabbb5a ""
   "pics/bindefehlerbeta.png" 1764148574.50702 11834 2fbb506c70964aa932f8ee32dd254881 ""
   "pics/bl.png" 1764156953.92562 11200 831a088f5969d69b2a7c6666d23276f6 ""
-  "pics/colosynop.png" 1765904956.55828 37739 0c3209b7473be76d7ec55d9e8fbb6525 ""
+  "pics/colosynop.png" 1766444034.30592 40130 1307c81c211a0ae7f3c15a77b4e0024b ""
   "pics/dk1.png" 1764157014.10448 14007 b2e8b9b8795914070fd3c5bf352b907d ""
   "pics/final-nj-midpointroot.png" 1764596698.08666 28243 b15e2a0057f82588cfe4b1c530942fff ""
   "pics/final-nj-unrooted.png" 1764596298.62179 34766 0d6df51605a91bcccae3f3a0c59a4f36 ""
@@ -388,12 +388,12 @@
   "pics/royalyogi1.jpg" 1738232258.41 125842 29b396a08508d0267108b8e5cd408253 ""
   "pics/royalyogi2.jpg" 1738232258.41 219734 70553e632c12303d984109ec6b251e90 ""
   "pics/royalyogi3.jpg" 1738232258.41 51484 f39f1874a4fd900f0f7a7bb3eed41312 ""
-  "pics/stemma.pdf" 1764506529.96779 42762 4ed5a71dd43201238d982feb93dcc0c1 ""
+  "pics/stemma.pdf" 1765976898.35347 42815 b1addf5e10ffaf1d7ef2966aaa8c2b71 ""
   "pics/synoptic3.png" 1764165793.20161 7262 7875a0c4345c06940f406ecfabb99ff5 ""
   "pics/titel-hypothese.pdf" 1765904457.58137 37953 48caadc33c909d47c8b8f4686d84dd28 ""
   "pics/u2andbeta.png" 1764156908.25449 11462 52d16c483ee414c15c6070feaec0ca8b ""
   "pics/vexclude.png" 1764160234.74709 22808 2c9e9c52e74ee4f7e2d82665f90fd827 ""
-  "preamble.tex" 1765710454.92524 23478 8be7bc33b779b9e8e9d125f02ceb4942 ""
+  "preamble.tex" 1766444490.67709 23675 232f1117c5a943eeb4c3e294595925fd ""
   "titles.tex" 1738232254.04 127 eb3c87e08ec4ce674d9d2bfdf5c63470 ""
   (generated)
   "intro.aux"
@@ -407,8 +407,8 @@
   "intro.run.xml"
   "intro.toc"
   (rewritten before read)
-["makeindex intro.idx"] 1765882689.91253 "intro.idx" "intro.ind" "intro" 1765922507.78793 0
-  "intro.idx" 1765920642.93493 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+["makeindex intro.idx"] 1766421153.76951 "intro.idx" "intro.ind" "intro" 1766452590.50377 0
+  "intro.idx" 1766450691.30087 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
   (generated)
   "intro.ilg"
   "intro.ind"

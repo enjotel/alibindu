@@ -113,6 +113,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/luatex.def
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-luatex.def
@@ -145,7 +146,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/fourier/fourier-orns.sty
 INPUT /home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/fourierorns-regular.luc
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pst-vectorian/psvectorian.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/pstricks/pstricks.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -9671,7 +9671,6 @@ INPUT intro_tmp.ekd
 INPUT intro-tei_tmp.xml
 INPUT intro.ekd
 INPUT intro.ekd
-INPUT intro_tmp.ekd
 INPUT intro_tmp.ekd
 INPUT intro_tmp.ekd
 INPUT intro_tmp.ekd

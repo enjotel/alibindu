@@ -948,6 +948,36 @@
       \endverb
       \keyw{catalogues}
     \endentry
+    \entry{bendall1883}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=740708967e1462d8af4e18b7b622e5a6}{%
+           family={Bendall},
+           familyi={B\bibinitperiod},
+           given={Cecil},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{fullhash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{fullhashraw}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{bibnamehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authorbibnamehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authornamehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authorfullhash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authorfullhashraw}{740708967e1462d8af4e18b7b622e5a6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge}
+      \field{year}{1883}
+      \keyw{catalogues}
+    \endentry
     \entry{gonda1965}{book}{}{}
       \name{author}{1}{}{%
         {{hash=9b70594d1197570e60fed2d006a18b7e}{%
@@ -1028,6 +1058,57 @@
       \field{year}{2013}
       \field{pages}{59\bibrangedash 69}
       \range{pages}{11}
+      \keyw{seclit}
+    \endentry
+    \entry{colophon2022formigatti}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=e5fd63fe6a2152efd5bdccdce5b3d451}{%
+           family={Formigatti},
+           familyi={F\bibinitperiod},
+           given={Camillo},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2cce383bb2092a1deb4496c6d09caf49}{%
+           family={Balbir},
+           familyi={B\bibinitperiod},
+           given={Nalini},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5fe5b42f41aaea06e391b7bae48a1b07}{%
+           family={Ciotti},
+           familyi={C\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{fullhash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{fullhashraw}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{bibnamehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authorbibnamehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authornamehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authorfullhash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authorfullhashraw}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{editorbibnamehash}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \strng{editornamehash}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \strng{editorfullhash}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \strng{editorfullhashraw}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Syntax of Colophons - A Comparative Study Across Pothi Manuscripts}
+      \field{series}{Studies in Manuscript Cultures}
+      \field{title}{Colophons in Fourteenth-Century Nepalese Manuscripts: Materials for the Study of the Nepalese Renaissance (I)}
+      \field{volume}{27}
+      \field{year}{2022}
+      \field{pages}{43\bibrangedash 117}
+      \range{pages}{75}
       \keyw{seclit}
     \endentry
     \entry{holdrege1994}{article}{}{}
@@ -1274,6 +1355,33 @@
       \verb{doi}
       \verb doi.org/10.1093/llc/fqn023
       \endverb
+      \keyw{seclit}
+    \endentry
+    \entry{meyer1926}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f668bb3ba55ac6874dfb75b0d890b801}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Leipzig}%
+      }
+      \strng{namehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{fullhash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{fullhashraw}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{bibnamehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authorbibnamehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authornamehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authorfullhash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authorfullhashraw}{f668bb3ba55ac6874dfb75b0d890b801}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Das altindische Buch vom Welt- und Staatsleben. Das \textit{Arthaśāstra} des Kauṭilya}
+      \field{year}{1926}
       \keyw{seclit}
     \endentry
     \entry{datta2024}{misc}{}{}
@@ -1533,6 +1641,39 @@
       \field{labeltitlesource}{title}
       \field{title}{Die Philosophie der Inder}
       \field{year}{1949}
+      \keyw{seclit}
+    \endentry
+    \entry{soma1960}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9b70594d1197570e60fed2d006a18b7e}{%
+           family={Gonda},
+           familyi={G\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Kohlhammer}%
+      }
+      \strng{namehash}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{fullhash}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{fullhashraw}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{bibnamehash}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{authorbibnamehash}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{authornamehash}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{authorfullhash}{9b70594d1197570e60fed2d006a18b7e}
+      \strng{authorfullhashraw}{9b70594d1197570e60fed2d006a18b7e}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Religionen der Menschheit}
+      \field{title}{Die Religionen Indiens 1: Veda und älterer Hinduismus}
+      \field{volume}{11}
+      \field{year}{1960}
       \keyw{seclit}
     \endentry
     \entry{bochinger2009}{book}{}{}
@@ -1820,7 +1961,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Die Religion von Oberschichten}
+      \field{note}{Konferenzschrift}
+      \field{series}{Deutsche Vereinigung für Religionsgeschichte}
       \field{title}{Geplanter Synkretismus: Kaiser Akbars Religionspolitik}
+      \field{volume}{19}
       \field{year}{1989}
       \field{pages}{53\bibrangedash 72}
       \range{pages}{20}
@@ -1926,6 +2070,9 @@
            given={Swami},
            giveni={S\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Kathmandu}%
+      }
       \list{publisher}{1}{%
         {Divine Yoga Institute}%
       }
@@ -1941,7 +2088,6 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Kathmandu}
       \field{subtitle}{Goraksha Samhita: Also Known As Goraksha Paddhati}
       \field{title}{Gorakṣapaddhati}
       \field{year}{2017}
@@ -2956,8 +3102,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Inklusivismus: Eine indische Denkform}
+      \field{series}{Publications of the De Nobili Research Library, Occasional Papers}
       \field{title}{Inklusivismus}
+      \field{volume}{2}
       \field{year}{1983}
+      \field{pages}{61\bibrangedash 91}
+      \range{pages}{31}
       \keyw{seclit}
     \endentry
     \entry{cormen2009introduction}{book}{}{}
@@ -3150,16 +3300,19 @@
            giveni={P\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=084ba676fa2ed012528d03838574c4c6}{%
+        {{hash=50f49ee34ceac9b6d4cc36a675cc6174}{%
            family={Takacs},
            familyi={T\bibinitperiod},
-           given={Axel},
+           given={Axek},
            giveni={A\bibinitperiod}}}%
         {{hash=5b4c7f738b06b79a436c3fca9ff0b2b3}{%
            family={Kimmel},
            familyi={K\bibinitperiod},
            given={Joseph},
            giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ, USA}%
       }
       \list{publisher}{1}{%
         {John Wiley \& Sons Ltd.}%
@@ -3172,16 +3325,17 @@
       \strng{authornamehash}{7a507d2991bf42ec3f6769789956a0ca}
       \strng{authorfullhash}{7a507d2991bf42ec3f6769789956a0ca}
       \strng{authorfullhashraw}{7a507d2991bf42ec3f6769789956a0ca}
-      \strng{editorbibnamehash}{522297c4c47358c212d27af1800feafe}
-      \strng{editornamehash}{522297c4c47358c212d27af1800feafe}
-      \strng{editorfullhash}{522297c4c47358c212d27af1800feafe}
-      \strng{editorfullhashraw}{522297c4c47358c212d27af1800feafe}
+      \strng{editorbibnamehash}{24339b03feed4b40a52756834187fecc}
+      \strng{editornamehash}{24339b03feed4b40a52756834187fecc}
+      \strng{editorfullhash}{24339b03feed4b40a52756834187fecc}
+      \strng{editorfullhashraw}{24339b03feed4b40a52756834187fecc}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Wiley Blackwell Companion to Comparative Theology: A Festschrift in Honor of Francis X. Clooney, SJ}
       \field{chapter}{7}
+      \field{series}{The Wiley Blackwell companions to religion}
       \field{title}{Kinesics, Proxemics, and Haptics: A Śākta Method for Comparative Theology}
       \field{year}{2023}
       \field{pages}{63\bibrangedash 76}
@@ -3829,6 +3983,36 @@
       \field{title}{Māyā, Puruṣa und Śiva: Die dualistische Tradition des Śivaismus nach Aghoraśivācāryas \textit{Tattvaprakāśavṛtti}}
       \field{year}{1996}
     \endentry
+    \entry{petech1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbd9acd72e85fc4996e3eacbb1c46661}{%
+           family={Petech},
+           familyi={P\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Istituto Italiano per il Medio ed Estremo Oriente}%
+      }
+      \strng{namehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{fullhash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{fullhashraw}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{bibnamehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authorbibnamehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authornamehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authorfullhash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authorfullhashraw}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Medieval History of Nepal (c. 750--1480)}
+      \field{year}{1984}
+      \keyw{seclit}
+    \endentry
     \entry{moskopaya12}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=12d73b975510f9b9fe1603f29d566b76}{%
@@ -4014,7 +4198,7 @@
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Objects, Images, Stories}
+      \field{booktitle}{Objects, Images, Stories: Simon Digby's Historical Methods}
       \field{title}{Nath Yogis and their ‘Amazing Apparel’ in Early Material and Textual Sources}
       \field{year}{2021}
       \verb{doi}
@@ -4977,7 +5161,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Religious Cultures in Early Modern India: New Perspectives}
       \field{number}{2}
-      \field{series}{SAHC}
+      \field{series}{South Asian History and Culture}
       \field{title}{Religious Cultures in an Imperial Landscape}
       \field{volume}{2}
       \field{year}{2011}
@@ -5990,38 +6174,6 @@
       \field{subtitle}{A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā}
       \field{title}{Śivayogapradīpikā}
       \keyw{primary}
-    \endentry
-    \entry{soma1960}{incollection}{}{}
-      \name{author}{1}{}{%
-        {{hash=9b70594d1197570e60fed2d006a18b7e}{%
-           family={Gonda},
-           familyi={G\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Stuttgart}%
-      }
-      \list{publisher}{1}{%
-        {Kohlhammer}%
-      }
-      \strng{namehash}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{fullhash}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{fullhashraw}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{bibnamehash}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{authorbibnamehash}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{authornamehash}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{authorfullhash}{9b70594d1197570e60fed2d006a18b7e}
-      \strng{authorfullhashraw}{9b70594d1197570e60fed2d006a18b7e}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Religionen der Menschheit. Band 11: Veda und älterer Hinduismus}
-      \field{title}{Soma}
-      \field{year}{1960}
-      \keyw{seclit}
     \endentry
     \entry{brunner1963}{misc}{}{}
       \name{editor}{1}{}{%
@@ -7216,7 +7368,9 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Yoga in Transformation: Historical and Contemporary Perspectives}
       \field{note}{Submitted in 2013. Final Published Version in 2018}
+      \field{series}{Vienna Forum for Theology and the Study of Religions}
       \field{title}{The Proliferation of Āsanas in Late-Mediaeval Yoga Texts}
+      \field{volume}{16}
       \field{year}{2018}
       \field{pages}{101\bibrangedash 180}
       \range{pages}{80}
@@ -7339,10 +7493,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Yogic Perception, Meditation, and Altered States of Consciousness}
-      \field{number}{Beiträge zur Kultur- und Geistesgeschichte Asiens 64}
-      \field{series}{Sitzungsberichte der phil.-hist. Klasse}
+      \field{series}{Beiträge zur Kultur- und Geistesgeschichte Asiens}
       \field{title}{The So-called Yoga of Suppression in the Pātañjala Yogaśāstra}
-      \field{volume}{794}
+      \field{volume}{64}
       \field{year}{2009}
       \field{pages}{263\bibrangedash 282}
       \range{pages}{20}
@@ -9271,6 +9424,36 @@
       \field{year}{2019}
       \keyw{primary}
     \endentry
+    \entry{bendall1883}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=740708967e1462d8af4e18b7b622e5a6}{%
+           family={Bendall},
+           familyi={B\bibinitperiod},
+           given={Cecil},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{fullhash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{fullhashraw}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{bibnamehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authorbibnamehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authornamehash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authorfullhash}{740708967e1462d8af4e18b7b622e5a6}
+      \strng{authorfullhashraw}{740708967e1462d8af4e18b7b622e5a6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Catalogue of the Buddhist Sanskrit Manuscripts in the University Library, Cambridge}
+      \field{year}{1883}
+      \keyw{catalogues}
+    \endentry
     \entry{mrgendragama}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=3cb46e7d958210a36a844e1555676e38}{%
@@ -9489,7 +9672,9 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Yoga in Transformation: Historical and Contemporary Perspectives}
       \field{note}{Submitted in 2013. Final Published Version in 2018}
+      \field{series}{Vienna Forum for Theology and the Study of Religions}
       \field{title}{The Proliferation of Āsanas in Late-Mediaeval Yoga Texts}
+      \field{volume}{16}
       \field{year}{2018}
       \field{pages}{101\bibrangedash 180}
       \range{pages}{80}
@@ -10820,6 +11005,57 @@
       \range{pages}{9}
       \keyw{seclit}
     \endentry
+    \entry{colophon2022formigatti}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=e5fd63fe6a2152efd5bdccdce5b3d451}{%
+           family={Formigatti},
+           familyi={F\bibinitperiod},
+           given={Camillo},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2cce383bb2092a1deb4496c6d09caf49}{%
+           family={Balbir},
+           familyi={B\bibinitperiod},
+           given={Nalini},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5fe5b42f41aaea06e391b7bae48a1b07}{%
+           family={Ciotti},
+           familyi={C\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin/Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{fullhash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{fullhashraw}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{bibnamehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authorbibnamehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authornamehash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authorfullhash}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{authorfullhashraw}{e5fd63fe6a2152efd5bdccdce5b3d451}
+      \strng{editorbibnamehash}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \strng{editornamehash}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \strng{editorfullhash}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \strng{editorfullhashraw}{8f80c4dd0d7a16dd2cc5a0199e1f45cf}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Syntax of Colophons - A Comparative Study Across Pothi Manuscripts}
+      \field{series}{Studies in Manuscript Cultures}
+      \field{title}{Colophons in Fourteenth-Century Nepalese Manuscripts: Materials for the Study of the Nepalese Renaissance (I)}
+      \field{volume}{27}
+      \field{year}{2022}
+      \field{pages}{43\bibrangedash 117}
+      \range{pages}{75}
+      \keyw{seclit}
+    \endentry
     \entry{ganesan2016saiva}{incollection}{}{}
       \name{author}{1}{}{%
         {{hash=c662f409bca5fd973ff6cd409cd9bc12}{%
@@ -11301,7 +11537,7 @@
       \field{year}{1949}
       \keyw{seclit}
     \endentry
-    \entry{soma1960}{incollection}{}{}
+    \entry{soma1960}{book}{}{}
       \name{author}{1}{}{%
         {{hash=9b70594d1197570e60fed2d006a18b7e}{%
            family={Gonda},
@@ -11328,8 +11564,9 @@
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Religionen der Menschheit. Band 11: Veda und älterer Hinduismus}
-      \field{title}{Soma}
+      \field{series}{Religionen der Menschheit}
+      \field{title}{Die Religionen Indiens 1: Veda und älterer Hinduismus}
+      \field{volume}{11}
       \field{year}{1960}
       \keyw{seclit}
     \endentry
@@ -11791,8 +12028,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Inklusivismus: Eine indische Denkform}
+      \field{series}{Publications of the De Nobili Research Library, Occasional Papers}
       \field{title}{Inklusivismus}
+      \field{volume}{2}
       \field{year}{1983}
+      \field{pages}{61\bibrangedash 91}
+      \range{pages}{31}
       \keyw{seclit}
     \endentry
     \entry{hanneder2006}{book}{}{}
@@ -12977,10 +13218,9 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Yogic Perception, Meditation, and Altered States of Consciousness}
-      \field{number}{Beiträge zur Kultur- und Geistesgeschichte Asiens 64}
-      \field{series}{Sitzungsberichte der phil.-hist. Klasse}
+      \field{series}{Beiträge zur Kultur- und Geistesgeschichte Asiens}
       \field{title}{The So-called Yoga of Suppression in the Pātañjala Yogaśāstra}
-      \field{volume}{794}
+      \field{volume}{64}
       \field{year}{2009}
       \field{pages}{263\bibrangedash 282}
       \range{pages}{20}
@@ -13462,7 +13702,7 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Objects, Images, Stories}
+      \field{booktitle}{Objects, Images, Stories: Simon Digby's Historical Methods}
       \field{title}{Nath Yogis and their ‘Amazing Apparel’ in Early Material and Textual Sources}
       \field{year}{2021}
       \verb{doi}
@@ -13697,6 +13937,33 @@
       \field{subtitle}{A comprehensive dictionary with special reference to the epic and Puranic literature}
       \field{title}{Puranic encyclopaedia}
       \field{year}{1975}
+      \keyw{seclit}
+    \endentry
+    \entry{meyer1926}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=f668bb3ba55ac6874dfb75b0d890b801}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Leipzig}%
+      }
+      \strng{namehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{fullhash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{fullhashraw}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{bibnamehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authorbibnamehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authornamehash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authorfullhash}{f668bb3ba55ac6874dfb75b0d890b801}
+      \strng{authorfullhashraw}{f668bb3ba55ac6874dfb75b0d890b801}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Das altindische Buch vom Welt- und Staatsleben. Das \textit{Arthaśāstra} des Kauṭilya}
+      \field{year}{1926}
       \keyw{seclit}
     \endentry
     \entry{michaels1998}{book}{}{}
@@ -14313,7 +14580,7 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{Religious Cultures in Early Modern India: New Perspectives}
       \field{number}{2}
-      \field{series}{SAHC}
+      \field{series}{South Asian History and Culture}
       \field{title}{Religious Cultures in an Imperial Landscape}
       \field{volume}{2}
       \field{year}{2011}
@@ -14552,6 +14819,36 @@
       \field{labeltitlesource}{title}
       \field{title}{Yogasiddhāntacandrikā of Nārāyaṇatīrtha [A Study]}
       \field{year}{2004}
+      \keyw{seclit}
+    \endentry
+    \entry{petech1984}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=cbd9acd72e85fc4996e3eacbb1c46661}{%
+           family={Petech},
+           familyi={P\bibinitperiod},
+           given={Luciano},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Istituto Italiano per il Medio ed Estremo Oriente}%
+      }
+      \strng{namehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{fullhash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{fullhashraw}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{bibnamehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authorbibnamehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authornamehash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authorfullhash}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \strng{authorfullhashraw}{cbd9acd72e85fc4996e3eacbb1c46661}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Medieval History of Nepal (c. 750--1480)}
+      \field{year}{1984}
       \keyw{seclit}
     \endentry
     \entry{powell2023}{thesis}{}{}
@@ -15036,16 +15333,19 @@
            giveni={P\bibinitperiod}}}%
       }
       \name{editor}{2}{}{%
-        {{hash=084ba676fa2ed012528d03838574c4c6}{%
+        {{hash=50f49ee34ceac9b6d4cc36a675cc6174}{%
            family={Takacs},
            familyi={T\bibinitperiod},
-           given={Axel},
+           given={Axek},
            giveni={A\bibinitperiod}}}%
         {{hash=5b4c7f738b06b79a436c3fca9ff0b2b3}{%
            family={Kimmel},
            familyi={K\bibinitperiod},
            given={Joseph},
            giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ, USA}%
       }
       \list{publisher}{1}{%
         {John Wiley \& Sons Ltd.}%
@@ -15058,16 +15358,17 @@
       \strng{authornamehash}{7a507d2991bf42ec3f6769789956a0ca}
       \strng{authorfullhash}{7a507d2991bf42ec3f6769789956a0ca}
       \strng{authorfullhashraw}{7a507d2991bf42ec3f6769789956a0ca}
-      \strng{editorbibnamehash}{522297c4c47358c212d27af1800feafe}
-      \strng{editornamehash}{522297c4c47358c212d27af1800feafe}
-      \strng{editorfullhash}{522297c4c47358c212d27af1800feafe}
-      \strng{editorfullhashraw}{522297c4c47358c212d27af1800feafe}
+      \strng{editorbibnamehash}{24339b03feed4b40a52756834187fecc}
+      \strng{editornamehash}{24339b03feed4b40a52756834187fecc}
+      \strng{editorfullhash}{24339b03feed4b40a52756834187fecc}
+      \strng{editorfullhashraw}{24339b03feed4b40a52756834187fecc}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Wiley Blackwell Companion to Comparative Theology: A Festschrift in Honor of Francis X. Clooney, SJ}
       \field{chapter}{7}
+      \field{series}{The Wiley Blackwell companions to religion}
       \field{title}{Kinesics, Proxemics, and Haptics: A Śākta Method for Comparative Theology}
       \field{year}{2023}
       \field{pages}{63\bibrangedash 76}
@@ -16492,7 +16793,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Die Religion von Oberschichten}
+      \field{note}{Konferenzschrift}
+      \field{series}{Deutsche Vereinigung für Religionsgeschichte}
       \field{title}{Geplanter Synkretismus: Kaiser Akbars Religionspolitik}
+      \field{volume}{19}
       \field{year}{1989}
       \field{pages}{53\bibrangedash 72}
       \range{pages}{20}
@@ -17122,6 +17426,9 @@
            given={Swami},
            giveni={S\bibinitperiod}}}%
       }
+      \list{location}{1}{%
+        {Kathmandu}%
+      }
       \list{publisher}{1}{%
         {Divine Yoga Institute}%
       }
@@ -17137,7 +17444,6 @@
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{note}{Kathmandu}
       \field{subtitle}{Goraksha Samhita: Also Known As Goraksha Paddhati}
       \field{title}{Gorakṣapaddhati}
       \field{year}{2017}
