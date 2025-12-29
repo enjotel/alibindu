@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber intro"] 1766436265.09848 "intro.bcf" "intro.bbl" "intro" 1766452590.50578 0
-  "intro.bcf" 1766452538.70266 183164 bf57406aac3423a111dede7114f988e3 "lualatex"
-  "intro.bib" 1766417788.98578 132836 1d4ad551c52c02e4d17a6ae31a61edb9 ""
+["biber intro"] 1766884598.05798 "intro.bcf" "intro.bbl" "intro" 1766888290.66165 0
+  "intro.bcf" 1766888240.13026 183164 8e25ea4c83b80d7213fb9476b87ceb51 "lualatex"
+  "intro.bib" 1766882519.66545 133953 542675e04b4d66cab7fbbd97588b578c ""
   (generated)
   "intro.bbl"
   "intro.blg"
   (rewritten before read)
-["lualatex"] 1766450689.744 "intro.tex" "intro.pdf" "intro" 1766452590.50645 0
+["lualatex"] 1766886448.36529 "intro.tex" "intro.pdf" "intro" 1766888290.66216 0
   "/home/enjotel/.local/share/fonts/AdobeTextPro-Regular.ttf" 1644030036 525916 c3eef50306eb377ab130c1c8ad6ae851 ""
   "/home/enjotel/.local/share/fonts/Sanskrit-2003.ttf" 1712968222.03883 712068 830f60ca1dd0ea0408bbcf16f200328b ""
   "/home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf" 1694730438 426284 c70b000259462df375d1922ef72d1044 ""
@@ -358,16 +358,16 @@
   "babel-iast/babel-iast.sty" 1738232254.05 4275 3b95b7a96fa3aae76702676b1775a302 ""
   "ekdosis.lua" 1738232258.51 76315 625bb1eae56a77d8bbdee4132e2310ac ""
   "ekdosis.sty" 1738232254.03 67470 5e5e82bf599c76425d72feb07a3b1de8 ""
-  "intro.aux" 1766452208.96344 1950658 14964aaf248b03bbc8f7d5fa6926f648 "lualatex"
-  "intro.bbl" 1766436271.44898 744699 bb884dbba7de5a11f24207411f625b52 "biber intro"
-  "intro.ekd" 1766452201.43556 1060048 5060c7a135ce838d33072040451590a1 ""
+  "intro.aux" 1766887921.09178 1950551 e960600179426deec49ef674ab285e29 "lualatex"
+  "intro.bbl" 1766884604.01751 744695 2c559079ab6ac45cb77bdc88c95f9535 "biber intro"
+  "intro.ekd" 1766887913.828 1060048 5060c7a135ce838d33072040451590a1 ""
   "intro.ind" 1766421153.92779 0 d41d8cd98f00b204e9800998ecf8427e "makeindex intro.idx"
-  "intro.lof" 1766452538.70266 1629248 b96108ab9a95f78fb41950014fc897c2 "lualatex"
-  "intro.lot" 1766452538.70266 1626344 da88f2b06ae12f21c29a5302a7ffde2f "lualatex"
-  "intro.out" 1766452538.69466 44862 372ca348d738a47b8a7ae05405b43cb5 "lualatex"
-  "intro.run.xml" 1766452538.70266 2377 a4a00a365edcdd80162864f479148a55 "lualatex"
-  "intro.tex" 1766450677.83301 2389057 49285bcdb5b166e9e4d1d589838148cc ""
-  "intro.toc" 1766452538.70266 1648309 893b3cbefeccc20c60726cf09aa3f13d "lualatex"
+  "intro.lof" 1766888240.13426 1629246 97dd6dbc476d365d026e9fd4ef79dd52 "lualatex"
+  "intro.lot" 1766888240.13426 1626344 61fea4c3bca3fa4f022c352e3bf0a3de "lualatex"
+  "intro.out" 1766888240.12226 44862 372ca348d738a47b8a7ae05405b43cb5 "lualatex"
+  "intro.run.xml" 1766888240.13026 2377 a4a00a365edcdd80162864f479148a55 "lualatex"
+  "intro.tex" 1766844214.24588 2389290 b3e8147f624a1cc7add2757e252e1a93 ""
+  "intro.toc" 1766888240.13426 1648307 f8d94af06e1c2cf45ee0ee87576b96a5 "lualatex"
   "pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_Trust..jpg" 1738232258.39 371875 c79b911daffd3fc8f57b0626c801db2a ""
   "pics/Vishnu_Vishvarupa_cropped.jpg" 1738232258.4 3595499 a4042ffb29f4212bc33b39df6da1724a ""
   "pics/Wolpertinger.png" 1744637439.01644 648058 375c12de2fba0ff0ecc2249bfaabbb5a ""
@@ -407,8 +407,8 @@
   "intro.run.xml"
   "intro.toc"
   (rewritten before read)
-["makeindex intro.idx"] 1766421153.76951 "intro.idx" "intro.ind" "intro" 1766452590.50377 0
-  "intro.idx" 1766450691.30087 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+["makeindex intro.idx"] 1766421153.76951 "intro.idx" "intro.ind" "intro" 1766888290.66124 0
+  "intro.idx" 1766886449.76795 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
   (generated)
   "intro.ilg"
   "intro.ind"
