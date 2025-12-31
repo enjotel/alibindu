@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber intro"] 1767129320.293 "intro.bcf" "intro.bbl" "intro" 1767135215.13507 0
-  "intro.bcf" 1767135164.05426 183164 3641169a3ea29e8d04eb7c8c66c1a6b8 "lualatex"
+["biber intro"] 1767179130.17128 "intro.bcf" "intro.bbl" "intro" 1767182835.14807 0
+  "intro.bcf" 1767182784.80947 183233 c1a6d7a9d0f07fabe7321eb2c0c34617 "lualatex"
   "intro.bib" 1767113073.4618 137221 1e29c1ceae01b5b73a1df00d118f0349 ""
   (generated)
   "intro.bbl"
   "intro.blg"
   (rewritten before read)
-["lualatex"] 1767133362.8451 "intro.tex" "intro.pdf" "intro" 1767135215.13571 0
+["lualatex"] 1767181003.32059 "intro.tex" "intro.pdf" "intro" 1767182835.14856 0
   "/home/enjotel/.local/share/fonts/AdobeTextPro-Regular.ttf" 1644030036 525916 c3eef50306eb377ab130c1c8ad6ae851 ""
   "/home/enjotel/.local/share/fonts/Sanskrit-2003.ttf" 1712968222.03883 712068 830f60ca1dd0ea0408bbcf16f200328b ""
   "/home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf" 1694730438 426284 c70b000259462df375d1922ef72d1044 ""
@@ -358,16 +358,16 @@
   "babel-iast/babel-iast.sty" 1738232254.05 4275 3b95b7a96fa3aae76702676b1775a302 ""
   "ekdosis.lua" 1738232258.51 76315 625bb1eae56a77d8bbdee4132e2310ac ""
   "ekdosis.sty" 1738232254.03 67470 5e5e82bf599c76425d72feb07a3b1de8 ""
-  "intro.aux" 1767134844.22398 1950701 fc28e5f0f7c1238c36f54cab0e0e65cc "lualatex"
-  "intro.bbl" 1767129326.46726 746478 41c20a35180b7595ff2bd045749523fc "biber intro"
-  "intro.ekd" 1767134836.86011 1060048 5060c7a135ce838d33072040451590a1 ""
+  "intro.aux" 1767182468.847 1951499 ab7564a05dfb323c490241f0a90e01a6 "lualatex"
+  "intro.bbl" 1767179144.75988 746478 41c20a35180b7595ff2bd045749523fc "biber intro"
+  "intro.ekd" 1767182461.57513 1060048 5060c7a135ce838d33072040451590a1 ""
   "intro.ind" 1767112875.90097 0 d41d8cd98f00b204e9800998ecf8427e "makeindex intro.idx"
-  "intro.lof" 1767135164.05426 1629326 befdb3d1059cbdc8ad67efc5b24ebca3 "lualatex"
-  "intro.lot" 1767135164.05426 1626344 61fea4c3bca3fa4f022c352e3bf0a3de "lualatex"
-  "intro.out" 1767135164.04626 44862 372ca348d738a47b8a7ae05405b43cb5 "lualatex"
-  "intro.run.xml" 1767135164.05426 2377 a4a00a365edcdd80162864f479148a55 "lualatex"
-  "intro.tex" 1767025327.65789 2389366 19571bc23822061dc9b8a81adfb15729 ""
-  "intro.toc" 1767135164.05426 1648307 dfb9b6f4f124e701fb4c92de6e685832 "lualatex"
+  "intro.lof" 1767182784.81347 1629819 d59e5a9ed4c58818d35df4084e93c04d "lualatex"
+  "intro.lot" 1767182784.81347 1626644 dbf5f8aa19fd8ba664aab725e86cd5a0 "lualatex"
+  "intro.out" 1767182784.80147 44864 12bdf8fd3b893595e938fcbf28af25ec "lualatex"
+  "intro.run.xml" 1767182784.81347 2377 a4a00a365edcdd80162864f479148a55 "lualatex"
+  "intro.tex" 1767177273.66295 2390927 f4d584b2ece9f93ecac45e35efe224e3 ""
+  "intro.toc" 1767182784.81347 1648609 4c75d284731e961fda67ce3cd33828ad "lualatex"
   "pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_Trust..jpg" 1738232258.39 371875 c79b911daffd3fc8f57b0626c801db2a ""
   "pics/Vishnu_Vishvarupa_cropped.jpg" 1738232258.4 3595499 a4042ffb29f4212bc33b39df6da1724a ""
   "pics/Wolpertinger.png" 1744637439.01644 648058 375c12de2fba0ff0ecc2249bfaabbb5a ""
@@ -381,6 +381,7 @@
   "pics/minspan-final-P-distance.png" 1764583929.94591 18070 5f8739186f6659ae365a776942cb5c07 ""
   "pics/n1n2.png" 1764160315.28515 13023 bfaee0a352ff138372fa2b1a52d9e009 ""
   "pics/n2folio1.png" 1765797287.33874 584340 d9ca188937732abb3b8b986f2477eb80 ""
+  "pics/n2folio11r.png" 1767175627.55044 766497 cb99c54e1a767b014857e6f47aa016ad ""
   "pics/nj-perspec.png" 1764596174.32407 27152 2dc2fd5e817fe1e1c21dd08b99205f08 ""
   "pics/paup1.png" 1764509309.74064 19620 255060ae3b4fe54d5d9427b7e49042cd ""
   "pics/paup2.png" 1764509285.74121 13350 9c9704fb7adc4767e7fa3c17699b4125 ""
@@ -407,8 +408,8 @@
   "intro.run.xml"
   "intro.toc"
   (rewritten before read)
-["makeindex intro.idx"] 1767112875.76421 "intro.idx" "intro.ind" "intro" 1767135215.13472 0
-  "intro.idx" 1767133364.34134 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+["makeindex intro.idx"] 1767112875.76421 "intro.idx" "intro.ind" "intro" 1767182835.14736 0
+  "intro.idx" 1767181004.95712 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
   (generated)
   "intro.ilg"
   "intro.ind"

@@ -355,6 +355,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT ./pics/n2folio11r.png
+INPUT ./pics/n2folio11r.png
 INPUT ./intro.toc
 INPUT ./intro.lof
 INPUT ./intro.lot
