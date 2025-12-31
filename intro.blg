@@ -1,21 +1,19 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'intro.blg'
-[112] biber:340> INFO - === So Dez 28, 2025, 02:16:39
-[135] Biber.pm:420> INFO - Reading 'intro.bcf'
-[762] Biber.pm:994> INFO - Found 290 citekeys in bib section 0
-[792] Biber.pm:4463> INFO - Processing section 0
-[805] Biber.pm:4654> INFO - Looking for bibtex file 'intro.bib' for section 0
-[821] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1321] bibtex.pm:1519> INFO - Found BibTeX data source 'intro.bib'
-[3394] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3394] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3394] Biber.pm:4283> INFO - Sorting list 'tixel/global//global/global/global' of type 'entry' with template 'tixel' and locale 'en-US'
-[3394] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[3952] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3953] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3953] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[3953] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[4348] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
-[4613] bbl.pm:779> INFO - Output to intro.bbl
-[4613] Biber.pm:131> WARN - legacy year field '1972. First published in 1893.' in entry 'jyotsna' is not an integer - this will probably not sort properly.
-[4613] Biber.pm:133> INFO - WARNINGS: 1
+[131] biber:340> INFO - === Di Dez 30, 2025, 22:15:21
+[154] Biber.pm:420> INFO - Reading 'intro.bcf'
+[775] Biber.pm:994> INFO - Found 290 citekeys in bib section 0
+[807] Biber.pm:4463> INFO - Processing section 0
+[820] Biber.pm:4654> INFO - Looking for bibtex file 'intro.bib' for section 0
+[837] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1372] bibtex.pm:1519> INFO - Found BibTeX data source 'intro.bib'
+[3501] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3501] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3501] Biber.pm:4283> INFO - Sorting list 'tixel/global//global/global/global' of type 'entry' with template 'tixel' and locale 'en-US'
+[3501] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[4077] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4077] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4077] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[4077] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[4496] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
+[4773] bbl.pm:779> INFO - Output to intro.bbl
