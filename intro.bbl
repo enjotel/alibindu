@@ -63,6 +63,16 @@
       \range{pages}{16}
       \keyw{seclit}
     \endentry
+    \entry{nepal14}{misc}{}{}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 471-3. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{(Śivaprokta) Īśvarasahasranāmastotra}
+      \field{title}{(Śivaprokta) Īśvarasahasranāmastotra}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{lucknow2021}{book}{}{}
       \name{editor}{3}{}{%
         {{hash=19e8c90fef00651c93c7daca474f46a4}{%
@@ -563,6 +573,16 @@
       \field{subtitle}{Ānandakandaḥ - Edited with Translation in Tamil, and Introduction in Tamil and Sanskrit}
       \field{title}{Ānandakanda}
       \field{year}{1952}
+      \keyw{primary}
+    \endentry
+    \entry{nepal13}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 468-41. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Apāmārjanastotra}
+      \field{title}{Apāmārjanastotra}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{birch2024}{book}{}{}
@@ -2229,6 +2249,16 @@
       \field{title}{Gorakṣayogaśāstra}
       \keyw{primary}
     \endentry
+    \entry{nepal17}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. B 407-13. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Gotrapravaranirṇaya}
+      \field{title}{Gotrapravaranirṇaya}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{singleton2013gurus}{book}{}{}
       \name{author}{2}{}{%
         {{hash=e150e80fdf08adb6d475a14bddc14262}{%
@@ -3160,6 +3190,26 @@
       \field{year}{2006}
       \keyw{primary}
     \endentry
+    \entry{nepal19}{misc}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. C 25-5. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Kakṣapuṭa}
+      \field{title}{Kakṣapuṭa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal1}{misc}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 207-4. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Kālītattva}
+      \field{title}{Kālītattva}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{kashikhanda1998}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=cf8b71ae960882e0fafab0d893765ba0}{%
@@ -3188,6 +3238,16 @@
       \field{subtitle}{Kāśīkhaṇḍa (Skandapurāṇa)}
       \field{title}{Kāśīkhaṇḍa}
       \field{year}{1998}
+      \keyw{primary}
+    \endentry
+    \entry{nepal18}{misc}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. B 458-17. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Kātantravṛttipañjikā}
+      \field{title}{Kātantravṛttipañjikā}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{kathaup}{misc}{}{}
@@ -3709,6 +3769,16 @@
       \field{year}{1994}
       \keyw{seclit}
     \endentry
+    \entry{nepal2}{misc}{}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 224-11. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Mādhavanidāna}
+      \field{title}{Mādhavanidāna}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{maitreyopanishat}{misc}{}{}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
@@ -4090,6 +4160,16 @@
       \verb https://doi.org/10.4000/books.ifp.1809
       \endverb
       \keyw{seclit}
+    \endentry
+    \entry{nepal3}{misc}{}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 246-19. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Mṛtyuharalāṅgalaṣaḍakṣaramantravidhi}
+      \field{title}{Mṛtyuharalāṅgalaṣaḍakṣaramantravidhi}
+      \true{nocite}
+      \keyw{primary}
     \endentry
     \entry{nadabindu}{misc}{}{}
       \field{sortinit}{N}
@@ -4798,6 +4878,16 @@
       \field{year}{1898}
       \keyw{primary}
     \endentry
+    \entry{nepal15}{misc}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 521-3. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Prāyaścittaprakaraṇa}
+      \field{title}{Prāyaścittaprakaraṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{birch2018ayur}{article}{}{}
       \name{author}{1}{}{%
         {{hash=9d71a355381fe882ea730ea2133cbcb7}{%
@@ -4996,6 +5086,26 @@
       \field{note}{Mumbai}
       \field{subtitle}{Ratirahasya of Kokkoka}
       \field{title}{Ratirahasya}
+      \keyw{primary}
+    \endentry
+    \entry{nepal9}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 423-42. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Ratnadīpa}
+      \field{title}{Ratnadīpa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal10}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 424-16. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Raudriyameghamālā}
+      \field{title}{Raudriyameghamālā}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{smith1998}{book}{}{}
@@ -5520,6 +5630,16 @@
       \field{year}{1944}
       \keyw{primary}
     \endentry
+    \entry{nepal8}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 414-28(2). National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Saṃjñāvivekavivṛti}
+      \field{title}{Saṃjñāvivekavivṛti}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{dikshit1983}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=77af0ad8df6be8f5fa1262ba3f28e284}{%
@@ -5548,6 +5668,16 @@
       \field{subtitle}{The Saṃnyāsa Upaniṣads with the Commentary of Śrī Upaniṣad-Brahmayogin}
       \field{title}{Saṃnyāsa Upaniṣads}
       \field{year}{1966}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal12}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 433-9. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Sañjñātantra}
+      \field{title}{Sañjñātantra}
       \true{nocite}
       \keyw{primary}
     \endentry
@@ -5989,6 +6119,16 @@
       \field{year}{2014}
       \keyw{primary}
     \endentry
+    \entry{nepal11}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 432-12. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Siddhāntaśiromaṇi}
+      \field{title}{Siddhāntaśiromaṇi}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{siddharoma}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=c72e6265c01e2ad0fe2e02c5d61f4cc9}{%
@@ -6150,6 +6290,36 @@
       \field{howpublished}{See Ph.D. Dissertation by Seth David Powell (2023), pp. 268--313}
       \field{subtitle}{A Lamp on Śivayoga: The Union of Yoga, Ritual, and Devotion in the Śivayogapradīpikā}
       \field{title}{Śivayogapradīpikā}
+      \keyw{primary}
+    \endentry
+    \entry{nepal4}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 259-5. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Skandapurāṇa}
+      \field{title}{Skandapurāṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal5}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 292-9. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Skandapurāṇa}
+      \field{title}{Skandapurāṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal6}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 300-2. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Skandapurāṇa}
+      \field{title}{Skandapurāṇa}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{brunner1963}{misc}{}{}
@@ -6651,7 +6821,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Ms. No. B 38-31, NGMPP Reel No. NAK 5/2724. National Archives of Nepal, Kathmandu}
+      \field{howpublished}{NGMPP Reel No. B 38-31, National Archives of Nepal, Kathmandu}
       \field{subtitle}{Tatvayogabiṃdu}
       \field{title}{Tatvayogabiṃdu}
       \true{nocite}
@@ -6661,7 +6831,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Ms. No. B 38-35 and A 1327-14, NGMPP Reel No. 3-750. National Archives of Nepal, Kathmandu}
+      \field{howpublished}{NGMPP Reel No. B 38-35 and A 1327-14, National Archives of Nepal, Kathmandu}
       \field{subtitle}{Tatvayogabiṃdu}
       \field{title}{Tatvayogabiṃdu}
       \true{nocite}
@@ -7957,6 +8127,16 @@
       \field{year}{1926}
       \keyw{primary}
     \endentry
+    \entry{nepal16}{misc}{}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 570-3. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Vaiyākaraṇabhūṣaṇa}
+      \field{title}{Vaiyākaraṇabhūṣaṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{vasisthasamhita}{misc}{}{}
       \name{editor}{5}{}{%
         {{hash=ec3722d120f9d74cd3e93dab7f9cbf07}{%
@@ -8251,6 +8431,16 @@
       \verb http://othes.univie.ac.at/52786/
       \endverb
       \keyw{seclit}
+    \endentry
+    \entry{nepal7}{misc}{}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 356-7. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Vṛttaratnākara}
+      \field{title}{Vṛttaratnākara}
+      \true{nocite}
+      \keyw{primary}
     \endentry
     \entry{mallinson2018vajrolimudra}{incollection}{}{}
       \name{author}{1}{}{%
@@ -8916,6 +9106,16 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{nepal14}{misc}{}{}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 471-3. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{(Śivaprokta) Īśvarasahasranāmastotra}
+      \field{title}{(Śivaprokta) Īśvarasahasranāmastotra}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{advaya}{misc}{}{}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
@@ -8962,6 +9162,16 @@
       \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013)}
       \field{subtitle}{Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
       \field{title}{Amanaska}
+      \keyw{primary}
+    \endentry
+    \entry{nepal13}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 468-41. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Apāmārjanastotra}
+      \field{title}{Apāmārjanastotra}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{apte1890practical}{book}{}{}
@@ -11652,6 +11862,16 @@
       \field{title}{Gorakṣaśataka}
       \keyw{primary}
     \endentry
+    \entry{nepal17}{misc}{}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. B 407-13. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Gotrapravaranirṇaya}
+      \field{title}{Gotrapravaranirṇaya}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{kubji1988}{misc}{}{}
       \name{editor}{2}{}{%
         {{hash=9f066d16f8b5a1db61594a059f6f187f}{%
@@ -12662,6 +12882,26 @@
       \field{title}{Kriyakramadyotikavyākhyā}
       \keyw{onlinesource}
     \endentry
+    \entry{nepal19}{misc}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. C 25-5. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Kakṣapuṭa}
+      \field{title}{Kakṣapuṭa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal1}{misc}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 207-4. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Kālītattva}
+      \field{title}{Kālītattva}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{pudi2023}{article}{}{}
       \name{author}{1}{}{%
         {{hash=01e79df145fb2e5baab0e8db82872280}{%
@@ -12695,6 +12935,16 @@
       \field{pages}{241\bibrangedash 269}
       \range{pages}{29}
       \keyw{seclit}
+    \endentry
+    \entry{nepal18}{misc}{}{}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. B 458-17. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Kātantravṛttipañjikā}
+      \field{title}{Kātantravṛttipañjikā}
+      \true{nocite}
+      \keyw{primary}
     \endentry
     \entry{kaushik1993}{misc}{}{}
       \name{editor}{1}{}{%
@@ -13152,6 +13402,16 @@
       \field{pages}{63\bibrangedash 119}
       \range{pages}{57}
       \keyw{seclit}
+    \endentry
+    \entry{nepal2}{misc}{}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 224-11. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Mādhavanidāna}
+      \field{title}{Mādhavanidāna}
+      \true{nocite}
+      \keyw{primary}
     \endentry
     \entry{amaraughasasana}{misc}{}{}
       \name{editor}{1}{}{%
@@ -14057,6 +14317,16 @@
       \field{year}{1899}
       \keyw{seclit}
     \endentry
+    \entry{nepal3}{misc}{}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 246-19. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Mṛtyuharalāṅgalaṣaḍakṣaramantravidhi}
+      \field{title}{Mṛtyuharalāṅgalaṣaḍakṣaramantravidhi}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{jayasi1998}{book}{}{}
       \name{author}{1}{}{%
         {{hash=6335450a54650165bc66f7c388ae4944}{%
@@ -14715,6 +14985,16 @@
       \field{year}{2023}
       \keyw{seclit}
     \endentry
+    \entry{nepal15}{misc}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 521-3. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Prāyaścittaprakaraṇa}
+      \field{title}{Prāyaścittaprakaraṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{hemacandras}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=defee87f32124bfd8c8e549e4e01ec76}{%
@@ -15131,6 +15411,26 @@
       \field{title}{Ratirahasya}
       \keyw{primary}
     \endentry
+    \entry{nepal9}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 423-42. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Ratnadīpa}
+      \field{title}{Ratnadīpa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal10}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 424-16. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Raudriyameghamālā}
+      \field{title}{Raudriyameghamālā}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{reigle2012}{article}{}{}
       \name{author}{1}{}{%
         {{hash=5346c8814e2dca3205cb3505f14e7d92}{%
@@ -15367,6 +15667,16 @@
       \field{title}{Sakalāgamasārasaṅgraha}
       \keyw{onlinesource}
     \endentry
+    \entry{nepal8}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 414-28(2). National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Saṃjñāvivekavivṛti}
+      \field{title}{Saṃjñāvivekavivṛti}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{sanderson2004}{article}{}{}
       \name{author}{1}{}{%
         {{hash=beac1113e564369bfc971e3520e5bc83}{%
@@ -15446,6 +15756,16 @@
       \field{pages}{231--442 and (bibliography) pp. 551\bibrangedash 582}
       \range{pages}{-1}
       \keyw{seclit}
+    \endentry
+    \entry{nepal12}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 433-9. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Sañjñātantra}
+      \field{title}{Sañjñātantra}
+      \true{nocite}
+      \keyw{primary}
     \endentry
     \entry{yogacintamani}{misc}{}{}
       \name{editor}{1}{}{%
@@ -16118,6 +16438,16 @@
       \field{year}{1939}
       \keyw{primary}
     \endentry
+    \entry{nepal11}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 432-12. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Siddhāntaśiromaṇi}
+      \field{title}{Siddhāntaśiromaṇi}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
     \entry{stb1}{misc}{}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -16364,6 +16694,36 @@
       \field{title}{The Yoga Tradition of the Mysore Palace}
       \field{year}{1996}
       \keyw{seclit}
+    \endentry
+    \entry{nepal4}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 259-5. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Skandapurāṇa}
+      \field{title}{Skandapurāṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal5}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 292-9. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Skandapurāṇa}
+      \field{title}{Skandapurāṇa}
+      \true{nocite}
+      \keyw{primary}
+    \endentry
+    \entry{nepal6}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 300-2. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Skandapurāṇa}
+      \field{title}{Skandapurāṇa}
+      \true{nocite}
+      \keyw{primary}
     \endentry
     \entry{sarvadurga}{misc}{}{}
       \name{editor}{1}{}{%
@@ -16947,7 +17307,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Ms. No. B 38-31, NGMPP Reel No. NAK 5/2724. National Archives of Nepal, Kathmandu}
+      \field{howpublished}{NGMPP Reel No. B 38-31, National Archives of Nepal, Kathmandu}
       \field{subtitle}{Tatvayogabiṃdu}
       \field{title}{Tatvayogabiṃdu}
       \true{nocite}
@@ -16957,7 +17317,7 @@
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Ms. No. B 38-35 and A 1327-14, NGMPP Reel No. 3-750. National Archives of Nepal, Kathmandu}
+      \field{howpublished}{NGMPP Reel No. B 38-35 and A 1327-14, National Archives of Nepal, Kathmandu}
       \field{subtitle}{Tatvayogabiṃdu}
       \field{title}{Tatvayogabiṃdu}
       \true{nocite}
@@ -17119,6 +17479,16 @@
       \field{howpublished}{NGMPP reel No. B 115-9. Inventory No. 80224. Acc. No. 5-5207. National Archives of Nepal, Kathmandu}
       \field{subtitle}{Ūrmikaulārṇavatantra}
       \field{title}{Ūrmikaulārṇavatantra}
+      \keyw{primary}
+    \endentry
+    \entry{nepal16}{misc}{}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 570-3. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Vaiyākaraṇabhūṣaṇa}
+      \field{title}{Vaiyākaraṇabhūṣaṇa}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{kathaup}{misc}{}{}
@@ -17304,6 +17674,16 @@
       \field{howpublished}{Acc. No. 4110. Central Library, Baroda}
       \field{subtitle}{Vivekamārtaṇḍa (of Gorakṣa)}
       \field{title}{Vivekamārtaṇḍa}
+      \keyw{primary}
+    \endentry
+    \entry{nepal7}{misc}{}{}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NGMPP Reel No. A 356-7. National Archives of Nepal, Kathmandu}
+      \field{subtitle}{Vṛttaratnākara}
+      \field{title}{Vṛttaratnākara}
+      \true{nocite}
       \keyw{primary}
     \endentry
     \entry{jahangir1999}{book}{}{}
