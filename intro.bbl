@@ -1454,37 +1454,6 @@
       \endverb
       \keyw{seclit}
     \endentry
-    \entry{meyer1926}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4ea3d2a6fa9401da152659537b2c4a0b}{%
-           family={Meyer},
-           familyi={M\bibinitperiod},
-           given={Johann\bibnamedelima Jakob},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leipzig}%
-      }
-      \list{publisher}{1}{%
-        {Otto Harrassowitz / Verlagsbuchhandlung}%
-      }
-      \strng{namehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{fullhash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{fullhashraw}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{bibnamehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authorbibnamehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authornamehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authorfullhash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authorfullhashraw}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{subtitle}{Das \textit{Arthaśāstra} des Kauṭilya}
-      \field{title}{Das altindische Buch vom Welt- und Staatsleben}
-      \field{year}{1926}
-      \keyw{seclit}
-    \endentry
     \entry{datta2024}{misc}{}{}
       \name{editor}{1}{}{%
         {{hash=a9526cb2553b23ad15882d7f4b64b7da}{%
@@ -4803,7 +4772,7 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{New York}
-      \field{subtitle}{Yoga Philosophy of Patañjali}
+      \field{subtitle}{Yoga Philosophy of Patañjali - Containing his yoga aphorisms with Vyāsa's commentary in Sanskrit and a translation with annotations for the practice of yoga by Sāṃkhya-yogachārya Swāmi Hariharānanda Āraṇya}
       \field{title}{Pātañjalayogaśāstra}
       \field{year}{1983}
       \keyw{primary}
@@ -14134,37 +14103,6 @@
       \field{year}{1975}
       \keyw{seclit}
     \endentry
-    \entry{meyer1926}{book}{}{}
-      \name{author}{1}{}{%
-        {{hash=4ea3d2a6fa9401da152659537b2c4a0b}{%
-           family={Meyer},
-           familyi={M\bibinitperiod},
-           given={Johann\bibnamedelima Jakob},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Leipzig}%
-      }
-      \list{publisher}{1}{%
-        {Otto Harrassowitz / Verlagsbuchhandlung}%
-      }
-      \strng{namehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{fullhash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{fullhashraw}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{bibnamehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authorbibnamehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authornamehash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authorfullhash}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \strng{authorfullhashraw}{4ea3d2a6fa9401da152659537b2c4a0b}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{subtitle}{Das \textit{Arthaśāstra} des Kauṭilya}
-      \field{title}{Das altindische Buch vom Welt- und Staatsleben}
-      \field{year}{1926}
-      \keyw{seclit}
-    \endentry
     \entry{michaels1998}{book}{}{}
       \name{author}{1}{}{%
         {{hash=698b00cb08198ecf2a7a88067ab54244}{%
@@ -14422,7 +14360,7 @@
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{note}{New York}
-      \field{subtitle}{Yoga Philosophy of Patañjali}
+      \field{subtitle}{Yoga Philosophy of Patañjali - Containing his yoga aphorisms with Vyāsa's commentary in Sanskrit and a translation with annotations for the practice of yoga by Sāṃkhya-yogachārya Swāmi Hariharānanda Āraṇya}
       \field{title}{Pātañjalayogaśāstra}
       \field{year}{1983}
       \keyw{primary}
