@@ -1,0 +1,391 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{tixel/global//global/global/global}
+    \entry{oberlies2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d7e9b92a0dde07d036dbf23a7fd3cb0b}{%
+           family={Oberlies},
+           familyi={O\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt am Main}%
+      }
+      \list{publisher}{1}{%
+        {FISCHER Taschenbuch}%
+      }
+      \strng{namehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{fullhash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{fullhashraw}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{bibnamehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authorbibnamehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authornamehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authorfullhash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authorfullhashraw}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Fischer Kompakt}
+      \field{title}{Hinduismus: Eine Einführung}
+      \field{year}{2012}
+      \keyw{seclit}
+    \endentry
+    \entry{rajayoga}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ms. No. R 17980. Transcribed by Jason Birch. Government Oriental Manuscript Library, Madras University, Chennai}
+      \field{subtitle}{Rājayogaḥ of Śrī Agasthyamaunīndra}
+      \field{title}{Rājayoga}
+      \keyw{primary}
+    \endentry
+    \entry{sandersonshaivaexe}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=beac1113e564369bfc971e3520e5bc83}{%
+           family={Sanderson},
+           familyi={S\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=10f29d8b6d6fc551f7bbe6f907ce168b}{%
+           family={Goodall},
+           familyi={G\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bea372309e9dede2ba246905a9ac592b}{%
+           family={Padoux},
+           familyi={P\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {Institut française d'Indologie / École française d’Extrême-Orient}%
+      }
+      \strng{namehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{fullhash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{fullhashraw}{beac1113e564369bfc971e3520e5bc83}
+      \strng{bibnamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorbibnamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authornamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorfullhash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorfullhashraw}{beac1113e564369bfc971e3520e5bc83}
+      \strng{editorbibnamehash}{c32c97e40895e06c907bfe8ef8c3995d}
+      \strng{editornamehash}{c32c97e40895e06c907bfe8ef8c3995d}
+      \strng{editorfullhash}{c32c97e40895e06c907bfe8ef8c3995d}
+      \strng{editorfullhashraw}{c32c97e40895e06c907bfe8ef8c3995d}
+      \field{sortinit}{Ś}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mélanges tantriques à la mémoire d’Hélène Brunner / Tantric Studies in Memory of Hélène Brunner.}
+      \field{title}{Śaiva Exegesis of Kashmir}
+      \field{volume}{Collection Indologie - 106}
+      \field{year}{2007}
+      \field{pages}{231--442 and (bibliography) pp. 551\bibrangedash 582}
+      \range{pages}{-1}
+      \keyw{seclit}
+    \endentry
+    \entry{white1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6931adfd9bf4e657cbdfc0f7ff3085a1}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima Gordon},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{fullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{fullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{bibnamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorbibnamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authornamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorfullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorfullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Siddha Traditions in Medieval India}
+      \field{title}{The Alchemical Body}
+      \field{year}{1996}
+      \keyw{seclit}
+    \endentry
+    \entry{kowski1988}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=b5231f212311d62bcbc089b36c76d471}{%
+           family={Dyczkowski},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi S.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Albany}%
+      }
+      \list{publisher}{1}{%
+        {The State University of New York Press}%
+      }
+      \strng{namehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{fullhash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{fullhashraw}{b5231f212311d62bcbc089b36c76d471}
+      \strng{bibnamehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editorbibnamehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editornamehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editorfullhash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editorfullhashraw}{b5231f212311d62bcbc089b36c76d471}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{The Suny Series in the Shaiva Traditions of Kashmir}
+      \field{title}{The Canon of the Śaivāgama and the Kūbjika Tantras of the Western Kaula Tradition}
+      \field{year}{1988}
+      \keyw{seclit}
+    \endentry
+    \entry{urban2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=04119255f2ee5902c125636e6ced8685}{%
+           family={Urban},
+           familyi={U\bibinitperiod},
+           given={Hugh\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {I.B. Tauris \& Co. Ltd.}%
+      }
+      \strng{namehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{fullhash}{04119255f2ee5902c125636e6ced8685}
+      \strng{fullhashraw}{04119255f2ee5902c125636e6ced8685}
+      \strng{bibnamehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authorbibnamehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authornamehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authorfullhash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authorfullhashraw}{04119255f2ee5902c125636e6ced8685}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Power of Tantra: Religion, Sexuality and the Politics of South Aasian Studies}
+      \field{year}{2010}
+      \keyw{seclit}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{kowski1988}{book}{}{}
+      \name{editor}{1}{}{%
+        {{hash=b5231f212311d62bcbc089b36c76d471}{%
+           family={Dyczkowski},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi S.\bibnamedelimi G.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Albany}%
+      }
+      \list{publisher}{1}{%
+        {The State University of New York Press}%
+      }
+      \strng{namehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{fullhash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{fullhashraw}{b5231f212311d62bcbc089b36c76d471}
+      \strng{bibnamehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editorbibnamehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editornamehash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editorfullhash}{b5231f212311d62bcbc089b36c76d471}
+      \strng{editorfullhashraw}{b5231f212311d62bcbc089b36c76d471}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{series}{The Suny Series in the Shaiva Traditions of Kashmir}
+      \field{title}{The Canon of the Śaivāgama and the Kūbjika Tantras of the Western Kaula Tradition}
+      \field{year}{1988}
+      \keyw{seclit}
+    \endentry
+    \entry{oberlies2012}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d7e9b92a0dde07d036dbf23a7fd3cb0b}{%
+           family={Oberlies},
+           familyi={O\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt am Main}%
+      }
+      \list{publisher}{1}{%
+        {FISCHER Taschenbuch}%
+      }
+      \strng{namehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{fullhash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{fullhashraw}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{bibnamehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authorbibnamehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authornamehash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authorfullhash}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \strng{authorfullhashraw}{d7e9b92a0dde07d036dbf23a7fd3cb0b}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Fischer Kompakt}
+      \field{title}{Hinduismus: Eine Einführung}
+      \field{year}{2012}
+      \keyw{seclit}
+    \endentry
+    \entry{rajayoga}{misc}{}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Ms. No. R 17980. Transcribed by Jason Birch. Government Oriental Manuscript Library, Madras University, Chennai}
+      \field{subtitle}{Rājayogaḥ of Śrī Agasthyamaunīndra}
+      \field{title}{Rājayoga}
+      \keyw{primary}
+    \endentry
+    \entry{sandersonshaivaexe}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=beac1113e564369bfc971e3520e5bc83}{%
+           family={Sanderson},
+           familyi={S\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=10f29d8b6d6fc551f7bbe6f907ce168b}{%
+           family={Goodall},
+           familyi={G\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bea372309e9dede2ba246905a9ac592b}{%
+           family={Padoux},
+           familyi={P\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Pondicherry}%
+      }
+      \list{publisher}{1}{%
+        {Institut française d'Indologie / École française d’Extrême-Orient}%
+      }
+      \strng{namehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{fullhash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{fullhashraw}{beac1113e564369bfc971e3520e5bc83}
+      \strng{bibnamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorbibnamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authornamehash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorfullhash}{beac1113e564369bfc971e3520e5bc83}
+      \strng{authorfullhashraw}{beac1113e564369bfc971e3520e5bc83}
+      \strng{editorbibnamehash}{c32c97e40895e06c907bfe8ef8c3995d}
+      \strng{editornamehash}{c32c97e40895e06c907bfe8ef8c3995d}
+      \strng{editorfullhash}{c32c97e40895e06c907bfe8ef8c3995d}
+      \strng{editorfullhashraw}{c32c97e40895e06c907bfe8ef8c3995d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mélanges tantriques à la mémoire d’Hélène Brunner / Tantric Studies in Memory of Hélène Brunner.}
+      \field{title}{Śaiva Exegesis of Kashmir}
+      \field{volume}{Collection Indologie - 106}
+      \field{year}{2007}
+      \field{pages}{231--442 and (bibliography) pp. 551\bibrangedash 582}
+      \range{pages}{-1}
+      \keyw{seclit}
+    \endentry
+    \entry{urban2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=04119255f2ee5902c125636e6ced8685}{%
+           family={Urban},
+           familyi={U\bibinitperiod},
+           given={Hugh\bibnamedelima B.},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {I.B. Tauris \& Co. Ltd.}%
+      }
+      \strng{namehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{fullhash}{04119255f2ee5902c125636e6ced8685}
+      \strng{fullhashraw}{04119255f2ee5902c125636e6ced8685}
+      \strng{bibnamehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authorbibnamehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authornamehash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authorfullhash}{04119255f2ee5902c125636e6ced8685}
+      \strng{authorfullhashraw}{04119255f2ee5902c125636e6ced8685}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Power of Tantra: Religion, Sexuality and the Politics of South Aasian Studies}
+      \field{year}{2010}
+      \keyw{seclit}
+    \endentry
+    \entry{white1996}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=6931adfd9bf4e657cbdfc0f7ff3085a1}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima Gordon},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {The University of Chicago Press}%
+      }
+      \strng{namehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{fullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{fullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{bibnamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorbibnamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authornamehash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorfullhash}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \strng{authorfullhashraw}{6931adfd9bf4e657cbdfc0f7ff3085a1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Siddha Traditions in Medieval India}
+      \field{title}{The Alchemical Body}
+      \field{year}{1996}
+      \keyw{seclit}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

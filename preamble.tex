@@ -5,7 +5,8 @@
 % ===============================
 \setstocksize{240mm}{170mm} 	        
 \settrimmedsize{240mm}{170mm}{*}	
-\settypeblocksize{186mm}{125mm}{*}     % Typeblock bleibt gleich
+%\settypeblocksize{186mm}{125mm}{*}     % Typeblock bleibt gleich
+\settypeblocksize{195mm}{125mm}{*}     
 \setlrmargins{18mm}{*}{*}
 
 % ===============================
@@ -41,7 +42,14 @@
   \typeout{------------------------------------}
 }
 
-
+\newcommand{\halfdanda}{%
+  \nobreak
+  \kern0.03em%
+  \raisebox{-0.02ex}[0pt][0pt]{%
+    \makebox[0.12em][c]{\scalebox{1}[0.5]{।}}%
+  }%
+  \kern0.03em%
+}
 
 \usepackage{chngcntr}
 
@@ -93,7 +101,6 @@
 %\usepackage{amsmath}
 \usepackage{url}
 \urlstyle{same}
-
 \usepackage{microtype}
 \usepackage{lineno}
 \usepackage{array}
