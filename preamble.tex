@@ -209,6 +209,40 @@ style=verbose,
 \field{title}
 }}
 
+% Sanskrit sorting for Primary Sources
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map[overwrite]{
+      \step[
+        fieldsource=keywords,
+        match=\regexp{\Aprimary\Z}
+      ]
+      \step[
+        fieldset=langid,
+        fieldvalue={sanskrit}
+      ]
+    }
+  }
+}
+
+\DeclareSortTranslit{
+  \translit[sanskrit]{title}{iast}{devanagari}
+}
+
+\DeclareSortingTemplate[locale=sa]{sanskrit}{
+  \sort{
+    \field{presort}
+  }
+  \sort[final]{
+    \field{sortkey}
+  }
+  \sort{
+    \field{sorttitle}
+    \field{title}
+  }
+}
+%%%%%%%%%%%%%%%%%%%%%%
+
 
 \DeclareFieldFormat{url}{%
   \mkbibacro{URL}\addcolon\space
@@ -721,3 +755,9 @@ surname=Liersch]
 \newcommand{\hardbreak}{\penalty -10000\pagebreak[4]\newpage}
 \usepackage{pdflscape} % in der Präambel
 \usepackage{censor}
+
+
+
+%%%% INDEXIERUNG
+\usepackage{makeidx}
+\makeindex

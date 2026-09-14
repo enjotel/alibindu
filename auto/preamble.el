@@ -55,7 +55,8 @@
     "ekdosis"
     "hyperref"
     "cleveref"
-    "censor")
+    "censor"
+    "makeidx")
    (TeX-add-symbols
     '("myfn" 1)
     '("lowroman" 1)

@@ -19,124 +19,24 @@
 
 \refsection{0}
   \datalist[entry]{tixel/global//global/global/global}
-    \entry{sarvangayoga}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=bad728c888298d636658fff59c460a8a}{%
-           family={Misra},
-           familyi={M\bibinitperiod},
-           given={R.\bibnamedelimi C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Kitabghar}%
-      }
-      \strng{namehash}{bad728c888298d636658fff59c460a8a}
-      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
-      \strng{fullhashraw}{bad728c888298d636658fff59c460a8a}
-      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorfullhashraw}{bad728c888298d636658fff59c460a8a}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{editor}
+    \entry{amanaskaed}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{note}{Delhi}
-      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
-      \field{title}{Sarvāṅgayogapradīpikā}
-      \field{year}{1992}
-      \keyw{primary}
-    \endentry
-    \entry{yogacandrika}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=df58e386f60b9cf3f9ed1f238ac5d26e}{%
-           family={Vimala},
-           familyi={V\bibinitperiod},
-           given={Karnatak},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chowkhamba Sanskrit Series Office}%
-      }
-      \strng{namehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{fullhash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{fullhashraw}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{bibnamehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editorbibnamehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editornamehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editorfullhash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editorfullhashraw}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Chowkhambā Sanskrit Series, No. 108}
-      \field{note}{Varanasi}
-      \field{subtitle}{Yogasiddhāntacandrikā of Nārāyaṇatīrtha (A Craitical Edition)}
-      \field{title}{Yogasiddhāntacandrikā}
-      \field{year}{2000}
+      \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013)}
+      \field{subtitle}{Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
+      \field{title}{Amanaska}
       \keyw{primary}
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{sarvangayoga}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=bad728c888298d636658fff59c460a8a}{%
-           family={Misra},
-           familyi={M\bibinitperiod},
-           given={R.\bibnamedelimi C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Kitabghar}%
-      }
-      \strng{namehash}{bad728c888298d636658fff59c460a8a}
-      \strng{fullhash}{bad728c888298d636658fff59c460a8a}
-      \strng{fullhashraw}{bad728c888298d636658fff59c460a8a}
-      \strng{bibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorbibnamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editornamehash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorfullhash}{bad728c888298d636658fff59c460a8a}
-      \strng{editorfullhashraw}{bad728c888298d636658fff59c460a8a}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labelnamesource}{editor}
+    \entry{amanaskaed}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labeltitlesource}{title}
-      \field{note}{Delhi}
-      \field{subtitle}{Sarvāṅgayogapradīpikā in the Sundargranthāvalī}
-      \field{title}{Sarvāṅgayogapradīpikā}
-      \field{year}{1992}
-      \keyw{primary}
-    \endentry
-    \entry{yogacandrika}{misc}{}{}
-      \name{editor}{1}{}{%
-        {{hash=df58e386f60b9cf3f9ed1f238ac5d26e}{%
-           family={Vimala},
-           familyi={V\bibinitperiod},
-           given={Karnatak},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chowkhamba Sanskrit Series Office}%
-      }
-      \strng{namehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{fullhash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{fullhashraw}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{bibnamehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editorbibnamehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editornamehash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editorfullhash}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \strng{editorfullhashraw}{df58e386f60b9cf3f9ed1f238ac5d26e}
-      \field{sortinit}{V}
-      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{Chowkhambā Sanskrit Series, No. 108}
-      \field{note}{Varanasi}
-      \field{subtitle}{Yogasiddhāntacandrikā of Nārāyaṇatīrtha (A Craitical Edition)}
-      \field{title}{Yogasiddhāntacandrikā}
-      \field{year}{2000}
+      \field{howpublished}{See Ph.D. Dissertation by Jason Birch (2013)}
+      \field{subtitle}{Amanaska: King of All Yogas. A Critical Edition and Annotated Translation with a Monographic Introduction}
+      \field{title}{Amanaska}
       \keyw{primary}
     \endentry
   \enddatalist
