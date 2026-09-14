@@ -14,7 +14,6 @@
     "titles")
    (LaTeX-add-labels
     "fig_folio1"
-    "fig:colosynop"
     "fig_wolpertinger"
     "fig1"
     "fig2"

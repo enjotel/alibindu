@@ -156,23 +156,8 @@
 \chapter{Introduction}
 \cleardoublepage
 
-\begin{landscape}
-\thispagestyle{empty}
 
-\vspace*{\fill}
-\begin{center}
-  \includegraphics[
-    width=0.8\paperheight,
-    height=1.2\paperwidth,
-    keepaspectratio
-  ]{pics/colosynop.png}
-\end{center}
-\vspace*{\fill}
 
-\captionof{figure}{Synoptic transcription of the manuscripts' final rubrics.}
-\label{fig:colosynop}
-
-\end{landscape}
 
 \chapter[Critical Edition \& Annotated Translation of the \emph{Tattvayogabindu}]{The \emph{Tattvayogabindu} of Rāmacandra \\ \huge  
   Critical Edition \& Annotated Translation}
@@ -217,24 +202,35 @@
       \newpage
       \cleardoublepage
 \chapter{Bibliography}
- \label{sec:bibli}
-\clearpage
-\newpage 
-\thispagestyle{empty}
-\quad  \addtocounter{page}{-1}
+ \phantomsection\label{sec:bibli}
+\cleardoublepage
+%\thispagestyle{empty}
+%\quad  \addtocounter{page}{-1}
 
-\newrefcontext[sorting=tixel]
-\printbibliography[heading=subbibintoc, title=Primary Sources, keyword=primary]
+%\newrefcontext[sorting=tixel]
+%\printbibliography[heading=subbibintoc, title=Primary Sources, keyword=primary]
+
+\newrefcontext[sorting=sanskrit]
+\printbibliography[
+  heading=subbibintoc,
+  title={Primary Sources},
+  keyword=primary
+]
 
 \newrefcontext[sorting=nyt]
 \printbibliography[heading=subbibintoc, title=Secondary Literature, keyword=seclit]
 
+\newrefcontext[sorting=nyt]
 \printbibliography[heading=subbibintoc, title=Catalogues, keyword=catalogues]
 
 \printbibliography[heading=subbibintoc, title=Online Sources, keyword=onlinesource]
 
-\end{document}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Index}
+\printindex
 
+\end{document}
 
 %%% Local Variables:
 %%% mode: latex
