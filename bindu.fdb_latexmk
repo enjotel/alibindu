@@ -1,18 +1,23 @@
 # Fdb version 4
-["biber bindu"] 1789680613.42738 "bindu.bcf" "bindu.bbl" "bindu" 1789680678.43162 0
-  "bindu.bcf" 1789680676.46345 111711 62ea1389eeb7d62cd6ed937113258302 "lualatex"
-  "intro.bib" 1789377670.9112 145636 471aed98eaafb71effcf2ce78264c29f ""
+["biber bindu"] 1790887549.06742 "bindu.bcf" "bindu.bbl" "bindu" 1790889887.79208 0
+  "bindu.bcf" 1790889851.67518 145991 50d9862e8bc07e9c85e7a7578b4e9c3a "lualatex"
+  "intro.bib" 1790035291.097 145636 b43b5b285aed3b3ce13d2d933916b4a7 ""
   (generated)
   "bindu.bbl"
   "bindu.blg"
   (rewritten before read)
-["lualatex"] 1789680616.56139 "bindu.tex" "bindu.pdf" "bindu" 1789680678.43199 0
+["lualatex"] 1790887553.85852 "bindu.tex" "bindu.pdf" "bindu" 1790889887.79278 0
+  "/home/enjotel/.local/share/fonts/AdobeTextPro-Regular.ttf" 1644030036 525916 c3eef50306eb377ab130c1c8ad6ae851 ""
   "/home/enjotel/.local/share/fonts/Sanskrit-2003.ttf" 1712968222.03883 712068 830f60ca1dd0ea0408bbcf16f200328b ""
   "/home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf" 1694730438 426284 c70b000259462df375d1922ef72d1044 ""
   "/home/enjotel/.local/share/fonts/Vollkorn-SemiBold.ttf" 1694730438 346796 394c9c91ede1007a78af4ccc80074136 ""
   "/home/enjotel/.local/share/fonts/Vollkorn-SemiBoldItalic.ttf" 1694730438 267236 c8f756f4fd53e1bca83c0ee56486c0e2 ""
   "/home/enjotel/.local/share/fonts/Vollkorn-VariableFont_wght.ttf" 1694730438 559084 726cd4ef386963403b5f846969961962 ""
   "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/hb/5f812138737482a149eaed49c3441ed2687825c64ff163fe1f72590166e758d2.luc" 1712968912.7252 115079 300acbbcd8ee540d0647c42d34e1a45d ""
+  "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/adobetextpro-bold.luc" 1714459641.18335 1129329 d5c984704d5bdfb58c8f13defef36e91 ""
+  "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/adobetextpro-boldit.luc" 1714459638.06339 614634 e6aac70c5a9cf5cd68acfae128e09ef6 ""
+  "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/adobetextpro-it.luc" 1714459642.53533 608337 ad0346e7c526d21cc698bdc1baa5c315 ""
+  "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/adobetextpro-regular.luc" 1714459636.68741 1133041 ffe2f96d0fcddd3cb6118ef307fe9d55 ""
   "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/fourierorns-regular.luc" 1712968769.58173 6032 308d43f6ca63ca496cb3bd3f24b988bd ""
   "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-italic.luc" 1712968913.62115 82963 eefc584baf261ccf472dc4b31d9713e2 ""
   "/home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc" 1712968771.33363 81837 ac5b1b311ade3065c5dda4c0bbd0f8cb ""
@@ -60,7 +65,6 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
-  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb" 1248133631 36094 798f80770b3b148ceedd006d487db67c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1248133631 32442 c975af247b6702f7ca0c299af3616b80 ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -347,16 +351,16 @@
   "/usr/local/texlive/2024/texmf-var/tex/generic/config/language.dat" 1712966050.64042 6831 059e94938839f82d28be2ff9eab7382c ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1712966271 12255843 f34d995606fa4be6a76c34fd804aece2 ""
   "babel-iast/babel-iast.sty" 1738232254.05 4275 3b95b7a96fa3aae76702676b1775a302 ""
-  "bindu.aux" 1789680665.69614 56116 af67008cef4b18f8cfac55fb0bb50869 "lualatex"
-  "bindu.bbl" 1789680616.4953 31371 49ecddbfe7fe39f7273202e40ad5175a "biber bindu"
-  "bindu.ekd" 1789680664.6522 27178 2798c9ed6cc0bdc5d6247c82c65aa567 ""
-  "bindu.ind" 1789680482.20398 1456 bd61bacfa1b85589196726e3ff8461f4 "makeindex bindu.idx"
-  "bindu.lof" 1789680676.46745 43186 c5a485c8552956dd993efe52783a4876 "lualatex"
-  "bindu.lot" 1789680676.46745 42396 77fc3ae5adf7968c12261d7ce0ddb267 "lualatex"
-  "bindu.out" 1789680676.45545 2090 51023a227e1cb2af5128d4dbfa5bdbbd "lualatex"
-  "bindu.run.xml" 1789680676.46345 2377 859fcad36d12a7a22f26dc7e860cf8c2 "lualatex"
-  "bindu.tex" 1789680295.28421 64834 0a1c8cd8b961cd1faeb5db9944042a43 ""
-  "bindu.toc" 1789680676.46745 43404 c22862e24c9a7c4ba69cf4f473a00908 "lualatex"
+  "bindu.aux" 1790889421.79758 1919713 a0dc5bf85ef02ab5446fc794e13a8ccd "lualatex"
+  "bindu.bbl" 1790887553.77054 423677 3bc038b0e14d6f149081b3ff4f9ede2f "biber bindu"
+  "bindu.ekd" 1790889417.98165 1077421 6b3113245ac9f1f1fc47198a64d87ed8 ""
+  "bindu.ind" 1790885606.51105 24265 702b7199c8d65abe038ca46ec5b5538f "makeindex bindu.idx"
+  "bindu.lof" 1790889851.67518 1653334 0872f6c39cd10d07afc2ed2458f209d3 "lualatex"
+  "bindu.lot" 1790889851.67518 1652538 48a20e5b1b5f9647707990ce840f2eb3 "lualatex"
+  "bindu.out" 1790889851.66319 13264 c665f9934e2aaeca05dd5a33c26b12c4 "lualatex"
+  "bindu.run.xml" 1790889851.67518 2377 859fcad36d12a7a22f26dc7e860cf8c2 "lualatex"
+  "bindu.tex" 1790883316.46885 1710679 f77df0aed94b444e5eed645dfd0521fb ""
+  "bindu.toc" 1790889851.67518 1660876 0058115239259fc7278925a6a08c2282 "lualatex"
   "ekdosis.lua" 1738232258.51 76315 625bb1eae56a77d8bbdee4132e2310ac ""
   "ekdosis.sty" 1738232254.03 67470 5e5e82bf599c76425d72feb07a3b1de8 ""
   "pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_Trust..jpg" 1738232258.39 371875 c79b911daffd3fc8f57b0626c801db2a ""
@@ -364,7 +368,7 @@
   "pics/Wolpertinger.png" 1744637439.01644 648058 375c12de2fba0ff0ecc2249bfaabbb5a ""
   "pics/folio1.jpg" 1738232258.46 391252 3c87c19665b649c69a722c44bee25307 ""
   "pics/purna.jpg" 1738232258.4 80663 32a6881c4991ab118d1362b4b53934f4 ""
-  "preamble.tex" 1789375511.56493 24743 5f1f831931a27ee0be5cd0be275406af ""
+  "preamble.tex" 1789738230.95168 24732 c696f1669ebdb552086fb3e7dc91612b ""
   "titles.tex" 1738232254.04 127 eb3c87e08ec4ce674d9d2bfdf5c63470 ""
   (generated)
   "bindu.aux"
@@ -378,8 +382,8 @@
   "bindu.run.xml"
   "bindu.toc"
   (rewritten before read)
-["makeindex bindu.idx"] 1789680482.05549 "bindu.idx" "bindu.ind" "bindu" 1789680678.43139 0
-  "bindu.idx" 1789680676.46745 2456 a686ff8bf186277b7bedf1a426001821 "lualatex"
+["makeindex bindu.idx"] 1790885606.33081 "bindu.idx" "bindu.ind" "bindu" 1790889887.79141 0
+  "bindu.idx" 1790889851.67518 44016 1db18406010d415d876caafb3a9c612d "lualatex"
   (generated)
   "bindu.ilg"
   "bindu.ind"
