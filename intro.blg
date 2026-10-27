@@ -1,0 +1,20 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'intro.blg'
+[129] biber:340> INFO - === Mi Okt  7, 2026, 14:02:24
+[164] Biber.pm:420> INFO - Reading 'intro.bcf'
+[944] Biber.pm:994> INFO - Found 314 citekeys in bib section 0
+[978] Biber.pm:4463> INFO - Processing section 0
+[994] Biber.pm:4654> INFO - Looking for bibtex file 'intro.bib' for section 0
+[1012] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1666] bibtex.pm:1519> INFO - Found BibTeX data source 'intro.bib'
+[4776] UCollate.pm:68> INFO - Overriding locale 'sa' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4776] UCollate.pm:68> INFO - Overriding locale 'sa' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4776] Biber.pm:4283> INFO - Sorting list 'sanskrit/global//global/global/global' of type 'entry' with template 'sanskrit' and locale 'sa'
+[5647] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[5647] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[5648] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[5648] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[6170] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
+[6563] bbl.pm:779> INFO - Output to intro.bbl
+[6563] Biber.pm:131> WARN - I didn't find a database entry for '\citeauthor {yogasutra}' (section 0)
+[6564] Biber.pm:133> INFO - WARNINGS: 1
