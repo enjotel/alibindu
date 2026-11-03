@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber bindu"] 1793100213.54265 "bindu.bcf" "bindu.bbl" "bindu" 1793100301.90109 0
-  "bindu.bcf" 1793100299.20065 110826 8e5e8f9b338f2e7f27eaf5365a15b285 "lualatex"
+["biber bindu"] 1793698983.62806 "bindu.bcf" "bindu.bbl" "bindu" 1793700436.66825 0
+  "bindu.bcf" 1793700433.90765 111430 d96c21ea2ff5bf13e69536be23f2bc6e "lualatex"
   "intro.bib" 1791020041.95726 145974 7760db7c4eb89d0b7245415e006db9cd ""
   (generated)
   "bindu.bbl"
   "bindu.blg"
   (rewritten before read)
-["lualatex"] 1793100277.46159 "bindu.tex" "bindu.pdf" "bindu" 1793100301.90139 0
+["lualatex"] 1793700425.79586 "bindu.tex" "bindu.pdf" "bindu" 1793700436.66855 0
   "/home/enjotel/.local/share/fonts/Vollkorn-Italic-VariableFont_wght.ttf" 1694730438 426284 c70b000259462df375d1922ef72d1044 ""
   "/home/enjotel/.local/share/fonts/Vollkorn-SemiBold.ttf" 1694730438 346796 394c9c91ede1007a78af4ccc80074136 ""
   "/home/enjotel/.local/share/fonts/Vollkorn-SemiBoldItalic.ttf" 1694730438 267236 c8f756f4fd53e1bca83c0ee56486c0e2 ""
@@ -58,6 +58,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel-transforms.lua" 1704662920 16484 3943edaf2be56dea21575b699a768783 ""
@@ -340,16 +341,16 @@
   "/usr/local/texlive/2024/texmf-var/tex/generic/config/language.dat" 1712966050.64042 6831 059e94938839f82d28be2ff9eab7382c ""
   "/usr/local/texlive/2024/texmf-var/web2c/luahbtex/lualatex.fmt" 1712966271 12255843 f34d995606fa4be6a76c34fd804aece2 ""
   "babel-iast/babel-iast.sty" 1738232254.05 4275 3b95b7a96fa3aae76702676b1775a302 ""
-  "bindu.aux" 1793100295.89285 30125 fddcc1a565b9d5b57db4fe31a2eb0ffa "lualatex"
-  "bindu.bbl" 1793100225.75711 21177 7e899724eda75de6757c3168a01f695c "biber bindu"
-  "bindu.ekd" 1793100295.26088 8651 694e0b56f9fe3659ca8d56300797f3ff ""
-  "bindu.ind" 1793100253.03945 2634 66a3bf9c7549ffc3b2c04003d6aa67f8 "makeindex bindu.idx"
-  "bindu.lof" 1793100299.20065 15544 7435718acb3ee69625f5c0782dae2af3 "lualatex"
-  "bindu.lot" 1793100299.20065 14847 5d5f044d9df4962bf6b39edd150919e6 "lualatex"
-  "bindu.out" 1793100299.19265 3232 1736d24bf4861859ceed534aedcbc9aa "lualatex"
-  "bindu.run.xml" 1793100299.20065 2377 dc551911790ae0ae80f4378015c62143 "lualatex"
-  "bindu.tex" 1793100197.15085 71488 88f616fe28063354ca8f687908d0ea71 ""
-  "bindu.toc" 1793100299.20065 16424 65a3f06cdae59acabd648660cedca1ce "lualatex"
+  "bindu.aux" 1793700433.45966 18963 8c8216d81eddd199294f648ca7e13e80 "lualatex"
+  "bindu.bbl" 1793698996.12483 31987 b4316011f88fa85e7a2d6d378d558235 "biber bindu"
+  "bindu.ekd" 1793700432.10368 232 0bb51e6f0c52e3c28ad5048597ecd6b6 ""
+  "bindu.ind" 1793699007.13265 4945 6dabec3fb45ab8b0c9e0cd01807c1410 "makeindex bindu.idx"
+  "bindu.lof" 1793700433.91165 2764 b1a315e679b3a83fd4af35629e43fdb0 "lualatex"
+  "bindu.lot" 1793700433.91165 2100 24ada06f03dde7402566544c25325692 "lualatex"
+  "bindu.out" 1793700433.89965 2774 89af8d972117b836eb450e08b15a9504 "lualatex"
+  "bindu.run.xml" 1793700433.91165 2377 dc551911790ae0ae80f4378015c62143 "lualatex"
+  "bindu.tex" 1793700423.19184 62656 2939faec42846bf9a25e00f889186b23 ""
+  "bindu.toc" 1793700433.91165 3317 8834ca3581d858f8f5140cce8b45df72 "lualatex"
   "ekdosis.lua" 1738232258.51 76315 625bb1eae56a77d8bbdee4132e2310ac ""
   "ekdosis.sty" 1738232254.03 67470 5e5e82bf599c76425d72feb07a3b1de8 ""
   "pics/The_Equivalence_of_Self_and_Universe_(detail),_folio_6_from_the_Siddha_Siddhanta_Paddhati,_(Bulaki),_1824_(Samvat_1881);_122_x_46_cm._Mehrangarh_Museum_Trust..jpg" 1738232258.39 371875 c79b911daffd3fc8f57b0626c801db2a ""
@@ -371,8 +372,8 @@
   "bindu.run.xml"
   "bindu.toc"
   (rewritten before read)
-["makeindex bindu.idx"] 1793100252.86851 "bindu.idx" "bindu.ind" "bindu" 1793100301.90082 0
-  "bindu.idx" 1793100299.20065 3204 75e10570f71af3916d3ef9b34cfb6f78 "lualatex"
+["makeindex bindu.idx"] 1793699006.96144 "bindu.idx" "bindu.ind" "bindu" 1793700436.66804 0
+  "bindu.idx" 1793700433.91165 7200 235df11a175fca895a884f2153cd9619 "lualatex"
   (generated)
   "bindu.ilg"
   "bindu.ind"
