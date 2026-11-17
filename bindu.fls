@@ -365,11 +365,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy5.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
-INPUT bindu.ekd
-INPUT bindu.ekd
-INPUT bindu_tmp.ekd
-INPUT bindu_tmp.ekd
-INPUT bindu-tei_tmp.xml
 INPUT ./pics/Wolpertinger.png
 INPUT ./pics/Wolpertinger.png
 INPUT ./pics/Vishnu_Vishvarupa_cropped.jpg
@@ -391,4 +386,4 @@ INPUT /home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/streams/vo
 INPUT /home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/streams/vollkornsemibolditalicttf-1.luc
 INPUT /home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/streams/vollkornsemiboldttf-1.luc
 INPUT /home/enjotel/.texlive2024/texmf-var/luatex-cache/generic/fonts/streams/vollkornvariablefontwghtttf-1.luc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
