@@ -1,18 +1,25 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'intro.blg'
-[112] biber:340> INFO - === Di Nov 17, 2026, 01:12:48
-[138] Biber.pm:420> INFO - Reading 'intro.bcf'
-[803] Biber.pm:994> INFO - Found 313 citekeys in bib section 0
-[834] Biber.pm:4463> INFO - Processing section 0
-[848] Biber.pm:4654> INFO - Looking for bibtex file 'intro.bib' for section 0
-[866] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1429] bibtex.pm:1519> INFO - Found BibTeX data source 'intro.bib'
-[3835] UCollate.pm:68> INFO - Overriding locale 'sa' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3835] UCollate.pm:68> INFO - Overriding locale 'sa' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3836] Biber.pm:4283> INFO - Sorting list 'sanskrit/global//global/global/global' of type 'entry' with template 'sanskrit' and locale 'sa'
-[4654] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[4655] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[4655] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[4655] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[5089] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
-[5379] bbl.pm:779> INFO - Output to intro.bbl
+[118] biber:340> INFO - === Mo Nov 23, 2026, 21:48:05
+[143] Biber.pm:420> INFO - Reading 'intro.bcf'
+[853] Biber.pm:994> INFO - Found 322 citekeys in bib section 0
+[885] Biber.pm:4463> INFO - Processing section 0
+[899] Biber.pm:4654> INFO - Looking for bibtex file 'intro.bib' for section 0
+[918] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1514] bibtex.pm:1519> INFO - Found BibTeX data source 'intro.bib'
+[4014] UCollate.pm:68> INFO - Overriding locale 'sa' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4014] UCollate.pm:68> INFO - Overriding locale 'sa' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4014] Biber.pm:4283> INFO - Sorting list 'sanskrit/global//global/global/global' of type 'entry' with template 'sanskrit' and locale 'sa'
+[4847] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4847] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4848] Biber.pm:4283> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[4848] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[5282] bbl.pm:676> INFO - Writing 'intro.bbl' with encoding 'UTF-8'
+[5576] bbl.pm:779> INFO - Output to intro.bbl
+[5576] Biber.pm:131> WARN - legacy year field '2024b' in entry 'birch2024' is not an integer - this will probably not sort properly.
+[5577] Biber.pm:131> WARN - legacy year field '2018a' in entry 'birch2018proliferation' is not an integer - this will probably not sort properly.
+[5577] Biber.pm:131> WARN - legacy year field '2018b' in entry 'birch2018ayur' is not an integer - this will probably not sort properly.
+[5577] Biber.pm:131> WARN - legacy year field '2024a' in entry 'amaraugha2024' is not an integer - this will probably not sort properly.
+[5577] Biber.pm:131> WARN - legacy year field '2019a' in entry 'birch2019' is not an integer - this will probably not sort properly.
+[5577] Biber.pm:131> WARN - legacy year field '2019b' in entry 'birch2019saiva' is not an integer - this will probably not sort properly.
+[5577] Biber.pm:133> INFO - WARNINGS: 6
